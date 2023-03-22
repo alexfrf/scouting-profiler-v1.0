@@ -1,0 +1,602 @@
+Players;Values;POS;Team;ID;Num
+Mirko Ivanic;8,0;Midfield;Roter Stern Belgrad;233129;4
+Aleksandar Katai;5,0;Left Winger;Roter Stern Belgrad;139915;10
+Aleksandar Dragovic;5,0;Centre-Back;Roter Stern Belgrad;59032;15
+Strahinja Erakovic;5,0;Centre-Back;Roter Stern Belgrad;574660;25
+Ricardo Gomes;4,0;Centre-Forward;Fk Partizan Belgrad;258835;11
+Sasa Zdjelar;3,5;Defensive Midfield;Fk Partizan Belgrad;171072;16
+Marko Lazetic;3,0;Centre-Forward;Roter Stern Belgrad;698548;-
+Igor Vujacic;3,0;Centre-Back;Fk Partizan Belgrad;227538;5
+Nemanja Jovic;3,0;Left Winger;Fk Partizan Belgrad;614424;77
+Milan Gajic;3,0;Right-Back;Roter Stern Belgrad;245030;2
+Sinisa Sanicanin;2,5;Centre-Back;Fk Partizan Belgrad;258290;4
+Djordje Jovanovic;2,5;Centre-Forward;Fk Cukaricki;376460;-
+Milos Degenek;2,5;Centre-Back;Roter Stern Belgrad;187353;-
+Njegos Petrovic;2,5;Defensive Midfield;Roter Stern Belgrad;376588;-
+Guelor Kanga;2,5;Midfield;Roter Stern Belgrad;231306;8
+Milan Rodic;2,5;Left-Back;Roter Stern Belgrad;68978;23
+Queensy Menig;2,3;Left Winger;Fk Partizan Belgrad;225339;9
+Slobodan Urosevic;2,2;Left-Back;Fk Partizan Belgrad;258139;72
+Srdjan Babic;2,0;Centre-Back;Roter Stern Belgrad;222805;-
+Milan Pavkov;2,0;Centre-Forward;Roter Stern Belgrad;386224;9
+Ohi Omoijuanfo;2,0;Centre-Forward;Roter Stern Belgrad;169368;99
+Lazar Markovic;1,8;Right Winger;Fk Partizan Belgrad;144303;50
+Nikola Terzic;1,8;Right Winger;Fk Partizan Belgrad;466121;36
+Marko Jevtovic;1,8;Defensive Midfield;Fk Partizan Belgrad;256000;21
+Stefan Sapic;1,6;Centre-Back;Fk Cukaricki;429243;65
+Nenad Lukic;1,5;Centre-Forward;Fk Tsc Backa Topola;94322;-
+Milan Borjan;1,5;Goalkeeper;Roter Stern Belgrad;67797;82
+Mirko Topic;1,5;Defensive Midfield;Fk Vojvodina Novi Sad;615302;8
+Marko Rakonjac;1,5;Centre-Forward;Fk Cukaricki;457184;7
+Mihajlo Banjac;1,5;Central Midfield;Fk Tsc Backa Topola;585082;14
+Nemanja Miletic;1,5;Centre-Back;Fk Partizan Belgrad;153657;73
+El Fardou Ben;1,5;Striker;Roter Stern Belgrad;69838;31
+Milos Jojic;1,5;Central Midfield;Fk Partizan Belgrad;160285;39
+Veljko Nikolic;1,5;Midfield;Roter Stern Belgrad;404257;22
+Zeljko Gavric;1,5;Left Winger;Roter Stern Belgrad;470795;-
+Seydouba Soumah;1,5;Midfield;Fk Partizan Belgrad;118972;-
+Aleksandar Popovic;1,3;Goalkeeper;Fk Partizan Belgrad;376449;41
+Bibras Natcho;1,3;Midfield;Fk Partizan Belgrad;56976;6
+Radovan Pankov;1,3;Centre-Back;Roter Stern Belgrad;322798;6
+Marko Docic;1,3;Defensive Midfield;Fk Cukaricki;283905;5
+Nemanja Motika;1,2;Left Winger;Roter Stern Belgrad;604323;17
+Dejan Zukic;1,2;Midfield;Fk Vojvodina Novi Sad;528022;10
+Veljko Simic;1,2;Left Winger;Fk Vojvodina Novi Sad;190268;21
+Lazar Tufegdzic;1,2;Midfield;Fk Spartak Subotica;257466;29
+Marko Milovanovic;1,2;Centre-Forward;Fk Partizan Belgrad;845568;33
+Stefan Kovac;1,2;Central Midfield;Fk Cukaricki;376127;77
+Djordje Petrovic;1,2;Goalkeeper;Fk Cukaricki;465555;-
+Nemanja Nikolic;1,2;Centre-Forward;Fk Spartak Subotica;260543;9
+Cristiano Piccini;1,2;Centre-Back;Roter Stern Belgrad;163086;24
+Miljan Vukadinovic;1,0;Left Winger;Fk Vojvodina Novi Sad;268411;90
+Petar Stanic;1,0;Midfield;Roter Stern Belgrad;766306;21
+Sekou Sanogo;1,0;Defensive Midfield;Roter Stern Belgrad;173656;35
+Srdjan Mijailovic;1,0;Defensive Midfield;Fk Cukaricki;143558;22
+Ljubomir Fejsa;1,0;Defensive Midfield;Fk Partizan Belgrad;46110;15
+Nemanja Stevanovic;1,0;Goalkeeper;Fk Partizan Belgrad;181443;85
+Slavoljub Srnic;1,0;Central Midfield;Roter Stern Belgrad;169212;55
+Filippo Falco;1,0;Right Winger;Roter Stern Belgrad;70689;11
+Stefan Mitrovic;0,8;Left Winger;Fk Radnicki Nis;726526;16
+Danilo Pantic;0,8;Midfield;Fk Partizan Belgrad;222830;55
+Andrija Radulovic;0,8;Right Winger;Roter Stern Belgrad;614194;49
+Filip Holender;0,8;Left Winger;Fk Partizan Belgrad;257528;8
+Ibrahima Ndiaye;0,8;Right Winger;Fk Cukaricki;176570;72
+Djordje Gordic;0,8;Central Midfield;Fk Mladost Lucani;858324;30
+Miladin Stevanovic;0,8;Right-Back;Fk Cukaricki;222838;6
+Bojan Roganovic;0,8;Left-Back;Fk Cukaricki;502020;86
+Nenad Krsticic;0,8;Central Midfield;Roter Stern Belgrad;56790;7
+Lois Diony;0,8;Centre-Forward;Roter Stern Belgrad;126552;39
+Aleksandar Lutovac;0,7;Right Winger;Fk Partizan Belgrad;257473;97
+Milos Spasic;0,7;Left Winger;Fk Radnik Surdulica;455769;97
+Uros Milovanovic;0,7;Centre-Forward;Fk Radnik Surdulica;586877;9
+Milos Pantovic;0,7;Left Winger;Fk Vozdovac;615639;17
+Aleksandar Scekic;0,7;Defensive Midfield;Fk Partizan Belgrad;144334;-
+Nikola Vujnovic;0,7;Centre-Forward;Fk Vozdovac;293260;-
+Milan Savic;0,7;Right Winger;Fk Cukaricki;454886;27
+Novak Micovic;0,7;Goalkeeper;Fk Cukaricki;599329;35
+Strahinja Tanasijevic;0,7;Centre-Back;Fk Cukaricki;400001;19
+Mladen Devetak;0,7;Left-Back;Fk Vojvodina Novi Sad;376452;3
+Uros Djuranovic;0,7;Centre-Forward;Fk Kolubara Lazarevac;387052;28
+Djuro Zec;0,7;Left Winger;Fk Tsc Backa Topola;129420;-
+Nemanja Covic;0,65;Centre-Forward;Fk Vojvodina Novi Sad;128315;-
+Stefan Colovic;0,6;Right Winger;Fk Cukaricki;366004;23
+Bojan Kovacevic;0,6;Centre-Back;Fk Cukaricki;845563;4
+Stefan Vukic;0,6;Centre-Forward;Fk Tsc Backa Topola;690479;9
+Jovan Lukic;0,6;Central Midfield;Fk Cukaricki;699208;88
+Aleksa Jankovic;0,6;Left Winger;Fk Cukaricki;470798;70
+Nikola Sreckovic;0,6;Left Winger;Fk Spartak Subotica;391926;7
+Stefan Hajdin;0,6;Left-Back;Fk Vozdovac;525995;44
+Igor Jelicic;0,6;Centre-Back;Fk Vojvodina Novi Sad;585795;15
+Uros Kabic;0,6;Right Winger;Fk Vojvodina Novi Sad;710968;70
+Aleksandar Busnic;0,6;Defensive Midfield;Fk Vojvodina Novi Sad;399844;18
+Dusan Stevanovic;0,6;Centre-Back;Fk Vojvodina Novi Sad;286037;5
+Milos Milovic;0,6;Centre-Back;Fk Vozdovac;267093;5
+Martin Mircevski;0,6;Left Winger;Fk Tsc Backa Topola;302282;10
+Stefan Tomovic;0,6;Midfield;Fk Proleter Novi Sad;705970;7
+Nikola Krstovic;0,55;Centre-Forward;Roter Stern Belgrad;434433;-
+Dejan Kerkez;0,5;Centre-Back;Fk Napredak Krusevac;393846;5
+Stefan Randjelovic;0,5;Goalkeeper;Fk Radnik Surdulica;620070;22
+Arandjel Stojkovic;0,5;Right-Back;Fk Tsc Backa Topola;298671;5
+Jug Stanojev;0,5;Right Winger;Fk Tsc Backa Topola;477923;19
+Stefan Cvetkovic;0,5;Left Winger;Fk Metalac Gornji Milanovac;479226;7
+Uros Drezgic;0,5;Centre-Back;Fk Cukaricki;615642;26
+Aleksandar Cirkovic;0,5;Left Winger;Fk Vozdovac;452218;30
+Nemanja Tosic;0,5;Left-Back;Fk Cukaricki;440737;3
+Lazar Pavlovic;0,5;Midfield;Fk Partizan Belgrad;574657;10
+Samed Bazdar;0,5;Striker;Fk Partizan Belgrad;710969;14
+Nikola Petric;0,5;Goalkeeper;Fk Proleter Novi Sad;106244;91
+Ivan Milosavljevic;0,5;Central Midfield;Fk Vozdovac;572689;8
+Jovan Vlalukin;0,5;Right-Back;Fk Metalac Gornji Milanovac;376450;-
+Noboru Shimura;0,5;Defensive Midfield;Fk Spartak Subotica;386859;3
+Milan Marcic;0,5;Defensive Midfield;Fk Spartak Subotica;423178;-
+Petar Bojic;0,5;Midfield;Fk Kolubara Lazarevac;162985;24
+Marko Zivkovic;0,5;Right-Back;Fk Partizan Belgrad;196537;17
+Marko Ivezic;0,5;Defensive Midfield;Fk Vozdovac;706024;35
+Bojan Matic;0,5;Centre-Forward;Fk Vojvodina Novi Sad;439459;9
+Marko Gobeljic;0,5;Right-Back;Roter Stern Belgrad;196961;77
+Justas Lasickas;0,5;Right-Back;Fk Vozdovac;345311;14
+Nikola Vasiljevic;0,5;Goalkeeper;Fk Napredak Krusevac;262105;40
+Stefan Purtic;0,5;Defensive Midfield;Fk Vozdovac;475216;25
+Ibrahim Mustapha;0,45;Right Winger;Fk Novi Pazar;797867;40
+Aleksa Vukanovic;0,45;Left Winger;Roter Stern Belgrad;145702;-
+Aleksandar Vasiljevic;0,45;Centre-Back;Fk Metalac Gornji Milanovac;690488;-
+Sasa Jovanovic;0,45;Right Winger;Fk Mladost Lucani;129392;7
+Ognjen Mrsic;0,45;Centre-Back;Fk Napredak Krusevac;797627;15
+Mihajlo Ivancevic;0,45;Centre-Back;Fk Spartak Subotica;541371;-
+Nikola Simic;0,4;Goalkeeper;Fk Vojvodina Novi Sad;288483;1
+Stefan Jovanovic;0,4;Right-Back;Fk Napredak Krusevac;455761;2
+Ifet Djakovac;0,4;Central Midfield;Fk Tsc Backa Topola;645880;35
+Ryohei Michibuchi;0,4;Midfield;Fk Radnicki Nis;489367;8
+Sasa Tomanovic;0,4;Defensive Midfield;Fk Tsc Backa Topola;60500;6
+Leandro Pinto;0,4;Centre-Back;Fk Tsc Backa Topola;174869;13
+Josip Calusic;0,4;Centre-Back;Fk Tsc Backa Topola;170851;4
+Nikola Jankovic;0,4;Right-Back;Fk Kolubara Lazarevac;199443;2
+Milos Krunic;0,4;Goalkeeper;Fk Vozdovac;405868;31
+Nikola Aksentijevic;0,4;Right-Back;Fk Radnicki Nis;143556;93
+Emil Rockov;0,4;Goalkeeper;Fk Vojvodina Novi Sad;197520;42
+Vladimir Kovacevic;0,4;Centre-Back;Fk Vojvodina Novi Sad;94317;6
+Asmir Kajevic;0,4;Midfield;Fk Cukaricki;84712;-
+Milan Lazarevic;0,4;Right-Back;Fk Vojvodina Novi Sad;444056;50
+Ranko Jokic;0,4;Centre-Back;Fk Radnik Surdulica;376587;3
+Viktor Rogan;0,4;Right-Back;Fk Cukaricki;615600;2
+Miljan Skrbic;0,4;Centre-Forward;Fk Radnicki Nis;260468;9
+Marko Bjekovic;0,4;Right-Back;Fk Vojvodina Novi Sad;579429;2
+Borisav Burmaz;0,4;Centre-Forward;Fk Radnicki 1923 Kragujevac;574658;-
+Radomir Milosavljevic;0,4;Midfield;Fk Mladost Lucani;145339;10
+Aleksandar Andrejevic;0,4;Centre-Back;Fk Proleter Novi Sad;140052;31
+Prestige Mboungou;0,4;Striker;Fk Metalac Gornji Milanovac;615667;99
+Filip Dujmovic;0,4;Goalkeeper;Fk Radnicki Nis;425691;99
+Nikola Stevanovic;0,4;Centre-Back;Fk Radnicki Nis;425733;-
+Nikola Radmanovac;0,4;Centre-Back;Fk Radnik Surdulica;358646;5
+Marko Mijailovic;0,4;Centre-Back;Fk Vozdovac;257463;15
+Richairo Zivkovic;0,4;Forward;Roter Stern Belgrad;252755;30
+Vasilije Bakic;0,4;Centre-Back;Fk Kolubara Lazarevac;465568;66
+Regis Baha;0,4;Defensive Midfield;Fk Mladost Lucani;374537;17
+Nemanja Micevic;0,4;Centre-Back;Fk Mladost Lucani;599345;16
+Almir Aganspahic;0,4;Centre-Forward;Fk Novi Pazar;262047;-
+Vladan Vidakovic;0,4;Defensive Midfield;Fk Spartak Subotica;376453;14
+Ognjen Mitrovic;0,4;Left-Back;Fk Proleter Novi Sad;542993;13
+Filip Antonijevic;0,4;Left-Back;Fk Metalac Gornji Milanovac;572691;19
+Luka Bijelovic;0,4;Right Winger;Fk Spartak Subotica;574670;77
+Stefan Dimic;0,35;Right Winger;Fk Novi Pazar;227550;23
+Milos Gordic;0,35;Goalkeeper;Roter Stern Belgrad;470788;51
+Nemanja Krstic;0,35;Defensive Midfield;Fk Napredak Krusevac;153439;42
+Filip Stuparevic;0,35;Centre-Forward;Fk Metalac Gornji Milanovac;442337;18
+Andrija Radovanovic;0,35;Centre-Back;Fk Kolubara Lazarevac;729907;3
+Miso Dubljanic;0,35;Goalkeeper;Fk Spartak Subotica;542797;1
+Nikola Vlajkovic;0,35;Right-Back;Fk Novi Pazar;501645;2
+Nemanja Petrovic;0,35;Left-Back;Fk Tsc Backa Topola;161373;30
+Nemanja Stojic;0,35;Centre-Back;Fk Metalac Gornji Milanovac;585055;-
+Uros Stojanovic;0,35;Left-Back;Fk Radnik Surdulica;531890;24
+Djordje Basanovic;0,35;Centre-Back;Fk Proleter Novi Sad;343297;-
+Nedeljko Piscevic;0,35;Defensive Midfield;Fk Radnicki 1923 Kragujevac;296758;-
+Damjan Krajisnik;0,35;Central Midfield;Fk Metalac Gornji Milanovac;358913;8
+Aleksandar Varjacic;0,35;Right-Back;Fk Radnicki 1923 Kragujevac;142254;17
+Mihailo Bogicevic;0,35;Centre-Back;Fk Spartak Subotica;526869;4
+Goran Antonic;0,35;Centre-Back;Fk Tsc Backa Topola;156720;17
+David Dundjerski;0,35;Right-Back;Fk Proleter Novi Sad;525993;18
+Ivan Kostic;0,35;Goalkeeper;Fk Mladost Lucani;455758;-
+Bojan Mladjovic;0,35;Centre-Back;Fk Metalac Gornji Milanovac;526443;-
+Miloje Prekovic;0,325;Goalkeeper;Fk Vozdovac;155604;-
+Aleksandar Katanic;0,3;Centre-Forward;Fk Mladost Lucani;533504;-
+Mihailo Orescanin;0,3;Defensive Midfield;Fk Radnik Surdulica;596055;14
+Milos Filipovic;0,3;Left Winger;Fk Kolubara Lazarevac;157383;55
+Marko Petkovic;0,3;Right-Back;Fk Tsc Backa Topola;156722;-
+Jovan Stojanovic;0,3;Midfield;Fk Metalac Gornji Milanovac;175440;15
+Stefan Milosevic;0,3;Left-Back;Fk Spartak Subotica;221639;10
+Mladjan Stevanovic;0,3;Right Winger;Fk Napredak Krusevac;531873;24
+Slavko Damjanovic;0,3;Centre-Back;Fk Tsc Backa Topola;260557;-
+Milos Ostojic;0,3;Centre-Back;Fk Spartak Subotica;126201;24
+Nikola Ninkovic;0,3;Midfield;Fk Proleter Novi Sad;168944;22
+Marko Saric;0,3;Centre-Forward;Fk Metalac Gornji Milanovac;440828;-
+Zoran Danoski;0,3;Left Winger;Fk Proleter Novi Sad;99956;-
+Boris Kopitovic;0,3;Centre-Back;Fk Vojvodina Novi Sad;226945;12
+Stefan Loncar;0,3;Defensive Midfield;Fk Novi Pazar;352599;20
+Srdjan Kocic;0,3;Left Winger;Fk Napredak Krusevac;621549;10
+Mustafa Mujezinovic;0,3;Central Midfield;Fk Novi Pazar;215822;13
+Milos Cvetkovic;0,3;Right-Back;Fk Mladost Lucani;73124;29
+Milos Djokic;0,3;Right Winger;Fk Kolubara Lazarevac;336471;17
+Evandro;0,3;Left Winger;Fk Proleter Novi Sad;383637;-
+Dejan Stanivukovic;0,3;Goalkeeper;Fk Kolubara Lazarevac;236922;94
+Aleksandar Kovacevic;0,3;Defensive Midfield;Fk Radnicki Nis;94316;4
+Nikola Stankovic;0,3;Central Midfield;Roter Stern Belgrad;634972;38
+Nikola Bogdanovski;0,3;Right Winger;Fk Radnik Surdulica;497359;7
+Richard Odada;0,3;Defensive Midfield;Fk Metalac Gornji Milanovac;675238;13
+Bojan Cecaric;0,3;Centre-Forward;Fk Novi Pazar;239069;55
+Todor Todoroski;0,3;Right-Back;Fk Radnicki Nis;344960;-
+Mitar Cukovic;0,3;Left-Back;Fk Napredak Krusevac;377851;-
+Jovan Cadjenovic;0,3;Defensive Midfield;Fk Metalac Gornji Milanovac;267090;20
+Milan Spremo;0,3;Left-Back;Fk Napredak Krusevac;168962;23
+Slobodan Stanojlovic;0,3;Centre-Forward;Fk Tsc Backa Topola;584173;7
+Stefan Marjanovic;0,3;Centre-Back;Fk Kolubara Lazarevac;288531;21
+Marko Vukasovic;0,3;Defensive Midfield;Fk Proleter Novi Sad;182171;14
+Nemanja Tomasevic;0,3;Left-Back;Fk Tsc Backa Topola;376455;-
+Nikola Andric;0,3;Right-Back;Fk Radnicki 1923 Kragujevac;155126;-
+Nemanja Krsmanovic;0,3;Left-Back;Fk Tsc Backa Topola;794495;15
+Petar Ratkov;0,3;Centre-Forward;Fk Tsc Backa Topola;846254;36
+Veljko Trifunovic;0,3;Right Winger;Fk Radnicki 1923 Kragujevac;405550;48
+Nenad Kocovic;0,3;Left-Back;Fk Kolubara Lazarevac;332281;13
+Stefan Djordjevic;0,3;Left-Back;Fk Vojvodina Novi Sad;161304;11
+Lazar Kojic;0,3;Central Midfield;Fk Proleter Novi Sad;477922;77
+Luka Kukic;0,3;Goalkeeper;Fk Novi Pazar;248358;25
+Mitar Ergelas;0,3;Midfield;Fk Cukaricki;615640;14
+Filip Pavisic;0,3;Centre-Back;Fk Novi Pazar;443164;19
+Dusan Jokovic;0,3;Centre-Back;Fk Metalac Gornji Milanovac;541372;4
+Dejan Milicevic;0,3;Midfield;Fk Tsc Backa Topola;288160;8
+Lazar Milosev;0,3;Centre-Forward;Fk Napredak Krusevac;489148;-
+Aleksandar Miljkovic;0,3;Right-Back;Fk Partizan Belgrad;78726;26
+Nikola Kovacevic;0,3;Defensive Midfield;Fk Novi Pazar;260331;-
+Borko Duronjic;0,3;Left Winger;Fk Radnicki Nis;146396;-
+Mbouri Basile Yamkam;0,3;Centre-Back;Fk Radnicki Nis;846123;3
+Aleksandar Pejovic;0,3;Defensive Midfield;Fk Radnicki Nis;95285;15
+Marko Djurisic;0,3;Defensive Midfield;Fk Vozdovac;423950;28
+Ognjen Lukic;0,3;Goalkeeper;Fk Radnicki 1923 Kragujevac;706273;1
+Alen Melunovic;0,3;Centre-Forward;Fk Napredak Krusevac;58282;90
+Nebojsa Bastajic;0,3;Left Winger;Fk Vojvodina Novi Sad;237483;44
+Dragan Stoisavljevic;0,3;Centre-Forward;Fk Vozdovac;682168;23
+Petar Skuletic;0,3;Centre-Forward;Fk Tsc Backa Topola;58295;32
+Lazar Jovanovic;0,3;Right Winger;Fk Radnicki Nis;217675;73
+Marko Bacanin;0,3;Centre-Forward;Fk Napredak Krusevac;537234;99
+Stefan Filipovic;0,3;Centre-Back;Fk Radnicki 1923 Kragujevac;531891;-
+Momcilo Raso;0,3;Centre-Back;Fk Radnicki 1923 Kragujevac;352602;-
+Dilan Ortiz;0,3;Forward;Fk Proleter Novi Sad;633430;-
+Nemanja Subotic;0,3;Central Midfield;Fk Radnik Surdulica;341475;10
+Luka Cveticanin;0,3;Left Winger;Fk Vozdovac;607567;-
+Vlada Novevski;0,3;Midfield;Fk Vojvodina Novi Sad;542334;19
+Nikola Lekovic;0,25;Left-Back;Fk Mladost Lucani;74626;35
+Filip Backulja;0,25;Centre-Back;Fk Metalac Gornji Milanovac;698902;22
+Lazar Arsic;0,25;Midfield;Fk Radnicki Nis;157532;20
+Ognjen Bjelicic;0,25;Defensive Midfield;Fk Radnicki Nis;274326;6
+Jovan Marinkovic;0,25;Centre-Back;Fk Napredak Krusevac;386129;4
+Sasa Marjanovic;0,25;Defensive Midfield;Fk Napredak Krusevac;46695;33
+Petar Djurickovic;0,25;Midfield;Fk Napredak Krusevac;139729;7
+Nemanja Mladenovic;0,25;Left Winger;Fk Napredak Krusevac;199222;8
+Vasilije Djuric;0,25;Midfield;Fk Metalac Gornji Milanovac;586914;10
+Stefan Ficovic;0,25;Midfield;Fk Metalac Gornji Milanovac;525991;6
+Milan Joksimovic;0,25;Centre-Back;Fk Novi Pazar;104271;11
+Ljubisa Pecelj;0,25;Left-Back;Fk Kolubara Lazarevac;206735;-
+Bertalan Bocskay;0,25;Central Midfield;Fk Tsc Backa Topola;807022;37
+Slobodan Rubezic;0,25;Centre-Back;Fk Novi Pazar;617460;3
+Milan Jokic;0,25;Defensive Midfield;Fk Novi Pazar;221634;14
+Aleksandar Stanisavljevic;0,25;Midfield;Fk Vozdovac;60731;-
+Martin Novakovic;0,25;Central Midfield;Fk Vozdovac;574659;9
+Vahid Zimonjic;0,25;Left-Back;Fk Novi Pazar;577928;15
+Predrag Medic;0,25;Central Midfield;Fk Radnik Surdulica;509968;16
+Aleksa Djurasovic;0,25;Central Midfield;Fk Spartak Subotica;636601;6
+Vanja Ilic;0,25;Right Winger;Fk Radnicki Nis;599478;-
+Aleksandar Mesarovic;0,25;Midfield;Fk Radnicki Nis;423613;69
+Boris Varga;0,25;Centre-Back;Fk Tsc Backa Topola;171691;3
+Branislav Tomic;0,25;Right Winger;Fk Radnicki Nis;392188;23
+Viktor Lukic;0,25;Midfield;Fk Radnik Surdulica;542996;8
+Mihajlo Baic;0,25;Centre-Forward;Fk Cukaricki;615603;-
+Bogdan Stamenkovic;0,25;Centre-Forward;Fk Radnik Surdulica;498932;-
+Aleksandar Tanasin;0,25;Right-Back;Fk Proleter Novi Sad;198321;24
+Alen Masovic;0,25;Left Winger;Fk Vozdovac;270201;33
+Vuk Mitosevic;0,25;Defensive Midfield;Fk Radnik Surdulica;48166;19
+Dusan Hodzic;0,25;Right-Back;Fk Radnik Surdulica;280886;2
+Bertalan Kun;0,25;Midfield;Fk Proleter Novi Sad;342984;30
+Dusan Markovic;0,25;Goalkeeper;Fk Metalac Gornji Milanovac;399837;1
+Andrija Kaludjerovic;0,25;Centre-Forward;Fk Proleter Novi Sad;36829;99
+Sinisa Babic;0,25;Midfield;Fk Radnik Surdulica;139914;33
+Nikola Marjanovic;0,25;Centre-Back;Fk Proleter Novi Sad;581050;4
+Viktor Zivojinovic;0,25;Left Winger;Fk Proleter Novi Sad;585097;-
+Strahinja Savic;0,25;Goalkeeper;Fk Metalac Gornji Milanovac;686227;-
+Nikola Stulic;0,25;Centre-Forward;Fk Partizan Belgrad;595650;-
+Andreja Stojanovic;0,25;Left-Back;Fk Kolubara Lazarevac;653017;4
+Nemanja Milojevic;0,25;Midfield;Fk Vozdovac;440827;24
+Milos Milisavljevic;0,25;Central Midfield;Fk Kolubara Lazarevac;334818;-
+Bogdan Mladenovic;0,25;Midfield;Fk Kolubara Lazarevac;363295;22
+Vasilije Janjic;0,25;Left Winger;Fk Radnik Surdulica;190252;25
+Slobodan Rajkovic;0,25;Centre-Back;Fk Tsc Backa Topola;35934;-
+Norman Campbell;0,2;Right Winger;Fk Cukaricki;809880;11
+Filip Babic;0,2;Centre-Back;Fk Tsc Backa Topola;336469;-
+Petar Cirkovic;0,2;Left-Back;Fk Radnicki Nis;568359;27
+Andrija Milic;0,2;Central Midfield;Fk Spartak Subotica;556205;-
+Nikola Vujadinovic;0,2;Centre-Back;Fk Radnicki Nis;58474;13
+Zoran Popovic;0,2;Goalkeeper;Roter Stern Belgrad;85114;1
+Boubacari Doucoure;0,2;Midfield;Fk Tsc Backa Topola;507630;27
+Milorad Kojic;0,2;Goalkeeper;Fk Radnicki Nis;451017;-
+Nenad Filipovic;0,2;Goalkeeper;Fk Tsc Backa Topola;49782;1
+Veljko Mladenovic;0,2;Centre-Forward;Fk Proleter Novi Sad;649947;88
+Jovan Ilic;0,2;Central Midfield;Fk Proleter Novi Sad;697030;21
+Vukadin Vukadinovic;0,2;Right Winger;Fk Radnicki Nis;84813;-
+Ilija Milicevic;0,2;Centre-Back;Fk Metalac Gornji Milanovac;699756;24
+Filip Damjanovic;0,2;Centre-Back;Fk Vozdovac;471148;3
+Ivan Obradovic;0,2;Left-Back;Fk Partizan Belgrad;49802;37
+Mile Savkovic;0,2;Left Winger;Fk Spartak Subotica;131718;-
+Andrej Djuric;0,2;Centre-Back;Roter Stern Belgrad;706560;14
+Milan Jezdimirovic;0,2;Right-Back;Fk Spartak Subotica;376632;20
+Milovan Petrovikj;0,2;Defensive Midfield;Fk Radnik Surdulica;130455;-
+Axel Bakayoko;0,2;Right Winger;Roter Stern Belgrad;354898;93
+Mateja Maslarevic;0,2;Goalkeeper;Fk Metalac Gornji Milanovac;567758;41
+Nikola Colic;0,2;Right Winger;Fk Cukaricki;607920;80
+Mihajlo Spasojevic;0,2;Centre-Forward;Fk Cukaricki;666491;28
+Sladjan Rakic;0,2;Centre-Back;Fk Spartak Subotica;477925;-
+Kristijan Belic;0,2;Defensive Midfield;Fk Cukaricki;507223;40
+Ante Hrkac;0,2;Centre-Back;Fk Mladost Lucani;195874;32
+Stojan Lekovic;0,2;Goalkeeper;Fk Radnicki 1923 Kragujevac;710497;26
+Bojan Balaz;0,2;Centre-Back;Fk Novi Pazar;574661;-
+Sava Petrov;0,2;Centre-Forward;Fk Mladost Lucani;423610;-
+Lazar Stojsavljevic;0,2;Centre-Back;Fk Vojvodina Novi Sad;542451;-
+Mirza Delimedjac;0,2;Defensive Midfield;Fk Novi Pazar;667614;5
+Uros Raskovic;0,2;Defensive Midfield;Fk Napredak Krusevac;681614;44
+Aleksa Jordanov;0,2;Goalkeeper;Fk Napredak Krusevac;706102;-
+Davor Nedeljkovic;0,2;Central Midfield;Fk Radnik Surdulica;531872;20
+Nemanja Kojcic;0,2;Centre-Back;Fk Napredak Krusevac;376626;37
+Milan Milanovic;0,2;Centre-Back;Fk Radnicki 1923 Kragujevac;70574;53
+Marko Gajic;0,2;Centre-Back;Fk Radnicki 1923 Kragujevac;237489;28
+Ivan Vukcevic;0,2;Centre-Forward;Fk Vojvodina Novi Sad;573825;99
+Aleksa Damjanac;0,2;Centre-Back;Fk Radnicki 1923 Kragujevac;431049;5
+Milan Bojovic;0,2;Centre-Forward;Fk Mladost Lucani;47048;88
+Marko Tomic;0,2;Centre-Back;Fk Napredak Krusevac;129417;16
+Petar Kunic;0,2;Centre-Forward;Fk Napredak Krusevac;131735;9
+Mihajlo Neskovic;0,2;Left Winger;Fk Vojvodina Novi Sad;469828;17
+Milos Vidovic;0,2;Defensive Midfield;Fk Radnicki 1923 Kragujevac;124972;25
+Luka Cucin;0,2;Right-Back;Fk Vojvodina Novi Sad;423607;-
+Novica Maksimovic;0,2;Defensive Midfield;Fk Vojvodina Novi Sad;78547;4
+Nemanja Kos;0,2;Right Winger;Fk Mladost Lucani;706238;-
+Vladimir Miletic;0,2;Defensive Midfield;Fk Vojvodina Novi Sad;696363;14
+Nikola Vujanac;0,2;Goalkeeper;Fk Novi Pazar;399497;1
+Luka Ratkovic;0,2;Right Winger;Fk Novi Pazar;458594;9
+Vladimir Cirovic;0,2;Central Midfield;Fk Radnicki 1923 Kragujevac;340947;-
+Danko Kikovic;0,2;Midfield;Fk Novi Pazar;257472;4
+Dusan Puletic;0,2;Goalkeeper;Fk Kolubara Lazarevac;145682;-
+Marko Drobnjak;0,15;Goalkeeper;Fk Radnicki Nis;262095;1
+Nikola Grbovic;0,15;Midfield;Fk Metalac Gornji Milanovac;603625;11
+Srdjan Hrstic;0,15;Centre-Forward;Fk Spartak Subotica;619305;21
+Jovan Kokir;0,15;Left Winger;Fk Metalac Gornji Milanovac;470799;-
+Strahinja Stojanovic;0,15;Left Winger;Fk Proleter Novi Sad;696364;51
+Aleksandar Bjelica;0,15;Centre-Back;Fk Spartak Subotica;273004;-
+Veljko Kijevcanin;0,15;Midfield;Fk Mladost Lucani;599339;-
+Dusan Stoiljkovic;0,15;Left Winger;Fk Tsc Backa Topola;317670;29
+Nemanja Brankovic;0,15;Centre-Back;Fk Spartak Subotica;531851;-
+Milenko Skoric;0,15;Defensive Midfield;Fk Kolubara Lazarevac;470777;-
+Djordje Babic;0,15;Left Winger;Fk Mladost Lucani;533482;-
+Stefan Santrac;0,15;Defensive Midfield;Fk Tsc Backa Topola;430157;-
+Nemanja Obradovic;0,15;Left Winger;Fk Mladost Lucani;60132;50
+Goran Loncar;0,15;Defensive Midfield;Fk Kolubara Lazarevac;574668;16
+Stefan Dabic;0,15;Right-Back;Fk Napredak Krusevac;342103;-
+Nikola Ristovic;0,15;Right Winger;Fk Radnicki 1923 Kragujevac;599474;-
+Edin Biber;0,15;Central Midfield;Fk Radnik Surdulica;551060;21
+Danilo Milenkovic;0,15;Right Winger;Fk Proleter Novi Sad;292871;-
+Nemanja Mihajlovic;0,15;Left Winger;Fk Spartak Subotica;222825;70
+Filip Jovic;0,15;Left-Back;Fk Novi Pazar;584936;16
+Edin Ajdinovic;0,15;Central Midfield;Fk Vozdovac;618057;21
+Bojica Nikcevic;0,15;Left Winger;Fk Novi Pazar;466120;21
+Aleksandar Bogdanovic;0,15;Centre-Back;Fk Radnicki Nis;613639;5
+Momcilo Mrkaic;0,15;Centre-Forward;Fk Vojvodina Novi Sad;137832;-
+Uros Blagojevic;0,15;Left-Back;Fk Radnicki 1923 Kragujevac;636568;30
+Igor Vicentijevic;0,15;Left-Back;Fk Radnicki 1923 Kragujevac;266901;-
+Marko Miric;0,15;Right Winger;Fk Radnicki 1923 Kragujevac;60838;70
+Nemanja Tomic;0,15;Left Winger;Fk Radnicki 1923 Kragujevac;95314;77
+Sead Islamovic;0,15;Central Midfield;Fk Novi Pazar;577933;8
+Srdjan Scepanovic;0,15;Midfield;Fk Spartak Subotica;534942;25
+Milos Brnovic;0,15;Central Midfield;Fk Radnicki 1923 Kragujevac;502084;55
+Darko Vukasinovic;0,15;Goalkeeper;Fk Vozdovac;591502;1
+Vukasin Krstic;0,15;Centre-Back;Fk Tsc Backa Topola;619298;44
+Ognjen Ilic;0,15;Central Midfield;Fk Radnicki 1923 Kragujevac;439464;23
+Stefan Djuric;0,15;Left Winger;Fk Radnicki Nis;534728;-
+Luka Stevic;0,125;Midfield;Fk Metalac Gornji Milanovac;346895;-
+Luka Malesevic;0,125;Right-Back;Fk Radnik Surdulica;344458;-
+Ognjen Lakicevic;0,1;Left-Back;Fk Radnicki 1923 Kragujevac;689692;3
+Stefan Mihajlovic;0,1;Defensive Midfield;Fk Proleter Novi Sad;376454;-
+Stanisa Mandic;0,1;Left Winger;Fk Metalac Gornji Milanovac;298743;9
+Luka Serdar;0,1;Midfield;Fk Proleter Novi Sad;848665;16
+Rajko Brezancic;0,1;Left-Back;Fk Partizan Belgrad;60289;31
+Josip Projic;0,1;Left-Back;Fk Napredak Krusevac;46971;17
+Nikola Furtula;0,1;Centre-Forward;Fk Metalac Gornji Milanovac;584477;88
+Danilo Miladinovic;0,1;Midfield;Fk Proleter Novi Sad;615641;-
+Mihailo Ivanovic;0,1;Centre-Forward;Fk Vojvodina Novi Sad;849865;-
+Marko Jankovic;0,1;Right-Back;Fk Radnicki 1923 Kragujevac;502118;33
+Stefan Sormaz;0,1;Centre-Forward;Fk Spartak Subotica;545922;-
+Sekou Keita;0,1;Left Winger;Fk Vozdovac;339152;27
+Djordje Lazovic;0,1;Goalkeeper;Fk Radnicki 1923 Kragujevac;192022;-
+Lazar Raicevic;0,1;Goalkeeper;Fk Radnicki 1923 Kragujevac;531845;22
+Vladimir Savic;0,1;Goalkeeper;Fk Napredak Krusevac;682015;1
+Rastko Suljagic;0,1;Goalkeeper;Fk Napredak Krusevac;255265;-
+Branislav Milosevic;0,1;Right-Back;Fk Proleter Novi Sad;84715;20
+Nikola Ignjatovic;0,1;Centre-Back;Fk Radnik Surdulica;586908;55
+Veljko Ilic;0,1;Left Winger;Fk Proleter Novi Sad;674171;50
+Stefan Simin;0,1;Centre-Forward;Fk Spartak Subotica;854820;-
+Petar Vojinovic;0,1;Centre-Back;Fk Radnicki 1923 Kragujevac;848663;-
+Vladimir Stojkovic;0,1;Goalkeeper;Fk Partizan Belgrad;34400;-
+Zeljko Dimitrov;0,1;Centre-Forward;Fk Radnik Surdulica;288645;99
+Darko Bjedov;0,1;Centre-Forward;Fk Radnik Surdulica;138846;18
+Milos Simonovic;0,1;Centre-Back;Fk Radnik Surdulica;318631;-
+Stevan Kovacevic;0,1;Central Midfield;Fk Radnicki 1923 Kragujevac;75339;10
+Uros Vidovic;0,1;Central Midfield;Fk Radnicki 1923 Kragujevac;296613;16
+Dragoljub Srnic;0,1;Central Midfield;Fk Radnicki 1923 Kragujevac;169211;42
+Nikola Miric;0,1;Right-Back;Fk Vojvodina Novi Sad;625567;-
+Stefan Radojicic;0,1;Centre-Back;Fk Cukaricki;615299;-
+Nikola Jojic;0,1;Right Winger;Fk Mladost Lucani;827783;14
+Nemanja Dragutinovic;0,1;Centre-Forward;Fk Radnicki 1923 Kragujevac;457322;-
+Djordje Maksimovic;0,1;Centre-Forward;Fk Radnicki 1923 Kragujevac;531846;18
+Janko Barac;0,1;Goalkeeper;Fk Metalac Gornji Milanovac;1010406;-
+Srdjan Nikolic;0,1;Left-Back;Fk Metalac Gornji Milanovac;494155;3
+Mihajlo Ilic;0,1;Centre-Back;Fk Partizan Belgrad;845566;-
+Djordje Djuric;0,1;Centre-Back;Fk Kolubara Lazarevac;139728;33
+Nemanja Djekovic;0,1;Centre-Back;Fk Napredak Krusevac;825683;25
+Filip Manojlovic;0,1;Goalkeeper;Fk Spartak Subotica;333323;13
+Maksim Milovic;0,1;Goalkeeper;Fk Mladost Lucani;390088;23
+Aleksandar Vidovic;0,1;Left-Back;Fk Spartak Subotica;702482;33
+Andrej Todoroski;0,1;Midfield;Fk Spartak Subotica;353927;11
+Vukasin Markovic;0,1;Defensive Midfield;Fk Mladost Lucani;706241;3
+Aleksandar Jovanovic;0,1;Central Midfield;Fk Kolubara Lazarevac;36925;-
+Ognjen Bogunovic;0,1;Goalkeeper;Fk Vojvodina Novi Sad;849674;-
+Faris Niksic;0,1;Midfield;Fk Novi Pazar;967394;-
+Vladimir Desnica;0,1;Right-Back;Fk Spartak Subotica;854758;-
+Milos Rosevic;0,1;Striker;Fk Spartak Subotica;900882;27
+Dejan Paradjina;0,1;Right-Back;Fk Novi Pazar;548659;17
+Ognjen Milanovic;0,1;Left Winger;Fk Mladost Lucani;687051;-
+Balsa Popovic;0,1;Goalkeeper;Fk Kolubara Lazarevac;502017;1
+Nemanja Toroman;0,1;Goalkeeper;Fk Vojvodina Novi Sad;584888;-
+Goran Vuklis;0,1;Goalkeeper;Fk Vojvodina Novi Sad;124702;13
+Milos Zecevic;0,1;Midfield;Fk Kolubara Lazarevac;390080;10
+Nemanja Peric;0,1;Left Winger;Fk Novi Pazar;408859;-
+Nikola Lakcevic;0,1;Right Winger;Fk Partizan Belgrad;376463;27
+Nenad Perovic;0,1;Left-Back;Fk Mladost Lucani;687052;25
+Milan Jelovac;0,1;Goalkeeper;Fk Spartak Subotica;232084;28
+Dino Dolmagic;0,1;Right Winger;Fk Tsc Backa Topola;189754;31
+Vuk Bogdanovic;0,1;Centre-Back;Fk Spartak Subotica;615599;-
+Dimitrije Petronijevic;0,1;Midfield;Fk Kolubara Lazarevac;813287;8
+Tamirlan Dzhamalutdinov;0,1;Central Midfield;Fk Novi Pazar;375758;-
+Dejan Tumbas;0,1;Right Winger;Fk Kolubara Lazarevac;690322;99
+Milos Toseski;0,1;Central Midfield;Fk Spartak Subotica;344967;5
+Zarija Lambulic;0,1;Centre-Back;Fk Mladost Lucani;500205;15
+Danilo Bacanovic;0,1;Midfield;Fk Novi Pazar;625596;-
+Dejan Uzelac;0,1;Centre-Back;Fk Kolubara Lazarevac;186135;14
+Lazar Selenic;0,1;Midfield;Fk Mladost Lucani;599157;-
+Igor Maksimovic;0,1;Midfield;Fk Novi Pazar;404258;22
+Lazar Mihailovic;0,1;Midfield;Fk Novi Pazar;699202;24
+Filip Petrovic;0,1;Defensive Midfield;Fk Radnik Surdulica;750005;17
+Andrej Borak;0,1;Goalkeeper;Fk Vojvodina Novi Sad;940721;-
+Stefan Golubovic;0,075;Left-Back;Fk Proleter Novi Sad;541377;-
+Vladimir Bubanja;0,075;Centre-Back;Fk Novi Pazar;260320;-
+Nebojsa Skopljak;0,05;Centre-Back;Fk Proleter Novi Sad;46885;5
+Mateja Djordjevic;0,05;Centre-Back;Fk Vozdovac;740102;20
+Nemanja Vucic;0,05;Left-Back;Fk Vozdovac;514377;-
+Vojo Ubiparip;0,05;Centre-Forward;Fk Radnicki 1923 Kragujevac;46128;51
+Nemanja Andrijanic;0,05;Goalkeeper;Fk Novi Pazar;581645;-
+Jasmin Trtovac;0,05;Centre-Back;Fk Novi Pazar;50193;6
+Adnan Islamovic;0,05;Left-Back;Fk Novi Pazar;274336;-
+Milos Stojcev;0,05;Midfield;Fk Vozdovac;48619;-
+Morice Abraham;0,05;Midfield;Fk Spartak Subotica;666568;19
+Andrija Rajovic;0,05;Central Midfield;Fk Spartak Subotica;618059;38
+Marko Jovanovic;0,05;Centre-Back;Fk Proleter Novi Sad;57104;26
+Dragan Perosevic;0,05;Midfield;Fk Vozdovac;521170;-
+Filip Avric;0,05;Centre-Forward;Fk Vozdovac;690489;-
+Aleksa Beskorvajni;0,05;Centre-Forward;Fk Vozdovac;846256;13
+Milos Kalezic;0,05;Central Midfield;Fk Novi Pazar;208442;30
+Mihajlo Blagojevic;0,05;Goalkeeper;Fk Vozdovac;803205;12
+Nemanja Cvetkovic;0,05;Centre-Back;Fk Vozdovac;262094;20
+Faris Handzic;0,05;Midfield;Fk Novi Pazar;212931;-
+Marko Velickovic;0,05;Midfield;Fk Mladost Lucani;698544;36
+Filip Zunic;0,05;Defensive Midfield;Fk Mladost Lucani;706239;70
+Nemanja Zunic;0,05;Centre-Back;Fk Mladost Lucani;706245;18
+Djordje Vladisavljevic;0,05;Left-Back;Fk Proleter Novi Sad;759776;6
+Milan Smiljanic;0,05;Defensive Midfield;Fk Partizan Belgrad;34412;99
+Branislav Jovanovic;0,05;Defensive Midfield;Fk Proleter Novi Sad;99653;8
+Kristijan Zupic;0,05;Goalkeeper;Fk Proleter Novi Sad;489376;1
+Bojan Ostojic;0,05;Centre-Back;Fk Partizan Belgrad;163017;23
+Matija Gluscevic;0,05;Left Winger;Fk Proleter Novi Sad;698540;27
+Milan Lukac;0,05;Goalkeeper;Fk Partizan Belgrad;47024;25
+Kadir Pepic;0,05;Centre-Forward;Fk Proleter Novi Sad;854127;19
+Bogdan Milosevic;0,05;Right-Back;Fk Mladost Lucani;51142;44
+Vladimir Radivojevic;0,05;Midfield;Fk Mladost Lucani;91595;27
+Uros Vesic;0,05;Right Winger;Fk Radnik Surdulica;533366;-
+Predrag Djordjevic;0,05;Right-Back;Fk Radnik Surdulica;162643;15
+Janko Tumbasevic;0,05;Central Midfield;Fk Mladost Lucani;36150;8
+Stefan Maksimovic;0,05;Centre-Back;Fk Mladost Lucani;706255;6
+Mihailo Dragicevic;0,05;Goalkeeper;Fk Proleter Novi Sad;617129;-
+Milos Dzugurdic;0,05;Centre-Forward;Fk Napredak Krusevac;181755;27
+Filip Novic;0,05;Goalkeeper;Fk Proleter Novi Sad;698901;73
+Ilija Spasic;0,05;Right Winger;Fk Radnicki Nis;634974;-
+Aleksa Dusanic;0,05;Right Winger;Fk Radnicki Nis;846804;14
+Evgeniy Pavlov;0,05;Centre-Forward;Fk Radnicki Nis;97859;19
+Djuradj Dobrijevic;0,05;Centre-Forward;Fk Kolubara Lazarevac;253261;95
+Nemanja Belic;0,05;Goalkeeper;Fk Cukaricki;46155;1
+Igor Miladinovic;0,05;Central Midfield;Fk Cukaricki;729872;-
+Lazar Vrekic;0,05;Right Winger;Fk Cukaricki;851541;-
+Petar Ristic;0,05;Right Winger;Fk Radnicki Nis;604947;-
+Nenad Stankovic;0,05;Right-Back;Fk Kolubara Lazarevac;405789;6
+Uros Miladinovic;0,05;Left Winger;Fk Cukaricki;851543;-
+Djordje Kotlajic;0,05;Left Winger;Fk Napredak Krusevac;841256;14
+Nikola Marinkovic;0,05;Left Winger;Fk Napredak Krusevac;630109;20
+Nemanja Milovanovic;0,05;Central Midfield;Fk Napredak Krusevac;91605;77
+Nemanja Ivanovic;0,05;Centre-Forward;Fk Mladost Lucani;257461;-
+Bogdan Jocic;0,05;Midfield;Fk Metalac Gornji Milanovac;574669;-
+Nikola Pejovic;0,05;Centre-Back;Fk Proleter Novi Sad;343954;-
+Nemanja Jorgic;0,05;Goalkeeper;Fk Tsc Backa Topola;155563;23
+Nenad Ivanic;0,05;Central Midfield;Fk Napredak Krusevac;764528;46
+Marko Simic;0,05;Left Winger;Fk Kolubara Lazarevac;218315;11
+Eric Appiah;0,05;Right Winger;Fk Metalac Gornji Milanovac;659165;-
+Thierno Thioub;0,05;Centre-Forward;Fk Novi Pazar;612331;28
+Zeljko Samcovic;0,05;Goalkeeper;Fk Mladost Lucani;706237;80
+Semir Alic;0,05;Central Midfield;Fk Novi Pazar;864682;26
+Nedjeljko Kovinic;0,05;Centre-Forward;Fk Radnicki 1923 Kragujevac;845581;-
+Mihajlo Vesnic;0,05;Centre-Back;Fk Mladost Lucani;687050;-
+Marko Pantic;0,05;Defensive Midfield;Fk Napredak Krusevac;489355;6
+Darko Puskaric;0,05;Centre-Back;Fk Cukaricki;60487;21
+Marko Vucetic;0,05;Defensive Midfield;Fk Kolubara Lazarevac;145701;23
+Stefan Todorovic;0,05;Left-Back;Fk Napredak Krusevac;389307;22
+Ognjen Lukovic;0,05;Centre-Forward;Fk Metalac Gornji Milanovac;861288;23
+Rastko Marsenic;0,05;Centre-Back;Fk Tsc Backa Topola;862373;-
+Stefan Ilic;0,05;Goalkeeper;Fk Radnicki Nis;599574;26
+Nemanja Jovicic;0,05;Left-Back;Fk Radnicki Nis;603626;28
+Filip Kasalica;0,05;Left Winger;Fk Radnicki Nis;36830;17
+Luka Laban;0,05;Central Midfield;Fk Napredak Krusevac;841238;11
+Uros Sremcevic;0,025;Centre-Forward;Fk Mladost Lucani;897511;-
+Lazar Pejcic;0,025;Right Winger;Fk Spartak Subotica;630107;-
+Nemanja Amidzic;0,025;Goalkeeper;Fk Tsc Backa Topola;830198;50
+Matija Vranesevic;0,025;Left Winger;Fk Kolubara Lazarevac;989091;15
+Uros Arsenijevic;0,025;Midfield;Fk Radnicki 1923 Kragujevac;846772;6
+Jovan Mitrovic;0,025;Left Winger;Fk Mladost Lucani;689266;40
+Veljko Vlaskovic;0,025;Centre-Back;Fk Mladost Lucani;855442;34
+Stefan Marinkovic;0,025;Goalkeeper;Roter Stern Belgrad;673424;-
+Vasilije Djerkovic;0,025;Defensive Midfield;Fk Mladost Lucani;846769;28
+Djordje Milovanovic;0,025;Goalkeeper;Fk Kolubara Lazarevac;871989;35
+Bogdan Petrovic;0,025;Left Winger;Fk Tsc Backa Topola;706558;21
+David Stojanovic;0,025;Centre-Back;Fk Spartak Subotica;702481;-
+Luka Jancic;0,025;Centre-Back;Fk Spartak Subotica;702483;-
+Nemanja Andric;0,025;Left Winger;Fk Kolubara Lazarevac;46846;19
+Andreja Ristic;0,025;Left Winger;Fk Radnicki 1923 Kragujevac;846745;8
+Lazar Kalicanin;0,025;Goalkeeper;Fk Cukaricki;698550;-
+Mile Erdelj;0,025;Right Winger;Fk Spartak Subotica;800078;-
+Andrej Bogicevic;0,025;Centre-Forward;Fk Spartak Subotica;845934;45
+Ranko Puskic;0,025;Goalkeeper;Fk Vojvodina Novi Sad;767529;37
+Marko Susnjar;0,025;Central Midfield;Fk Tsc Backa Topola;846270;20
+Mihajlo Mitic;0,025;Centre-Forward;Fk Napredak Krusevac;770195;-
+Luka Velikic;0,025;Right Winger;Fk Kolubara Lazarevac;574667;7
+Dejan Djenic;0,025;Centre-Forward;Fk Kolubara Lazarevac;37072;9
+Dimitrije Antic;0,025;Centre-Forward;Fk Kolubara Lazarevac;700645;77
+Uros Cejic;0,025;Left Winger;Fk Spartak Subotica;858330;-
+Jovo Kojic;0,025;Centre-Back;Fk Novi Pazar;140215;77
+Vanja Kopunovic;0,025;Centre-Forward;Fk Spartak Subotica;854822;-
+Lazar Milutinovic;0,025;Right Winger;Fk Spartak Subotica;378129;-
+Almin Kahrimanovic;0,025;Goalkeeper;Fk Novi Pazar;864708;12
+Milan Majstorovic;0,025;Centre-Back;Fk Vojvodina Novi Sad;673429;-
+Luka Drobnjak;0,025;Centre-Back;Fk Vojvodina Novi Sad;698597;-
+Djordje Jakovljevic;0,025;Right Winger;Fk Mladost Lucani;706240;-
+Branislav Milanov;0,025;Left-Back;Fk Vojvodina Novi Sad;711165;-
+Momcilo Svilar;0,025;Midfield;Fk Tsc Backa Topola;851689;16
+Damir Kahriman;0,025;Goalkeeper;Fk Radnicki Nis;36109;-
+Igor Radovanovic;0,025;Centre-Back;Fk Mladost Lucani;846836;-
+Milan Gvozdenovic;0,025;Defensive Midfield;Fk Radnicki 1923 Kragujevac;846767;4
+Ivan Corkovic;0,025;Left-Back;Fk Vozdovac;574655;4
+Simo Vrbljanac;0,025;Centre-Back;Fk Spartak Subotica;846253;40
+Stefan Jarakovic;0,025;Left-Back;Fk Vozdovac;591008;-
+Mateja Brkic;0,025;Goalkeeper;Fk Napredak Krusevac;846737;31
+Mateja Premovic;0,025;Goalkeeper;Fk Metalac Gornji Milanovac;797865;12
+Filip Milikic;0,025;Defensive Midfield;Fk Radnicki 1923 Kragujevac;695600;24
+Vladimir Tomovic;0,025;Centre-Back;Fk Radnicki 1923 Kragujevac;938290;-
+Filip Stanisavljevic;0,025;Defensive Midfield;Fk Vozdovac;60861;6
+Bogdan Stojkovic;0,025;Right-Back;Fk Radnik Surdulica;783945;-
+Stefan Tesic;0,025;Centre-Back;Fk Vozdovac;615307;-
+Luka Pavlovic;0,025;Left Winger;Fk Metalac Gornji Milanovac;861295;21
+Nikola Jovanovic;0,025;Left-Back;Fk Radnicki Nis;848537;77
+Jovan Stavljanin;0,025;Midfield;Fk Radnicki Nis;905683;70
+Andrija Markovic;0,025;Right-Back;Fk Radnicki Nis;768106;-
+Aleksandar Miladinovic;0,025;Left Winger;Fk Radnik Surdulica;654928;70
+Stefan Zivkovic;0,025;Left-Back;Fk Vozdovac;845842;2
+Predrag Grbovic;0,025;Defensive Midfield;Fk Vozdovac;837154;26
+Strahinja Adamovic;0,025;Centre-Forward;Fk Radnicki Nis;698191;90
+David Rosic;0,025;Goalkeeper;Fk Mladost Lucani;706244;22
+Bogdan Matijasevic;0,025;Goalkeeper;Fk Mladost Lucani;858331;1
+Ilija Miodragovic;0,025;Left-Back;Fk Spartak Subotica;696360;34
+David Spasojevic;0,025;Goalkeeper;Fk Radnicki 1923 Kragujevac;786782;79
+Filip Tomaskovic;0,025;Right-Back;Fk Spartak Subotica;371007;17
+Ivan Milosevic;0,025;Centre-Back;Fk Mladost Lucani;36934;4
+Alphonce Msanga;0,025;Left-Back;Fk Spartak Subotica;666560;66
+Marin Dulic;0,025;Goalkeeper;Fk Spartak Subotica;854746;12
+Ognjen Abramusic;0,025;Defensive Midfield;Fk Vojvodina Novi Sad;923408;-
+Haider Landazuri;0,025;Left-Back;Fk Proleter Novi Sad;655635;17
+Andrej Blagojevic;0,025;Midfield;Fk Vozdovac;592866;10
+Vuk Vukadinovic;0,025;Goalkeeper;Fk Radnik Surdulica;769706;12
+Ivan Rados;0,025;Goalkeeper;Fk Radnicki 1923 Kragujevac;47372;-
+Uros Knezevic;0,01;Defensive Midfield;Fk Partizan Belgrad;607921;-
+Stanislav Zeljajic;0,01;Centre-Back;Fk Napredak Krusevac;699230;-
+Igor Cvetojevic;0,01;Centre-Back;Fk Kolubara Lazarevac;699231;-
+Mihajlo Obradovic;0,01;Centre-Back;Fk Novi Pazar;967393;-
+Rijad Koca;0,01;Centre-Back;Fk Novi Pazar;967349;27
+Hamza Kardovic;0,01;Right Winger;Fk Novi Pazar;791177;-
+Djordje Vukanic;0,01;Goalkeeper;Fk Spartak Subotica;572677;-

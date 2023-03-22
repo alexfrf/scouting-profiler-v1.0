@@ -1,0 +1,554 @@
+Players;Values;POS;Team;ID;Num
+Adam Hlozek;20,0;Centre-Forward;Ac Sparta Prag;552057;20
+Abdallah Sima;8,0;Right Winger;Sk Slavia Prag;776798;-
+David Zima;7,0;Centre-Back;Sk Slavia Prag;544149;-
+Tomas Holes;7,0;Defensive Midfield;Sk Slavia Prag;216278;3
+Alexander Bah;7,0;Right-Back;Sk Slavia Prag;452607;5
+Peter Olayinka;6,5;Left Winger;Sk Slavia Prag;248393;9
+Nicolae Stanciu;5,5;Midfield;Sk Slavia Prag;148372;-
+Ladislav Krejci;5,0;Defensive Midfield;Ac Sparta Prag;345911;37
+Petar Musa;5,0;Centre-Forward;Sk Slavia Prag;387110;-
+Jan Kuchta;5,0;Centre-Forward;Sk Slavia Prag;334802;-
+David Hancko;4,5;Centre-Back;Ac Sparta Prag;404418;33
+Lukas Provod;4,5;Midfield;Sk Slavia Prag;292779;17
+Ondrej Lingr;3,5;Midfield;Sk Slavia Prag;321195;32
+Lukas Masopust;3,5;Midfield;Sk Slavia Prag;234153;8
+Oscar Dorley;3,5;Left-Back;Sk Slavia Prag;401475;19
+Jindrich Stanek;3,0;Goalkeeper;Fc Viktoria Pilsen;242089;36
+Jean-David Beauguel;3,0;Centre-Forward;Fc Viktoria Pilsen;198395;9
+Petr Sevcik;3,0;Central Midfield;Sk Slavia Prag;147555;23
+Adam Karabec;2,5;Midfield;Ac Sparta Prag;652061;36
+Pavel Bucha;2,5;Central Midfield;Fc Viktoria Pilsen;563033;20
+Ondrej Kolar;2,5;Goalkeeper;Sk Slavia Prag;189630;1
+Ales Mandous;2,5;Goalkeeper;Sk Slavia Prag;240536;28
+Lukas Kalvach;2,5;Defensive Midfield;Fc Viktoria Pilsen;283621;23
+Casper Hojer;2,2;Left-Back;Ac Sparta Prag;222977;17
+Martin Vitik;2,2;Centre-Back;Ac Sparta Prag;652054;41
+Yira Sor;2,2;Right Winger;Sk Slavia Prag;673382;20
+Jakub Brabec;2,0;Centre-Back;Fc Viktoria Pilsen;112948;-
+Daniel Samek;2,0;Defensive Midfield;Sk Slavia Prag;671542;13
+Michal Sacek;2,0;Defensive Midfield;Ac Sparta Prag;140206;16
+Ivan Schranz;2,0;Right Winger;Sk Slavia Prag;108416;26
+David Moberg Karlsson;1,8;Right Winger;Ac Sparta Prag;63422;-
+Ladislav Almasi;1,7;Centre-Forward;Fc Banik Ostrau;412638;99
+Lukas Haraslin;1,7;Left Winger;Ac Sparta Prag;239941;22
+Jakub Pesek;1,6;Left Winger;Ac Sparta Prag;346840;21
+Aiham Ousou;1,5;Centre-Back;Sk Slavia Prag;585068;4
+Lukas Sadilek;1,5;Midfield;1 Fc Slovacko;242084;18
+Michael Krmencik;1,5;Centre-Forward;Sk Slavia Prag;178469;22
+Jakub Hromada;1,5;Defensive Midfield;Sk Slavia Prag;186380;25
+Taras Kacharaba;1,5;Centre-Back;Sk Slavia Prag;213975;30
+Lukas Hejda;1,3;Centre-Back;Fc Viktoria Pilsen;96047;2
+Tomas Cvancara;1,3;Centre-Forward;Ac Sparta Prag;544148;7
+Adam Vlkanova;1,3;Midfield;Fc Hradec Kralove;281906;8
+Ales Cermak;1,2;Midfield;Fc Viktoria Pilsen;147540;25
+Marek Havlik;1,2;Central Midfield;1 Fc Slovacko;233656;20
+Srdjan Plavsic;1,2;Left Winger;Sk Slavia Prag;322800;10
+Jaroslav Zeleny;1,2;Left-Back;Fk Jablonec;142219;12
+Andreas Vindheim;1,0;Right-Back;Ac Sparta Prag;254472;-
+David Jurasek;1,0;Left-Back;Sk Slavia Prag;500054;33
+Jan Kopic;1,0;Midfield;Fc Viktoria Pilsen;119103;10
+Tomas Wiesner;1,0;Right-Back;Ac Sparta Prag;334807;28
+Vaclav Jemelka;1,0;Centre-Back;Sk Sigma Olmutz;384879;2
+Ewerton;1,0;Left Winger;Fk Mlada Boleslav;456893;20
+Vaclav Jurecka;1,0;Centre-Forward;1 Fc Slovacko;248355;15
+Adriel Ba Loua;1,0;Right Winger;Fc Viktoria Pilsen;364314;-
+Lukas Julis;1,0;Centre-Forward;Ac Sparta Prag;147550;39
+Jan Sykora;1,0;Left Winger;Fc Viktoria Pilsen;187490;7
+Pavel Sulc;1,0;Midfield;Fc Viktoria Pilsen;500053;31
+Ibrahim Traore;1,0;Midfield;Sk Slavia Prag;179236;27
+Jan Boril;0,9;Left-Back;Sk Slavia Prag;129655;18
+Krystof Danek;0,9;Midfield;Sk Sigma Olmutz;652047;5
+Libor Holik;0,9;Right-Back;Fk Jablonec;323903;-
+Filip Panak;0,85;Centre-Back;Ac Sparta Prag;331963;27
+Milan Havel;0,85;Right-Back;Fc Viktoria Pilsen;261913;24
+Florin Nita;0,85;Goalkeeper;Ac Sparta Prag;200475;1
+Eduardo Santos;0,8;Centre-Back;Mfk Karvina;564546;-
+David Pavelka;0,8;Central Midfield;Ac Sparta Prag;672840;8
+Filip Soucek;0,8;Central Midfield;Ac Sparta Prag;430054;6
+Fortune Bassey;0,8;Centre-Forward;Sk Dynamo Ceske Budejovice;585985;-
+Maksym Taloverov;0,75;Centre-Back;Sk Dynamo Ceske Budejovice;668557;-
+Gigli Ndefe;0,75;Right-Back;Fc Banik Ostrau;223035;77
+Martin Minchev;0,75;Centre-Forward;Ac Sparta Prag;481128;11
+Jan Mejdr;0,75;Right-Back;Fc Hradec Kralove;404267;19
+David Doudera;0,75;Right-Back;Fk Mlada Boleslav;493758;22
+Dominik Holec;0,7;Goalkeeper;Ac Sparta Prag;181611;77
+Daniel Fila;0,7;Centre-Forward;Sk Slavia Prag;666268;14
+Ludek Pernica;0,7;Centre-Back;Fc Viktoria Pilsen;147099;4
+Michal Kohut;0,7;Midfield;1 Fc Slovacko;427829;13
+Matej Pulkrab;0,7;Centre-Forward;Ac Sparta Prag;256097;18
+Filip Nguyen;0,7;Goalkeeper;1 Fc Slovacko;202914;1
+Tomas Chory;0,65;Centre-Forward;Fc Viktoria Pilsen;198614;15
+Filip Kasa;0,65;Centre-Back;Fc Viktoria Pilsen;186527;35
+Antonin Rusek;0,65;Striker;Sk Sigma Olmutz;318112;14
+Jhon Mosquera;0,65;Left Winger;Fc Viktoria Pilsen;239126;18
+Laco Takacs;0,65;Defensive Midfield;Fc Banik Ostrau;303440;29
+Dominik Janosek;0,65;Midfield;Fc Banik Ostrau;522993;39
+Filip Kaloc;0,65;Central Midfield;Fc Banik Ostrau;396230;22
+Stanislav Hofmann;0,65;Centre-Back;1 Fc Slovacko;81991;6
+Michal Hlavaty;0,6;Central Midfield;Fk Mlada Boleslav;293355;12
+Ondrej Zmrzly;0,6;Left-Back;Sk Sigma Olmutz;343558;15
+Jiri Klima;0,6;Centre-Forward;Fc Banik Ostrau;260038;21
+Matej Polidar;0,6;Midfield;Ac Sparta Prag;639928;24
+Mads Emil Madsen;0,6;Central Midfield;Sk Slavia Prag;422950;21
+Vojtech Vorel;0,6;Goalkeeper;Sk Dynamo Ceske Budejovice;221289;30
+Milan Heca;0,6;Goalkeeper;Ac Sparta Prag;119472;29
+Matej Chalus;0,55;Centre-Back;Fc Slovan Liberec;321178;-
+Tomas Solil;0,55;Central Midfield;Fk Pardubice;488870;24
+Cadu;0,55;Midfield;Fk Pardubice;748908;20
+Emil Tischler;0,55;Central Midfield;Fk Pardubice;263359;12
+Daniel Tetour;0,55;Central Midfield;Fc Banik Ostrau;366883;6
+Jan Fortelny;0,55;Midfield;Fk Teplice;233235;25
+Martin Koscelnik;0,55;Right-Back;Fc Slovan Liberec;382204;18
+Vojtech Kubista;0,5;Central Midfield;Fk Jablonec;220776;27
+Ondrej Celustka;0,5;Centre-Back;Ac Sparta Prag;70131;3
+David Buchta;0,5;Midfield;Fc Banik Ostrau;405856;9
+David Hovorka;0,5;Centre-Back;Sk Slavia Prag;263431;2
+Radim Reznik;0,5;Right-Back;Fc Viktoria Pilsen;62794;14
+Vaclav Drchal;0,5;Centre-Forward;Ac Sparta Prag;421984;-
+Cheick Conde;0,5;Central Midfield;Fc Fastav Zlin;698560;6
+Ubong Ekpai;0,5;Right Winger;Sk Slavia Prag;365861;-
+Dominik Plestil;0,5;Midfield;Fk Jablonec;504809;24
+Mojmir Chytil;0,5;Centre-Forward;Sk Sigma Olmutz;405855;13
+Tomas Zajic;0,5;Centre-Forward;Fc Banik Ostrau;324041;-
+David Tkac;0,5;Central Midfield;Fc Fastav Zlin;580120;12
+David Lischka;0,5;Centre-Back;Fc Banik Ostrau;334822;13
+Daniel Holzer;0,5;Midfield;1 Fc Slovacko;198603;7
+Pablo Gonzalez;0,45;Midfield;Sk Sigma Olmutz;215457;11
+Christ Tiehi;0,45;Defensive Midfield;Fc Slovan Liberec;571821;14
+Filip Havelka;0,45;Midfield;Fc Slovan Liberec;318099;8
+Lukas Cerv;0,45;Central Midfield;Fk Pardubice;611049;18
+Miroslav Kacer;0,45;Central Midfield;Fc Viktoria Pilsen;186382;66
+Nemanja Kuzmanovic;0,45;Midfield;Fc Banik Ostrau;60472;11
+Jan Kral;0,45;Centre-Back;Fc Hradec Kralove;358132;2
+Tomas Ladra;0,45;Centre-Forward;Fk Mlada Boleslav;334803;9
+Petr Reinberk;0,45;Right-Back;1 Fc Slovacko;70639;23
+Daniel Vasulin;0,45;Centre-Forward;Fc Hradec Kralove;558473;15
+Artem Kontsevoy;0,45;Left Winger;Fc Banik Ostrau;547528;18
+Milos Kratochvil;0,45;Central Midfield;Fk Jablonec;289464;17
+Filip Cihak;0,45;Centre-Back;Fk Pardubice;456143;8
+David Houska;0,45;Central Midfield;Fk Jablonec;206926;8
+Lubomir Tupta;0,45;Centre-Forward;Fc Slovan Liberec;344806;29
+Ondrej Karafiat;0,45;Centre-Back;Fk Mlada Boleslav;181614;44
+Denis Alijagic;0,425;Centre-Forward;Fc Slovan Liberec;668782;6
+Michal Surzyn;0,4;Right-Back;Fk Jablonec;523509;23
+Matej Valenta;0,4;Midfield;Sk Dynamo Ceske Budejovice;572240;21
+Jakub Hora;0,4;Midfield;Sk Dynamo Ceske Budejovice;108007;23
+Kristi Qose;0,4;Central Midfield;Mfk Karvina;267497;6
+Roman Kvet;0,4;Central Midfield;Fc Bohemians Prag 1905;400649;19
+Petr Hronek;0,4;Central Midfield;Fc Bohemians Prag 1905;280856;7
+Tomas Malinsky;0,4;Midfield;Fk Jablonec;193590;6
+Youba Drame;0,4;Midfield;Fc Fastav Zlin;560274;11
+Christian Frydek;0,4;Midfield;Fc Slovan Liberec;339069;11
+Jakub Povazanec;0,4;Defensive Midfield;Fk Jablonec;113003;7
+Martin Kralik;0,4;Centre-Back;Sk Dynamo Ceske Budejovice;168417;3
+Daniel Trubac;0,4;Midfield;Fk Teplice;265056;20
+Ondrej Kudela;0,4;Centre-Back;Sk Slavia Prag;35699;15
+Patrik Hellebrand;0,4;Midfield;Sk Dynamo Ceske Budejovice;339070;18
+Martin Dolezal;0,4;Centre-Forward;Fk Jablonec;82026;-
+Matus Macik;0,4;Goalkeeper;Sk Sigma Olmutz;381477;33
+Stanislav Tecl;0,4;Centre-Forward;Sk Slavia Prag;81390;11
+Joel Kayamba;0,4;Right Winger;Fc Viktoria Pilsen;384856;-
+Simon Falta;0,4;Midfield;Fc Viktoria Pilsen;206919;-
+Imad Rondic;0,4;Centre-Forward;Fc Slovan Liberec;464154;19
+Vaclav Pilar;0,4;Midfield;Fk Jablonec;63955;11
+David Puskac;0,4;Centre-Forward;Fc Bohemians Prag 1905;194562;24
+Samuel Dancak;0,35;Central Midfield;Fk Mlada Boleslav;344809;16
+Jakub Pokorny;0,35;Centre-Back;Fc Banik Ostrau;333494;20
+Vlastimil Danicek;0,35;Defensive Midfield;1 Fc Slovacko;141099;28
+Ondrej Mihalik;0,35;Centre-Forward;Sk Dynamo Ceske Budejovice;265051;17
+Ruben Droehnle;0,35;Left-Back;Fk Teplice;324799;-
+Jaroslav Svozil;0,35;Centre-Back;Fc Banik Ostrau;267503;23
+Dominik Kostka;0,35;Midfield;Fk Pardubice;398001;26
+Patrik Cavos;0,35;Defensive Midfield;Sk Dynamo Ceske Budejovice;283614;11
+Martin Cedidla;0,35;Right-Back;Fc Fastav Zlin;633447;14
+Rigino Cicilia;0,35;Centre-Forward;1 Fc Slovacko;275939;22
+Jan Chramosta;0,35;Centre-Forward;Fc Bohemians Prag 1905;95792;77
+Filip Kubala;0,35;Striker;Fc Hradec Kralove;339077;9
+Matej Trusa;0,35;Centre-Forward;Fc Viktoria Pilsen;652698;11
+Jakub Markovic;0,35;Goalkeeper;Fk Pardubice;486605;32
+Jakub Klima;0,35;Centre-Back;Fc Hradec Kralove;539698;14
+Robert Jukl;0,35;Central Midfield;Fk Teplice;523507;19
+Mohamed Tijani;0,35;Centre-Back;Fk Teplice;534375;24
+Michal Fukala;0,35;Right-Back;Fc Slovan Liberec;500308;24
+Dyjan Azevedo;0,35;Left Winger;Fc Banik Ostrau;154335;-
+Dominik Plechaty;0,35;Centre-Back;Fc Slovan Liberec;456146;2
+Daniel Kostl;0,35;Centre-Back;Fc Bohemians Prag 1905;293358;23
+Jiri Boula;0,35;Central Midfield;Fc Banik Ostrau;464273;5
+Jan Mikula;0,35;Left-Back;Fc Slovan Liberec;178467;3
+Pavel Zifcak;0,35;Left Winger;Sk Sigma Olmutz;503966;9
+Jakub Martinec;0,35;Centre-Back;Fk Jablonec;293360;22
+Vladislav Levin;0,35;Central Midfield;Fc Bohemians Prag 1905;260265;-
+Mick van Buren;0,35;Right Winger;Sk Slavia Prag;189053;-
+Vaclav Sejk;0,35;Centre-Forward;Ac Sparta Prag;629777;-
+Martin Hala;0,35;Midfield;Sk Sigma Olmutz;146711;-
+Lukas Budinsky;0,35;Midfield;Fc Banik Ostrau;187591;32
+Martin Suchomel;0,35;Left-Back;Ac Sparta Prag;707327;48
+Juraj Chvatal;0,3;Right-Back;Sk Sigma Olmutz;291231;20
+Vakhtang Chanturishvili;0,3;Midfield;Fc Fastav Zlin;187115;18
+Jiri Letacek;0,3;Goalkeeper;Fk Pardubice;339079;22
+Jan Navratil;0,3;Midfield;Sk Sigma Olmutz;95802;30
+Tomas Necid;0,3;Centre-Forward;Fc Bohemians Prag 1905;39665;37
+Vlasiy Sinyavskiy;0,3;Left Winger;Mfk Karvina;261010;99
+Frantisek Cech;0,3;Centre-Back;Fc Hradec Kralove;321177;25
+Denis Donat;0,3;Centre-Back;Fc Hradec Kralove;665571;-
+Matej Hybs;0,3;Left-Back;Fc Viktoria Pilsen;137621;-
+Filip Novotny;0,3;Midfield;Fc Hradec Kralove;333253;16
+Yusuf;0,3;Centre-Forward;Fc Slovan Liberec;351181;9
+Erik Prekop;0,3;Centre-Forward;Fc Hradec Kralove;446573;11
+Theodor Gebre Selassie;0,3;Right-Back;Fc Slovan Liberec;60632;23
+Patrik Zitny;0,3;Midfield;Fk Teplice;192809;7
+Robert Hruby;0,3;Central Midfield;Fc Fastav Zlin;147548;8
+David Sipos;0,3;Goalkeeper;Sk Dynamo Ceske Budejovice;465006;1
+Jan Matousek;0,3;Midfield;Fc Slovan Liberec;400653;17
+Daniel Krch;0,3;Centre-Back;Fc Bohemians Prag 1905;146719;15
+David Huf;0,3;Centre-Forward;Fk Pardubice;339072;21
+Matej Mrsic;0,3;Midfield;Sk Dynamo Ceske Budejovice;191823;27
+Dominik Preisler;0,3;Left-Back;Fk Mlada Boleslav;333637;27
+Milan Skoda;0,3;Centre-Forward;Fk Mlada Boleslav;63047;21
+Jan Vondra;0,3;Left-Back;Fc Bohemians Prag 1905;198617;20
+Tomas Celustka;0,3;Left-Back;Fk Pardubice;194579;3
+Lukas Stetina;0,3;Centre-Back;Ac Sparta Prag;119110;-
+Benjamin Colic;0,3;Right-Back;Sk Dynamo Ceske Budejovice;122227;12
+Michal Beran;0,3;Midfield;Fk Pardubice;664456;-
+Roman Potocny;0,3;Left Winger;Fc Banik Ostrau;179240;-
+Filip Zorvan;0,275;Central Midfield;Mfk Karvina;297680;7
+Martin Sindelar;0,275;Centre-Back;Mfk Karvina;152695;-
+Vojtech Novak;0,275;Midfield;Fc Bohemians Prag 1905;714148;-
+Michal Leibl;0,25;Left-Back;Fc Hradec Kralove;280864;18
+Michal Tomic;0,25;Right-Back;1 Fc Slovacko;344321;27
+Eldar Sehic;0,25;Left-Back;Mfk Karvina;536548;11
+Lukas Bartosak;0,25;Left-Back;Mfk Karvina;145821;31
+Jiri Skalak;0,25;Left Winger;Fk Mlada Boleslav;148734;10
+David Pech;0,25;Midfield;Fk Mlada Boleslav;552055;26
+Vojtech Smrz;0,25;Central Midfield;Fk Mlada Boleslav;474779;32
+Marek Suchy;0,25;Centre-Back;Fk Mlada Boleslav;34542;17
+David Simek;0,25;Centre-Back;Fk Mlada Boleslav;493763;4
+Pavel Dvorak;0,25;Centre-Forward;Fc Hradec Kralove;63872;17
+Jakub Kucera;0,25;Central Midfield;Fc Hradec Kralove;343559;3
+Ondrej Sasinka;0,25;Centre-Forward;1 Fc Slovacko;293366;21
+Petr Kodes;0,25;Defensive Midfield;Fc Hradec Kralove;292520;22
+Antonin Svoboda;0,25;Centre-Forward;Mfk Karvina;552061;19
+Ondrej Pachlopnik;0,25;Midfield;Fc Viktoria Pilsen;424374;57
+Lukas Cmelik;0,25;Right Winger;Mfk Karvina;186379;10
+Michael Rabusic;0,25;Centre-Forward;Fc Slovan Liberec;63965;7
+Miroslav Stoch;0,25;Left Winger;Fc Slovan Liberec;45559;39
+Ahmad Ghali;0,25;Left Winger;Fc Slovan Liberec;698812;25
+Denis Visinsky;0,25;Midfield;Fc Slovan Liberec;652060;5
+Michal Fasko;0,25;Central Midfield;Fc Slovan Liberec;178914;22
+Olivier Vliegen;0,25;Goalkeeper;Fc Slovan Liberec;400849;1
+Marios Pourzitidis;0,25;Centre-Back;Fc Slovan Liberec;598148;33
+Filip Vecheta;0,25;Centre-Forward;1 Fc Slovacko;652051;9
+Martin Dostal;0,25;Right-Back;Fc Bohemians Prag 1905;178466;16
+Tomas Smejkal;0,25;Midfield;Fk Jablonec;550518;14
+Jan Hanus;0,25;Goalkeeper;Fk Jablonec;120030;1
+Jan Silny;0,25;Centre-Forward;Fk Jablonec;515842;20
+Petr Rybicka;0,25;Centre-Forward;Fc Hradec Kralove;448307;7
+Jan Sedlak;0,25;Defensive Midfield;Sk Sigma Olmutz;333652;12
+Patrik Brandner;0,25;Centre-Forward;Sk Dynamo Ceske Budejovice;279374;19
+Milan Knobloch;0,25;Goalkeeper;Fc Slovan Liberec;368406;34
+Filip Mucha;0,25;Goalkeeper;Fk Teplice;236175;72
+Dominik Simersky;0,25;Centre-Back;Fc Fastav Zlin;167175;2
+Lukas Skovajsa;0,25;Left-Back;Sk Dynamo Ceske Budejovice;232390;25
+Jan Knapik;0,25;Centre-Back;Fk Teplice;591843;28
+Martin Sladky;0,25;Right-Back;Sk Dynamo Ceske Budejovice;163319;-
+Martin Chlumecky;0,25;Centre-Back;Fk Teplice;308631;-
+Jan Stejskal;0,25;Goalkeeper;Sk Sigma Olmutz;260071;1
+Lukas Vrastil;0,25;Centre-Back;Fc Fastav Zlin;147557;19
+Antonin Vanicek;0,25;Midfield;Fc Bohemians Prag 1905;321215;98
+Antonin Krapka;0,25;Centre-Back;Fc Bohemians Prag 1905;367653;34
+Florent Poulolo;0,25;Centre-Back;Sk Sigma Olmutz;600151;22
+Jan Kovarik;0,25;Midfield;Fc Bohemians Prag 1905;81800;12
+Viktor Budinsky;0,25;Goalkeeper;Fc Banik Ostrau;226980;30
+Matej Rakovan;0,25;Goalkeeper;Fc Fastav Zlin;141353;1
+Jiri Bederka;0,25;Centre-Back;Fc Bohemians Prag 1905;326042;27
+Tomas Kucera;0,25;Central Midfield;Fk Teplice;194492;27
+Patrik Le Giang;0,25;Goalkeeper;Fc Bohemians Prag 1905;166239;-
+Radim Breite;0,25;Central Midfield;Sk Sigma Olmutz;94172;7
+Hugo Jan Backovsky;0,25;Goalkeeper;Fc Bohemians Prag 1905;339041;99
+Tomas Zahradnicek;0,25;Midfield;Sk Sigma Olmutz;314836;23
+Vojtech Patrak;0,25;Left Winger;Fk Pardubice;464271;33
+Adam Janos;0,25;Defensive Midfield;Fc Banik Ostrau;133733;-
+Matias Succar;0,25;Centre-Forward;Fk Teplice;626179;99
+Antonin Fantis;0,25;Midfield;Fc Fastav Zlin;81811;15
+Emmanuel Tolno;0,25;Midfield;Sk Dynamo Ceske Budejovice;698559;6
+Michal Skoda;0,25;Centre-Forward;Sk Dynamo Ceske Budejovice;199855;10
+Jakub Janetzky;0,25;Midfield;Fc Fastav Zlin;260036;68
+Davis Ikaunieks;0,225;Centre-Forward;Fk Jablonec;153820;9
+Robin Hranac;0,225;Centre-Back;Fk Pardubice;620217;5
+Evgeniy Nazarov;0,225;Centre-Back;Fc Bohemians Prag 1905;371628;-
+Adam Gabriel;0,225;Right-Back;Ac Sparta Prag;665538;4
+Filip Zak;0,225;Centre-Forward;Fk Teplice;465827;34
+Davit Kobouri;0,225;Left-Back;Mfk Karvina;345190;23
+Karel Pojezny;0,225;Centre-Back;Fk Pardubice;702317;30
+Pavol Bajza;0,225;Goalkeeper;Mfk Karvina;120175;91
+Antonin Kinsky;0,225;Goalkeeper;Sk Slavia Prag;725912;-
+Muhammed Sanneh;0,225;Right-Back;Fc Banik Ostrau;649465;-
+Patrik Simko;0,2;Left-Back;1 Fc Slovacko;132375;16
+Tomas Vondrasek;0,2;Right-Back;Fk Teplice;63751;17
+Tomas Poznar;0,2;Centre-Forward;Fc Fastav Zlin;81979;-
+Vukadin Vukadinovic;0,2;Right Winger;Fc Fastav Zlin;84813;77
+Petr Buchta;0,2;Centre-Back;Mfk Karvina;194333;30
+Alois Hycka;0,2;Right-Back;Fk Teplice;123765;16
+Jiri Ciupa;0,2;Goalkeeper;Mfk Karvina;486111;12
+Dejan Boljevic;0,2;Left-Back;Fk Teplice;98064;3
+Vaclav Prosek;0,2;Midfield;Fk Teplice;185405;35
+Jan Kalabiska;0,2;Left-Back;1 Fc Slovacko;70699;19
+Michal Kadlec;0,2;Centre-Back;1 Fc Slovacko;21042;3
+Jean Mangabeira;0,2;Defensive Midfield;Mfk Karvina;551904;21
+Stepan Harazim;0,2;Right-Back;Fc Hradec Kralove;730415;21
+Dominik Soukenik;0,2;Central Midfield;Fc Hradec Kralove;591920;5
+Jonas Vais;0,2;Midfield;Sk Dynamo Ceske Budejovice;503965;16
+Jan Krob;0,2;Left-Back;Fk Jablonec;62511;16
+Jakub Rada;0,2;Defensive Midfield;Fc Hradec Kralove;70193;23
+Lukas Marecek;0,2;Defensive Midfield;Fk Teplice;70170;23
+Jaromir Srubek;0,2;Centre-Back;1 Fc Slovacko;665547;-
+Jakub Mares;0,2;Centre-Forward;Fk Teplice;35577;11
+Marek Hlinka;0,2;Central Midfield;Fc Fastav Zlin;147111;33
+Denis Granecny;0,2;Left-Back;Fc Banik Ostrau;293351;-
+Tomas Jonas;0,2;Central Midfield;Ac Sparta Prag;133734;-
+Vuk Strikovic;0,2;Centre-Forward;Fk Mlada Boleslav;813469;29
+Lukas Masek;0,2;Striker;Fk Mlada Boleslav;671519;28
+Matej Radosta;0,2;Central Midfield;Fk Teplice;486618;-
+Jan Ctvrtecka;0,2;Goalkeeper;Fk Teplice;321180;21
+Rudolf Reiter;0,2;Midfield;Fc Fastav Zlin;316279;9
+Frantisek Kotek;0,2;Goalkeeper;Ac Sparta Prag;358131;40
+Otto Urma;0,2;Left-Back;Fc Hradec Kralove;315201;4
+Patrik Vydra;0,2;Centre-Back;Ac Sparta Prag;655300;-
+David Pichal;0,2;Right Winger;Fk Mlada Boleslav;396236;-
+Ladislav Kodad;0,2;Midfield;Fk Teplice;572188;6
+Vladimir Neuman;0,2;Goalkeeper;Mfk Karvina;668311;1
+Pavel Moulis;0,2;Right Winger;Fk Teplice;195503;10
+Martin Toml;0,2;Centre-Back;Fk Pardubice;221287;6
+Lamin Jawo;0,2;Centre-Forward;Fc Fastav Zlin;444387;10
+Matej Koubek;0,2;Centre-Forward;Fc Bohemians Prag 1905;635888;10
+Soufiane Drame;0,2;Centre-Back;Mfk Karvina;471614;22
+Ibrahim Keita;0,2;Centre-Forward;Fc Bohemians Prag 1905;220902;9
+Marco Tulio;0,2;Defensive Midfield;Mfk Karvina;525086;8
+David Bartek;0,2;Midfield;Fc Bohemians Prag 1905;62971;5
+Adam Hlousek;0,2;Left-Back;Fc Fastav Zlin;62800;5
+Ondrej Petrak;0,2;Defensive Midfield;Fc Bohemians Prag 1905;165331;31
+Lukas Matejka;0,2;Centre-Forward;Fk Pardubice;480189;16
+Karol Meszaros;0,2;Right Winger;Fc Slovan Liberec;217707;10
+Rafiu Durosinmi;0,2;Centre-Forward;Mfk Karvina;935760;24
+Ales Nesicky;0,2;Central Midfield;Mfk Karvina;146722;-
+Roman Vales;0,2;Goalkeeper;Fc Bohemians Prag 1905;95805;1
+Kamil Vacek;0,2;Central Midfield;Fc Bohemians Prag 1905;35645;-
+Lukas Havel;0,2;Centre-Back;Sk Dynamo Ceske Budejovice;383869;2
+Ishaku Konda;0,2;Centre-Back;Sk Dynamo Ceske Budejovice;579523;15
+Modou N'Diaye;0,2;Central Midfield;Mfk Karvina;819936;81
+Petr Mikulec;0,2;Goalkeeper;Fk Mlada Boleslav;499574;99
+Rajmund Mikus;0,2;Midfield;Mfk Karvina;329401;29
+Stanislav Dostal;0,2;Goalkeeper;Fc Fastav Zlin;82477;17
+Jan Juroska;0,2;Right-Back;Fc Banik Ostrau;324023;24
+Vilem Fendrich;0,2;Goalkeeper;Fc Hradec Kralove;163353;12
+Robert Matejov;0,2;Left-Back;Fc Fastav Zlin;113009;16
+Jakub Rezek;0,2;Left Winger;Fk Pardubice;321202;17
+Lukas Holik;0,2;Striker;Mfk Karvina;204280;9
+Vit Benes;0,2;Centre-Back;Sk Sigma Olmutz;62973;32
+Josef Kozeluh;0,2;Right-Back;Fc Viktoria Pilsen;552036;-
+Radek Latal;0,2;Right-Back;Sk Sigma Olmutz;433834;-
+Dominik Hasek;0,2;Right-Back;Fc Bohemians Prag 1905;469271;21
+Lukas Gressak;0,2;Defensive Midfield;Sk Sigma Olmutz;80903;34
+Matej Jurasek;0,2;Right Winger;Mfk Karvina;726714;-
+Marian Tvrdon;0,2;Goalkeeper;Fc Viktoria Pilsen;316202;13
+Lukas Hulka;0,2;Centre-Back;Fc Bohemians Prag 1905;198607;28
+Jakub Matousek;0,2;Midfield;Sk Sigma Olmutz;572798;27
+Jakub Necas;0,2;Left Winger;Fc Slovan Liberec;301019;-
+Jakub Fulnek;0,2;Left Winger;Fc Bohemians Prag 1905;212872;22
+Jiri Katerinak;0,2;Central Midfield;Fc Hradec Kralove;464890;6
+David Stepanek;0,2;Centre-Back;Fk Jablonec;256103;5
+Martin Rolinek;0,2;Midfield;Fk Mlada Boleslav;660226;18
+Martin Novy;0,2;Right-Back;Fc Bohemians Prag 1905;331570;32
+Matej Rynes;0,2;Left Winger;Ac Sparta Prag;539197;56
+Michal Cernak;0,2;Right Winger;Fk Jablonec;652059;95
+Daniel Bartl;0,175;Midfield;Mfk Karvina;109541;20
+Vit Nemrava;0,175;Goalkeeper;1 Fc Slovacko;221280;-
+Adam Lupac;0,175;Midfield;Fk Pardubice;677528;28
+Daniel Stropek;0,175;Centre-Back;Mfk Karvina;598508;5
+Jan Zaviska;0,175;Right Winger;Fc Hradec Kralove;301020;-
+Maksim Matveev;0,175;Left-Back;Sk Dynamo Ceske Budejovice;501766;-
+Martin Sejvl;0,175;Centre-Back;Fk Pardubice;235210;-
+Marek Kejr;0,15;Midfield;Fc Hradec Kralove;504133;-
+Patrik Vizek;0,15;Goalkeeper;Fc Hradec Kralove;523506;1
+Martin Vlachovsky;0,15;Midfield;Mfk Karvina;649566;-
+David Cerny;0,15;Right Winger;Fk Teplice;651651;-
+Marek Bohac;0,15;Goalkeeper;Fk Pardubice;123604;31
+Jakub Kolar;0,15;Centre-Back;Fc Fastav Zlin;668323;28
+Jiri Slama;0,15;Left-Back;Fk Pardubice;503963;-
+Petr Kurka;0,15;Left-Back;Fk Pardubice;629774;-
+David Ledecky;0,15;Centre-Forward;Fk Teplice;333654;15
+Daniel Langhamer;0,15;Central Midfield;Fk Mlada Boleslav;710409;19
+Pavel Halouska;0,15;Goalkeeper;Fk Mlada Boleslav;383028;-
+Martin Fillo;0,15;Midfield;Fc Fastav Zlin;35753;7
+Michal Reichl;0,15;Goalkeeper;Fc Hradec Kralove;262704;-
+Ladislav Muzik;0,15;Midfield;Fk Mlada Boleslav;467501;11
+Vojtech Stransky;0,15;Right Winger;Fk Mlada Boleslav;728609;14
+Petr Pejsa;0,15;Striker;Fc Viktoria Pilsen;501042;-
+Petr Jaron;0,15;Right Winger;Fc Banik Ostrau;665551;14
+Jan Lastuvka;0,15;Goalkeeper;Fc Banik Ostrau;28186;16
+Stepan Krunert;0,15;Central Midfield;Fk Teplice;550830;-
+Martin Nespor;0,15;Centre-Forward;Fk Jablonec;116183;26
+Ondrej Lehoczki;0,15;Centre-Back;Fc Slovan Liberec;647924;-
+Filip Prebsl;0,15;Centre-Back;Fc Slovan Liberec;728635;30
+Vicu Bulmaga;0,15;Defensive Midfield;Fk Teplice;635061;32
+Josef Divisek;0,15;Left-Back;1 Fc Slovacko;95794;14
+Stepan Langer;0,15;Central Midfield;Sk Sigma Olmutz;622257;-
+Ondrej Novotny;0,15;Centre-Forward;Fc Slovan Liberec;441420;-
+Jiri Spacil;0,15;Central Midfield;Sk Sigma Olmutz;622212;28
+Dominik Gembicky;0,15;Right Winger;Fc Slovan Liberec;599612;-
+Dominik Masek;0,15;Midfield;Fk Jablonec;126770;-
+Jiri Fleisman;0,15;Left-Back;Fc Banik Ostrau;70690;25
+Patrik Slamena;0,15;Midfield;Sk Sigma Olmutz;396231;29
+Josef Svanda;0,15;Right-Back;Fk Teplice;660298;-
+Jachym Sip;0,15;Left Winger;Sk Sigma Olmutz;622254;6
+Vaclav Mika;0,15;Centre-Back;Fc Viktoria Pilsen;396225;-
+David Vanecek;0,15;Centre-Forward;Sk Sigma Olmutz;141229;17
+Daniel Marecek;0,15;Central Midfield;Fc Bohemians Prag 1905;293359;17
+Ondrej Chveja;0,15;Striker;Mfk Karvina;321179;98
+Mohamed Doumbia;0,15;Central Midfield;Fc Slovan Liberec;488962;15
+Karel Hasil;0,15;Centre-Back;Fk Teplice;432949;18
+Rafael Tavares;0,15;Centre-Forward;Mfk Karvina;644994;33
+Jan Siska;0,125;Goalkeeper;Fc Fastav Zlin;583145;44
+Marko Merdovic;0,125;Left-Back;1 Fc Slovacko;527302;-
+Daniel Smekal;0,125;Centre-Forward;Fc Banik Ostrau;624300;-
+Frantisek Matys;0,125;Centre-Back;Sk Slavia Prag;629775;-
+Lukas Hrdlicka;0,125;Midfield;Fc Fastav Zlin;668328;22
+Martin Necas;0,125;Midfield;Fc Fastav Zlin;293361;25
+Tomas Frystak;0,125;Goalkeeper;1 Fc Slovacko;64303;30
+Jan Shejbal;0,125;Central Midfield;Fk Teplice;280875;22
+Jan Brabec;0,1;Centre-Back;Sk Dynamo Ceske Budejovice;748182;-
+Adama Diame;0,1;Centre-Forward;Fc Slovan Liberec;681695;-
+Kristian Michal;0,1;Defensive Midfield;Fc Slovan Liberec;561229;28
+Lukas Soukup;0,1;Goalkeeper;Fc Bohemians Prag 1905;464817;-
+Matyas Korenek;0,1;Goalkeeper;Fc Bohemians Prag 1905;817879;-
+Jan Tredl;0,1;Central Midfield;Sk Slavia Prag;839549;-
+Daniel Smiga;0,1;Centre-Forward;Sk Slavia Prag;671516;-
+Martin Kudela;0,1;Midfield;1 Fc Slovacko;710410;-
+Tomas Vincour;0,1;Centre-Back;1 Fc Slovacko;486620;-
+Ondrej Mrozek;0,1;Goalkeeper;Fc Viktoria Pilsen;790889;-
+David Beranek;0,1;Left-Back;Sk Slavia Prag;724027;-
+Admir Ljevakovic;0,1;Defensive Midfield;Fk Teplice;39957;-
+Marek Vobecky;0,1;Central Midfield;Fk Teplice;708297;-
+Denis Lanka;0,1;Left Winger;Fk Teplice;260042;-
+Jakub Yunis;0,1;Centre-Forward;Sk Sigma Olmutz;283636;10
+Jan Seda;0,1;Goalkeeper;Fk Mlada Boleslav;44422;33
+David Dolezal;0,1;Midfield;Fc Hradec Kralove;427826;28
+Dominik Prochazka;0,1;Right Winger;Fk Teplice;821488;-
+Matej Zitny;0,1;Central Midfield;Sk Slavia Prag;839537;-
+Michal Veprek;0,1;Left-Back;Sk Sigma Olmutz;64004;21
+Roman Hubnik;0,1;Centre-Back;Sk Sigma Olmutz;24667;4
+Ondrej Mazuch;0,1;Centre-Back;Fk Teplice;23443;2
+Tadeas Stoppen;0,1;Goalkeeper;Sk Sigma Olmutz;728649;26
+Daniel Hais;0,1;Centre-Forward;Sk Dynamo Ceske Budejovice;723498;-
+Jiri Borek;0,1;Goalkeeper;1 Fc Slovacko;721807;-
+Petr Javorek;0,1;Defensive Midfield;Sk Dynamo Ceske Budejovice;35177;-
+Tomas Hak;0,1;Defensive Midfield;Sk Dynamo Ceske Budejovice;943099;-
+Petr Drobisz;0,1;Goalkeeper;1 Fc Slovacko;21019;-
+Pavel Novak;0,1;Centre-Back;Sk Dynamo Ceske Budejovice;148705;5
+Ondrej Coudek;0,1;Centre-Back;Sk Dynamo Ceske Budejovice;931383;-
+Pavel Hural;0,1;Midfield;Fk Teplice;651729;-
+Vaclav Kadlec;0,1;Centre-Forward;Fk Jablonec;91423;10
+Ngosa Sunzu;0,1;Central Midfield;Fk Teplice;510236;33
+Jan Rezek;0,1;Striker;Fk Teplice;15890;12
+Simon Chwaszcz;0,1;Centre-Forward;Fc Fastav Zlin;300181;24
+Christian Fulop;0,1;Goalkeeper;Sk Slavia Prag;723491;-
+Kacper Zych;0,1;Centre-Forward;Mfk Karvina;668302;28
+Ludek Nemecek;0,1;Goalkeeper;Fk Teplice;599580;1
+Jan Vosahlik;0,1;Right Winger;Fk Jablonec;62803;-
+Radovan Murin;0,1;Goalkeeper;Fc Banik Ostrau;469791;12
+Matej Sin;0,1;Right Winger;Fc Banik Ostrau;724025;-
+Michael Ugwu;0,1;Centre-Forward;Fc Bohemians Prag 1905;427593;29
+Moses Usor;0,1;Right Winger;Sk Slavia Prag;1003622;-
+Lumir Ciz;0,1;Goalkeeper;Fc Banik Ostrau;615340;-
+Jiri Pafka;0,1;Centre-Back;Fc Fastav Zlin;623753;-
+Jaroslav Harustak;0,1;Centre-Back;Fc Banik Ostrau;723500;-
+Vaclav Prochazka;0,1;Centre-Back;Fc Fastav Zlin;35763;26
+Zdenek Riha;0,1;Centre-Back;Fc Banik Ostrau;750147;-
+Patrik Kulisek;0,1;Midfielder;Fc Fastav Zlin;667137;-
+Ibrahim Aldin;0,1;Midfield;1 Fc Slovacko;580152;-
+Michal Papadopulos;0,1;Centre-Forward;Mfk Karvina;9329;27
+Borek Dockal;0,1;Midfield;Ac Sparta Prag;62983;10
+David Nykrin;0,1;Midfield;Fk Jablonec;940793;25
+Vojtech Werani;0,1;Attacking Midfield;Fk Jablonec;740582;19
+Dominik Mares;0,1;Midfield;Fk Pardubice;941029;13
+Matyas Vachousek;0,1;Centre-Forward;Fk Teplice;937533;-
+Martin Svrcek;0,1;Midfield;Fk Jablonec;821564;-
+Matyas Hanc;0,1;Centre-Back;Fk Pardubice;817493;-
+Jan Halasz;0,1;Right-Back;Fk Pardubice;487887;4
+Jan Prosek;0,1;Right-Back;Fk Pardubice;198605;-
+Patrik Haitl;0,1;Right-Back;Fk Jablonec;390502;28
+David Skuhravy;0,1;Midfielder;Fk Jablonec;649576;-
+Tomas Jezek;0,1;Goalkeeper;Fk Jablonec;940663;-
+Samuel Simek;0,1;Central Midfield;Fk Pardubice;580150;11
+Tomas Vajner;0,1;Goalkeeper;Fk Jablonec;708293;13
+Tomas Kubart;0,075;Right-Back;Fk Pardubice;487926;15
+Nana Akosah-Bempah;0,075;Centre-Forward;Fk Pardubice;431338;35
+Matej Vit;0,075;Defensive Midfield;Fk Pardubice;486667;25
+Jan Jerabek;0,075;Defensive Midfield;Fk Pardubice;235171;14
+Junior Ramos;0,075;Defensive Midfield;Fk Pardubice;553085;-
+Vojtech Sychra;0,075;Central Midfield;Fk Pardubice;580129;27
+Jakub Trefil;0,075;Goalkeeper;Sk Sigma Olmutz;580157;-
+Libor Bobcik;0,075;Centre-Forward;Fc Fastav Zlin;668332;20
+Sang-hyuk Lee;0,075;Left Winger;Fk Pardubice;646071;10
+Marek Kouba;0,075;Goalkeeper;Fc Bohemians Prag 1905;514836;26
+Tomas Grigar;0,075;Goalkeeper;Fk Teplice;18913;30
+Pavel Cerny;0,075;Centre-Forward;Fk Pardubice;63859;9
+Samuel Kulig;0,075;Defensive Midfield;Fc Banik Ostrau;504139;-
+Jan Fiala;0,075;Midfield;Sk Sigma Olmutz;723528;18
+Milos Pudil;0,075;Midfield;Sk Slavia Prag;931424;-
+Lukas Pesl;0,075;Goalkeeper;Fc Slovan Liberec;822051;32
+Justen Kranthove;0,075;Centre-Back;Fc Slovan Liberec;591755;21
+Tomas Jursa;0,075;Central Midfield;Mfk Karvina;82165;15
+Hasan Jahic;0,075;Centre-Back;Fk Mlada Boleslav;867529;-
+Filip Horsky;0,075;Right Winger;Fk Mlada Boleslav;820611;7
+Milan Petrzela;0,075;Midfield;1 Fc Slovacko;21101;11
+Pavel Juroska;0,075;Midfield;1 Fc Slovacko;649568;24
+Nelson Okeke;0,075;Central Midfield;Ac Sparta Prag;665537;-
+Adam Pudil;0,075;Right Winger;Sk Slavia Prag;931427;-
+Tomas Hubschman;0,05;Midfield;Fk Jablonec;9688;3
+Torfiq Ali-Abubakar;0,05;Centre-Forward;Fk Jablonec;703315;31
+Stepan Hrncir;0,05;Goalkeeper;Fk Pardubice;469116;1
+Stepan Chaloupek;0,05;Centre-Back;Fk Teplice;944827;-
+Ondrej Kukucka;0,05;Centre-Back;Fc Banik Ostrau;724023;33
+Jan Sirotnik;0,05;Goalkeeper;Sk Slavia Prag;565471;-
+Erik Biegon;0,05;Centre-Forward;Sk Slavia Prag;839555;-
+Vlastimil Hruby;0,05;Goalkeeper;Fk Jablonec;157578;30
+Jakub Surovcik;0,05;Goalkeeper;Fk Jablonec;610607;29
+Jan Hellebrand;0,05;Defensive Midfield;Fc Fastav Zlin;552037;23
+Michal Galus;0,05;Left-Back;Sk Sigma Olmutz;424231;-
+Filip Urica;0,05;Left Winger;Sk Sigma Olmutz;652048;8
+Mohamed El Maghraby;0,05;Centre-Back;Fk Teplice;821863;13
+Petr Bolek;0,05;Goalkeeper;Mfk Karvina;21239;-
+Ales Hruska;0,05;Goalkeeper;Fc Viktoria Pilsen;63897;16
+Marek Matejovsky;0,05;Central Midfield;Fk Mlada Boleslav;26906;8
+Filip Slavicek;0,05;Right-Back;Sk Sigma Olmutz;724169;-
+Radek Lehovec;0,05;Midfielder;Fc Bohemians Prag 1905;714144;-
+Jan Sulc;0,05;Midfield;Fc Slovan Liberec;447930;-
+Matej Hadas;0,05;Centre-Forward;Sk Sigma Olmutz;652050;-
+Ameer Rayan;0,05;Left Winger;Fk Pardubice;929391;34
+Ricardo Pina;0,05;Midfield;Sk Sigma Olmutz;310691;-
+Nicolas Penner;0,05;Central Midfield;Sk Dynamo Ceske Budejovice;486628;9
+Daniel Kutik;0,05;Left-Back;Fc Hradec Kralove;724024;26
+Ladislav Dufek;0,05;Left Winger;Fk Mlada Boleslav;709931;15
+Ondrej Zahustel;0,05;Midfield;Fk Mlada Boleslav;143148;-
+Jachym Serak;0,025;Goalkeeper;Fk Mlada Boleslav;504138;1
+Adam Kadlec;0,025;Centre-Back;Fc Bohemians Prag 1905;889437;14
+Daniel Kerl;0,025;Goalkeeper;Sk Dynamo Ceske Budejovice;668571;33
+Michal Kincl;0,025;Midfield;Fk Jablonec;708319;-
+Adam Bednar;0,025;Centre-Back;Sk Sigma Olmutz;622284;-
+Juraj Teplan;0,025;Midfield;Mfk Karvina;728617;17
+Tadeas Vachousek;0,025;Centre-Forward;Fk Teplice;751680;14
+Matthias Leitl;0,025;Left-Back;Fk Mlada Boleslav;568331;5
+Marek Jaron;0,025;Midfield;Fc Banik Ostrau;922907;-
+Denis Vala;0,025;Right-Back;Fc Bohemians Prag 1905;620156;18
+Premysl Kovar;0,025;Goalkeeper;Sk Slavia Prag;70625;31
+Jakub Drobek;0,025;Goalkeeper;Mfk Karvina;668344;-
+Sebastian Bohac;0,025;Central Midfield;Fc Banik Ostrau;580154;-
+Ondrej Mach;0,025;Goalkeeper;Fc Hradec Kralove;688300;20
+Michal Smid;0,025;Centre-Back;Sk Slavia Prag;63050;-
+Krystof Obadal;0,025;Left-Back;Sk Slavia Prag;820609;-
+David Jurcenko;0,025;Centre-Forward;Fc Hradec Kralove;671522;27
+Josef Jindrisek;0,025;Defensive Midfield;Fc Bohemians Prag 1905;21040;4
+Andriy Yuzvak;0,025;Left-Back;Fc Slovan Liberec;755178;15
+Mohamed Yasser;0,01;Centre-Forward;Fk Teplice;975321;-

@@ -1,0 +1,633 @@
+Players;Values;POS;Team;ID;Num
+Erling Haaland;150,0;Centre-Forward;Borussia Dortmund;418560;9
+Christopher Nkunku;80,0;Striker;Rasenballsport Leipzig;344381;18
+Joshua Kimmich;80,0;Defensive Midfield;Fc Bayern Munchen;161056;6
+Jude Bellingham;80,0;Central Midfield;Borussia Dortmund;581678;22
+Florian Wirtz;70,0;Midfield;Bayer 04 Leverkusen;598577;27
+Alphonso Davies;70,0;Left-Back;Fc Bayern Munchen;424204;19
+Leon Goretzka;65,0;Central Midfield;Fc Bayern Munchen;153084;8
+Jamal Musiala;65,0;Midfield;Fc Bayern Munchen;580195;42
+Serge Gnabry;65,0;Right Winger;Fc Bayern Munchen;159471;7
+Moussa Diaby;60,0;Left Winger;Bayer 04 Leverkusen;395516;19
+Kingsley Coman;60,0;Right Winger;Fc Bayern Munchen;243714;11
+Leroy Sane;60,0;Right Winger;Fc Bayern Munchen;192565;10
+Lucas Hernandez;50,0;Centre-Back;Fc Bayern Munchen;281963;21
+Patrik Schick;50,0;Centre-Forward;Bayer 04 Leverkusen;242086;14
+Robert Lewandowski;45,0;Centre-Forward;Fc Bayern Munchen;38253;9
+Dayot Upamecano;40,0;Centre-Back;Fc Bayern Munchen;344695;2
+Dani Olmo;40,0;Midfield;Rasenballsport Leipzig;293385;25
+Josko Gvardiol;35,0;Centre-Back;Rasenballsport Leipzig;475959;32
+Niklas Sule;35,0;Centre-Back;Fc Bayern Munchen;166601;4
+Edmond Tapsoba;35,0;Centre-Back;Bayer 04 Leverkusen;564545;12
+Giovanni Reyna;35,0;Midfield;Borussia Dortmund;504215;7
+Nico Schlotterbeck;33,0;Centre-Back;Sc Freiburg;388198;4
+Andre Silva;32,0;Centre-Forward;Rasenballsport Leipzig;198008;33
+Evan Ndicka;32,0;Centre-Back;Eintracht Frankfurt;371149;2
+Benjamin Pavard;30,0;Right-Back;Fc Bayern Munchen;353366;5
+Angelino;30,0;Left-Back;Rasenballsport Leipzig;277179;3
+Matheus Cunha;30,0;Centre-Forward;Hertha Bsc;517894;10
+Manuel Akanji;30,0;Centre-Back;Borussia Dortmund;284730;16
+Dominik Szoboszlai;28,0;Midfield;Rasenballsport Leipzig;451276;17
+Konrad Laimer;28,0;Central Midfield;Rasenballsport Leipzig;223967;27
+Donyell Malen;27,0;Left Winger;Borussia Dortmund;326029;21
+Xaver Schlager;27,0;Central Midfield;Vfl Wolfsburg;223979;24
+Denis Zakaria;27,0;Defensive Midfield;Borussia Monchengladbach;334526;-
+Julian Brandt;25,0;Midfield;Borussia Dortmund;187492;19
+Raphael Guerreiro;25,0;Left-Back;Borussia Dortmund;170986;13
+Sasa Kalajdzic;25,0;Centre-Forward;Vfb Stuttgart;369567;9
+Jonathan Tah;25,0;Centre-Back;Bayer 04 Leverkusen;196357;4
+Amadou Haidara;24,0;Central Midfield;Rasenballsport Leipzig;402008;8
+Filip Kostic;24,0;Midfield;Eintracht Frankfurt;161011;10
+Borna Sosa;23,0;Left-Back;Vfb Stuttgart;293194;24
+Djibril Sow;22,0;Central Midfield;Eintracht Frankfurt;212723;8
+Thomas Muller;22,0;Striker;Fc Bayern Munchen;58358;25
+Mohamed Simakan;22,0;Centre-Back;Rasenballsport Leipzig;666234;2
+Gregor Kobel;22,0;Goalkeeper;Borussia Dortmund;257814;1
+Christoph Baumgartner;22,0;Midfield;Tsg 1899 Hoffenheim;324278;14
+Daichi Kamada;22,0;Midfield;Eintracht Frankfurt;356141;15
+Sardar Azmoun;22,0;Centre-Forward;Bayer 04 Leverkusen;180337;9
+Taiwo Awoniyi;20,0;Centre-Forward;1 Fc Union Berlin;295313;14
+Ridle Baku;20,0;Right-Back;Vfl Wolfsburg;327251;20
+Odilon Kossounou;20,0;Centre-Back;Bayer 04 Leverkusen;644771;6
+Florian Neuhaus;20,0;Central Midfield;Borussia Monchengladbach;278332;32
+Rafael Borre;20,0;Forward;Eintracht Frankfurt;323831;19
+Marcus Thuram;20,0;Centre-Forward;Borussia Monchengladbach;318528;10
+Maxence Lacroix;20,0;Centre-Back;Vfl Wolfsburg;434224;4
+David Raum;20,0;Left-Back;Tsg 1899 Hoffenheim;318204;17
+Nordi Mukiele;20,0;Right-Back;Rasenballsport Leipzig;348026;22
+Jeremie Frimpong;20,0;Right-Back;Bayer 04 Leverkusen;484547;30
+Nico Elvedi;18,0;Centre-Back;Borussia Monchengladbach;192635;30
+Mahmoud Dahoud;18,0;Central Midfield;Borussia Dortmund;191422;8
+Manu Kone;18,0;Midfield;Borussia Monchengladbach;624690;17
+Lukas Klostermann;18,0;Right-Back;Rasenballsport Leipzig;215599;16
+Philipp Lienhart;18,0;Centre-Back;Sc Freiburg;225657;3
+Lukas Nmecha;18,0;Centre-Forward;Vfl Wolfsburg;314288;10
+Matthias Ginter;18,0;Centre-Back;Borussia Monchengladbach;124502;28
+Moussa Niakhate;18,0;Centre-Back;1 Fsv Mainz 05;291200;19
+Jesper Lindstrom;17,0;Midfield;Eintracht Frankfurt;513245;29
+Ramy Bensebaini;17,0;Left-Back;Borussia Monchengladbach;284732;25
+Jonathan Burkardt;17,0;Centre-Forward;1 Fsv Mainz 05;333647;29
+Piero Hincapie;17,0;Centre-Back;Bayer 04 Leverkusen;659813;33
+Tyler Adams;17,0;Defensive Midfield;Rasenballsport Leipzig;332705;14
+Maximilian Arnold;17,0;Central Midfield;Vfl Wolfsburg;117674;27
+Hee-chan Hwang;16,0;Centre-Forward;Rasenballsport Leipzig;292246;-
+Georginio Rutter;16,0;Centre-Forward;Tsg 1899 Hoffenheim;538977;33
+Ihlas Bebou;16,0;Centre-Forward;Tsg 1899 Hoffenheim;237164;9
+Jeremiah St. Juste;16,0;Centre-Back;1 Fsv Mainz 05;288253;4
+Emre Can;16,0;Defensive Midfield;Borussia Dortmund;119296;23
+Florian Grillitsch;16,0;Defensive Midfield;Tsg 1899 Hoffenheim;195736;11
+Diadie Samassekou;16,0;Midfield;Tsg 1899 Hoffenheim;315604;18
+Exequiel Palacios;15,0;Central Midfield;Bayer 04 Leverkusen;401578;25
+Kerem Demirbay;15,0;Central Midfield;Bayer 04 Leverkusen;125858;10
+Silas;15,0;Right Winger;Vfb Stuttgart;612826;14
+Orel Mangala;15,0;Central Midfield;Vfb Stuttgart;289592;23
+Konstantinos Mavropanos;15,0;Centre-Back;Vfb Stuttgart;415912;5
+Josip Brekalo;15,0;Left Winger;Vfl Wolfsburg;293169;-
+Alassane Plea;15,0;Left Winger;Borussia Monchengladbach;167329;14
+Youssoufa Moukoko;15,0;Centre-Forward;Borussia Dortmund;467720;18
+Manuel Neuer;15,0;Goalkeeper;Fc Bayern Munchen;17259;1
+Breel Embolo;15,0;Centre-Forward;Borussia Monchengladbach;237662;36
+Marcel Sabitzer;15,0;Central Midfield;Fc Bayern Munchen;106987;18
+Corentin Tolisso;15,0;Central Midfield;Fc Bayern Munchen;190393;24
+Thorgan Hazard;15,0;Left Winger;Borussia Dortmund;102226;10
+Benjamin Henrichs;14,0;Right-Back;Rasenballsport Leipzig;202591;39
+Yussuf Poulsen;14,0;Centre-Forward;Rasenballsport Leipzig;157635;9
+Jonas Wind;14,0;Centre-Forward;Vfl Wolfsburg;391004;23
+Wout Weghorst;14,0;Centre-Forward;Vfl Wolfsburg;228645;-
+Baptiste Santamaria;14,0;Central Midfield;Sc Freiburg;285323;-
+Mitchel Bakker;14,0;Left-Back;Bayer 04 Leverkusen;361065;5
+Jonas Hofmann;13,0;Right Winger;Borussia Monchengladbach;7161;23
+Tuta;13,0;Centre-Back;Eintracht Frankfurt;546213;35
+Anton Stach;13,0;Defensive Midfield;1 Fsv Mainz 05;344069;6
+Robert Andrich;13,0;Central Midfield;1 Fc Union Berlin;159088;-
+Ellyes Skhiri;13,0;Defensive Midfield;1 Fc Koln;290587;28
+Salih Ozcan;13,0;Midfield;1 Fc Koln;244940;6
+Roland Sallai;12,0;Right Winger;Sc Freiburg;332798;22
+Amine Adli;12,0;Right Winger;Bayer 04 Leverkusen;532776;31
+Reece Oxford;12,0;Centre-Back;Fc Augsburg;314295;4
+Vincenzo Grifo;12,0;Left Winger;Sc Freiburg;185077;32
+Christian Gunter;12,0;Centre-Back;Sc Freiburg;93707;30
+Krzysztof Piatek;12,0;Centre-Forward;Hertha Bsc;327757;9
+Andrej Kramaric;12,0;Centre-Forward;Tsg 1899 Hoffenheim;46580;27
+Marco Reus;11,0;Midfield;Borussia Dortmund;35207;11
+Paulinho;11,0;Left Winger;Bayer 04 Leverkusen;428791;7
+Koen Casteels;11,0;Goalkeeper;Vfl Wolfsburg;108880;1
+Emil Forsberg;11,0;Left Winger;Rasenballsport Leipzig;111078;10
+Stefan Posch;10,0;Centre-Back;Tsg 1899 Hoffenheim;223974;38
+Willi Orban;10,0;Centre-Back;Rasenballsport Leipzig;93740;4
+Armel Bella-Kotchap;10,0;Centre-Back;Vfl Bochum;467563;37
+Sebastiaan Bornauw;10,0;Centre-Back;Vfl Wolfsburg;338629;3
+Felix Uduokhai;10,0;Centre-Back;Fc Augsburg;278343;19
+Aster Vranckx;10,0;Central Midfield;Vfl Wolfsburg;503881;8
+Niklas Dorsch;10,0;Defensive Midfield;Fc Augsburg;251302;30
+Ansgar Knauff;10,0;Right Winger;Eintracht Frankfurt;429874;36
+Ricardo Pepi;9,0;Centre-Forward;Fc Augsburg;627207;18
+Brian Brobbey;9,0;Centre-Forward;Rasenballsport Leipzig;473169;-
+Ilaix Moriba;9,0;Central Midfield;Rasenballsport Leipzig;617074;-
+Lucas Tousart;9,0;Defensive Midfield;Hertha Bsc;353948;29
+Dan-Axel Zagadou;9,0;Centre-Back;Borussia Dortmund;344598;5
+Kristijan Jakic;9,0;Defensive Midfield;Eintracht Frankfurt;374954;6
+Kevin Mbabu;9,0;Right-Back;Vfl Wolfsburg;183321;19
+Dennis Geiger;9,0;Central Midfield;Tsg 1899 Hoffenheim;251309;8
+Martin Hinteregger;9,0;Centre-Back;Eintracht Frankfurt;85789;13
+Tanguy Nianzou;9,0;Centre-Back;Fc Bayern Munchen;538996;23
+Patrick Wimmer;8,0;Right Winger;Arminia Bielefeld;533295;20
+Peter Gulacsi;8,0;Goalkeeper;Rasenballsport Leipzig;57071;1
+Wataru Endo;8,0;Defensive Midfield;Vfb Stuttgart;146310;3
+Leandro Barreiro;8,0;Central Midfield;1 Fsv Mainz 05;357233;8
+Nadiem Amiri;8,0;Central Midfield;Bayer 04 Leverkusen;232454;-
+Reinier;8,0;Midfield;Borussia Dortmund;627226;20
+Suat Serdar;8,0;Central Midfield;Hertha Bsc;261905;8
+Maximilian Eggestein;8,0;Central Midfield;Sc Freiburg;190284;8
+Ruben Vargas;8,0;Left Winger;Fc Augsburg;345886;16
+Jens Petter Hauge;8,0;Right Winger;Eintracht Frankfurt;422355;23
+Marvin Friedrich;8,0;Centre-Back;1 Fc Union Berlin;196231;-
+Lucas Alario;8,0;Centre-Forward;Bayer 04 Leverkusen;193782;13
+Joe Scally;8,0;Right-Back;Borussia Monchengladbach;504153;29
+Grischa Promel;7,5;Midfield;1 Fc Union Berlin;234029;21
+Dejan Ljubicic;7,5;Defensive Midfield;1 Fc Koln;287188;7
+Dodi Lukebakio;7,5;Left Winger;Vfl Wolfsburg;303259;28
+Jan Thielmann;7,5;Right Winger;1 Fc Koln;472249;29
+Timo Hubers;7,5;Centre-Back;1 Fc Koln;236981;4
+Chris Richards;7,5;Centre-Back;Tsg 1899 Hoffenheim;578539;28
+Kevin Trapp;7,0;Goalkeeper;Eintracht Frankfurt;45672;1
+John Anthony Brooks;7,0;Centre-Back;Vfl Wolfsburg;124732;25
+Thomas Delaney;7,0;Central Midfield;Borussia Dortmund;91849;-
+Sheraldo Becker;7,0;Striker;1 Fc Union Berlin;188888;27
+Tiago Tomas;7,0;Forward;Vfb Stuttgart;616344;18
+Luca Waldschmidt;7,0;Striker;Vfl Wolfsburg;196095;7
+Kevin Schade;7,0;Right Winger;Sc Freiburg;473050;20
+Mark Flekken;7,0;Goalkeeper;Sc Freiburg;125714;26
+Omar Richards;7,0;Left-Back;Fc Bayern Munchen;424881;3
+Angelo Stiller;7,0;Defensive Midfield;Tsg 1899 Hoffenheim;443710;13
+Robert Skov;7,0;Midfield;Tsg 1899 Hoffenheim;270393;29
+Marc Roca;7,0;Defensive Midfield;Fc Bayern Munchen;336869;22
+Lucas Holer;6,5;Forward;Sc Freiburg;248999;9
+Mats Hummels;6,5;Centre-Back;Borussia Dortmund;39728;15
+Marius Wolf;6,5;Right-Back;Borussia Dortmund;193900;39
+Santiago Ascacibar;6,5;Midfield;Hertha Bsc;423436;18
+Thomas Meunier;6,5;Right-Back;Borussia Dortmund;100986;24
+Luca Netz;6,5;Left-Back;Borussia Monchengladbach;524285;20
+Niklas Stark;6,5;Centre-Back;Hertha Bsc;162434;5
+Kevin Kampl;6,0;Central Midfield;Rasenballsport Leipzig;53418;44
+Javairo Dilrosun;6,0;Left Winger;Hertha Bsc;315125;16
+Kevin Akpoguma;6,0;Centre-Back;Tsg 1899 Hoffenheim;160241;25
+Jacob Bruun Larsen;6,0;Left Winger;Tsg 1899 Hoffenheim;293281;7
+Stefan Ortega;6,0;Goalkeeper;Arminia Bielefeld;85941;1
+Yannick Gerhardt;6,0;Central Midfield;Vfl Wolfsburg;119277;31
+Marco Richter;6,0;Right Winger;Hertha Bsc;279009;23
+Paulo Otavio;6,0;Left-Back;Vfl Wolfsburg;221611;6
+Ermedin Demirovic;6,0;Centre-Forward;Sc Freiburg;335457;11
+Marin Pongracic;6,0;Centre-Back;Vfl Wolfsburg;282144;-
+Rani Khedira;6,0;Defensive Midfield;1 Fc Union Berlin;124410;8
+Waldemar Anton;6,0;Centre-Back;Vfb Stuttgart;193004;2
+Omar Marmoush;6,0;Left Winger;Vfb Stuttgart;445939;17
+Woo-yeong Jeong;5,5;Striker;Sc Freiburg;297583;29
+Florian Muller;5,5;Goalkeeper;Vfb Stuttgart;284769;1
+Hugo Siquet;5,5;Right-Back;Sc Freiburg;578680;2
+Iago;5,5;Left-Back;Fc Augsburg;520468;22
+Arne Maier;5,5;Central Midfield;Fc Augsburg;296397;10
+Paul Jaeckel;5,0;Centre-Back;1 Fc Union Berlin;284248;3
+Robin Knoche;5,0;Centre-Back;1 Fc Union Berlin;94201;31
+Hannes Wolf;5,0;Midfield;Borussia Monchengladbach;321070;-
+Masaya Okugawa;5,0;Midfield;Arminia Bielefeld;307052;11
+Maxim Leitsch;5,0;Centre-Back;Vfl Bochum;334207;29
+Timo Baumgartl;5,0;Centre-Back;1 Fc Union Berlin;187491;25
+Robin Zentner;5,0;Goalkeeper;1 Fsv Mainz 05;160963;27
+Yann Sommer;5,0;Goalkeeper;Borussia Monchengladbach;42205;1
+Amos Pieper;5,0;Centre-Back;Arminia Bielefeld;334221;2
+Dominik Kohr;5,0;Central Midfield;1 Fsv Mainz 05;118847;31
+Lukas Hradecky;5,0;Goalkeeper;Bayer 04 Leverkusen;48015;1
+Marcel Halstenberg;5,0;Left-Back;Rasenballsport Leipzig;70243;23
+Wendell;5,0;Left-Back;Bayer 04 Leverkusen;228433;-
+Marton Dardai;5,0;Centre-Back;Hertha Bsc;432281;31
+Pavel Kaderabek;5,0;Right-Back;Tsg 1899 Hoffenheim;143798;3
+Kevin Paredes;5,0;Midfield;Vfl Wolfsburg;711517;40
+Aaron Martin;5,0;Left-Back;1 Fsv Mainz 05;251878;3
+Silvan Widmer;5,0;Right-Back;1 Fsv Mainz 05;168989;30
+Jordan Torunarigha;5,0;Centre-Back;Hertha Bsc;227110;25
+Jordan Beyer;4,5;Centre-Back;Borussia Monchengladbach;403898;15
+Gerrit Holtmann;4,5;Left Winger;Vfl Bochum;190289;17
+Linus Gechter;4,5;Centre-Back;Hertha Bsc;692734;44
+Atakan Karazor;4,5;Defensive Midfield;Vfb Stuttgart;232320;16
+Stefan Lainer;4,5;Right-Back;Borussia Monchengladbach;85791;18
+Oliver Baumann;4,5;Goalkeeper;Tsg 1899 Hoffenheim;55089;1
+Maximilian Philipp;4,5;Striker;Vfl Wolfsburg;143891;17
+Michael Gregoritsch;4,5;Centre-Forward;Fc Augsburg;120205;11
+Luca Kilian;4,5;Centre-Back;1 Fsv Mainz 05;384553;15
+Maximilian Mittelstadt;4,5;Left-Back;Hertha Bsc;282660;17
+Hiroki Ito;4,5;Centre-Back;Vfb Stuttgart;353892;37
+Jerome Roussillon;4,5;Left-Back;Vfl Wolfsburg;127076;15
+Jamie Leweling;4,5;Striker;Spvgg Greuther Furth;518505;40
+Marc Oliver Kempf;4,5;Centre-Back;Vfb Stuttgart;160938;-
+Julian Ryerson;4,0;Right-Back;1 Fc Union Berlin;370789;6
+Timothy Fosu-Mensah;4,0;Right-Back;Bayer 04 Leverkusen;315131;24
+Mateu Morey Bauza;4,0;Left-Back;Borussia Dortmund;388513;2
+Marvin Schwabe;4,0;Goalkeeper;1 Fc Koln;160929;20
+Chris Fuhrich;4,0;Right Winger;Vfb Stuttgart;272278;22
+Micky van de Ven;4,0;Centre-Back;Vfl Wolfsburg;557459;5
+Josip Stanisic;4,0;Right-Back;Fc Bayern Munchen;483046;44
+Elvis Rexhbecaj;4,0;Central Midfield;Vfl Bochum;280575;20
+Yannik Keitel;4,0;Defensive Midfield;Sc Freiburg;342039;14
+Nico Schulz;4,0;Left-Back;Borussia Dortmund;85867;14
+Daley Sinkgraven;4,0;Left-Back;Bayer 04 Leverkusen;215099;22
+Christopher Lenz;4,0;Left-Back;Eintracht Frankfurt;159844;25
+Ondrej Duda;4,0;Midfield;1 Fc Koln;232418;18
+Jean-Paul Boetius;4,0;Midfield;1 Fsv Mainz 05;182574;5
+Bartosz Bialek;4,0;Centre-Forward;Vfl Wolfsburg;535551;21
+Axel Witsel;4,0;Defensive Midfield;Borussia Dortmund;35047;28
+Michael Cuisance;4,0;Central Midfield;Fc Bayern Munchen;344600;-
+Munas Dabbur;4,0;Centre-Forward;Tsg 1899 Hoffenheim;145866;10
+Jamie Bynoe-Gittens;4,0;Right Winger;Borussia Dortmund;670882;43
+Florian Kainz;3,5;Left Winger;1 Fc Koln;106270;11
+Josuha Guilavogui;3,5;Defensive Midfield;Vfl Wolfsburg;93704;-
+Joakim Nilsson;3,5;Centre-Back;Arminia Bielefeld;216804;4
+Jurgen Ekkelenkamp;3,5;Central Midfield;Hertha Bsc;361068;10
+Karim Onisiwo;3,5;Centre-Forward;1 Fsv Mainz 05;119234;9
+Jeffrey Gouweleeuw;3,5;Centre-Back;Fc Augsburg;106405;6
+Charles Aranguiz;3,5;Midfield;Bayer 04 Leverkusen;89701;20
+Jonas Hector;3,5;Left-Back;1 Fc Koln;108537;14
+Max Kruse;3,5;Striker;Vfl Wolfsburg;36182;9
+Almamy Toure;3,5;Centre-Back;Eintracht Frankfurt;216181;18
+Kevin Vogt;3,5;Centre-Back;Tsg 1899 Hoffenheim;84435;22
+Janik Haberer;3,5;Central Midfield;Sc Freiburg;177779;19
+Sargis Adamyan;3,5;Centre-Forward;Tsg 1899 Hoffenheim;125614;-
+Dedryck Boyata;3,5;Centre-Back;Hertha Bsc;88262;4
+Cedric Brunner;3,2;Right-Back;Arminia Bielefeld;147038;27
+Carlos Gruezo;3,2;Defensive Midfield;Fc Augsburg;189475;8
+Hugo Novoa;3,0;Right Winger;Rasenballsport Leipzig;668276;38
+Justin Che;3,0;Right-Back;Tsg 1899 Hoffenheim;796429;24
+Karim Bellarabi;3,0;Right Winger;Bayer 04 Leverkusen;61087;38
+Keven Schlotterbeck;3,0;Centre-Back;Sc Freiburg;413843;31
+Eric Maxim Choupo-Moting;3,0;Centre-Forward;Fc Bayern Munchen;45660;13
+Ajdin Hrustic;3,0;Midfield;Eintracht Frankfurt;265625;7
+Goncalo Paciencia;3,0;Forward;Eintracht Frankfurt;181547;39
+Sam Lammers;3,0;Centre-Forward;Eintracht Frankfurt;386914;9
+Laszlo Benes;3,0;Midfield;Borussia Monchengladbach;243188;22
+Wahid Faghir;3,0;Centre-Forward;Vfb Stuttgart;610431;19
+Maximilian Beier;3,0;Centre-Forward;Tsg 1899 Hoffenheim;578392;-
+George Bello;3,0;Left-Back;Arminia Bielefeld;504147;24
+Mark Uth;3,0;Centre-Forward;1 Fc Koln;112935;13
+Alexander Schwolow;3,0;Goalkeeper;Hertha Bsc;93763;1
+Benno Schmitz;3,0;Right-Back;1 Fc Koln;160968;2
+Gabriel Vidovic;3,0;Midfield;Fc Bayern Munchen;604327;-
+Jae-sung Lee;3,0;Midfield;1 Fsv Mainz 05;314398;7
+Takuma Asano;3,0;Right Winger;Vfl Bochum;245744;10
+Deyovaisio Zeefuik;3,0;Right-Back;Hertha Bsc;338032;42
+Myziane Maolida;3,0;Left Winger;Hertha Bsc;371142;11
+Anthony Modeste;3,0;Centre-Forward;1 Fc Koln;50512;27
+Panagiotis Retsos;2,8;Centre-Back;Bayer 04 Leverkusen;324351;-
+Nicolas Hofler;2,5;Midfield;Sc Freiburg;55099;27
+Marcus Ingvartsen;2,5;Centre-Forward;1 Fsv Mainz 05;269878;11
+Fredrik Bjorkan;2,5;Left-Back;Hertha Bsc;364938;3
+Alexander Hack;2,5;Centre-Back;1 Fsv Mainz 05;126281;42
+Stefan Bell;2,5;Centre-Back;1 Fsv Mainz 05;82350;16
+Alessandro Schopf;2,5;Midfield;Arminia Bielefeld;118397;8
+Mijat Gacinovic;2,5;Midfield;Tsg 1899 Hoffenheim;215864;-
+Bouna Sarr;2,5;Right-Back;Fc Bayern Munchen;190685;20
+Lars Stindl;2,5;Midfield;Borussia Monchengladbach;48298;13
+Genki Haraguchi;2,5;Midfield;1 Fc Union Berlin;79377;24
+Stevan Jovetic;2,5;Centre-Forward;Hertha Bsc;46104;19
+Christoph Kramer;2,5;Defensive Midfield;Borussia Monchengladbach;82097;6
+Dominique Heintz;2,5;Centre-Back;1 Fc Union Berlin;110036;33
+Marco John;2,5;Left-Back;Tsg 1899 Hoffenheim;450234;30
+Robert Gumny;2,5;Right-Back;Fc Augsburg;353826;2
+Joel Pohjanpalo;2,5;Centre-Forward;Bayer 04 Leverkusen;173491;-
+Philipp Forster;2,5;Midfield;Vfb Stuttgart;179635;20
+Steven Zuber;2,5;Left Winger;Eintracht Frankfurt;68033;11
+Andrey Lunev;2,5;Goalkeeper;Bayer 04 Leverkusen;112541;40
+Sebastian Rode;2,5;Central Midfield;Eintracht Frankfurt;44466;17
+Erhan Masovic;2,5;Centre-Back;Vfl Bochum;343959;4
+William;2,5;Right-Back;Vfl Wolfsburg;341710;2
+Tanguy Coulibaly;2,5;Left Winger;Vfb Stuttgart;618425;7
+Jorge Mere;2,5;Centre-Back;1 Fc Koln;286779;-
+Patrick Herrmann;2,3;Right Winger;Borussia Monchengladbach;32711;7
+Tymoteusz Puchacz;2,3;Left-Back;1 Fc Union Berlin;361575;-
+Lukas Kubler;2,3;Right-Back;Sc Freiburg;93604;17
+Andi Zeqiri;2,3;Centre-Forward;Fc Augsburg;345468;21
+Lennart Czyborra;2,3;Left-Back;Arminia Bielefeld;309393;-
+David Nemeth;2,3;Centre-Back;1 Fsv Mainz 05;451906;34
+Niko Giesselmann;2,3;Left-Back;1 Fc Union Berlin;72792;23
+Danny da Costa;2,3;Right-Back;Eintracht Frankfurt;85906;24
+Ishak Belfodil;2,2;Centre-Forward;Hertha Bsc;111039;14
+Danilo Soares;2,2;Left-Back;Vfl Bochum;154396;3
+Vladimir Darida;2,2;Central Midfield;Hertha Bsc;179643;6
+Josep Martinez;2,2;Goalkeeper;Rasenballsport Leipzig;388516;31
+Florian Niederlechner;2,2;Centre-Forward;Fc Augsburg;152963;7
+Paul Seguin;2,2;Central Midfield;Spvgg Greuther Furth;183780;33
+Sebastian Polter;2,2;Centre-Forward;Vfl Bochum;60957;40
+Milos Pantovic;2,2;Midfield;Vfl Bochum;232144;27
+Marvin Plattenhardt;2,0;Left-Back;Hertha Bsc;89592;21
+Marco Meyerhofer;2,0;Right-Back;Spvgg Greuther Furth;196084;18
+Andras Schafer;2,0;Midfield;1 Fc Union Berlin;454863;13
+Mads Pedersen;2,0;Left-Back;Fc Augsburg;288429;3
+Jessic Ngankam;2,0;Centre-Forward;Spvgg Greuther Furth;448177;17
+Cedric Itten;2,0;Centre-Forward;Spvgg Greuther Furth;243856;19
+Paul Wanner;2,0;Midfield;Fc Bayern Munchen;900909;14
+Felix Nmecha;2,0;Midfield;Vfl Wolfsburg;406640;22
+Robin Hack;2,0;Left Winger;Arminia Bielefeld;284010;21
+Jurgen Locadia;2,0;Centre-Forward;Vfl Bochum;166240;19
+Andre Hahn;2,0;Right Winger;Fc Augsburg;42783;28
+Renato Steffen;2,0;Right Winger;Vfl Wolfsburg;194638;11
+Andres Andrade;2,0;Centre-Back;Arminia Bielefeld;403808;30
+Eduard Lowen;2,0;Midfield;Vfl Bochum;260655;38
+Sebastian Andersson;2,0;Centre-Forward;1 Fc Koln;147573;9
+Zidan Sertdemir;2,0;Central Midfield;Bayer 04 Leverkusen;788445;29
+Roberto Massimo;2,0;Left Winger;Vfb Stuttgart;431561;30
+Delano Burgzorg;2,0;Left Winger;1 Fsv Mainz 05;436585;37
+Frederik Ronnow;2,0;Goalkeeper;1 Fc Union Berlin;107775;19
+Tim Lemperle;2,0;Centre-Forward;1 Fc Koln;553285;25
+Timo Horn;2,0;Goalkeeper;1 Fc Koln;84938;1
+Mateo Klimowicz;2,0;Midfield;Vfb Stuttgart;540302;31
+Guilherme Ramos;2,0;Centre-Back;Arminia Bielefeld;340521;3
+Enzo Millot;2,0;Central Midfield;Vfb Stuttgart;569366;8
+Julian Chabot;2,0;Centre-Back;1 Fc Koln;303219;24
+Branimir Hrgota;2,0;Centre-Forward;Spvgg Greuther Furth;171209;10
+Edimilson Fernandes;2,0;Central Midfield;1 Fsv Mainz 05;247555;20
+Timothy Tillman;1,8;Central Midfield;Spvgg Greuther Furth;310662;21
+Jannes Horn;1,8;Left-Back;1 Fc Koln;231586;23
+Aymen Barkok;1,8;Central Midfield;Eintracht Frankfurt;315332;27
+Nikolas Nartey;1,8;Central Midfield;Vfb Stuttgart;400546;28
+Anderson Lucoqui;1,8;Left-Back;1 Fsv Mainz 05;240274;23
+Erik Thommy;1,8;Midfield;Vfb Stuttgart;156779;11
+Konstantinos Stafylidis;1,8;Left-Back;Vfl Bochum;148967;16
+Manuel Prietl;1,8;Defensive Midfield;Arminia Bielefeld;152317;19
+Florian Kruger;1,8;Forward;Arminia Bielefeld;317740;18
+Sebastian Vasiliadis;1,8;Central Midfield;Arminia Bielefeld;333516;39
+Louis Schaub;1,8;Midfield;1 Fc Koln;147485;21
+Janni Serra;1,8;Centre-Forward;Arminia Bielefeld;294534;23
+Davie Selke;1,8;Centre-Forward;Hertha Bsc;178459;7
+Marcel Hartel;1,8;Central Midfield;Arminia Bielefeld;189073;-
+Jacob Barrett Laursen;1,7;Left-Back;Arminia Bielefeld;185164;5
+Noah Weisshaupt;1,7;Left Winger;Sc Freiburg;392163;33
+Noah Katterbach;1,7;Left-Back;1 Fc Koln;469949;-
+Manuel Gulde;1,7;Centre-Back;Sc Freiburg;45683;5
+Maximilian Bauer;1,6;Centre-Back;Spvgg Greuther Furth;388363;4
+Mike van der Hoorn;1,6;Centre-Back;Arminia Bielefeld;187105;-
+Kevin Stoger;1,6;Midfield;1 Fsv Mainz 05;106872;22
+Jeremy Dudziak;1,6;Midfield;Spvgg Greuther Furth;147359;28
+Naouirou Ahamada;1,5;Central Midfield;Vfb Stuttgart;538971;32
+Levin Oztunali;1,5;Midfield;1 Fc Union Berlin;168543;7
+Mitchell Weiser;1,5;Right-Back;Bayer 04 Leverkusen;119211;-
+Luca Itter;1,5;Left-Back;Spvgg Greuther Furth;296378;27
+Steffen Tigges;1,5;Centre-Forward;Borussia Dortmund;296879;27
+Felix Passlack;1,5;Right-Back;Borussia Dortmund;274461;30
+Pascal Stenzel;1,5;Right-Back;Vfb Stuttgart;195246;15
+Ragnar Ache;1,5;Centre-Forward;Eintracht Frankfurt;416380;21
+Amin Younes;1,5;Left Winger;Eintracht Frankfurt;96167;32
+Sebastian Rudy;1,5;Defensive Midfield;Tsg 1899 Hoffenheim;57051;16
+Roman Burki;1,5;Goalkeeper;Borussia Dortmund;59027;38
+Luca Unbehaun;1,5;Goalkeeper;Borussia Dortmund;388815;25
+Kiliann Sildillia;1,5;Right-Back;Sc Freiburg;548348;25
+Raphael Framberger;1,5;Right-Back;Fc Augsburg;146163;32
+Finn Dahmen;1,5;Goalkeeper;1 Fsv Mainz 05;251299;1
+Oliver Christensen;1,5;Goalkeeper;Hertha Bsc;471936;32
+Fredrik Jensen;1,5;Midfield;Fc Augsburg;249157;24
+Malik Tillman;1,5;Midfield;Fc Bayern Munchen;467437;40
+Niklas Tauer;1,5;Defensive Midfield;1 Fsv Mainz 05;470815;25
+Kevin Mohwald;1,5;Midfield;1 Fc Union Berlin;94137;30
+Burak Ince;1,5;Central Midfield;Arminia Bielefeld;697144;17
+Max Christiansen;1,5;Defensive Midfield;Spvgg Greuther Furth;192300;13
+Noah Atubolu;1,5;Goalkeeper;Sc Freiburg;526845;21
+Nils Petersen;1,5;Centre-Forward;Sc Freiburg;42936;18
+Rick van Drongelen;1,5;Centre-Back;1 Fc Union Berlin;354340;-
+Marcel Lotka;1,3;Goalkeeper;Hertha Bsc;453737;37
+Darko Churlinov;1,3;Left Winger;Vfb Stuttgart;386786;-
+Kingsley Ehizibue;1,3;Right-Back;1 Fc Koln;272812;19
+Bright Arrey-Mbi;1,3;Centre-Back;1 Fc Koln;580193;5
+Paul Nebel;1,3;Right Winger;1 Fsv Mainz 05;503160;26
+Tom Rothe;1,2;Left-Back;Borussia Dortmund;798043;36
+Lukas Klunter;1,2;Right-Back;Hertha Bsc;282577;13
+Emrehan Gedikli;1,2;Centre-Forward;Bayer 04 Leverkusen;580276;-
+Manuel Riemann;1,2;Goalkeeper;Vfl Bochum;40792;1
+Sven Michel;1,2;Centre-Forward;1 Fc Union Berlin;186988;10
+Alexis Tibidi;1,2;Left Winger;Vfb Stuttgart;750886;-
+Kelian Nsona;1,2;Right Winger;Hertha Bsc;569368;28
+Pawel Wszolek;1,2;Midfield;1 Fc Union Berlin;164759;-
+Dong-jun Lee;1,2;Right Winger;Hertha Bsc;269601;30
+Melayro Bogarde;1,2;Defensive Midfield;Tsg 1899 Hoffenheim;476915;-
+Rafal Gikiewicz;1,2;Goalkeeper;Fc Augsburg;78339;1
+Timothy Chandler;1,2;Right-Back;Eintracht Frankfurt;49723;22
+Erik Durm;1,2;Right-Back;Eintracht Frankfurt;93922;37
+Nemanja Motika;1,2;Left Winger;Fc Bayern Munchen;604323;-
+Andreas Voglsammer;1,2;Centre-Forward;1 Fc Union Berlin;94771;9
+Jonathan Schmid;1,2;Right-Back;Sc Freiburg;70285;7
+Simon Zoller;1,1;Centre-Forward;Vfl Bochum;79967;9
+Lasse Gunther;1,0;Left-Back;Fc Augsburg;522245;29
+Iker Bravo;1,0;Centre-Forward;Bayer 04 Leverkusen;741292;28
+Philipp Klement;1,0;Midfield;Vfb Stuttgart;60394;-
+Mohamed Sankoh;1,0;Centre-Forward;Vfb Stuttgart;572919;44
+Tomas Koubek;1,0;Goalkeeper;Fc Augsburg;146714;40
+Frederik Winther;1,0;Centre-Back;Fc Augsburg;569349;26
+Fabian Kunze;1,0;Defensive Midfield;Arminia Bielefeld;334186;16
+Rafael Czichos;1,0;Centre-Back;1 Fc Koln;84150;-
+Havard Nordtveit;1,0;Centre-Back;Tsg 1899 Hoffenheim;42234;6
+Noah Joel Sarenren Bazee;1,0;Right Winger;Fc Augsburg;283001;17
+Sergio Cordova;1,0;Forward;Fc Augsburg;377387;9
+Lucas Copado;1,0;Centre-Forward;Fc Bayern Munchen;636898;-
+Havard Nielsen;1,0;Centre-Forward;Spvgg Greuther Furth;136181;16
+Kasim Adams;1,0;Centre-Back;Tsg 1899 Hoffenheim;263801;15
+Marwin Hitz;1,0;Goalkeeper;Borussia Dortmund;59238;35
+Clinton Mola;1,0;Defensive Midfield;Vfb Stuttgart;470594;6
+Omer Beyaz;1,0;Midfield;Vfb Stuttgart;588020;34
+Stefan Ilsanker;1,0;Defensive Midfield;Eintracht Frankfurt;40074;3
+Tobias Raschl;1,0;Central Midfield;Spvgg Greuther Furth;384745;20
+Admir Mehmedi;1,0;Striker;Vfl Wolfsburg;66058;-
+Jetro Willems;1,0;Left-Back;Spvgg Greuther Furth;146258;15
+Justin Hoogma;1,0;Centre-Back;Spvgg Greuther Furth;411287;5
+Julian Green;1,0;Central Midfield;Spvgg Greuther Furth;161204;37
+Ermin Bicakcic;1,0;Centre-Back;Tsg 1899 Hoffenheim;51676;4
+Keanan Bennetts;1,0;Midfield;Borussia Monchengladbach;321096;37
+Bryan Lasme;1,0;Centre-Forward;Arminia Bielefeld;477109;10
+Abdoulaye Kamara;1,0;Defensive Midfield;Borussia Dortmund;718232;32
+Tom Bischof;1,0;Midfield;Tsg 1899 Hoffenheim;822959;39
+Jamie Lawrence;1,0;Centre-Back;Fc Bayern Munchen;522248;-
+Lennart Grill;1,0;Goalkeeper;Bayer 04 Leverkusen;309397;21
+Taylor Booth;1,0;Central Midfield;Fc Bayern Munchen;513963;-
+Afimico Pululu;1,0;Centre-Forward;Spvgg Greuther Furth;410649;9
+Christopher Antwi-Adjei;1,0;Left Winger;Vfl Bochum;289182;22
+Benjamin Hubner;1,0;Centre-Back;Tsg 1899 Hoffenheim;52348;21
+Matej Maglica;0,9;Centre-Back;Vfb Stuttgart;433388;-
+Simon Asta;0,9;Right-Back;Spvgg Greuther Furth;392131;2
+Sven Ulreich;0,9;Goalkeeper;Fc Bayern Munchen;40680;26
+Tobias Strobl;0,9;Defensive Midfield;Fc Augsburg;57845;5
+Kevin-Prince Boateng;0,9;Midfield;Hertha Bsc;16922;27
+Keita Endo;0,9;Midfield;1 Fc Union Berlin;421726;18
+Patrick Osterhage;0,9;Central Midfield;Vfl Bochum;443331;6
+Kevin Behrens;0,9;Centre-Forward;1 Fc Union Berlin;117432;17
+Christopher Trimmel;0,9;Right-Back;1 Fc Union Berlin;75921;28
+Cedric Teuchert;0,9;Centre-Forward;1 Fc Union Berlin;207597;-
+Andreas Linde;0,9;Goalkeeper;Spvgg Greuther Furth;199221;26
+Daniel Ginczek;0,9;Centre-Forward;Vfl Wolfsburg;79501;-
+Kingsley Schindler;0,8;Right-Back;1 Fc Koln;153678;17
+Andreas Luthe;0,8;Goalkeeper;1 Fc Union Berlin;41323;1
+Dickson Abiama;0,8;Centre-Forward;Spvgg Greuther Furth;596813;11
+Nick Viergever;0,8;Centre-Back;Spvgg Greuther Furth;93081;24
+Julian Baumgartlinger;0,8;Defensive Midfield;Bayer 04 Leverkusen;34787;15
+Dennis Jastrzembski;0,8;Left Winger;Hertha Bsc;358870;30
+Lilian Egloff;0,8;Midfield;Vfb Stuttgart;472243;25
+Herbert Bockhorn;0,8;Right-Back;Vfl Bochum;186477;11
+Tony Jantschke;0,8;Centre-Back;Borussia Monchengladbach;47587;24
+Makoto Hasebe;0,8;Centre-Back;Eintracht Frankfurt;39259;20
+Daniel Caligiuri;0,8;Right Winger;Fc Augsburg;38410;20
+Sidney Raebiger;0,75;Central Midfield;Rasenballsport Leipzig;717345;37
+Diant Ramaj;0,75;Goalkeeper;Eintracht Frankfurt;448705;40
+Soumaila Coulibaly;0,75;Centre-Back;Borussia Dortmund;659513;4
+Anton Kade;0,75;Left Winger;Hertha Bsc;654234;46
+Nathan de Medina;0,75;Centre-Back;Arminia Bielefeld;285951;15
+Solomon Bonnah;0,75;Right-Back;Rasenballsport Leipzig;508637;35
+Fabio Blanco;0,75;Left Winger;Eintracht Frankfurt;648909;28
+Tomas Ostrak;0,75;Midfield;1 Fc Koln;428189;31
+Hamadi Al Ghaddioui;0,7;Centre-Forward;Vfb Stuttgart;193534;-
+Conor Noss;0,7;Midfield;Borussia Monchengladbach;520857;34
+Sebastian Griesbeck;0,7;Centre-Back;1 Fc Union Berlin;153555;-
+Cristian Gamboa;0,7;Right-Back;Vfl Bochum;121686;2
+Peter Pekarik;0,7;Right-Back;Hertha Bsc;51100;2
+Gideon Jung;0,7;Centre-Back;Spvgg Greuther Furth;247661;23
+Adrian Fein;0,7;Defensive Midfield;Spvgg Greuther Furth;379979;6
+Stefanos Kapino;0,7;Goalkeeper;Arminia Bielefeld;68410;13
+Alfred Finnbogason;0,7;Centre-Forward;Fc Augsburg;90024;27
+Immanuel Pherai;0,7;Midfield;Borussia Dortmund;412935;44
+Nils Seufert;0,6;Central Midfield;Spvgg Greuther Furth;279064;8
+Bastian Oczipka;0,6;Left-Back;1 Fc Union Berlin;53437;20
+Silvere Ganvoula;0,6;Centre-Forward;Vfl Bochum;312819;-
+Christian Fruchtl;0,6;Goalkeeper;Fc Bayern Munchen;336307;36
+Pavao Pervan;0,6;Goalkeeper;Vfl Wolfsburg;51977;12
+Danny Blum;0,6;Left Winger;Vfl Bochum;41541;7
+Adam Szalai;0,5;Centre-Forward;1 Fsv Mainz 05;39106;28
+Daniel Didavi;0,5;Midfield;Vfb Stuttgart;57995;10
+Jonas Michelbrink;0,5;Central Midfield;Hertha Bsc;471901;40
+Christian Gebauer;0,5;Right Winger;Arminia Bielefeld;275423;-
+Gonzalo Castro;0,5;Central Midfield;Arminia Bielefeld;28947;7
+Anthony Ujah;0,5;Centre-Forward;1 Fc Union Berlin;142281;11
+Maurice Malone;0,5;Centre-Forward;Fc Augsburg;405568;37
+Jan Moravek;0,5;Central Midfield;Fc Augsburg;63022;14
+Marcel Schmelzer;0,5;Left-Back;Borussia Dortmund;35208;29
+Lion Semic;0,5;Right-Back;Borussia Dortmund;521919;37
+Benjamin Uphoff;0,5;Goalkeeper;Sc Freiburg;120296;1
+Vasilios Lampropoulos;0,5;Centre-Back;Vfl Bochum;63489;24
+Fabian Bredlow;0,5;Goalkeeper;Vfb Stuttgart;187624;33
+Daniel Brosinski;0,5;Right-Back;1 Fsv Mainz 05;43984;18
+Robert Wagner;0,5;Central Midfield;Sc Freiburg;690429;-
+Kenneth Schmidt;0,5;Centre-Back;Sc Freiburg;527276;-
+Ron-Thorben Hoffmann;0,5;Goalkeeper;Fc Bayern Munchen;317444;-
+Anthony Losilla;0,5;Defensive Midfield;Vfl Bochum;111266;8
+Nunoo Sarpei;0,45;Defensive Midfield;Spvgg Greuther Furth;451340;14
+Fisnik Asllani;0,4;Centre-Forward;Tsg 1899 Hoffenheim;524290;44
+Vincent Vermeij;0,4;Centre-Forward;Sc Freiburg;273054;48
+Tobias Sippel;0,4;Goalkeeper;Borussia Monchengladbach;31653;21
+Antonio Foti;0,4;Central Midfield;Eintracht Frankfurt;615036;46
+Michael Esser;0,4;Goalkeeper;Vfl Bochum;61989;21
+Soma Novothny;0,4;Centre-Forward;Vfl Bochum;148824;-
+Merveille Papela;0,4;Central Midfield;1 Fsv Mainz 05;405689;24
+Fabian Klos;0,4;Centre-Forward;Arminia Bielefeld;78147;9
+Torben Musel;0,4;Midfield;Borussia Monchengladbach;368860;-
+Justin Njinmah;0,4;Centre-Forward;Borussia Dortmund;596153;-
+Sascha Burchert;0,4;Goalkeeper;Spvgg Greuther Furth;36898;30
+Suleiman Abdullahi;0,4;Centre-Forward;1 Fc Union Berlin;356118;39
+Yannik Engelhardt;0,4;Defensive Midfield;Sc Freiburg;405670;-
+Joscha Wosz;0,35;Midfield;Rasenballsport Leipzig;597004;-
+Nishan Burkart;0,35;Centre-Forward;Sc Freiburg;346900;45
+Niklas Hauptmann;0,35;Central Midfield;1 Fc Koln;205544;36
+Mathias Olesen;0,35;Central Midfield;1 Fc Koln;490581;47
+Antonios Papadopoulos;0,35;Centre-Back;Borussia Dortmund;482573;47
+Lennard Maloney;0,35;Centre-Back;Borussia Dortmund;392710;45
+Robert Tesche;0,35;Central Midfield;Vfl Bochum;41458;23
+Tarsis Bonga;0,3;Right Winger;Vfl Bochum;283140;32
+Jonas Urbig;0,3;Goalkeeper;1 Fc Koln;607720;40
+Marius Funk;0,3;Goalkeeper;Spvgg Greuther Furth;170517;1
+Kimberly Ezekwem;0,3;Left-Back;Sc Freiburg;453865;24
+Philipp Tschauner;0,3;Goalkeeper;Rasenballsport Leipzig;21726;13
+Saulo Decarli;0,3;Centre-Back;Vfl Bochum;154578;5
+Rune Jarstein;0,3;Goalkeeper;Hertha Bsc;24112;22
+Nils-Jonathan Korber;0,3;Goalkeeper;Hertha Bsc;241974;12
+Oscar Linner;0,3;Goalkeeper;Arminia Bielefeld;366974;-
+Marvin Obuz;0,3;Left Winger;1 Fc Koln;522084;30
+Philipp Pentke;0,3;Goalkeeper;Tsg 1899 Hoffenheim;8246;12
+Luca Philipp;0,3;Goalkeeper;Tsg 1899 Hoffenheim;432671;37
+Jan Olschowsky;0,3;Goalkeeper;Borussia Monchengladbach;455922;41
+Fabrice Hartmann;0,3;Right Winger;Rasenballsport Leipzig;405685;-
+Abdourahmane Barry;0,3;Centre-Back;Spvgg Greuther Furth;536472;32
+Anselmo Garcia MacNulty;0,3;Centre-Back;Vfl Wolfsburg;631904;18
+Enrique Herrero;0,3;Centre-Forward;Eintracht Frankfurt;741295;38
+Marco Pasalic;0,275;Midfield;Borussia Dortmund;395928;46
+Jakob Busk;0,25;Goalkeeper;1 Fc Union Berlin;203411;12
+Falko Michel;0,25;Midfield;Vfb Stuttgart;527270;-
+Laurenz Dehl;0,25;Right-Back;1 Fc Union Berlin;451403;29
+Raman Chibsah;0,25;Central Midfield;Vfl Bochum;199633;-
+Tom Weilandt;0,25;Midfield;Vfl Bochum;93837;14
+Ben Bobzien;0,25;Right Winger;1 Fsv Mainz 05;658116;38
+Goktan Gurpuz;0,25;Midfield;Borussia Dortmund;655912;42
+Niklas Lomb;0,25;Goalkeeper;Bayer 04 Leverkusen;85543;36
+Luca Bazzoli;0,225;Centre-Back;Vfb Stuttgart;493899;-
+Tjark Ernst;0,2;Goalkeeper;Vfl Bochum;553282;31
+Eniss Shabani;0,2;Central Midfield;1 Fsv Mainz 05;663189;41
+Ben Klefisch;0,2;Central Midfield;Rasenballsport Leipzig;692462;46
+Mathis Bruns;0,2;Centre-Back;1 Fc Union Berlin;699702;37
+Florian Schock;0,2;Goalkeeper;Vfb Stuttgart;470816;42
+Philipp Schulze;0,2;Goalkeeper;Vfl Wolfsburg;574203;35
+Julian Frommann;0,2;Defensive Midfield;Arminia Bielefeld;606308;-
+Tim Civeja;0,2;Central Midfield;Fc Augsburg;588747;41
+Stefan Drljaca;0,2;Goalkeeper;Borussia Dortmund;388067;40
+Moritz Romling;0,2;Left-Back;Vfl Bochum;452222;33
+Jannis Lang;0,2;Right-Back;Vfl Wolfsburg;472234;-
+Luis Hartwig;0,2;Centre-Forward;Vfl Bochum;571140;28
+Jannik Horz;0,2;Goalkeeper;Eintracht Frankfurt;586229;47
+Jan Schroeder;0,2;Left-Back;Eintracht Frankfurt;610798;49
+Fabio Schneider;0,2;Central Midfield;1 Fc Union Berlin;548803;-
+Jens Grahl;0,2;Goalkeeper;Eintracht Frankfurt;40034;31
+Oliver Fobassam;0,2;Centre-Back;Spvgg Greuther Furth;690218;19
+Timo Kern;0,2;Central Midfield;Fc Bayern Munchen;57574;-
+Daniel Klein;0,2;Goalkeeper;Fc Augsburg;392124;25
+Nahue Noll;0,2;Goalkeeper;Tsg 1899 Hoffenheim;600942;36
+Maximilian Somnitz;0,2;Central Midfield;1 Fc Union Berlin;692713;38
+Lasse Riess;0,2;Goalkeeper;1 Fsv Mainz 05;490609;32
+Julian Albrecht;0,175;Central Midfield;Hertha Bsc;392149;39
+Marten Winkler;0,175;Right Winger;Hertha Bsc;574569;35
+Jonas Dirkner;0,175;Defensive Midfield;Hertha Bsc;605222;41
+Gianluca Schafer;0,15;Left Winger;Eintracht Frankfurt;580277;48
+Romario Rosch;0,15;Midfield;1 Fsv Mainz 05;333464;43
+Robin Kehr;0,15;Centre-Forward;Spvgg Greuther Furth;334998;7
+Nick Proschwitz;0,15;Centre-Forward;Tsg 1899 Hoffenheim;31535;-
+Kaito Mizuta;0,15;Midfield;1 Fsv Mainz 05;677794;36
+Christalino Atemona;0,15;Centre-Back;Hertha Bsc;605225;49
+Lasse Schulz;0,125;Goalkeeper;Spvgg Greuther Furth;748061;41
+Nicolas Feldhahn;0,125;Defensive Midfield;Fc Bayern Munchen;31741;-
+Gabriel Haider;0,125;Centre-Back;Tsg 1899 Hoffenheim;523913;-
+Fabian Ruth;0,125;Midfield;Tsg 1899 Hoffenheim;452065;-
+Leon Schaffran;0,125;Goalkeeper;Spvgg Greuther Furth;291383;25
+Noah Konig;0,125;Centre-Back;Tsg 1899 Hoffenheim;685487;-
+Fabian Eutinger;0,1;Goalkeeper;Rasenballsport Leipzig;692463;-
+David Lelle;0,1;Centre-Back;Rasenballsport Leipzig;574199;-
+Yannic Stein;0,1;Goalkeeper;1 Fc Union Berlin;698840;-
+Niklas Petzsch;0,1;Goalkeeper;1 Fc Union Berlin;698776;-
+Mehmet Ibrahimi;0,1;Left Winger;Rasenballsport Leipzig;605306;-
+Arne Schulz;0,1;Goalkeeper;Arminia Bielefeld;606301;35
+Niklas Klinger;0,1;Goalkeeper;Vfl Wolfsburg;192268;30
+Kenson Pierre Bauer;0,1;Centre-Back;Arminia Bielefeld;596481;-
+Maximilian Neutgens;0,1;Goalkeeper;Bayer 04 Leverkusen;696022;-
+Dominic Schmidt;0,1;Central Midfield;Fc Augsburg;476498;39
+Sadik Fofana;0,1;Centre-Back;Bayer 04 Leverkusen;644613;-
+Paul Grave;0,1;Goalkeeper;Vfl Bochum;452192;34
+Dikeni Salifou;0,1;Defensive Midfield;Fc Augsburg;664973;38
+Marlon Morgenstern;0,1;Centre-Back;Hertha Bsc;533007;-
+Timothe Rupil;0,1;Central Midfield;1 Fsv Mainz 05;627661;-
+Cimo Rocker;0,1;Centre-Back;Hertha Bsc;117482;34
+Julian Eitschberger;0,1;Right-Back;Hertha Bsc;706617;42
+Tom Gaal;0,1;Centre-Back;Borussia Monchengladbach;392133;-
+Cem-Ali Dogan;0,1;Attacking Midfield;Arminia Bielefeld;815888;-
+Matteo Bignetti;0,1;Goalkeeper;Eintracht Frankfurt;629032;43
+Arijon Ibrahimovic;0,1;Midfield;Fc Bayern Munchen;744728;-
+Umut Tohumcu;0,1;Central Midfield;Tsg 1899 Hoffenheim;569031;-
+Vladislav Cherny;0,1;Midfield;Arminia Bielefeld;606307;37
+Luca Wollschlager;0,1;Forward;Hertha Bsc;678088;24
+Mamadou Doucoure;0,1;Centre-Back;Borussia Monchengladbach;340480;4
+Bambase Conte;0,1;Left Winger;Tsg 1899 Hoffenheim;574193;-
+Mika Schroers;0,1;Left Winger;Borussia Monchengladbach;472246;-
+Gil-Linnart Walther;0,1;Central Midfield;Vfl Wolfsburg;690222;-
+Silas Ostrzinski;0,1;Goalkeeper;Borussia Dortmund;684116;31
+Jonas Kersken;0,1;Goalkeeper;Borussia Monchengladbach;597804;46
+Mert Yusuf Torlak;0,1;Midfield;Spvgg Greuther Furth;658293;39
+Stephan Furstner;0,075;Midfield;1 Fsv Mainz 05;35493;35
+Richard Weil;0,05;Defensive Midfield;Vfb Stuttgart;49032;-
+Matthias Kobbing;0,025;Goalkeeper;1 Fc Koln;227089;44

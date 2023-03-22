@@ -1,1 +1,1 @@
-# scouting-profiler
+# scouting_profiler

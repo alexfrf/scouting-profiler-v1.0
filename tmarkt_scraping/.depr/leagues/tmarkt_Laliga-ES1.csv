@@ -1,0 +1,759 @@
+Players;Values;POS;Team;ID;Num
+Vinicius Junior;100,0;Left Winger;Real Madrid;371998;20
+Pedri;80,0;Central Midfield;Fc Barcelona;683840;16
+Federico Valverde;70,0;Central Midfield;Real Madrid;369081;15
+Joao Felix;70,0;Striker;Atletico Madrid;462250;7
+Eder Militao;60,0;Centre-Back;Real Madrid;401530;3
+Jules Kounde;60,0;Centre-Back;Fc Sevilla;411975;23
+Rodrygo;60,0;Right Winger;Real Madrid;412363;21
+Frenkie de Jong;60,0;Central Midfield;Fc Barcelona;326330;21
+Thibaut Courtois;60,0;Goalkeeper;Real Madrid;108390;1
+Gavi;60,0;Central Midfield;Fc Barcelona;646740;30
+Ansu Fati;60,0;Left Winger;Fc Barcelona;466810;10
+Mikel Oyarzabal;60,0;Left Winger;Real Sociedad San Sebastian;351478;10
+Eduardo Camavinga;55,0;Central Midfield;Real Madrid;640428;25
+David Alaba;55,0;Centre-Back;Real Madrid;59016;4
+Arnaut Danjuma;50,0;Left Winger;Fc Villarreal;355861;15
+Jose Maria Gimenez;50,0;Centre-Back;Atletico Madrid;250845;2
+Pau Torres;50,0;Centre-Back;Fc Villarreal;399776;4
+Mikel Merino;50,0;Central Midfield;Real Sociedad San Sebastian;338424;8
+Carlos Soler;50,0;Central Midfield;Fc Valencia;372246;10
+Ronald Araujo;50,0;Centre-Back;Fc Barcelona;480267;4
+Angel Correa;45,0;Right Winger;Atletico Madrid;266807;10
+Ferran Torres;45,0;Left Winger;Fc Barcelona;398184;19
+Marcos Llorente;45,0;Central Midfield;Atletico Madrid;282411;14
+Jan Oblak;45,0;Goalkeeper;Atletico Madrid;121483;13
+Rodrigo de Paul;40,0;Central Midfield;Atletico Madrid;255901;5
+Jose Gaya;40,0;Left-Back;Fc Valencia;221322;14
+Diego Carlos;40,0;Centre-Back;Fc Sevilla;329145;20
+Goncalo Guedes;40,0;Left Winger;Fc Valencia;225122;7
+Nabil Fekir;40,0;Midfield;Real Betis Sevilla;203496;8
+Gerard Moreno;40,0;Centre-Forward;Fc Villarreal;177467;7
+Ferland Mendy;40,0;Left-Back;Real Madrid;291417;23
+Marco Asensio;40,0;Right Winger;Real Madrid;296622;11
+Yeremy Pino;40,0;Right Winger;Fc Villarreal;568157;21
+Thomas Lemar;40,0;Midfield;Atletico Madrid;205562;11
+Casemiro;40,0;Defensive Midfield;Real Madrid;16306;14
+Yannick Carrasco;40,0;Left Winger;Atletico Madrid;140776;21
+Antoine Griezmann;35,0;Striker;Fc Barcelona;125781;7
+Memphis Depay;35,0;Centre-Forward;Fc Barcelona;167850;9
+Karim Benzema;30,0;Centre-Forward;Real Madrid;18922;9
+Marc-Andre ter Stegen;30,0;Goalkeeper;Fc Barcelona;74857;1
+Renan Lodi;30,0;Left-Back;Atletico Madrid;476352;12
+Alexander Isak;30,0;Centre-Forward;Real Sociedad San Sebastian;349066;19
+Martin Zubimendi;30,0;Defensive Midfield;Real Sociedad San Sebastian;423440;3
+Ousmane Dembele;30,0;Right Winger;Fc Barcelona;288230;7
+Robin Le Normand;30,0;Centre-Back;Real Sociedad San Sebastian;351809;24
+Matheus Cunha;30,0;Centre-Forward;Atletico Madrid;517894;19
+Marc Cucurella;28,0;Left-Back;Fc Getafe;284857;-
+Koke;25,0;Central Midfield;Atletico Madrid;74229;6
+Saul Niguez;25,0;Midfield;Atletico Madrid;148928;8
+Inigo Martinez;25,0;Centre-Back;Athletic Bilbao;158863;4
+Youssef En-Nesyri;25,0;Centre-Forward;Fc Sevilla;433049;15
+Enes Unal;25,0;Forward;Fc Getafe;251106;10
+Lucas Ocampos;25,0;Left Winger;Fc Sevilla;189441;5
+Emerson Royal;25,0;Right-Back;Fc Barcelona;476344;22
+Juan Foyth;25,0;Right-Back;Fc Villarreal;480763;8
+Inaki Williams;25,0;Centre-Forward;Athletic Bilbao;255508;9
+Unai Simon;25,0;Goalkeeper;Athletic Bilbao;262396;1
+Raul de Tomas;25,0;Forward;Espanyol Barcelona;162038;11
+Guido Rodriguez;25,0;Midfield;Real Betis Sevilla;342385;21
+Reinildo Mandava;22,0;Left-Back;Atletico Madrid;240692;23
+Giovani Lo Celso;22,0;Central Midfield;Fc Villarreal;348795;17
+Joan Jordan;22,0;Midfield;Fc Sevilla;263727;8
+Alex Remiro;22,0;Goalkeeper;Real Sociedad San Sebastian;212862;1
+Pervis Estupinan;20,0;Left-Back;Fc Villarreal;349599;12
+Unai Vencedor;20,0;Central Midfield;Athletic Bilbao;610083;16
+Toni Kroos;20,0;Central Midfield;Real Madrid;31909;8
+Adama Traore;20,0;Right Winger;Fc Barcelona;204103;11
+Aritz Elustondo;20,0;Centre-Back;Real Sociedad San Sebastian;229804;6
+David Garcia;20,0;Centre-Back;Ca Osasuna;298589;5
+Philippe Coutinho;20,0;Left Winger;Fc Barcelona;80444;14
+Hugo Guillamon;20,0;Midfield;Fc Valencia;495629;6
+Nico Gonzalez;20,0;Midfield;Fc Barcelona;466805;14
+Hector Bellerin;20,0;Right-Back;Real Betis Sevilla;191217;19
+Sergio Canales;20,0;Midfield;Real Betis Sevilla;66106;10
+Mario Hermoso;20,0;Centre-Back;Atletico Madrid;281769;22
+Geoffrey Kondogbia;20,0;Defensive Midfield;Atletico Madrid;127189;4
+Samuel Chukwueze;20,0;Right Winger;Fc Villarreal;401922;11
+Eric Garcia;18,0;Centre-Back;Fc Barcelona;466794;24
+Bryan Gil;18,0;Left Winger;Fc Valencia;537382;21
+Brais Mendez;18,0;Midfield;Celta Vigo;309110;23
+Alex Moreno;18,0;Left-Back;Real Betis Sevilla;193098;15
+Daniel Carvajal;18,0;Right-Back;Real Madrid;138927;2
+Sergino Dest;18,0;Right-Back;Fc Barcelona;361104;2
+Tecatito;18,0;Right Winger;Fc Sevilla;125165;9
+Marcos Acuna;18,0;Left-Back;Fc Sevilla;60410;19
+Alfonso Pedraza;18,0;Left-Back;Fc Villarreal;356197;24
+Bono;18,0;Goalkeeper;Fc Sevilla;207834;13
+Anthony Martial;16,0;Centre-Forward;Fc Sevilla;182877;22
+Stefan Savic;16,0;Centre-Back;Atletico Madrid;107010;15
+Iker Muniain;16,0;Midfield;Athletic Bilbao;54235;10
+Erik Lamela;16,0;Right Winger;Fc Sevilla;111630;17
+William Carvalho;16,0;Defensive Midfield;Real Betis Sevilla;100131;14
+Rafa Mir;16,0;Centre-Forward;Fc Sevilla;361254;12
+Luka Jovic;16,0;Forward;Real Madrid;257462;16
+Kieran Trippier;15,0;Right-Back;Atletico Madrid;95810;23
+Pierre-Emerick Aubameyang;15,0;Centre-Forward;Fc Barcelona;58864;25
+Rui Silva;15,0;Goalkeeper;Real Betis Sevilla;234811;13
+Oihan Sancet;15,0;Midfield;Athletic Bilbao;571020;8
+Yunus Musah;15,0;Central Midfield;Fc Valencia;503991;4
+Borja Iglesias;15,0;Centre-Forward;Real Betis Sevilla;278359;9
+Mauro Arambarri;15,0;Central Midfield;Fc Getafe;290249;18
+Igor Zubeldia;15,0;Centre-Back;Real Sociedad San Sebastian;355628;5
+Juanmi;15,0;Left Winger;Real Betis Sevilla;126737;7
+Mathias Olivera;15,0;Left-Back;Fc Getafe;376514;17
+Lucas Boye;15,0;Forward;Fc Elche;334222;9
+Fran Beltran;15,0;Midfield;Celta Vigo;423444;8
+Dani Ceballos;14,0;Central Midfield;Real Madrid;319745;19
+Manu Trigueros;14,0;Central Midfield;Fc Villarreal;188854;14
+Nemanja Maksimovic;14,0;Midfield;Fc Getafe;273152;20
+Gonzalo Montiel;14,0;Right-Back;Fc Sevilla;402733;2
+Sergi Darder;14,0;Central Midfield;Espanyol Barcelona;142021;10
+Yangel Herrera;14,0;Central Midfield;Espanyol Barcelona;378293;25
+Yeray Alvarez;13,0;Centre-Back;Athletic Bilbao;255488;5
+Dani Vivian;12,0;Centre-Back;Athletic Bilbao;524000;12
+Eden Hazard;12,0;Left Winger;Real Madrid;50202;7
+Willian Jose;12,0;Centre-Forward;Real Betis Sevilla;122155;12
+Adnan Januzaj;12,0;Right Winger;Real Sociedad San Sebastian;177847;11
+Javi Galan;12,0;Left-Back;Celta Vigo;448628;17
+Clement Lenglet;12,0;Centre-Back;Fc Barcelona;182904;15
+Alex Berenguer;12,0;Left Winger;Athletic Bilbao;338425;7
+Luis Maximiano;12,0;Goalkeeper;Fc Granada;367464;1
+Boulaye Dia;12,0;Centre-Forward;Fc Villarreal;626913;16
+Nico Williams;12,0;Right Winger;Athletic Bilbao;709187;30
+Alvaro Odriozola;12,0;Right-Back;Real Madrid;280730;19
+Maxi Gomez;12,0;Forward;Fc Valencia;396894;9
+Lucas Vazquez;12,0;Right-Back;Real Madrid;221316;17
+Jon Moncayola;12,0;Central Midfield;Ca Osasuna;552425;7
+Jorge de Frutos;10,0;Right Winger;Ud Levante;455181;18
+Giorgi Mamardashvili;10,0;Goalkeeper;Fc Valencia;502676;28
+Manu Sanchez;10,0;Left-Back;Ca Osasuna;618809;39
+Suso;10,0;Right Winger;Fc Sevilla;111961;7
+Omar Alderete;10,0;Centre-Back;Fc Valencia;353032;15
+Renato Tapia;10,0;Defensive Midfield;Celta Vigo;277137;14
+Luka Modric;10,0;Central Midfield;Real Madrid;27992;10
+Serge Aurier;10,0;Right-Back;Fc Villarreal;127032;25
+Denis Suarez;10,0;Midfield;Celta Vigo;165007;6
+Alexander Sorloth;10,0;Forward;Real Sociedad San Sebastian;238407;23
+Andoni Gorosabel;10,0;Right-Back;Real Sociedad San Sebastian;289255;18
+Hugo Duro;10,0;Centre-Forward;Fc Getafe;573775;-
+Djene;10,0;Centre-Back;Fc Getafe;221150;2
+Miralem Pjanic;9,5;Central Midfield;Fc Barcelona;44162;8
+Sergio Busquets;9,0;Defensive Midfield;Fc Barcelona;65230;5
+Unai Nunez;9,0;Centre-Back;Athletic Bilbao;338285;3
+Jordi Alba;9,0;Left-Back;Fc Barcelona;69751;18
+Adria Pedrosa;9,0;Left-Back;Espanyol Barcelona;501418;3
+Luis Suarez;9,0;Forward;Fc Granada;424784;9
+Paco Alcacer;9,0;Forward;Fc Villarreal;126716;9
+Ilaix Moriba;9,0;Central Midfield;Fc Valencia;617074;23
+Oscar Rodriguez;9,0;Midfield;Fc Sevilla;284884;14
+Rafinha;9,0;Midfield;Real Sociedad San Sebastian;129473;17
+Borja Mayoral;9,0;Centre-Forward;Fc Getafe;298976;-
+Ander Barrenetxea;9,0;Left Winger;Real Sociedad San Sebastian;616369;22
+Dani Parejo;9,0;Central Midfield;Fc Villarreal;59561;5
+Carles Alena;9,0;Midfield;Fc Getafe;284854;11
+Portu;9,0;Right Winger;Real Sociedad San Sebastian;99353;7
+Munir El Haddadi;8,0;Centre-Forward;Fc Sevilla;223725;11
+Jorge Cuenca;8,0;Centre-Back;Fc Villarreal;494880;26
+Sergio Herrera;8,0;Goalkeeper;Ca Osasuna;248738;1
+Ruben Garcia;8,0;Left Winger;Ca Osasuna;213260;14
+Abde Ezzalzouli;8,0;Left Winger;Fc Barcelona;724520;33
+Domingos Duarte;8,0;Centre-Back;Fc Granada;257376;22
+Thierry Correia;8,0;Right-Back;Fc Valencia;367466;2
+Oliver Torres;8,0;Central Midfield;Fc Sevilla;214775;21
+Moi Gomez;8,0;Left Winger;Fc Villarreal;175449;23
+Enis Bardhi;8,0;Midfield;Ud Levante;245014;10
+David Soria;8,0;Goalkeeper;Fc Getafe;226012;13
+Chimy Avila;8,0;Forward;Ca Osasuna;167721;9
+Javi Puado;8,0;Left Winger;Espanyol Barcelona;408471;9
+Takefusa Kubo;7,5;Right Winger;Rcd Mallorca;405398;17
+Isco;7,5;Midfield;Real Madrid;85288;22
+Fran Garcia;7,5;Left-Back;Rayo Vallecano;341264;33
+Nico Melamed;7,5;Left Winger;Espanyol Barcelona;570421;21
+Uros Racic;7,0;Midfield;Fc Valencia;417575;8
+Gabriel Paulista;7,0;Centre-Back;Fc Valencia;149498;5
+Mouctar Diakhaby;7,0;Centre-Back;Fc Valencia;346289;12
+Jose Juan Macias;7,0;Forward;Fc Getafe;546047;-
+Nacho Fernandez;7,0;Centre-Back;Real Madrid;58884;6
+Joseph Aidoo;7,0;Centre-Back;Celta Vigo;358250;15
+Iago Aspas;7,0;Centre-Forward;Celta Vigo;72047;10
+Vedat Muriqi;7,0;Centre-Forward;Rcd Mallorca;256267;7
+Ivan Rakitic;7,0;Central Midfield;Fc Sevilla;32467;10
+Thomas Delaney;7,0;Central Midfield;Fc Sevilla;91849;18
+Riqui Puig;7,0;Central Midfield;Fc Barcelona;331511;6
+Aissa Mandi;6,0;Centre-Back;Fc Villarreal;80293;22
+Mariano Diaz;6,0;Forward;Real Madrid;225020;24
+Darwin Machis;6,0;Left Winger;Fc Granada;211251;-
+Nehuen Perez;6,0;Centre-Back;Atletico Madrid;491693;3
+Papu Gomez;6,0;Left Winger;Fc Sevilla;20005;24
+Geronimo Rulli;6,0;Goalkeeper;Fc Villarreal;229604;13
+Felipe;6,0;Centre-Back;Atletico Madrid;156501;18
+Edgar Gonzalez;6,0;Centre-Back;Real Betis Sevilla;401624;3
+Luis Abram;6,0;Centre-Back;Fc Granada;330684;-
+Ante Budimir;6,0;Centre-Forward;Ca Osasuna;46413;17
+Oscar Mingueza;6,0;Centre-Back;Fc Barcelona;331505;22
+Miguel Gutierrez;6,0;Left-Back;Real Madrid;525299;35
+Alfonso Espino;6,0;Left-Back;Fc Cadiz;311044;22
+Matias Arezo;6,0;Centre-Forward;Fc Granada;611426;14
+Aihen Munoz;6,0;Left-Back;Real Sociedad San Sebastian;517842;12
+Alex Fernandez;6,0;Midfield;Fc Cadiz;89733;8
+Sergi Roberto;6,0;Right-Back;Fc Barcelona;85370;20
+Martin Braithwaite;6,0;Centre-Forward;Fc Barcelona;95732;12
+Daniel Wass;6,0;Right-Back;Fc Valencia;63463;18
+Jose Campana;6,0;Midfield;Ud Levante;120095;24
+Marc Bartra;6,0;Centre-Back;Real Betis Sevilla;99922;5
+Conan Ledesma;6,0;Goalkeeper;Fc Cadiz;284342;1
+Kang-in Lee;6,0;Midfield;Rcd Mallorca;557149;19
+Alvaro Garcia;6,0;Left Winger;Rayo Vallecano;257062;18
+Cristian Tello;5,0;Left Winger;Real Betis Sevilla;141834;11
+Tonny Vilhena;5,0;Central Midfield;Espanyol Barcelona;182581;19
+Francis Coquelin;5,0;Defensive Midfield;Fc Villarreal;74869;19
+German Pezzella;5,0;Centre-Back;Real Betis Sevilla;113133;16
+Manu Morlanes;5,0;Central Midfield;Espanyol Barcelona;335225;6
+Alberto Moreno;5,0;Left-Back;Fc Villarreal;207917;18
+Helder Costa;5,0;Right Winger;Fc Valencia;173900;11
+Ezequiel Ponce;5,0;Centre-Forward;Fc Elche;296783;18
+Sime Vrsaljko;5,0;Right-Back;Atletico Madrid;76061;24
+Gonzalo Villar;5,0;Central Midfield;Fc Getafe;398163;6
+Hector Herrera;5,0;Central Midfield;Atletico Madrid;122043;16
+Marcos Andre;5,0;Centre-Forward;Fc Valencia;481084;22
+Gerard Pique;5,0;Centre-Back;Fc Barcelona;18944;3
+Fernando Pacheco;5,0;Goalkeeper;Deportivo Alaves;172015;1
+Joselu;5,0;Centre-Forward;Deportivo Alaves;81999;9
+Juan Miranda;5,0;Left-Back;Real Betis Sevilla;341227;33
+Florentino;5,0;Defensive Midfield;Fc Getafe;357162;5
+Johan Mojica;5,0;Left-Back;Fc Elche;262939;22
+Karim Rekik;5,0;Centre-Back;Fc Sevilla;182579;4
+Yusuf Demir;5,0;Right Winger;Fc Barcelona;548031;11
+Benjamin Lecomte;5,0;Goalkeeper;Atletico Madrid;127181;1
+Marko Dmitrovic;5,0;Goalkeeper;Fc Sevilla;94308;1
+Luis Milla;5,0;Central Midfield;Fc Granada;281989;5
+Ludwig Augustinsson;5,0;Left-Back;Fc Sevilla;170646;3
+Carlos Fernandez;5,0;Forward;Real Sociedad San Sebastian;216464;9
+Antonio Blanco;5,0;Defensive Midfield;Real Madrid;495621;27
+Roger Marti;5,0;Forward;Ud Levante;212391;9
+Ander Guevara;5,0;Central Midfield;Real Sociedad San Sebastian;465967;16
+Franco Cervi;5,0;Left Winger;Celta Vigo;341110;11
+Pablo Maffeo;5,0;Right-Back;Rcd Mallorca;251876;15
+Julen Agirrezabala;5,0;Goalkeeper;Athletic Bilbao;625014;26
+Lucas Torro;5,0;Midfield;Ca Osasuna;213670;24
+Jon Karrikaburu;5,0;Centre-Forward;Real Sociedad San Sebastian;711382;33
+Mathew Ryan;5,0;Goalkeeper;Real Sociedad San Sebastian;128969;13
+Jesus Vazquez;5,0;Left-Back;Fc Valencia;623024;32
+Nacho Vidal;5,0;Right-Back;Ca Osasuna;216870;2
+Antonio Puertas;4,5;Right Winger;Fc Granada;262365;10
+Inaki Pena;4,2;Goalkeeper;Fc Barcelona;283170;26
+Unai Lopez;4,0;Midfield;Rayo Vallecano;192009;12
+Loren Moron;4,0;Forward;Espanyol Barcelona;354741;16
+Alex Collado;4,0;Right Winger;Fc Granada;282722;35
+Nemanja Gudelj;4,0;Defensive Midfield;Fc Sevilla;74294;6
+Fernando;4,0;Defensive Midfield;Fc Sevilla;51174;25
+Alejandro Pozo;4,0;Right-Back;Fc Sevilla;341272;18
+Gonzalo Melero;4,0;Central Midfield;Ud Levante;162056;22
+Sergio Rico;4,0;Goalkeeper;Rcd Mallorca;207302;25
+Ruben Vezo;4,0;Centre-Back;Ud Levante;257851;14
+Jon Morcillo;4,0;Left Winger;Athletic Bilbao;455349;11
+Keidi Bare;4,0;Central Midfield;Espanyol Barcelona;295622;20
+Mamadou Loum;4,0;Defensive Midfield;Deportivo Alaves;364237;6
+Jose Luis Morales;4,0;Centre-Forward;Ud Levante;252677;11
+Alejandro Balde;4,0;Left-Back;Fc Barcelona;636688;31
+Raul Guti;4,0;Central Midfield;Fc Elche;330352;8
+Oussama Idrissi;4,0;Left Winger;Fc Sevilla;241391;22
+Randy Nteka;4,0;Midfield;Rayo Vallecano;560483;9
+Omar Mascarell;4,0;Defensive Midfield;Fc Elche;142031;21
+Adrian Embarba;4,0;Right Winger;Espanyol Barcelona;288318;23
+Rodri Sanchez;4,0;Left Winger;Real Betis Sevilla;630995;28
+Sergio Asenjo;4,0;Goalkeeper;Fc Villarreal;51710;1
+Santiago Arias;4,0;Right-Back;Fc Granada;120443;2
+Jakub Jankto;4,0;Midfield;Fc Getafe;319160;16
+Joseba Zaldua;4,0;Right-Back;Real Sociedad San Sebastian;197135;2
+Orbelin Pineda;4,0;Central Midfield;Celta Vigo;334042;18
+Dimitri Foulquier;4,0;Right-Back;Fc Granada;170472;-
+Martin Valjent;4,0;Centre-Back;Rcd Mallorca;277384;24
+Alejandro Catena;4,0;Centre-Back;Rayo Vallecano;449796;5
+Leandro Cabrera;4,0;Centre-Back;Espanyol Barcelona;102423;4
+Luuk de Jong;4,0;Centre-Forward;Fc Barcelona;72522;17
+David Silva;4,0;Midfield;Real Sociedad San Sebastian;35518;21
+Hugo Mallo;4,0;Right-Back;Celta Vigo;119905;2
+Santi Comesana;4,0;Midfield;Rayo Vallecano;380598;6
+Nestor Araujo;4,0;Centre-Back;Celta Vigo;64134;4
+Paul Akouokou;4,0;Defensive Midfield;Real Betis Sevilla;429901;4
+Carlos Neva;4,0;Left-Back;Fc Granada;448844;15
+Jens Jonsson;4,0;Midfield;Fc Cadiz;148355;2
+Choco Lozano;4,0;Centre-Forward;Fc Cadiz;131275;9
+Iddrisu Baba;3,5;Central Midfield;Rcd Mallorca;442805;12
+Ivo Grbic;3,5;Goalkeeper;Atletico Madrid;226073;1
+Jeison Murillo;3,5;Centre-Back;Celta Vigo;131102;24
+Sandro Ramirez;3,5;Forward;Fc Getafe;199369;12
+Oier Zarraga;3,5;Central Midfield;Athletic Bilbao;524010;19
+Gareth Bale;3,0;Right Winger;Real Madrid;39381;18
+Pere Milla;3,0;Left Winger;Fc Elche;225593;10
+Tete Morente;3,0;Left Winger;Fc Elche;339816;11
+Manu Garcia;3,0;Midfield;Deportivo Alaves;277118;14
+Raul Albiol;3,0;Centre-Back;Fc Villarreal;15452;3
+Julen Lobete;3,0;Centre-Forward;Real Sociedad San Sebastian;625654;35
+Stole Dimitrievski;3,0;Goalkeeper;Rayo Vallecano;165467;13
+Robert Navarro;3,0;Midfield;Real Sociedad San Sebastian;563137;29
+Benat Turrientes;3,0;Central Midfield;Real Sociedad San Sebastian;634431;27
+Asier Illarramendi;3,0;Defensive Midfield;Real Sociedad San Sebastian;59344;4
+Diego Rico;3,0;Left-Back;Real Sociedad San Sebastian;249513;15
+Oscar Valentin;3,0;Midfield;Rayo Vallecano;517753;23
+Oscar Trejo;3,0;Midfield;Rayo Vallecano;30321;8
+Mario Gaspar;3,0;Right-Back;Fc Villarreal;73250;2
+Marcelo;3,0;Left-Back;Real Madrid;44501;12
+Isi Palazon;3,0;Right Winger;Rayo Vallecano;362086;7
+Sergi Guardiola;3,0;Centre-Forward;Rayo Vallecano;256429;16
+Jesus Vallejo;3,0;Centre-Back;Real Madrid;251896;5
+Kike Barja;3,0;Right Winger;Ca Osasuna;298575;11
+Ruben Duarte;3,0;Left-Back;Deportivo Alaves;177046;3
+Nahuel Tenaglia;3,0;Right-Back;Deportivo Alaves;533568;2
+Edgar Badia;3,0;Goalkeeper;Fc Elche;102146;13
+Etienne Capoue;3,0;Defensive Midfield;Fc Villarreal;63494;6
+Pepelu;3,0;Defensive Midfield;Ud Levante;328480;8
+Roberto Torres;3,0;Midfield;Ca Osasuna;63056;10
+Oscar Gil;3,0;Right-Back;Espanyol Barcelona;544106;12
+Dani Garcia;3,0;Midfield;Athletic Bilbao;178425;14
+Gerard Gumbau;3,0;Defensive Midfield;Fc Elche;268670;2
+Monchu;3,0;Central Midfield;Fc Granada;282727;-
+Sergi Gomez;3,0;Centre-Back;Espanyol Barcelona;92947;24
+Jaime Mata;3,0;Centre-Forward;Fc Getafe;227961;7
+Dario Benedetto;3,0;Centre-Forward;Fc Elche;92693;18
+Ilias Akhomach;3,0;Right Winger;Fc Barcelona;709969;37
+Jesus Navas;3,0;Right-Back;Fc Sevilla;15956;16
+Raul Torrente;3,0;Centre-Back;Fc Granada;631222;28
+Ferran Jutgla;3,0;Forward;Fc Barcelona;599231;29
+Neto;3,0;Goalkeeper;Fc Barcelona;111819;13
+Myrto Uzuni;3,0;Left Winger;Fc Granada;315289;24
+Jasper Cillessen;3,0;Goalkeeper;Fc Valencia;146227;13
+Youssouf Sabaly;3,0;Right-Back;Real Betis Sevilla;135492;23
+Luis Rioja;3,0;Left Winger;Deportivo Alaves;278837;11
+Victor Mollejo;3,0;Right Winger;Rcd Mallorca;505673;-
+Sergio Camello;3,0;Centre-Forward;Atletico Madrid;505674;29
+Ruben Blanco;3,0;Goalkeeper;Celta Vigo;199321;13
+Mickael Malsa;3,0;Defensive Midfield;Ud Levante;205569;12
+Tomas Alarcon;3,0;Midfield;Fc Cadiz;454238;12
+Mikel Vesga;3,0;Defensive Midfield;Athletic Bilbao;300168;6
+Fer Nino;3,0;Centre-Forward;Rcd Mallorca;627294;26
+Inigo Lekue;3,0;Right-Back;Athletic Bilbao;255501;15
+Manu Vallejo;3,0;Left Winger;Fc Valencia;527350;21
+Oscar Melendo;3,0;Midfield;Espanyol Barcelona;448344;14
+Asier Villalibre;3,0;Centre-Forward;Athletic Bilbao;251897;20
+Yuri Berchiche;3,0;Left-Back;Athletic Bilbao;61812;17
+Okay Yokuslu;3,0;Defensive Midfield;Fc Getafe;137616;19
+Fali;3,0;Centre-Back;Fc Cadiz;252667;3
+Aitor Ruibal;3,0;Right-Back;Real Betis Sevilla;378139;24
+Lucas Perez;2,5;Forward;Deportivo Alaves;73185;-
+Gonzalo Escalante;2,5;Central Midfield;Deportivo Alaves;266795;16
+Facundo Pellistri;2,5;Right Winger;Deportivo Alaves;676318;18
+Njegos Petrovic;2,5;Defensive Midfield;Fc Granada;376588;18
+Jason;2,5;Right Winger;Deportivo Alaves;263860;25
+Lei Wu;2,5;Left Winger;Espanyol Barcelona;140436;7
+Victor Chust;2,5;Centre-Back;Fc Cadiz;495625;32
+Denis Cheryshev;2,5;Left Winger;Fc Valencia;98322;17
+Ruben Rochina;2,5;Right Winger;Fc Granada;67548;21
+Victor Gomez;2,5;Right-Back;Espanyol Barcelona;495601;-
+Lucas Olaza;2,5;Left-Back;Fc Elche;216240;12
+Pere Pons;2,5;Defensive Midfield;Deportivo Alaves;242497;20
+Ruben Pena;2,5;Right-Back;Fc Villarreal;238868;20
+Marcelo Saracchi;2,5;Left-Back;Ud Levante;373916;25
+Martin Aguirregabiria;2,5;Right-Back;Deportivo Alaves;483573;21
+Brian Olivan;2,5;Left-Back;Rcd Mallorca;166677;3
+Andriy Lunin;2,5;Goalkeeper;Real Madrid;404839;13
+Raul Garcia;2,5;Forward;Athletic Bilbao;34601;22
+Augusto Solari;2,5;Right Winger;Celta Vigo;282694;21
+Ander Capa;2,5;Right-Back;Athletic Bilbao;197545;21
+Dani Gomez;2,5;Forward;Ud Levante;422460;21
+Nico Serrano;2,5;Left Winger;Athletic Bilbao;668183;33
+Diego Lainez;2,5;Right Winger;Real Betis Sevilla;371174;20
+Javi Martinez;2,5;Midfield;Ca Osasuna;471474;28
+Alberto Soro;2,5;Right Winger;Fc Granada;487688;7
+Aitor Fernandez;2,5;Goalkeeper;Ud Levante;118997;1
+Ruben Alcaraz;2,5;Central Midfield;Fc Cadiz;247250;4
+Landry Dimata;2,2;Centre-Forward;Espanyol Barcelona;311489;18
+Shkodran Mustafi;2,0;Centre-Back;Ud Levante;88590;13
+Florian Lejeune;2,0;Centre-Back;Deportivo Alaves;127108;22
+Victor Laguardia;2,0;Centre-Back;Deportivo Alaves;67080;5
+Carlos Clerc;2,0;Left-Back;Ud Levante;193784;19
+Rober Gonzalez;2,0;Right Winger;Real Betis Sevilla;505675;27
+Radamel Falcao;2,0;Centre-Forward;Rayo Vallecano;39152;3
+Pathe Ciss;2,0;Central Midfield;Rayo Vallecano;525578;21
+Samuel Umtiti;2,0;Centre-Back;Fc Barcelona;126540;23
+Ivan Balliu;2,0;Right-Back;Rayo Vallecano;85295;20
+Thiago Galhardo;2,0;Centre-Forward;Celta Vigo;186399;7
+Luca Zidane;2,0;Goalkeeper;Rayo Vallecano;283489;1
+Juan Cruz;2,0;Left-Back;Ca Osasuna;169497;3
+Darko Brasanac;2,0;Central Midfield;Ca Osasuna;95641;8
+Kevin Vazquez;2,0;Right-Back;Celta Vigo;221315;20
+Vicente Iborra;2,0;Defensive Midfield;Fc Villarreal;65467;10
+Jaume Domenech;2,0;Goalkeeper;Fc Valencia;227805;1
+Enzo Roco;2,0;Centre-Back;Fc Elche;186862;3
+Ruben Sobrino;2,0;Centre-Forward;Fc Valencia;85383;11
+Diego Gonzalez;2,0;Centre-Back;Fc Elche;349836;4
+Dominik Greif;2,0;Goalkeeper;Rcd Mallorca;316884;13
+Angel Rodriguez;2,0;Forward;Rcd Mallorca;51510;22
+Sidnei;2,0;Centre-Back;Real Betis Sevilla;27374;12
+Amath Ndiaye;2,0;Left Winger;Rcd Mallorca;339820;23
+Antonio Raillo;2,0;Centre-Back;Rcd Mallorca;278296;21
+Matt Miazga;2,0;Centre-Back;Deportivo Alaves;245893;4
+Nemanja Radoja;2,0;Defensive Midfield;Ud Levante;168959;5
+Salvi Sanchez;2,0;Right Winger;Fc Cadiz;246204;7
+Fidel;2,0;Left Winger;Fc Elche;149231;16
+Aleix Vidal;2,0;Right-Back;Espanyol Barcelona;88490;22
+Ivan Marcone;2,0;Midfield;Fc Elche;90451;23
+Kevin Rodrigues;1,8;Left-Back;Rayo Vallecano;206947;19
+Ivan Arboleda;1,8;Goalkeeper;Rayo Vallecano;260740;-
+Maxime Gonalons;1,8;Defensive Midfield;Fc Granada;60542;4
+Erick Cabaco;1,8;Centre-Back;Fc Getafe;302991;3
+Santiago Arzamendia;1,8;Left-Back;Fc Cadiz;520947;19
+Sergio Escudero;1,8;Left-Back;Fc Granada;93935;3
+Stefan Mitrovic;1,8;Centre-Back;Fc Getafe;143029;23
+Jonathan Silva;1,8;Left-Back;Fc Getafe;189453;14
+Inigo Ruiz de Galarreta;1,8;Central Midfield;Rcd Mallorca;126751;4
+Rodrigo Battaglia;1,8;Defensive Midfield;Rcd Mallorca;89297;16
+Kike Garcia;1,8;Forward;Ca Osasuna;93936;18
+Oscar de Marcos;1,8;Right-Back;Athletic Bilbao;96718;18
+Joan Sastre;1,8;Right-Back;Rcd Mallorca;350364;-
+Jorge Miramon;1,8;Right-Back;Ud Levante;228917;20
+David Lopez;1,8;Centre-Back;Espanyol Barcelona;129444;15
+Fernando Calero;1,8;Centre-Back;Espanyol Barcelona;357884;5
+Eray Comert;1,5;Centre-Back;Fc Valencia;298583;24
+Victor Ruiz;1,5;Centre-Back;Real Betis Sevilla;62920;6
+Rey Manaj;1,5;Centre-Forward;Fc Barcelona;308278;17
+German Valera;1,5;Right Winger;Real Sociedad San Sebastian;548188;41
+Vitolo;1,5;Left Winger;Fc Getafe;67082;8
+Fede San Emeterio;1,5;Central Midfield;Fc Cadiz;307519;24
+Peru Nolaskoain;1,5;Defensive Midfield;Athletic Bilbao;447052;23
+Toni Lato;1,5;Left-Back;Fc Valencia;320271;3
+Damian Suarez;1,5;Right-Back;Fc Getafe;76746;22
+Jandro Orellana;1,5;Defensive Midfield;Fc Barcelona;388548;43
+Juan Iglesias;1,5;Right-Back;Fc Getafe;390688;21
+Nais Djouahra;1,5;Left Winger;Real Sociedad San Sebastian;594926;37
+Ruben Yanez;1,5;Goalkeeper;Fc Getafe;246335;1
+Guido Carrillo;1,5;Centre-Forward;Fc Elche;184672;7
+Kike Perez;1,5;Midfield;Fc Elche;527698;24
+Giovanni Gonzalez;1,5;Right-Back;Rcd Mallorca;339699;2
+Arnau Tenas;1,5;Goalkeeper;Fc Barcelona;466783;36
+Miguel de la Fuente;1,5;Centre-Forward;Deportivo Alaves;480883;24
+Iza Carcelen;1,5;Right-Back;Fc Cadiz;254037;20
+Gabri Veiga;1,5;Midfield;Celta Vigo;699704;-
+Dani Cardenas;1,5;Goalkeeper;Ud Levante;397676;34
+Yan Eteki;1,5;Defensive Midfield;Fc Granada;297784;8
+Aridane Hernandez;1,5;Centre-Back;Ca Osasuna;82503;23
+Jordi Mboula;1,5;Right Winger;Rcd Mallorca;331498;-
+Alvaro Negredo;1,5;Centre-Forward;Fc Cadiz;18644;18
+Toni Moya;1,5;Central Midfield;Deportivo Alaves;295065;15
+Andres Guardado;1,5;Central Midfield;Real Betis Sevilla;20506;18
+Unai Garcia;1,5;Centre-Back;Ca Osasuna;197122;4
+Javi Ontiveros;1,5;Left Winger;Ca Osasuna;298983;19
+Joaquin;1,5;Right Winger;Real Betis Sevilla;7663;17
+Cote;1,5;Left-Back;Ca Osasuna;87469;16
+Martin Merquelanz;1,5;Left Winger;Rayo Vallecano;289272;17
+Abdon Prats;1,5;Centre-Forward;Rcd Mallorca;177452;9
+Martin Montoya;1,5;Right-Back;Real Betis Sevilla;68645;2
+Jorge Molina;1,5;Centre-Forward;Fc Granada;57825;23
+Joel Robles;1,5;Goalkeeper;Real Betis Sevilla;101118;1
+Antonio Sanchez;1,5;Midfield;Rcd Mallorca;513031;10
+Rober Pier;1,5;Centre-Back;Ud Levante;387129;4
+Pablo Martinez;1,5;Midfield;Ud Levante;568835;-
+Taichi Hara;1,3;Centre-Forward;Deportivo Alaves;495752;-
+Nikita Iosifov;1,2;Left Winger;Fc Villarreal;614464;28
+Franco Russo;1,2;Centre-Back;Rcd Mallorca;378463;5
+Jaume Costa;1,2;Left-Back;Rcd Mallorca;65318;18
+Jose Pozo;1,2;Midfield;Rayo Vallecano;195605;-
+Jon Guridi;1,2;Central Midfield;Real Sociedad San Sebastian;289257;14
+Mikel Balenziaga;1,2;Left-Back;Athletic Bilbao;85258;24
+Nolito;1,2;Left Winger;Celta Vigo;70934;9
+Dani Rodriguez;1,2;Midfield;Rcd Mallorca;139435;14
+Nikola Maras;1,2;Centre-Back;Rayo Vallecano;258475;2
+Lago Junior;1,2;Left Winger;Rcd Mallorca;100722;-
+Ximo Navarro;1,2;Right-Back;Deportivo Alaves;184767;23
+Andres Martin;1,2;Forward;Rayo Vallecano;531277;-
+Varazdat Haroyan;1,2;Centre-Back;Fc Cadiz;155423;5
+Carlos Akapo;1,2;Right-Back;Fc Cadiz;225015;15
+Cristiano Piccini;1,2;Centre-Back;Fc Valencia;163086;24
+Ivan Alejo;1,2;Right Winger;Fc Cadiz;281755;14
+Edgar Mendez;1,2;Right Winger;Deportivo Alaves;133794;17
+Marcos Mauro;1,2;Centre-Back;Fc Cadiz;247366;-
+Ignasi Miquel;1,2;Centre-Back;Fc Getafe;70245;-
+Mamadou Sylla;1,2;Centre-Forward;Deportivo Alaves;166683;-
+Helibelton Palacios;1,2;Right-Back;Fc Elche;211389;14
+Cristhian Mosquera;1,0;Centre-Back;Fc Valencia;646750;37
+Matthew Hoppe;1,0;Centre-Forward;Rcd Mallorca;678194;11
+Matias Dituro;1,0;Goalkeeper;Celta Vigo;144128;1
+Pablo Piatti;1,0;Left Winger;Fc Elche;56067;20
+Alejandro Cantero;1,0;Left Winger;Ud Levante;638235;29
+Koba Koindredi;1,0;Central Midfield;Fc Valencia;569375;18
+Alex Petxa;1,0;Right-Back;Athletic Bilbao;527838;2
+Claudio Bravo;1,0;Goalkeeper;Real Betis Sevilla;40423;25
+Roberto Soldado;1,0;Centre-Forward;Ud Levante;34870;16
+Son;1,0;Right-Back;Ud Levante;349856;2
+Victor Camarasa;1,0;Central Midfield;Real Betis Sevilla;263856;22
+Pedro Bigas;1,0;Centre-Back;Fc Elche;203043;6
+Nikola Vukcevic;1,0;Defensive Midfield;Ud Levante;151470;17
+Miguel Baeza;1,0;Midfield;Celta Vigo;523977;-
+Dani Alves;1,0;Right-Back;Fc Barcelona;15951;8
+Carlos Dominguez;1,0;Centre-Back;Celta Vigo;636093;28
+Jose Fontan;1,0;Centre-Back;Celta Vigo;609361;19
+Aaron Escandell;1,0;Goalkeeper;Fc Granada;284430;13
+Josan;1,0;Right Winger;Fc Elche;277533;17
+Aleix Febas;1,0;Central Midfield;Rcd Mallorca;217144;-
+Antonio Sivera;1,0;Goalkeeper;Deportivo Alaves;298197;13
+Arnau Comas;1,0;Centre-Back;Fc Barcelona;388542;35
+Urko Gonzalez;1,0;Centre-Back;Real Sociedad San Sebastian;625651;30
+Carlos Bacca;1,0;Centre-Forward;Fc Granada;119235;20
+Alvaro Bastida;1,0;Central Midfield;Fc Cadiz;882772;-
+Nicolas Jackson;1,0;Centre-Forward;Fc Villarreal;776890;26
+Juanmi Latasa;1,0;Centre-Forward;Real Madrid;623521;29
+Peter Gonzalez;1,0;Right Winger;Real Madrid;710004;44
+Alberto Perea;1,0;Left Winger;Fc Cadiz;99559;10
+Gaizka Ayesa;1,0;Goalkeeper;Real Sociedad San Sebastian;561702;34
+John Joe Patrick Finn;1,0;Central Midfield;Fc Getafe;841121;-
+Florin Andone;1,0;Centre-Forward;Fc Cadiz;177065;17
+Jon Pacheco;1,0;Centre-Back;Real Sociedad San Sebastian;580560;26
+Angel Montoro;1,0;Central Midfield;Fc Granada;59551;19
+Nacho Monreal;1,0;Left-Back;Real Sociedad San Sebastian;43003;20
+Allan Nyom;1,0;Right-Back;Fc Getafe;111508;-
+David Timor;1,0;Defensive Midfield;Fc Getafe;158795;-
+John Guidetti;1,0;Centre-Forward;Deportivo Alaves;98596;10
+Clement Grenier;1,0;Central Midfield;Rcd Mallorca;72479;6
+Jon Bautista;1,0;Centre-Forward;Real Sociedad San Sebastian;289236;25
+Jon Ander Olasagasti;1,0;Central Midfield;Real Sociedad San Sebastian;625660;46
+Dani Raba;0,9;Right Winger;Fc Granada;413262;12
+Fran Merida;0,9;Midfield;Espanyol Barcelona;42920;8
+Juan Cala;0,9;Centre-Back;Fc Cadiz;67089;16
+Martin Caceres;0,9;Centre-Back;Ud Levante;54935;7
+Javier Pastore;0,9;Midfield;Fc Elche;55215;15
+Oscar Duarte;0,8;Centre-Back;Ud Levante;175323;6
+David Gil;0,8;Goalkeeper;Fc Cadiz;162027;13
+German Sanchez;0,8;Centre-Back;Fc Granada;95963;6
+Axel Werner;0,8;Goalkeeper;Fc Elche;236734;25
+Luis Hernandez;0,8;Centre-Back;Fc Cadiz;62945;23
+Alvaro Vadillo;0,8;Left Winger;Espanyol Barcelona;162074;-
+Marc Pubill;0,8;Right-Back;Ud Levante;844637;42
+Enric Franquesa;0,8;Left-Back;Ud Levante;282700;3
+Miguel Llambrich;0,8;Right-Back;Espanyol Barcelona;399775;2
+Ivan Saponjic;0,8;Centre-Forward;Atletico Madrid;274347;17
+Josema;0,8;Centre-Back;Fc Elche;255892;24
+Chema Rodriguez;0,8;Centre-Back;Fc Getafe;248330;-
+Mika Marmol;0,8;Centre-Back;Fc Barcelona;617060;41
+Jaume Grau;0,8;Central Midfield;Ca Osasuna;340864;12
+Esteban Saveljich;0,8;Centre-Back;Rayo Vallecano;240360;24
+Mario Hernandez;0,8;Right-Back;Rayo Vallecano;608531;32
+Bebe;0,8;Left Winger;Rayo Vallecano;153427;10
+Juan Carlos Arana;0,8;Centre-Forward;Fc Villarreal;461631;42
+Ivan Martin;0,8;Midfield;Deportivo Alaves;341278;-
+Tomas Pina;0,8;Central Midfield;Deportivo Alaves;139895;8
+Jesus Areso;0,8;Right-Back;Ca Osasuna;488626;32
+Tachi;0,8;Centre-Back;Deportivo Alaves;354697;-
+Jonas Ramalho;0,8;Centre-Back;Ca Osasuna;69660;15
+Victor Diaz;0,7;Right-Back;Fc Granada;58330;16
+Kiko Casilla;0,7;Goalkeeper;Fc Elche;27486;1
+Hernani;0,7;Right Winger;Ud Levante;172142;-
+Sergio Postigo;0,7;Centre-Back;Ud Levante;158791;15
+Gonzalo Verdu;0,7;Centre-Back;Fc Elche;184779;5
+Alvaro Sanz;0,7;Defensive Midfield;Fc Barcelona;466806;34
+Juan Artola;0,7;Right Winger;Athletic Bilbao;626960;34
+Alex Blanco;0,7;Left Winger;Fc Valencia;328914;16
+Milutin Osmajic;0,7;Centre-Forward;Fc Cadiz;542819;-
+Javi Lopez;0,7;Left-Back;Deportivo Alaves;568158;27
+Didac Vila;0,6;Left-Back;Espanyol Barcelona;67090;17
+Miguel Angel Morro;0,6;Goalkeeper;Rayo Vallecano;607780;-
+Isma Ruiz;0,6;Central Midfield;Fc Granada;631221;26
+Ivan Romero;0,6;Centre-Forward;Fc Sevilla;628886;36
+Dario Poveda;0,6;Centre-Forward;Fc Getafe;399780;-
+Coke;0,6;Right-Back;Ud Levante;71905;23
+Yacine Qasmi;0,6;Centre-Forward;Rayo Vallecano;93747;-
+Saul Garcia;0,6;Left-Back;Deportivo Alaves;249471;12
+Juan Perez;0,6;Goalkeeper;Ca Osasuna;298613;13
+Ivan Chapela;0,6;Right Winger;Fc Cadiz;412046;-
+Alvaro Jimenez;0,6;Right Winger;Fc Cadiz;282406;-
+Inigo Perez;0,6;Midfield;Ca Osasuna;71579;21
+Antonio Barragan;0,6;Right-Back;Fc Elche;32522;19
+Adrian de la Fuente;0,6;Centre-Back;Fc Villarreal;341263;27
+Oier Sanjurjo;0,5;Defensive Midfield;Ca Osasuna;63040;6
+Jonathan Gomez;0,5;Left-Back;Real Sociedad San Sebastian;674501;39
+Aleksandar Sedlar;0,5;Centre-Back;Rcd Mallorca;237499;20
+Gaston Alvarez;0,5;Centre-Back;Fc Getafe;577486;4
+Martin Calderon;0,5;Midfield;Fc Cadiz;278404;-
+Rober Ibanez;0,5;Right Winger;Ca Osasuna;242532;22
+Ivan Barbero;0,5;Centre-Forward;Ca Osasuna;514514;20
+Diego Lopez;0,5;Goalkeeper;Espanyol Barcelona;34370;13
+Juanlu Sanchez;0,5;Right Winger;Fc Sevilla;676042;32
+Dani Tasende;0,5;Left-Back;Fc Villarreal;627282;37
+Marc Tenas;0,5;Centre-Forward;Deportivo Alaves;628472;-
+Jorge Moreno;0,5;Centre-Back;Rayo Vallecano;717957;-
+Javi Diaz;0,5;Goalkeeper;Fc Sevilla;396107;31
+Ander Martin;0,5;Right Winger;Real Sociedad San Sebastian;625658;47
+Mario Gila;0,5;Centre-Back;Real Madrid;618341;34
+Giuliano Simeone;0,5;Centre-Forward;Atletico Madrid;742201;27
+Quini;0,4;Right-Back;Fc Granada;223053;17
+Max Svensson;0,4;Centre-Forward;Espanyol Barcelona;705808;-
+Carlo Garcia;0,4;Midfield;Fc Villarreal;627287;38
+Valentino Fattore;0,4;Right-Back;Fc Sevilla;537373;42
+Joan Garcia;0,4;Goalkeeper;Espanyol Barcelona;561613;34
+Fran Delgado;0,4;Right-Back;Real Betis Sevilla;711638;32
+Antonio Perera;0,4;Defensive Midfield;Deportivo Alaves;483742;-
+Jose Mari;0,4;Defensive Midfield;Fc Cadiz;225462;6
+Thomas Carrique;0,4;Right-Back;Celta Vigo;540676;-
+Lucas de Vega;0,4;Central Midfield;Fc Barcelona;388555;40
+Sergio Moreno;0,4;Centre-Forward;Rayo Vallecano;607779;-
+Luismi Cruz;0,4;Right Winger;Fc Sevilla;610461;27
+Rafa Marin;0,4;Centre-Back;Real Madrid;662261;41
+Roger Martinez;0,3;Midfield;Espanyol Barcelona;646746;-
+Unai Dufur;0,3;Centre-Back;Ca Osasuna;783429;31
+Jokin Ezkieta;0,3;Goalkeeper;Athletic Bilbao;379548;13
+Leo Roman;0,3;Goalkeeper;Rcd Mallorca;562742;31
+Raul Parra;0,3;Right-Back;Fc Cadiz;784719;-
+Filip Jorgensen;0,3;Goalkeeper;Fc Villarreal;585323;35
+Alex Blesa;0,3;Central Midfield;Ud Levante;611198;-
+Koke Vegas;0,3;Goalkeeper;Ud Levante;299715;-
+Yassin Fekir;0,3;Midfield;Real Betis Sevilla;395694;19
+Mario Suarez;0,3;Centre-Back;Rayo Vallecano;37337;4
+Luis Lopez;0,3;Goalkeeper;Real Madrid;623525;26
+Alfon Gonzalez;0,3;Left Winger;Celta Vigo;357628;-
+Alex Sola;0,3;Right-Back;Real Sociedad San Sebastian;434990;31
+Salva Sevilla;0,3;Central Midfield;Rcd Mallorca;58799;8
+Toni Fuidias;0,3;Goalkeeper;Real Madrid;623526;40
+Cristo Romero;0,3;Left-Back;Real Sociedad San Sebastian;696890;42
+Guillem Jaime;0,3;Right-Back;Fc Barcelona;331508;38
+Iker Alvarez;0,3;Goalkeeper;Fc Villarreal;547248;31
+Nacho Quintana;0,3;Midfield;Fc Sevilla;536826;43
+Diego Conde;0,3;Goalkeeper;Fc Getafe;341713;27
+Oier Olazabal;0,3;Goalkeeper;Espanyol Barcelona;8176;1
+Adrian Butzke;0,3;Centre-Forward;Fc Granada;596884;-
+Pedro Benito;0,3;Centre-Forward;Fc Cadiz;835794;-
+Pepe Sanchez;0,3;Centre-Back;Fc Granada;500191;-
+Iker Benito;0,3;Right Winger;Ca Osasuna;710679;33
+Sergio Santos;0,25;Right-Back;Real Madrid;537759;43
+Alfonso Pastor;0,25;Goalkeeper;Fc Sevilla;537367;33
+Ruben Sanchez;0,25;Right-Back;Espanyol Barcelona;705813;-
+Luis Bilbao;0,25;Left Winger;Athletic Bilbao;834755;36
+Dani Villahermosa;0,25;Central Midfield;Espanyol Barcelona;628496;-
+Sergio Barcia;0,25;Centre-Back;Fc Granada;562058;-
+Kike Hermoso;0,2;Centre-Back;Real Betis Sevilla;531824;37
+Jose Angel Carmona;0,2;Right-Back;Fc Sevilla;711625;30
+Pau Martinez;0,2;Right Winger;Ca Osasuna;366931;37
+Antonio Zarzana;0,2;Right Winger;Fc Sevilla;587562;38
+Javi Castro;0,2;Centre-Back;Celta Vigo;740253;-
+Neyder Lozano;0,2;Centre-Back;Fc Granada;468700;-
+Juan Maria Alcedo;0,2;Left-Back;Fc Sevilla;628923;44
+Bryan Zaragoza;0,2;Left Winger;Fc Granada;713644;-
+Jesus Owono;0,2;Goalkeeper;Deportivo Alaves;631693;-
+Jose Calderon;0,2;Left-Back;Real Betis Sevilla;630998;36
+Koffi;0,2;Left-Back;Fc Getafe;809639;-
+Lazar Carevic;0,2;Goalkeeper;Fc Barcelona;344457;27
+Aitor Paredes;0,2;Centre-Back;Athletic Bilbao;591916;31
+Joseda Menargues;0,2;Right-Back;Fc Valencia;589459;35
+Alejandro Perez;0,2;Midfield;Espanyol Barcelona;548187;-
+Joao Costa;0,2;Goalkeeper;Fc Granada;198638;-
+Cesar Moreno;0,2;Central Midfield;Fc Elche;672953;30
+Antonio Pacheco;0,2;Central Midfield;Fc Villarreal;568156;39
+Dario Ramos;0,2;Goalkeeper;Ca Osasuna;341266;36
+Marc Baro;0,2;Left-Back;Real Betis Sevilla;388512;36
+Cristian Rivero;0,2;Goalkeeper;Fc Valencia;398131;25
+Manolo Reina;0,2;Goalkeeper;Rcd Mallorca;29051;1
+Hugo Gonzalez;0,2;Right Winger;Fc Valencia;707279;31
+Giorgi Kochorashvili;0,2;Central Midfield;Ud Levante;405564;46
+Lanchi;0,2;Right-Back;Fc Villarreal;631098;32
+Lluis Recasens;0,15;Centre-Back;Espanyol Barcelona;705810;-
+Abdel Abqar;0,15;Centre-Back;Deportivo Alaves;559979;-
+Gaizka Campos;0,15;Goalkeeper;Celta Vigo;448835;-
+Giorgi Gagua;0,15;Centre-Forward;Deportivo Alaves;550492;-
+Fernando Medrano;0,15;Left-Back;Celta Vigo;461619;-
+Unai Marrero;0,15;Goalkeeper;Real Sociedad San Sebastian;625657;32
+Jose Manuel;0,15;Centre-Back;Ud Levante;627277;-
+Pedro Ortiz;0,15;Central Midfield;Fc Sevilla;610238;34
+Kike Salas;0,15;Centre-Back;Fc Sevilla;766583;45
+Thomas Giaquinto;0,15;Midfield;Rcd Mallorca;632501;-
+Gori;0,15;Midfield;Espanyol Barcelona;705815;-
+Pablo Cunat;0,15;Goalkeeper;Ud Levante;617059;-
+Genar Fornes;0,15;Left-Back;Fc Cadiz;628490;-
+Pablo Picon;0,15;Goalkeeper;Ud Levante;611202;-
+Sergio Gimeno;0,1;Centre-Back;Rayo Vallecano;623025;-
+Adrian Quintela;0,1;Goalkeeper;Rayo Vallecano;548186;30
+Ibra Camara;0,1;Centre-Back;Atletico Madrid;668273;47
+Alvaro Lopez;0,1;Centre-Back;Fc Getafe;783873;-
+Pablo Perez;0,1;Left-Back;Fc Sevilla;711628;26
+Pablo Montero;0,1;Midfielder;Fc Getafe;889717;-
+Miguel Angel Brau;0,1;Left-Back;Fc Granada;713649;-
+Alberto Flores;0,1;Goalkeeper;Fc Sevilla;766552;41
+Cheikh Diamanka;0,1;Centre-Forward;Fc Elche;887054;32
+Diego Bri;0,1;Centre-Forward;Fc Elche;720532;29
+Juan Flere;0,1;Goalkeeper;Fc Cadiz;513972;-
+Charlie Perez;0,1;Goalkeeper;Fc Valencia;707271;35
+Angel Algobia;0,1;Defensive Midfield;Fc Getafe;638589;-
+Joselu Friaza;0,1;Right Winger;Fc Elche;900166;34
+Angel Jimenez;0,1;Goalkeeper;Fc Granada;713632;-
+Cheikh Kane Sarr;0,1;Goalkeeper;Fc Granada;632471;-
+Totti;0,1;Central Midfield;Fc Getafe;708500;-
+Tomas Mendes;0,1;Central Midfield;Deportivo Alaves;646734;-
+Sergio Camus;0,1;Right-Back;Atletico Madrid;379632;37
+Carlos Gimenez;0,1;Centre-Back;Ud Levante;856136;44
+Cesar Tarrega;0,1;Centre-Back;Fc Valencia;707274;38
+Carlos Martin;0,1;Forward;Atletico Madrid;618813;36
+Ruben Iranzo;0,1;Centre-Back;Fc Valencia;668212;39
+Diego Pineiro;0,1;Goalkeeper;Real Madrid;926850;45
+Luca Koleosho;0,1;Left Winger;Espanyol Barcelona;745461;-
+Antonio Marchena;0,1;Central Midfield;Real Betis Sevilla;718580;38
+Lluis Andreu;0,1;Goalkeeper;Fc Elche;602979;28
+Jofre Carreras;0,1;Right Winger;Espanyol Barcelona;628498;-
+Iker Recio;0,1;Centre-Back;Rayo Vallecano;628461;-
+Antonio Leal;0,1;Centre-Back;Ud Levante;627276;-
+Alex Balboa;0,1;Central Midfield;Deportivo Alaves;634460;-
+Pablo Barrios;0,1;Central Midfield;Atletico Madrid;775605;50
+Alex Primo;0,1;Goalkeeper;Ud Levante;939445;-
+Javi Serrano;0,1;Central Midfield;Atletico Madrid;668177;26
+Chinchu;0,1;Centre-Back;Fc Getafe;857939;-
+Javi Guerra;0,1;Central Midfield;Fc Valencia;834764;30
+Unai Ropero;0,1;Right Winger;Deportivo Alaves;718029;-
+Lass Sangare;0,1;Midfield;Fc Valencia;944124;40
+Carles Marco;0,1;Right-Back;Fc Elche;623023;27
+Estanis Pedrola;0,1;Left Winger;Fc Barcelona;913539;39
+Marcos Fernandez;0,1;Left-Back;Rcd Mallorca;947432;37
+Hugo Sotelo;0,1;Central Midfield;Celta Vigo;892221;-
+Damian Rodriguez;0,1;Midfield;Celta Vigo;715628;-
+John Nwankwo;0,1;Centre-Back;Fc Elche;627290;26
+Josep Gaya;0,1;Centre-Back;Rcd Mallorca;632495;-
+Mario Dominguez;0,1;Centre-Forward;Fc Valencia;941867;46
+Ivan Sanz;0,1;Goalkeeper;Deportivo Alaves;970493;-
+Fran Gonzalez;0,1;Centre-Back;Atletico Madrid;784717;38
+Alejandro Iturbe;0,1;Goalkeeper;Atletico Madrid;618801;33
+Antonio Gomis;0,1;Goalkeeper;Atletico Madrid;930415;35
+Marco Moreno;0,1;Centre-Back;Atletico Madrid;534376;32
+Christian Gomez;0,1;Goalkeeper;Atletico Madrid;461613;31
+Manu Lama;0,1;Centre-Back;Atletico Madrid;628464;42
+Alexandru Tirlea;0,1;Right-Back;Deportivo Alaves;319253;-
+Coke Carrillo;0,1;Goalkeeper;Celta Vigo;581640;-
+Carlos Benitez;0,1;Midfield;Ud Levante;856156;-
+Yellu Santiago;0,1;Central Midfield;Fc Valencia;941869;44
+Pedro Aleman;0,1;Midfield;Fc Valencia;699771;26
+Alejandro Asensio;0,1;Left Winger;Rayo Vallecano;891075;-
+Javi Llabres;0,1;Left Winger;Rcd Mallorca;706138;-
+Miguelito;0,1;Right-Back;Rcd Mallorca;632498;-
+Cesar Fernandez;0,1;Goalkeeper;Celta Vigo;646741;-
+Sergio Aguero;0,1;Forward;Fc Barcelona;26399;19
+Alan Godoy;0,1;Centre-Forward;Deportivo Alaves;668277;-
+Joan Rojas;0,1;Centre-Back;Atletico Madrid;537458;44
+Sergio Diez;0,1;Right-Back;Atletico Madrid;935456;57
+Marc Carmona;0,1;Left-Back;Rcd Mallorca;628488;-
+Pere Garcia;0,1;Goalkeeper;Rcd Mallorca;632913;-
+Omar Faraj;0,1;Centre-Forward;Ud Levante;668041;-
+Pablo Galvez;0,1;Forward;Rcd Mallorca;632499;-
+Ander Iru;0,1;Goalkeeper;Athletic Bilbao;480958;35
+Santi Mina;0,1;Centre-Forward;Celta Vigo;255653;22
+Ferran Quetglas;0,1;Goalkeeper;Rcd Mallorca;741285;-
+Hugo Alvarez;0,1;Left Winger;Celta Vigo;892929;-
+Dani Rebollo;0,1;Goalkeeper;Real Betis Sevilla;566666;30
+Alvaro Aguirre;0,1;Left Winger;Rayo Vallecano;888694;-
+Oscar Medina;0,1;Goalkeeper;Deportivo Alaves;970490;-
+Manu Navarro;0,1;Central Midfield;Rayo Vallecano;629020;-
+Joseda Alvarez;0,05;Right-Back;Ud Levante;718177;-
+Jony Alamo;0,05;Midfield;Fc Elche;786438;33
+Yoel Ramirez;0,05;Goalkeeper;Ca Osasuna;634116;34
+Adrian Gonzalez;0,05;Goalkeeper;Fc Sevilla;537369;40
+Santi Garcia;0,05;Midfield;Fc Getafe;732096;-
+Adrian Rodriguez;0,05;Goalkeeper;Deportivo Alaves;608382;-
+Victor Aznar;0,05;Goalkeeper;Fc Cadiz;706797;-
+Mamor Niang;0,025;Centre-Forward;Fc Getafe;715650;-
+Sergio Bono;0,025;Centre-Back;Fc Elche;622623;30

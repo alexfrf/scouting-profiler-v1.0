@@ -1,0 +1,790 @@
+Players;Values;POS;Team;ID;Num
+Phil Foden;90,0;Left Winger;Manchester City;406635;47
+Harry Kane;90,0;Centre-Forward;Tottenham Hotspur;132098;10
+Mohamed Salah;90,0;Right Winger;Fc Liverpool;148455;11
+Bruno Fernandes;85,0;Midfield;Manchester United;240306;18
+Kevin De Bruyne;85,0;Midfield;Manchester City;88755;17
+Trent Alexander-Arnold;80,0;Right-Back;Fc Liverpool;314353;66
+Declan Rice;80,0;Defensive Midfield;West Ham United;357662;41
+Rodri;80,0;Defensive Midfield;Manchester City;357565;16
+Bernardo Silva;80,0;Midfield;Manchester City;241641;20
+Mason Mount;75,0;Midfield;Fc Chelsea;346483;19
+Jadon Sancho;75,0;Left Winger;Manchester United;401173;25
+Ruben Dias;75,0;Centre-Back;Manchester City;258004;3
+Heung-min Son;75,0;Left Winger;Tottenham Hotspur;91845;7
+Jack Grealish;70,0;Left Winger;Manchester City;203460;10
+Kai Havertz;70,0;Midfield;Fc Chelsea;309400;29
+Sadio Mane;70,0;Left Winger;Fc Liverpool;200512;10
+Raheem Sterling;70,0;Left Winger;Manchester City;134425;7
+Romelu Lukaku;70,0;Centre-Forward;Fc Chelsea;96341;9
+Luis Diaz;65,0;Left Winger;Fc Liverpool;480692;23
+Bukayo Saka;65,0;Right Winger;Fc Arsenal;433177;7
+Joao Cancelo;65,0;Right-Back;Manchester City;182712;27
+Andrew Robertson;65,0;Left-Back;Fc Liverpool;234803;26
+Reece James;60,0;Right-Back;Fc Chelsea;472423;24
+Fabinho;60,0;Defensive Midfield;Fc Liverpool;225693;3
+Marcus Rashford;60,0;Left Winger;Manchester United;258923;10
+Diogo Jota;60,0;Left Winger;Fc Liverpool;340950;20
+Wilfred Ndidi;60,0;Defensive Midfield;Leicester City;274839;25
+Youri Tielemans;55,0;Central Midfield;Leicester City;249565;8
+Virgil van Dijk;55,0;Centre-Back;Fc Liverpool;139208;4
+Gabriel Jesus;50,0;Centre-Forward;Manchester City;363205;9
+James Maddison;50,0;Midfield;Leicester City;294057;10
+Kalvin Phillips;50,0;Defensive Midfield;Leeds United;351749;23
+Tammy Abraham;50,0;Centre-Forward;Fc Chelsea;331726;-
+Alisson;50,0;Goalkeeper;Fc Liverpool;105470;1
+Paul Pogba;48,0;Central Midfield;Manchester United;122153;6
+Richarlison;48,0;Centre-Forward;Fc Everton;378710;7
+Raphael Varane;48,0;Centre-Back;Manchester United;164770;19
+Cristian Romero;48,0;Centre-Back;Tottenham Hotspur;355915;4
+Tomas Soucek;45,0;Defensive Midfield;West Ham United;283628;28
+Aymeric Laporte;45,0;Centre-Back;Manchester City;176553;14
+Ederson;45,0;Goalkeeper;Manchester City;238223;31
+Ferran Torres;45,0;Left Winger;Manchester City;398184;21
+Martin Odegaard;45,0;Midfield;Fc Arsenal;316264;8
+Raphinha;45,0;Right Winger;Leeds United;411295;10
+Christian Pulisic;42,0;Right Winger;Fc Chelsea;315779;10
+Jarrod Bowen;42,0;Right Winger;West Ham United;314875;20
+Mateo Kovacic;42,0;Central Midfield;Fc Chelsea;51471;8
+Bruno Guimaraes;40,0;Midfield;Newcastle United;520624;39
+Jorginho;40,0;Defensive Midfield;Fc Chelsea;102017;5
+Wesley Fofana;40,0;Centre-Back;Leicester City;475411;3
+Dejan Kulusevski;40,0;Right Winger;Tottenham Hotspur;431755;21
+Dominic Calvert-Lewin;40,0;Centre-Forward;Fc Everton;306024;9
+Ibrahima Konate;40,0;Centre-Back;Fc Liverpool;357119;5
+Ruben Neves;40,0;Defensive Midfield;Wolverhampton Wanderers;225161;8
+Caglar Soyuncu;40,0;Centre-Back;Leicester City;320141;4
+N'Golo Kante;40,0;Midfield;Fc Chelsea;225083;7
+Emile Smith Rowe;40,0;Midfield;Fc Arsenal;392765;10
+Gabriel Martinelli;40,0;Left Winger;Fc Arsenal;655488;11
+Ben White;40,0;Right-Back;Fc Arsenal;335721;4
+Antonio Rudiger;40,0;Centre-Back;Fc Chelsea;86202;2
+Pierre-Emile Hojbjerg;40,0;Midfield;Tottenham Hotspur;167799;5
+Thomas Partey;38,0;Defensive Midfield;Fc Arsenal;230784;5
+Ben Chilwell;38,0;Left-Back;Fc Chelsea;316125;21
+Douglas Luiz;38,0;Central Midfield;Aston Villa;447661;6
+Wilfried Zaha;38,0;Left Winger;Crystal Palace;145988;11
+Luke Shaw;38,0;Left-Back;Manchester United;183288;23
+Harry Maguire;38,0;Centre-Back;Manchester United;177907;5
+Gabriel Magalhaes;38,0;Centre-Back;Fc Arsenal;435338;6
+Riyad Mahrez;35,0;Right Winger;Manchester City;171424;26
+Yves Bissouma;35,0;Central Midfield;Brighton Amp Hove Albion;410425;8
+Ollie Watkins;35,0;Centre-Forward;Aston Villa;324358;11
+Ivan Toney;35,0;Centre-Forward;Fc Brentford;251664;17
+Andreas Christensen;35,0;Centre-Back;Fc Chelsea;196948;4
+Timo Werner;35,0;Centre-Forward;Fc Chelsea;170527;11
+Pedro Neto;32,0;Right Winger;Wolverhampton Wanderers;487465;7
+James Ward-Prowse;32,0;Central Midfield;Fc Southampton;181579;8
+Marc Guehi;32,0;Centre-Back;Crystal Palace;392757;6
+Emiliano Buendia;32,0;Right Winger;Aston Villa;321247;10
+Scott McTominay;32,0;Defensive Midfield;Manchester United;315969;39
+Harvey Barnes;32,0;Left Winger;Leicester City;398065;7
+Roberto Firmino;32,0;Centre-Forward;Fc Liverpool;131789;9
+John McGinn;32,0;Central Midfield;Aston Villa;193116;7
+Allan Saint-Maximin;32,0;Left Winger;Newcastle United;272642;10
+Edouard Mendy;32,0;Goalkeeper;Fc Chelsea;442531;16
+Kieran Tierney;32,0;Left-Back;Fc Arsenal;300716;3
+Tanguy Ndombele;30,0;Midfield;Tottenham Hotspur;450936;28
+Cristiano Ronaldo;30,0;Centre-Forward;Manchester United;8198;7
+Tyrone Mings;30,0;Centre-Back;Aston Villa;253677;5
+Emiliano Martinez;28,0;Goalkeeper;Aston Villa;111873;1
+Davinson Sanchez;28,0;Centre-Back;Tottenham Hotspur;341429;6
+Curtis Jones;28,0;Central Midfield;Fc Liverpool;433188;17
+Marc Cucurella;28,0;Left-Back;Brighton Amp Hove Albion;284857;3
+Eric Dier;28,0;Centre-Back;Tottenham Hotspur;175722;15
+Hakim Ziyech;28,0;Right Winger;Fc Chelsea;217111;22
+Kurt Zouma;28,0;Centre-Back;Fc Chelsea;157509;-
+John Stones;28,0;Centre-Back;Manchester City;186590;5
+Aaron Ramsdale;28,0;Goalkeeper;Fc Arsenal;427568;32
+Leander Dendoncker;28,0;Defensive Midfield;Wolverhampton Wanderers;168157;32
+Timothy Castagne;28,0;Right-Back;Leicester City;262226;27
+Rodrigo Bentancur;28,0;Central Midfield;Tottenham Hotspur;354362;30
+Ismaila Sarr;27,0;Right Winger;Fc Watford;410225;23
+Saul Niguez;25,0;Midfield;Fc Chelsea;148928;17
+Leon Bailey;25,0;Left Winger;Aston Villa;387626;31
+Jacob Ramsey;25,0;Central Midfield;Aston Villa;503749;41
+Nathan Ake;25,0;Centre-Back;Manchester City;177476;6
+Oleksandr Zinchenko;25,0;Left-Back;Manchester City;203853;11
+Ilkay Gundogan;25,0;Midfield;Manchester City;53622;8
+James Justin;25,0;Right-Back;Leicester City;413220;2
+Tyrick Mitchell;25,0;Left-Back;Crystal Palace;730893;3
+Joachim Andersen;25,0;Centre-Back;Crystal Palace;260827;16
+Aaron Wan-Bissaka;25,0;Right-Back;Manchester United;477758;29
+Boubakary Soumare;25,0;Midfield;Leicester City;344605;42
+Tino Livramento;25,0;Right-Back;Fc Southampton;503981;21
+Matty Cash;25,0;Right-Back;Aston Villa;425334;2
+Sergio Reguilon;25,0;Left-Back;Tottenham Hotspur;282429;3
+Callum Hudson-Odoi;25,0;Left Winger;Fc Chelsea;392768;20
+Emerson Royal;25,0;Right-Back;Tottenham Hotspur;476344;12
+Conor Gallagher;25,0;Central Midfield;Crystal Palace;488362;-
+Donny van de Beek;25,0;Central Midfield;Fc Everton;288255;30
+Nicolas Pepe;25,0;Right Winger;Fc Arsenal;343052;19
+Naby Keita;25,0;Midfield;Fc Liverpool;302215;8
+Conor Coady;25,0;Centre-Back;Wolverhampton Wanderers;128901;16
+Lucas Digne;25,0;Left-Back;Fc Everton;126664;12
+Takehiro Tomiyasu;25,0;Right-Back;Fc Arsenal;331560;18
+Said Benrahma;25,0;Left Winger;West Ham United;290532;22
+Moise Kean;24,0;Centre-Forward;Fc Everton;364135;27
+Nikola Vlasic;22,0;Midfield;West Ham United;293200;11
+Ezri Konsa;22,0;Centre-Back;Aston Villa;413403;4
+James Tarkowski;22,0;Centre-Back;Fc Burnley;173504;5
+Giovani Lo Celso;22,0;Central Midfield;Tottenham Hotspur;348795;18
+Nelson Semedo;22,0;Right-Back;Wolverhampton Wanderers;231572;22
+David Raya;22,0;Goalkeeper;Fc Brentford;262749;1
+Bryan Mbeumo;22,0;Right Winger;Fc Brentford;413039;19
+Kyle Walker-Peters;22,0;Right-Back;Fc Southampton;341051;2
+Demarai Gray;22,0;Left Winger;Fc Everton;292417;11
+Pablo Fornals;22,0;Midfield;West Ham United;357885;8
+Joe Willock;22,0;Central Midfield;Newcastle United;340329;28
+Eberechi Eze;22,0;Midfield;Crystal Palace;479999;10
+Harvey Elliott;22,0;Midfield;Fc Liverpool;565822;67
+Michael Olise;22,0;Right Winger;Crystal Palace;566723;7
+Jan Bednarek;22,0;Centre-Back;Fc Southampton;243028;35
+Abdoulaye Doucoure;22,0;Midfield;Fc Everton;127187;16
+Max Aarons;22,0;Right-Back;Norwich City;471690;2
+Armando Broja;22,0;Centre-Forward;Fc Southampton;571743;18
+Victor Lindelof;22,0;Centre-Back;Manchester United;184573;2
+Thiago;20,0;Central Midfield;Fc Liverpool;60444;6
+Patson Daka;20,0;Centre-Forward;Leicester City;365172;29
+Danny Ings;20,0;Centre-Forward;Aston Villa;134294;20
+Leandro Trossard;20,0;Left Winger;Brighton Amp Hove Albion;144028;11
+Lewis Dunk;20,0;Centre-Back;Brighton Amp Hove Albion;148153;5
+Philippe Coutinho;20,0;Left Winger;Aston Villa;80444;23
+Ben Godfrey;20,0;Centre-Back;Fc Everton;343475;22
+Michael Keane;20,0;Centre-Back;Fc Everton;118534;5
+Granit Xhaka;20,0;Central Midfield;Fc Arsenal;111455;34
+Yerry Mina;20,0;Centre-Back;Fc Everton;289446;13
+Hector Bellerin;20,0;Right-Back;Fc Arsenal;191217;2
+Rico Henry;20,0;Left-Back;Fc Brentford;339556;3
+Jordan Pickford;20,0;Goalkeeper;Fc Everton;130164;1
+Anthony Gordon;20,0;Left Winger;Fc Everton;503733;24
+Kelechi Iheanacho;20,0;Centre-Forward;Leicester City;295330;14
+Trevoh Chalobah;20,0;Centre-Back;Fc Chelsea;346314;14
+Joelinton;20,0;Midfield;Newcastle United;333241;7
+Christian Eriksen;20,0;Central Midfield;Fc Brentford;69633;21
+Ben Davies;20,0;Left-Back;Tottenham Hotspur;192765;33
+Illan Meslier;20,0;Goalkeeper;Leeds United;542586;1
+Diogo Dalot;20,0;Right-Back;Manchester United;357147;20
+Rayan Ait-Nouri;20,0;Left-Back;Wolverhampton Wanderers;578391;3
+Ricardo Pereira;20,0;Right-Back;Leicester City;215876;21
+Ruben Loftus-Cheek;20,0;Central Midfield;Fc Chelsea;202886;12
+Daniel Podence;20,0;Left Winger;Wolverhampton Wanderers;256977;10
+Fred;20,0;Central Midfield;Manchester United;191614;17
+Francisco Trincao;20,0;Right Winger;Wolverhampton Wanderers;412669;11
+Adama Traore;20,0;Right Winger;Wolverhampton Wanderers;204103;37
+Lucas Moura;20,0;Right Winger;Tottenham Hotspur;77100;27
+Anthony Elanga;20,0;Left Winger;Manchester United;583189;36
+Raul Jimenez;18,0;Forward;Wolverhampton Wanderers;206040;9
+Oliver Skipp;18,0;Defensive Midfield;Tottenham Hotspur;406638;29
+Nathan Redmond;18,0;Left Winger;Fc Southampton;129078;11
+Kristoffer Ajer;18,0;Centre-Back;Fc Brentford;328658;20
+Andre Gomes;18,0;Central Midfield;Fc Everton;221025;21
+Jose Sa;18,0;Goalkeeper;Wolverhampton Wanderers;249994;1
+Diego Llorente;18,0;Centre-Back;Leeds United;246291;14
+Kyle Walker;18,0;Right-Back;Manchester City;95424;2
+Mason Holgate;18,0;Centre-Back;Fc Everton;348623;4
+Todd Cantwell;18,0;Midfield;Norwich City;332341;-
+Vitaliy Mykolenko;18,0;Left-Back;Fc Everton;404842;19
+Alex Iwobi;18,0;Midfield;Fc Everton;242631;17
+Callum Wilson;18,0;Centre-Forward;Newcastle United;123682;9
+Alex Telles;18,0;Left-Back;Manchester United;255755;27
+Jack Harrison;18,0;Left Winger;Leeds United;417346;22
+Mohammed Salisu;18,0;Centre-Back;Fc Southampton;563963;22
+Neal Maupay;18,0;Centre-Forward;Brighton Amp Hove Albion;217115;9
+Dwight McNeil;18,0;Left Winger;Fc Burnley;584769;11
+Steven Bergwijn;18,0;Left Winger;Tottenham Hotspur;284165;23
+Daniel James;18,0;Right Winger;Manchester United;319301;-
+Joel Matip;18,0;Centre-Back;Fc Liverpool;82105;32
+Joe Gomez;18,0;Centre-Back;Fc Liverpool;256178;12
+Tariq Lamptey;18,0;Right-Back;Brighton Amp Hove Albion;504148;2
+Tom Davies;18,0;Central Midfield;Fc Everton;314210;26
+Jesse Lingard;18,0;Midfield;Manchester United;141660;14
+Che Adams;18,0;Centre-Forward;Fc Southampton;346779;10
+Bryan Gil;18,0;Left Winger;Tottenham Hotspur;537382;11
+Enock Mwepu;18,0;Central Midfield;Brighton Amp Hove Albion;490307;12
+Ryan Sessegnon;18,0;Midfield;Tottenham Hotspur;392775;19
+Dean Henderson;18,0;Goalkeeper;Manchester United;258919;26
+Matt Targett;17,0;Left-Back;Aston Villa;250478;3
+Odsonne Edouard;17,0;Centre-Forward;Crystal Palace;344152;22
+Adam Webster;17,0;Centre-Back;Brighton Amp Hove Albion;212847;4
+Max Kilman;16,0;Centre-Back;Wolverhampton Wanderers;525247;23
+Patrick Bamford;16,0;Centre-Forward;Leeds United;183334;9
+Alexis Mac Allister;16,0;Central Midfield;Brighton Amp Hove Albion;534033;10
+Alex Oxlade-Chamberlain;16,0;Central Midfield;Fc Liverpool;143424;15
+Miguel Almiron;16,0;Right Winger;Newcastle United;272999;24
+Robin Koch;16,0;Centre-Back;Leeds United;328784;5
+Dele Alli;16,0;Midfield;Fc Everton;207929;36
+Robert Sanchez;16,0;Goalkeeper;Brighton Amp Hove Albion;403151;1
+Bertrand Traore;16,0;Right Winger;Aston Villa;131996;15
+Hee-chan Hwang;16,0;Centre-Forward;Wolverhampton Wanderers;292246;26
+Eddie Nketiah;16,0;Centre-Forward;Fc Arsenal;340324;14
+Anthony Martial;16,0;Centre-Forward;Manchester United;182877;-
+Alexandre Lacazette;15,0;Centre-Forward;Fc Arsenal;93720;9
+Amad Diallo;15,0;Right Winger;Manchester United;536835;16
+Nick Pope;15,0;Goalkeeper;Fc Burnley;192080;1
+Fabio Silva;15,0;Centre-Forward;Wolverhampton Wanderers;505653;17
+Harry Winks;15,0;Defensive Midfield;Tottenham Hotspur;249126;8
+Jordan Henderson;15,0;Central Midfield;Fc Liverpool;61651;14
+Konstantinos Tsimikas;15,0;Left-Back;Fc Liverpool;338070;21
+Jonny Otto;15,0;Left-Back;Wolverhampton Wanderers;175446;19
+Allan;15,0;Defensive Midfield;Fc Everton;126422;6
+Maxwel Cornet;15,0;Left Winger;Fc Burnley;234781;20
+Adam Armstrong;15,0;Centre-Forward;Fc Southampton;250426;9
+David de Gea;15,0;Goalkeeper;Manchester United;59377;1
+Pascal Struijk;15,0;Centre-Back;Leeds United;410708;21
+Kieran Trippier;15,0;Right-Back;Newcastle United;95810;15
+Nuno Tavares;15,0;Left-Back;Fc Arsenal;535955;20
+Pierre-Emerick Aubameyang;15,0;Centre-Forward;Fc Arsenal;58864;-
+Emmanuel Dennis;14,0;Centre-Forward;Fc Watford;448854;25
+Wout Weghorst;14,0;Centre-Forward;Fc Burnley;228645;9
+Sergi Canos;14,0;Right Winger;Fc Brentford;251845;7
+Joao Pedro;14,0;Centre-Forward;Fc Watford;626724;10
+Kayky;14,0;Right Winger;Manchester City;668265;37
+Christian Norgaard;14,0;Midfield;Fc Brentford;148367;6
+Vitaly Janelt;14,0;Defensive Midfield;Fc Brentford;270171;27
+Emerson;14,0;Left-Back;Fc Chelsea;181778;-
+Albert Sambi Lokonga;14,0;Central Midfield;Fc Arsenal;381967;23
+Sean Longstaff;13,0;Central Midfield;Newcastle United;346707;36
+Dennis Praet;13,0;Central Midfield;Leicester City;129588;-
+Jannik Vestergaard;13,0;Centre-Back;Leicester City;99331;23
+Yoane Wissa;12,0;Left Winger;Fc Brentford;388165;11
+Manuel Lanzini;12,0;Midfield;West Ham United;135853;10
+Matt Doherty;12,0;Right-Back;Tottenham Hotspur;171679;2
+Billy Gilmour;12,0;Central Midfield;Norwich City;423744;-
+Mohamed Elyounoussi;12,0;Left Winger;Fc Southampton;186644;24
+Japhet Tanganga;12,0;Centre-Back;Tottenham Hotspur;346478;25
+Ross Barkley;12,0;Central Midfield;Fc Chelsea;131978;18
+Rodrigo;12,0;Striker;Leeds United;131505;19
+Junior Firpo;12,0;Left-Back;Leeds United;374139;3
+Marcos Alonso;12,0;Left-Back;Fc Chelsea;112515;3
+Brandon Williams;12,0;Left-Back;Manchester United;507700;33
+Takumi Minamino;12,0;Left Winger;Fc Liverpool;165793;18
+Vladimir Coufal;12,0;Right-Back;West Ham United;157672;5
+Dan Burn;12,0;Centre-Back;Newcastle United;134270;33
+Luke Thomas;12,0;Left-Back;Leicester City;505194;33
+Ethan Pinnock;12,0;Centre-Back;Fc Brentford;442248;5
+Jakub Moder;12,0;Central Midfield;Brighton Amp Hove Albion;384461;15
+Divock Origi;12,0;Centre-Forward;Fc Liverpool;148368;27
+Mohamed Elneny;11,0;Defensive Midfield;Fc Arsenal;160438;25
+Morgan Gibbs-White;11,0;Midfield;Wolverhampton Wanderers;429014;18
+Daniel Amartey;10,0;Centre-Back;Leicester City;214056;18
+Mathias Jensen;10,0;Central Midfield;Fc Brentford;319859;8
+Mahmoud Trezeguet;10,0;Left Winger;Aston Villa;234189;17
+Ibrahima Diallo;10,0;Defensive Midfield;Fc Southampton;413032;27
+Morgan Sanson;10,0;Central Midfield;Aston Villa;174094;8
+Nathan Collins;10,0;Centre-Back;Fc Burnley;469050;22
+Moussa Djenepo;10,0;Left Winger;Fc Southampton;485424;19
+Chris Wood;10,0;Centre-Forward;Newcastle United;108725;20
+Pierluigi Gollini;10,0;Goalkeeper;Tottenham Hotspur;244192;22
+Kepa Arrizabalaga;10,0;Goalkeeper;Fc Chelsea;192279;1
+Mathias Normann;10,0;Defensive Midfield;Norwich City;257805;16
+Ainsley Maitland-Niles;10,0;Midfield;Fc Arsenal;285845;15
+Ozan Kabak;10,0;Centre-Back;Norwich City;361260;15
+Calum Chambers;10,0;Centre-Back;Fc Arsenal;215118;21
+Jonjo Shelvey;10,0;Central Midfield;Newcastle United;71292;8
+Josh Dasilva;10,0;Central Midfield;Fc Brentford;340321;10
+Ademola Lookman;10,0;Striker;Leicester City;406040;37
+Issa Diop;10,0;Centre-Back;West Ham United;272622;23
+Ayoze Perez;10,0;Striker;Leicester City;246968;17
+Jamal Lewis;10,0;Left-Back;Newcastle United;346018;12
+Jamaal Lascelles;10,0;Centre-Back;Newcastle United;183318;6
+Michail Antonio;10,0;Centre-Forward;West Ham United;104124;9
+Jean-Philippe Mateta;10,0;Centre-Forward;Crystal Palace;420002;14
+Joel Veltman;10,0;Right-Back;Brighton Amp Hove Albion;111195;34
+Ryan Fraser;10,0;Left Winger;Newcastle United;146795;21
+Rob Holding;10,0;Centre-Back;Fc Arsenal;253341;16
+Jean-Philippe Gbamin;9,0;Defensive Midfield;Fc Everton;182894;25
+Cucho Hernandez;9,0;Forward;Fc Watford;459463;29
+Ben Johnson;9,0;Right-Back;West Ham United;468002;31
+Freddie Woodman;9,0;Goalkeeper;Newcastle United;226049;-
+Imran Louza;9,0;Central Midfield;Fc Watford;635336;6
+Solly March;9,0;Midfield;Brighton Amp Hove Albion;209212;20
+Cesar Azpilicueta;9,0;Right-Back;Fc Chelsea;57500;28
+Bernd Leno;9,0;Goalkeeper;Fc Arsenal;72476;1
+Frank Onyeka;9,0;Central Midfield;Fc Brentford;421637;15
+Anwar El Ghazi;9,0;Right Winger;Aston Villa;183720;21
+Romain Saiss;8,0;Centre-Back;Wolverhampton Wanderers;204198;27
+Nathaniel Phillips;8,0;Centre-Back;Fc Liverpool;371814;47
+Neco Williams;8,0;Right-Back;Fc Liverpool;503680;76
+Caoimhin Kelleher;8,0;Goalkeeper;Fc Liverpool;340918;62
+Abdallah Sima;8,0;Right Winger;Brighton Amp Hove Albion;776798;-
+Joshua King;8,0;Centre-Forward;Fc Watford;91059;7
+Christos Tzolis;8,0;Left Winger;Norwich City;451677;18
+Romain Perraud;8,0;Left-Back;Fc Southampton;318523;15
+Jeffrey Schlupp;8,0;Midfield;Crystal Palace;157506;15
+Isaac Hayden;8,0;Defensive Midfield;Newcastle United;206225;14
+Nathan Patterson;8,0;Right-Back;Fc Everton;424015;3
+Malang Sarr;8,0;Centre-Back;Fc Chelsea;344596;31
+Joe Rodon;8,0;Centre-Back;Tottenham Hotspur;297212;14
+Kiernan Dewsbury-Hall;8,0;Central Midfield;Leicester City;475188;22
+Alphonse Areola;8,0;Goalkeeper;West Ham United;120629;13
+Tyler Roberts;8,0;Centre-Forward;Leeds United;296986;11
+Andreas Pereira;7,5;Midfield;Manchester United;203394;-
+Josh Sargent;7,0;Centre-Forward;Norwich City;393325;24
+Pontus Jansson;7,0;Centre-Back;Fc Brentford;125314;18
+Fabian Schar;7,0;Centre-Back;Newcastle United;135343;5
+James Garner;7,0;Defensive Midfield;Manchester United;505219;37
+Kenedy;7,0;Left Winger;Fc Chelsea;281404;23
+Josh Brownhill;7,0;Central Midfield;Fc Burnley;293569;8
+Liam Cooper;7,0;Centre-Back;Leeds United;75067;6
+Marvelous Nakamba;7,0;Defensive Midfield;Aston Villa;324882;19
+Frederic Guilbert;7,0;Right-Back;Aston Villa;354352;24
+Jack Stephens;7,0;Centre-Back;Fc Southampton;163744;5
+Alex Kral;7,0;Defensive Midfield;West Ham United;337333;33
+Axel Tuanzebe;7,0;Centre-Back;Aston Villa;342046;-
+Milot Rashica;7,0;Right Winger;Norwich City;291739;17
+Hugo Lloris;7,0;Goalkeeper;Tottenham Hotspur;17965;1
+Cameron Carter-Vickers;7,0;Centre-Back;Tottenham Hotspur;341049;20
+Reiss Nelson;6,5;Right Winger;Fc Arsenal;340325;24
+Eric Bailly;6,0;Centre-Back;Manchester United;286384;3
+Cedric Soares;6,0;Right-Back;Fc Arsenal;112988;17
+Cole Palmer;6,0;Midfield;Manchester City;568177;80
+Wesley Moraes;6,0;Centre-Forward;Aston Villa;381362;9
+Cameron Archer;6,0;Centre-Forward;Aston Villa;533662;35
+Danny Ward;6,0;Goalkeeper;Leicester City;203026;12
+Aaron Connolly;6,0;Centre-Forward;Brighton Amp Hove Albion;434207;7
+Will Hughes;6,0;Central Midfield;Crystal Palace;207014;12
+Zack Steffen;6,0;Goalkeeper;Manchester City;221624;13
+Hannibal;6,0;Midfield;Manchester United;607224;46
+Ki-Jana Hoever;6,0;Right-Back;Wolverhampton Wanderers;485583;2
+Carney Chukwuemeka;6,0;Central Midfield;Aston Villa;659459;33
+Willy Boly;6,0;Centre-Back;Wolverhampton Wanderers;142310;15
+Moises Caicedo;6,0;Central Midfield;Brighton Amp Hove Albion;687626;25
+Pascal Gross;6,0;Midfield;Brighton Amp Hove Albion;82873;13
+Christian Benteke;6,0;Centre-Forward;Crystal Palace;50201;20
+Stuart Armstrong;6,0;Central Midfield;Fc Southampton;130765;17
+Joe Gelhardt;6,0;Centre-Forward;Leeds United;503980;30
+Jordan Ayew;6,0;Centre-Forward;Crystal Palace;108354;9
+Ben Gibson;6,0;Centre-Back;Norwich City;128904;4
+Mads Bech Sorensen;5,0;Left-Back;Fc Brentford;372240;29
+Jan Paul van Hecke;5,0;Centre-Back;Brighton Amp Hove Albion;576314;-
+Shane Duffy;5,0;Centre-Back;Brighton Amp Hove Albion;119269;24
+Pablo Mari;5,0;Centre-Back;Fc Arsenal;210178;22
+Jacob Murphy;5,0;Right Winger;Newcastle United;199527;23
+Yan Couto;5,0;Right-Back;Manchester City;627228;98
+Dimitrios Giannoulis;5,0;Left-Back;Norwich City;295630;30
+Jeff Hendrick;5,0;Central Midfield;Newcastle United;148262;16
+Nemanja Matic;5,0;Midfield;Manchester United;74683;31
+Jairo Riedewald;5,0;Defensive Midfield;Crystal Palace;241481;44
+Oriol Romeu;5,0;Defensive Midfield;Fc Southampton;66100;6
+Sepp van den Berg;5,0;Centre-Back;Fc Liverpool;541231;72
+Helder Costa;5,0;Right Winger;Leeds United;173900;17
+Pierre Lees-Melou;5,0;Central Midfield;Norwich City;377393;20
+Lyanco;5,0;Centre-Back;Fc Southampton;379807;4
+Steven Alzate;5,0;Central Midfield;Brighton Amp Hove Albion;476237;17
+Andros Townsend;5,0;Right Winger;Fc Everton;61842;14
+Arthur Masuaku;5,0;Left-Back;West Ham United;181380;26
+Jamie Vardy;5,0;Centre-Forward;Leicester City;197838;9
+Emil Krafth;5,0;Right-Back;Newcastle United;184528;17
+Samir Caetano;5,0;Centre-Back;Fc Watford;255744;22
+Moussa Sissoko;4,5;Central Midfield;Fc Watford;46001;19
+Nampalys Mendy;4,0;Defensive Midfield;Leicester City;111051;24
+Luka Milivojevic;4,0;Defensive Midfield;Crystal Palace;74300;4
+Kasper Schmeichel;4,0;Goalkeeper;Leicester City;16911;1
+Jonjoe Kenny;4,0;Right-Back;Fc Everton;258883;2
+Teemu Pukki;4,0;Centre-Forward;Norwich City;46972;22
+Cheikhou Kouyate;4,0;Midfield;Crystal Palace;66934;8
+Martin Dubravka;4,0;Goalkeeper;Newcastle United;74960;1
+Kortney Hause;4,0;Centre-Back;Aston Villa;233124;30
+Folarin Balogun;4,0;Centre-Forward;Fc Arsenal;503770;26
+Rhys Williams;4,0;Centre-Back;Fc Liverpool;503679;46
+Hassane Kamara;4,0;Left-Back;Fc Watford;290017;14
+Hamza Choudhury;4,0;Defensive Midfield;Leicester City;341501;20
+Luke Ayling;4,0;Right-Back;Leeds United;67420;2
+William Troost-Ekong;4,0;Centre-Back;Fc Watford;192875;5
+Edinson Cavani;4,0;Centre-Forward;Manchester United;48280;21
+Stuart Dallas;4,0;Right-Back;Leeds United;158764;15
+Jonny Evans;4,0;Centre-Back;Leicester City;42412;6
+Shola Shoretire;4,0;Right Winger;Manchester United;640026;47
+Marcus Forss;4,0;Centre-Forward;Fc Brentford;404584;9
+Danny Welbeck;4,0;Centre-Forward;Brighton Amp Hove Albion;67063;18
+Alvaro Fernandez;4,0;Goalkeeper;Fc Brentford;453704;40
+Ozan Tufan;3,8;Central Midfield;Fc Watford;236471;-
+Tahith Chong;3,5;Right Winger;Manchester United;344830;44
+Jack Clarke;3,5;Left Winger;Tottenham Hotspur;559794;47
+Jeremy Ngakia;3,5;Right-Back;Fc Watford;503795;2
+Grant Hanley;3,5;Centre-Back;Norwich City;121385;5
+Seamus Coleman;3,0;Right-Back;Fc Everton;68390;23
+James McAtee;3,0;Central Midfield;Manchester City;583199;87
+Jarrad Branthwaite;3,0;Centre-Back;Fc Everton;661053;32
+Mateusz Klich;3,0;Central Midfield;Leeds United;92738;43
+Cody Drameh;3,0;Right-Back;Leeds United;531957;37
+Christian Kabasele;3,0;Centre-Back;Fc Watford;81512;27
+Charlie Cresswell;3,0;Centre-Back;Leeds United;597659;35
+Adam Idah;3,0;Centre-Forward;Norwich City;434223;35
+Javier Manquillo;3,0;Right-Back;Newcastle United;162029;19
+Phil Jones;3,0;Centre-Back;Manchester United;117996;4
+Aaron Cresswell;3,0;Left-Back;West Ham United;92571;3
+Halil Dervisoglu;3,0;Centre-Forward;Fc Brentford;465606;-
+Jeremy Sarmiento;3,0;Midfield;Brighton Amp Hove Albion;568005;60
+Philip Zinckernagel;3,0;Right Winger;Fc Watford;271098;-
+Craig Dawson;3,0;Centre-Back;West Ham United;121477;15
+Tyler Morton;3,0;Central Midfield;Fc Liverpool;618494;80
+Shandon Baptiste;3,0;Central Midfield;Fc Brentford;533916;26
+Sead Kolasinac;3,0;Left-Back;Fc Arsenal;94005;31
+Angus Gunn;3,0;Goalkeeper;Norwich City;201574;28
+Lewis Baker;3,0;Central Midfield;Fc Chelsea;198589;-
+Ryan Bertrand;3,0;Left-Back;Leicester City;40611;5
+Yerson Mosquera;3,0;Centre-Back;Wolverhampton Wanderers;716276;14
+Alex McCarthy;3,0;Goalkeeper;Fc Southampton;95976;1
+Samuel Kalu;3,0;Right Winger;Fc Watford;424051;28
+Ryan Giles;3,0;Left-Back;Wolverhampton Wanderers;504581;33
+Sam McCallum;3,0;Left-Back;Norwich City;618901;-
+Edo Kayembe;3,0;Defensive Midfield;Fc Watford;486477;39
+Jaden Philogene;3,0;Left Winger;Aston Villa;665390;32
+Chiquinho;3,0;Left Winger;Wolverhampton Wanderers;695454;20
+Charlie Taylor;3,0;Left-Back;Fc Burnley;195633;3
+Peter Etebo;3,0;Central Midfield;Fc Watford;409106;-
+Adam Masina;3,0;Left-Back;Fc Watford;286949;11
+Matt Clarke;3,0;Centre-Back;Brighton Amp Hove Albion;307497;-
+Yan Valery;2,5;Right-Back;Fc Southampton;406008;43
+Marc Albrighton;2,5;Midfield;Leicester City;61560;11
+Kiko Femenia;2,5;Right-Back;Fc Watford;76467;21
+Daniel Bachmann;2,5;Goalkeeper;Fc Watford;120186;26
+Juan Mata;2,5;Midfield;Manchester United;44068;8
+Michael Obafemi;2,5;Centre-Forward;Fc Southampton;444208;14
+Nicolas N'Koulou;2,5;Centre-Back;Fc Watford;60577;13
+Sam Greenwood;2,5;Midfield;Leeds United;532178;42
+Jamie Shackleton;2,5;Central Midfield;Leeds United;534700;46
+Saman Ghoddos;2,5;Midfield;Fc Brentford;204294;14
+Mads Roerslev;2,5;Right-Back;Fc Brentford;391005;30
+Nathan Ferguson;2,5;Centre-Back;Crystal Palace;507254;36
+Ben Mee;2,5;Centre-Back;Fc Burnley;74810;6
+Tim Iroegbunam;2,5;Central Midfield;Aston Villa;696589;47
+Tom Dele-Bashiru;2,5;Central Midfield;Fc Watford;346472;-
+Keinan Davis;2,5;Centre-Forward;Aston Villa;412660;39
+Connor Roberts;2,5;Right-Back;Fc Burnley;214666;14
+Ken Sema;2,5;Midfield;Fc Watford;252345;12
+Salomon Rondon;2,5;Forward;Fc Everton;80197;33
+Kenny McLean;2,5;Central Midfield;Norwich City;126600;23
+Thiago Silva;2,5;Centre-Back;Fc Chelsea;29241;6
+Michal Karbownik;2,5;Left-Back;Brighton Amp Hove Albion;401604;6
+Joao Moutinho;2,5;Central Midfield;Wolverhampton Wanderers;29364;28
+Kieran Dowell;2,5;Midfield;Norwich City;258916;10
+Andriy Yarmolenko;2,5;Right Winger;West Ham United;69015;7
+Tommy Doyle;2,5;Central Midfield;Manchester City;433183;69
+Karl Darlow;2,5;Goalkeeper;Newcastle United;99397;26
+Andi Zeqiri;2,3;Centre-Forward;Brighton Amp Hove Albion;345468;19
+Abdul-Rahman Baba;2,2;Left-Back;Fc Chelsea;224884;-
+Kjell Scherpen;2,2;Goalkeeper;Brighton Amp Hove Albion;463527;16
+Domingos Quina;2,2;Central Midfield;Fc Watford;391719;20
+Niels Nkounkou;2,2;Left-Back;Fc Everton;591193;18
+Danny Rose;2,2;Left-Back;Fc Watford;50174;3
+Ashley Westwood;2,0;Defensive Midfield;Fc Burnley;91317;18
+Romeo Lavia;2,0;Defensive Midfield;Manchester City;628451;90
+Marcus Bettinelli;2,0;Goalkeeper;Fc Chelsea;116648;13
+Philippe Sandler;2,0;Centre-Back;Manchester City;340460;34
+Jake Clarke-Salter;2,0;Centre-Back;Fc Chelsea;316551;35
+Tariqe Fosu;2,0;Left Winger;Fc Brentford;249873;24
+Teden Mengi;2,0;Centre-Back;Manchester United;548470;43
+Tim Krul;2,0;Goalkeeper;Norwich City;33027;1
+Adam Forshaw;2,0;Central Midfield;Leeds United;121257;4
+Jurgen Locadia;2,0;Centre-Forward;Brighton Amp Hove Albion;166240;27
+Adam Lallana;2,0;Midfield;Brighton Amp Hove Albion;43530;14
+Ashley Fletcher;2,0;Centre-Forward;Fc Watford;289846;-
+Andre Gray;2,0;Centre-Forward;Fc Watford;120565;-
+James Milner;2,0;Central Midfield;Fc Liverpool;3333;7
+Sheyi Ojo;2,0;Right Winger;Fc Liverpool;236510;54
+Sam Byram;2,0;Right-Back;Norwich City;236953;3
+Crysencio Summerville;2,0;Right Winger;Leeds United;474701;38
+Kristoffer Klaesson;2,0;Goalkeeper;Leeds United;418561;13
+Charlie Patino;2,0;Central Midfield;Fc Arsenal;581674;87
+Cenk Tosun;2,0;Centre-Forward;Fc Everton;45671;28
+Nathaniel Clyne;2,0;Right-Back;Crystal Palace;85177;17
+Ian Poveda;2,0;Right Winger;Leeds United;392763;-
+Will Smallbone;2,0;Midfield;Fc Southampton;444211;20
+Robin Olsen;2,0;Goalkeeper;Aston Villa;75458;25
+Fraser Forster;2,0;Goalkeeper;Fc Southampton;52570;44
+Matej Vydra;2,0;Centre-Forward;Fc Burnley;101500;27
+Jay Rodriguez;2,0;Forward;Fc Burnley;53360;19
+Johann Berg Gudmundsson;2,0;Right Winger;Fc Burnley;89231;7
+Joel Ward;2,0;Right-Back;Crystal Palace;92572;2
+Jack Butland;1,8;Goalkeeper;Crystal Palace;128899;1
+Przemyslaw Placheta;1,8;Left Winger;Norwich City;383109;11
+Nathan Tella;1,8;Right Winger;Fc Southampton;340322;23
+Filip Benkovic;1,8;Centre-Back;Leicester City;293168;-
+Ciaran Clark;1,8;Centre-Back;Newcastle United;98240;2
+Fabian Delph;1,8;Central Midfield;Fc Everton;50362;8
+Theo Walcott;1,8;Right Winger;Fc Southampton;33713;32
+Conor Hourihane;1,8;Central Midfield;Aston Villa;61653;14
+Juraj Kucka;1,8;Central Midfield;Fc Watford;74943;33
+Jordan Hugill;1,8;Centre-Forward;Norwich City;291544;-
+Tom Cleverley;1,8;Central Midfield;Fc Watford;73484;8
+Tudor Baluta;1,8;Defensive Midfield;Brighton Amp Hove Albion;433976;35
+Matty Longstaff;1,8;Central Midfield;Newcastle United;484387;4
+Matija Sarkic;1,8;Goalkeeper;Wolverhampton Wanderers;293257;-
+Matt Ritchie;1,8;Midfield;Newcastle United;92469;11
+Jack Cork;1,8;Defensive Midfield;Fc Burnley;40613;4
+Bruno Jordao;1,6;Midfield;Wolverhampton Wanderers;415646;6
+James Tomkins;1,5;Centre-Back;Crystal Palace;61592;5
+Arthur Okonkwo;1,5;Goalkeeper;Fc Arsenal;503769;33
+Federico Fernandez;1,5;Centre-Back;Newcastle United;85475;18
+Vicente Guaita;1,5;Goalkeeper;Crystal Palace;64399;13
+Paul Dummett;1,5;Left-Back;Newcastle United;170321;3
+Danel Sinani;1,5;Midfield;Norwich City;346499;-
+Kaide Gordon;1,5;Right Winger;Fc Liverpool;732119;49
+Jacob Lungi Sorensen;1,5;Midfield;Norwich City;390664;19
+Dwight Gayle;1,5;Centre-Forward;Newcastle United;196522;34
+Onel Hernandez;1,5;Left Winger;Norwich City;109751;-
+Marcal;1,5;Left-Back;Wolverhampton Wanderers;137745;5
+Loris Karius;1,5;Goalkeeper;Fc Liverpool;85864;22
+Marcelo Flores;1,5;Midfield;Fc Arsenal;668495;78
+Fernandinho;1,5;Defensive Midfield;Manchester City;26267;25
+Francisco Sierralta;1,5;Centre-Back;Fc Watford;371436;31
+Toti;1,5;Centre-Back;Wolverhampton Wanderers;606718;24
+Ashley Barnes;1,5;Centre-Forward;Fc Burnley;63200;10
+Liam Delap;1,5;Centre-Forward;Manchester City;610849;48
+Ryan Fredericks;1,5;Right-Back;West Ham United;140191;24
+Sonny Perkins;1,2;Centre-Forward;West Ham United;670877;64
+Lukas Rupp;1,2;Central Midfield;Norwich City;82863;7
+Craig Cathcart;1,2;Centre-Back;Fc Watford;59606;15
+Zanka;1,2;Centre-Back;Fc Brentford;52059;22
+Ben Woodburn;1,2;Midfield;Fc Liverpool;344015;58
+Andrew Omobamidele;1,2;Centre-Back;Norwich City;621993;44
+James McArthur;1,2;Central Midfield;Crystal Palace;41416;18
+Dan N'Lundulu;1,2;Centre-Forward;Fc Southampton;346482;-
+Angelo Ogbonna;1,2;Centre-Back;West Ham United;48002;21
+Danny Drinkwater;1,2;Central Midfield;Fc Chelsea;73491;-
+Matthew Lowton;1,2;Right-Back;Fc Burnley;102258;2
+Martin Kelly;1,0;Right-Back;Crystal Palace;78959;34
+Claudio Gomes;1,0;Defensive Midfield;Manchester City;395239;81
+Christoph Zimmermann;1,0;Centre-Back;Norwich City;77812;6
+Lewis Bate;1,0;Central Midfield;Leeds United;587003;26
+Conor Bradley;1,0;Right-Back;Fc Liverpool;624258;84
+Asmir Begovic;1,0;Goalkeeper;Fc Everton;33873;15
+Aaron Ramsey;1,0;Midfield;Aston Villa;646658;40
+Pontus Dahlberg;1,0;Goalkeeper;Fc Watford;365544;-
+Troy Deeney;1,0;Centre-Forward;Fc Watford;65477;-
+Aaron Lennon;1,0;Right Winger;Fc Burnley;14221;17
+Adrian;1,0;Goalkeeper;Fc Liverpool;71271;13
+Dan Gosling;1,0;Central Midfield;Fc Watford;44983;16
+Dynel Simeu;1,0;Centre-Back;Fc Southampton;503976;38
+Jonas Lossl;1,0;Goalkeeper;Fc Brentford;48870;49
+Ashley Young;1,0;Right-Back;Aston Villa;14086;18
+Mads Bidstrup;1,0;Central Midfield;Fc Brentford;462832;-
+Myles Peart-Harris;1,0;Midfield;Fc Brentford;587002;-
+Mark Noble;1,0;Central Midfield;West Ham United;31835;16
+Lukasz Fabianski;1,0;Goalkeeper;West Ham United;29692;1
+Kevin Long;1,0;Centre-Back;Fc Burnley;111114;28
+Dale Stephens;1,0;Central Midfield;Fc Burnley;49755;16
+Florin Andone;1,0;Centre-Forward;Brighton Amp Hove Albion;177065;21
+Julian Jeanvier;0,9;Centre-Back;Fc Brentford;134277;23
+Charlie Goode;0,9;Centre-Back;Fc Brentford;376856;4
+Erik Pieters;0,9;Left-Back;Fc Burnley;43763;23
+Alfie Devine;0,9;Midfield;Tottenham Hotspur;728734;45
+Charly Musonda Jr.;0,9;Left Winger;Fc Chelsea;177862;-
+Bailey Peacock-Farrell;0,9;Goalkeeper;Fc Burnley;410436;-
+Luke Cundle;0,8;Central Midfield;Wolverhampton Wanderers;532541;39
+Leif Davis;0,8;Left-Back;Leeds United;596446;-
+CJ Egan-Riley;0,8;Centre-Back;Manchester City;581669;56
+Tom Heaton;0,8;Goalkeeper;Manchester United;34130;22
+Billy Koumetio;0,8;Centre-Back;Fc Liverpool;696324;89
+Darren Randolph;0,8;Goalkeeper;West Ham United;51321;35
+Samuel Edozie;0,8;Left Winger;Manchester City;680806;53
+Leo Fuhr Hjelde;0,8;Left-Back;Leeds United;661208;33
+Christian Walton;0,8;Goalkeeper;Brighton Amp Hove Albion;208379;31
+Shane Long;0,8;Centre-Forward;Fc Southampton;37304;7
+Karl Hein;0,8;Goalkeeper;Fc Arsenal;493513;49
+Josh Martin;0,8;Left Winger;Norwich City;547534;-
+Luke Plange;0,8;Centre-Forward;Crystal Palace;586986;-
+Kwadwo Baah;0,8;Left Winger;Fc Watford;711247;34
+Jonathan Rowe;0,8;Midfield;Norwich City;672381;46
+Dominic Thompson;0,8;Left-Back;Fc Brentford;503688;2
+Miguel Azeez;0,8;Central Midfield;Fc Arsenal;547533;38
+Connor Ronan;0,75;Central Midfield;Wolverhampton Wanderers;337787;56
+Charlie Savage;0,6;Defensive Midfield;Manchester United;686837;-
+Mika Biereth;0,6;Centre-Forward;Fc Arsenal;565821;58
+Evan Ferguson;0,6;Centre-Forward;Brighton Amp Hove Albion;648046;58
+Zidane Iqbal;0,6;Central Midfield;Manchester United;686845;-
+Jason Steele;0,6;Goalkeeper;Brighton Amp Hove Albion;73564;23
+Dion Sanderson;0,6;Centre-Back;Wolverhampton Wanderers;495993;34
+Jed Steer;0,6;Goalkeeper;Aston Villa;110867;12
+Harvey White;0,6;Defensive Midfield;Tottenham Hotspur;581598;42
+Luke Mbete;0,6;Centre-Back;Manchester City;609883;79
+Nathan Broadhead;0,5;Centre-Forward;Fc Everton;344009;-
+Patrik Gunnarsson;0,5;Goalkeeper;Fc Brentford;429563;-
+Conor Coventry;0,5;Defensive Midfield;West Ham United;419025;54
+Haydon Roberts;0,5;Centre-Back;Brighton Amp Hove Albion;533523;28
+Rocky Bushiri;0,5;Centre-Back;Norwich City;511802;-
+Aji Alese;0,5;Centre-Back;West Ham United;502065;42
+Jaroslaw Jach;0,5;Centre-Back;Crystal Palace;327755;33
+Wayne Hennessey;0,5;Goalkeeper;Fc Burnley;45494;13
+Jesurun Rak-Sakyi;0,5;Left Winger;Crystal Palace;586834;-
+Liam McCarron;0,5;Left-Back;Leeds United;614082;45
+Xavier Mbuyamba;0,5;Centre-Back;Fc Chelsea;640432;-
+Sebastian Soto;0,4;Centre-Forward;Norwich City;605498;-
+Owen Beck;0,4;Left-Back;Fc Liverpool;551001;63
+Fin Stevens;0,4;Right-Back;Fc Brentford;587019;36
+Dilan Markanday;0,4;Right Winger;Tottenham Hotspur;530807;-
+Taylor Richards;0,4;Central Midfield;Brighton Amp Hove Albion;484551;30
+Matej Kovar;0,4;Goalkeeper;Manchester United;550829;-
+Bali Mumba;0,4;Right-Back;Norwich City;433186;-
+Harvey Vale;0,4;Midfield;Fc Chelsea;581675;-
+Josh Wilson-Esbrand;0,4;Left-Back;Manchester City;576121;97
+Nile John;0,4;Central Midfield;Tottenham Hotspur;581683;43
+Mark Gillespie;0,3;Goalkeeper;Newcastle United;142389;29
+Mattie Pollock;0,3;Centre-Back;Fc Watford;624948;-
+Kaine Kesler-Hayden;0,3;Right-Back;Aston Villa;626888;29
+Sam Hughes;0,3;Centre-Back;Leicester City;395797;41
+Elijah Dixon-Bonner;0,3;Central Midfield;Fc Liverpool;433180;45
+Keenan Appiah-Forson;0,3;Defensive Midfield;West Ham United;554098;59
+Scott Carson;0,3;Goalkeeper;Manchester City;14555;33
+John Ruddy;0,3;Goalkeeper;Wolverhampton Wanderers;29712;21
+Ellery Balcombe;0,3;Goalkeeper;Fc Brentford;456292;25
+Finley Burns;0,3;Centre-Back;Manchester City;581681;94
+Antef Tsoungui;0,3;Centre-Back;Brighton Amp Hove Albion;503858;53
+Ellis Simms;0,3;Centre-Forward;Fc Everton;511550;50
+Brandon Austin;0,3;Goalkeeper;Tottenham Hotspur;428016;40
+Jude Soonsup-Bell;0,3;Centre-Forward;Fc Chelsea;670857;-
+Lewis Dobbin;0,3;Left Winger;Fc Everton;627248;61
+Remi Matthews;0,3;Goalkeeper;Crystal Palace;196722;19
+Xavier Simons;0,3;Defensive Midfield;Fc Chelsea;599739;-
+Ben Foster;0,3;Goalkeeper;Fc Watford;13572;1
+Harvey Blair;0,3;Right Winger;Fc Liverpool;707164;86
+Kasey McAteer;0,3;Midfield;Leicester City;621193;-
+Max Woltman;0,3;Centre-Forward;Fc Liverpool;696326;82
+Harrison Ashby;0,3;Right-Back;West Ham United;559130;50
+Marc Leonard;0,3;Central Midfield;Brighton Amp Hove Albion;463751;42
+Marcel Lavinier;0,3;Right-Back;Tottenham Hotspur;392772;57
+Andy Moran;0,3;Midfield;Brighton Amp Hove Albion;724537;59
+Will Norris;0,3;Goalkeeper;Fc Burnley;285033;25
+Phil Bardsley;0,25;Right-Back;Fc Burnley;15773;26
+David Martin;0,25;Goalkeeper;West Ham United;15930;25
+Dan Chesters;0,25;Midfield;West Ham United;561452;51
+Freddie Potts;0,25;Defensive Midfield;West Ham United;698164;62
+Scott Banks;0,25;Right Winger;Crystal Palace;596821;-
+Anthony Mancini;0,25;Central Midfield;Fc Burnley;677311;-
+Michael McGovern;0,25;Goalkeeper;Norwich City;29391;33
+Daniel Barden;0,25;Goalkeeper;Norwich City;504042;-
+Willy Caballero;0,25;Goalkeeper;Fc Southampton;19948;13
+Jaime Alvarado;0,25;Defensive Midfield;Fc Watford;522131;-
+Daniel Adshead;0,25;Central Midfield;Norwich City;532464;-
+Dane Scarlett;0,25;Centre-Forward;Tottenham Hotspur;670883;44
+Andy Lonergan;0,25;Goalkeeper;Fc Everton;14044;31
+Lee Grant;0,25;Goalkeeper;Manchester United;13460;13
+Tiago Cukur;0,25;Centre-Forward;Fc Watford;594276;-
+Akin Famewo;0,25;Centre-Back;Norwich City;425713;-
+Eldin Jakupovic;0,25;Goalkeeper;Leicester City;2857;35
+Bobby Thomas;0,2;Centre-Back;Fc Burnley;788283;-
+Dylan Williams;0,2;Left-Back;Fc Chelsea;732117;-
+Caleb Chukwuemeka;0,2;Centre-Forward;Aston Villa;742746;46
+Louie Moulden;0,2;Goalkeeper;Wolverhampton Wanderers;444641;13
+Christian Marques;0,2;Centre-Back;Wolverhampton Wanderers;539807;75
+Paris Maghoma;0,2;Central Midfield;Fc Brentford;470596;-
+Andreas Sondergaard;0,2;Goalkeeper;Wolverhampton Wanderers;462820;62
+Tyler Onyango;0,2;Central Midfield;Fc Everton;663225;62
+Vontae Daley-Campbell;0,2;Right-Back;Leicester City;530732;-
+Jakub Stolarczyk;0,2;Goalkeeper;Leicester City;486144;-
+Harry Lewis;0,2;Goalkeeper;Fc Southampton;341043;41
+Reece Hannam;0,2;Left-Back;Crystal Palace;503241;-
+Viljami Sinisalo;0,2;Goalkeeper;Aston Villa;484838;38
+Rob Elliot;0,2;Goalkeeper;Fc Watford;39037;35
+Jamal Baptiste;0,2;Centre-Back;West Ham United;610706;75
+Odel Offiah;0,2;Centre-Back;Brighton Amp Hove Albion;567597;57
+Elliot Anderson;0,2;Midfield;Newcastle United;567576;-
+Ed Turns;0,2;Centre-Back;Brighton Amp Hove Albion;580809;55
+Maksim Paskotsi;0,2;Centre-Back;Tottenham Hotspur;488298;48
+Stuart McKinstry;0,2;Left Winger;Leeds United;592474;39
+Lewis Richardson;0,2;Midfield;Fc Burnley;657863;-
+Ryan Alebiosu;0,2;Right-Back;Fc Arsenal;610649;37
+Lamare Bogarde;0,2;Defensive Midfield;Aston Villa;645686;36
+Ben Chrisene;0,15;Left-Back;Aston Villa;670846;45
+Emmanuel Longelo;0,15;Left-Back;West Ham United;504386;56
+Sil Swinkels;0,15;Centre-Back;Aston Villa;646710;50
+Jack Jenkins;0,15;Defensive Midfield;Leeds United;734375;47
+Kgaogelo Chauke;0,15;Central Midfield;Fc Southampton;703577;48
+Zak Swanson;0,15;Right-Back;Fc Arsenal;540687;69
+Hayden Lindley;0,15;Defensive Midfield;Aston Villa;698097;49
+Lucas Bergstrom;0,1;Goalkeeper;Fc Chelsea;490606;-
+Malachi Fagan-Walcott;0,1;Centre-Back;Tottenham Hotspur;554173;46
+Archie Gray;0,1;Midfield;Leeds United;922693;63
+Vincent Angelini;0,1;Goalkeeper;Fc Watford;736251;-
+Nohan Kenneh;0,1;Defensive Midfield;Leeds United;581677;54
+Tobi Omole;0,1;Centre-Back;Tottenham Hotspur;503687;49
+Brooklyn Lyons-Foster;0,1;Centre-Back;Tottenham Hotspur;462698;53
+Kris Moore;0,1;Centre-Back;Leeds United;746067;52
+Kallum Cesay;0,1;Right-Back;Tottenham Hotspur;696183;50
+Mason Greenwood;0,1;Right Winger;Manchester United;532826;11
+Jonathan Tomkinson;0,1;Centre-Back;Norwich City;696762;-
+Chem Campbell;0,1;Midfield;Wolverhampton Wanderers;614603;77
+Abu Kamara;0,1;Centre-Forward;Norwich City;696764;-
+Lewis Brunt;0,1;Defensive Midfield;Leicester City;533657;-
+Sammy Braybrooke;0,1;Defensive Midfield;Leicester City;840640;-
+Oliver Ewing;0,1;Central Midfield;Leicester City;583953;-
+Wanya Marcal;0,1;Central Midfield;Leicester City;670988;-
+Will Alves;0,1;Midfield;Leicester City;867711;-
+Tyler Dibling;0,1;Midfield;Fc Southampton;866655;45
+Ben Nelson;0,1;Centre-Back;Leicester City;714458;-
+Isaac Price;0,1;Central Midfield;Fc Everton;612749;60
+Kazeem Olaigbe;0,1;Left Winger;Fc Southampton;565406;53
+Romaine Mundle;0,1;Right Winger;Tottenham Hotspur;696181;55
+Derek Agyakwa;0,1;Centre-Back;Fc Watford;591360;-
+Alejandro Garnacho;0,1;Left Winger;Manchester United;811779;-
+Nathan Young-Coombes;0,1;Right Winger;Fc Brentford;581679;-
+Jamie Bowden;0,1;Defensive Midfield;Tottenham Hotspur;504051;54
+Max Haygarth;0,1;Left Winger;Fc Brentford;596216;-
+Aston Oxborough;0,1;Goalkeeper;Norwich City;288948;-
+J'Neil Bennett;0,1;Left Winger;Tottenham Hotspur;554174;56
+Michael Craig;0,1;Defensive Midfield;Tottenham Hotspur;633621;52
+Charlie Webster;0,1;Central Midfield;Fc Chelsea;697278;-
+Lewis Hall;0,1;Left-Back;Fc Chelsea;670858;-
+Matthew Cox;0,1;Goalkeeper;Fc Brentford;741236;-
+Cieran Slicker;0,1;Goalkeeper;Manchester City;621997;84
+Thierry Small;0,1;Left-Back;Fc Southampton;746554;16
+Teddy Sharman-Lowe;0,1;Goalkeeper;Fc Chelsea;731466;-
+Benjamin Mendy;0,1;Left-Back;Manchester City;157495;22
+Daniel Oyegoke;0,1;Right-Back;Fc Brentford;586984;-
+Omari Hutchinson;0,1;Midfield;Fc Arsenal;741238;82
+Bjorn Hardley;0,1;Centre-Back;Manchester United;682562;-
+Matthew Craig;0,1;Defensive Midfield;Tottenham Hotspur;633659;51
+Robert Street;0,1;Centre-Forward;Crystal Palace;703474;-
+Joe McGlynn;0,1;Centre-Forward;Fc Burnley;704801;-
+Filip Marschall;0,1;Goalkeeper;Aston Villa;610863;44
+Charlie Whitaker;0,1;Midfield;Fc Everton;726992;57
+Thomas Dickson-Peters;0,1;Centre-Forward;Norwich City;566888;-
+Salah-Eddine Oulad M'Hand;0,1;Central Midfield;Fc Arsenal;559330;65
+Melkamu Frauendorf;0,1;Midfield;Fc Liverpool;594721;94
+Tayo Adaramola;0,1;Left-Back;Crystal Palace;724529;-
+Sam Waller;0,1;Goalkeeper;Fc Burnley;733430;-
+James Furlong;0,1;Left-Back;Brighton Amp Hove Albion;580030;54
+Jarell Quansah;0,1;Centre-Back;Fc Liverpool;632349;78
+James Norris;0,1;Left-Back;Fc Liverpool;618495;77
+Dara Costelloe;0,1;Left Winger;Fc Burnley;614700;-
+James Balagizi;0,1;Midfield;Fc Liverpool;655987;85
+Shaqai Forde;0,1;Centre-Forward;Fc Watford;852517;-
+Harvey Davies;0,1;Goalkeeper;Fc Liverpool;706815;95
+Jack Grieves;0,1;Centre-Forward;Fc Watford;974327;-
+Jon McCracken;0,1;Goalkeeper;Norwich City;403564;-
+Adrian Blake;0,1;Left Winger;Fc Watford;875581;-
+Tommi O'Reilly;0,1;Midfield;Aston Villa;818237;58
+Mark Helm;0,1;Central Midfield;Fc Burnley;596217;-
+Liam Hughes;0,1;Goalkeeper;Fc Liverpool;494284;-
+Kamil Conteh;0,1;Central Midfield;Fc Watford;733494;-
+Owen Dodgson;0,1;Left-Back;Fc Burnley;686839;-
+Isaac Mabaya;0,1;Right-Back;Fc Liverpool;670843;52
+Jack Wells-Morrison;0,1;Central Midfield;Crystal Palace;814811;-
+Marcelo Pitaluga;0,1;Goalkeeper;Fc Liverpool;662334;97
+Tom McGill;0,1;Goalkeeper;Brighton Amp Hove Albion;406556;38
+Zach Awe;0,1;Centre-Back;Fc Arsenal;697282;75
+James Morris;0,1;Left-Back;Fc Watford;610621;-
+James Storer;0,1;Goalkeeper;Wolverhampton Wanderers;838367;48
+Alex Kirk;0,1;Centre-Back;Fc Arsenal;586980;54
+Mazeed Ogungbo;0,1;Centre-Back;Fc Arsenal;581445;61
+Gylfi Sigurdsson;0,1;Midfield;Fc Everton;90466;10
+Josh Feeney;0,1;Centre-Back;Aston Villa;875929;59
+Reece Welch;0,1;Centre-Back;Fc Everton;655986;64
+Pierre Ekwah;0,1;Defensive Midfield;West Ham United;538994;46
+Dexter Lembikisa;0,1;Left-Back;Wolverhampton Wanderers;712099;81
+Hugo Bueno;0,1;Left-Back;Wolverhampton Wanderers;698678;64
+Tony Springett;0,1;Right Winger;Norwich City;570864;-
+Lucas De Bolle;0,1;Central Midfield;Newcastle United;626291;-
+Joe White;0,1;Midfield;Newcastle United;614811;-
+Liam Gibbs;0,1;Central Midfield;Norwich City;724785;-
+Oscar Bobb;0,1;Right Winger;Manchester City;661207;52
+Ben Knight;0,1;Right Winger;Manchester City;568007;96
+Chituru Odunze;0,1;Goalkeeper;Leicester City;627198;-
+Armstrong Oko-Flex;0,1;Left Winger;West Ham United;531461;40
+Kamarai Swyer;0,1;Midfield;West Ham United;693066;58
+Harry Tyrer;0,1;Goalkeeper;Fc Everton;574448;53
+Ryan Astley;0,1;Centre-Back;Fc Everton;511552;38
+Lukas Jensen;0,05;Goalkeeper;Fc Burnley;581890;-

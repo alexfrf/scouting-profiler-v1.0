@@ -1,0 +1,782 @@
+Players;Values;POS;Team;ID;Num
+Marco Carnesecchi;8,0;Goalkeeper;Us Cremonese;459763;12
+Morten Hjulmand;6,5;Defensive Midfield;Us Lecce;461496;42
+Dennis Man;6,5;Right Winger;Parma Calcio 1913;397486;98
+Gabriel Strefezza;6,5;Right Winger;Us Lecce;457673;27
+Nicolo Fagioli;6,5;Central Midfield;Us Cremonese;432090;21
+Lorenzo Lucca;6,0;Centre-Forward;Ac Pisa 1909;572265;9
+Dany Mota;6,0;Centre-Forward;Ac Monza;347253;47
+Adrian Bernabe;6,0;Midfield;Parma Calcio 1913;466802;16
+Valentin Mihaila;5,5;Left Winger;Parma Calcio 1913;535469;-
+Federico Gatti;5,0;Centre-Back;Frosinone Calcio;509022;6
+Caleb Okoli;5,0;Centre-Back;Us Cremonese;461833;55
+Gianluca Gaetano;4,5;Midfield;Us Cremonese;358008;70
+Carlos Augusto;4,5;Left-Back;Ac Monza;585982;30
+Andrea Cistana;4,0;Centre-Back;Brescia Calcio;337381;15
+Michele Di Gregorio;3,8;Goalkeeper;Ac Monza;301238;16
+Gennaro Tutino;3,8;Centre-Forward;Parma Calcio 1913;202979;9
+George Puscas;3,5;Centre-Forward;Ac Pisa 1909;208690;31
+Lorenzo Colombo;3,5;Centre-Forward;Spal;487843;9
+Maxime Busi;3,5;Right-Back;Parma Calcio 1913;570817;-
+Gabriel Charpentier;3,5;Centre-Forward;Frosinone Calcio;660342;9
+Abdelhamid Sabiri;3,0;Midfield;Ascoli Calcio;340394;10
+Marius Marin;3,0;Central Midfield;Ac Pisa 1909;379163;8
+Elias Cobbaut;3,0;Centre-Back;Parma Calcio 1913;419723;25
+Lautaro Valenti;3,0;Centre-Back;Parma Calcio 1913;625202;30
+Demba Seck;3,0;Right Winger;Spal;551752;-
+Franco Vazquez;3,0;Midfield;Parma Calcio 1913;76163;10
+Matteo Ricci;3,0;Defensive Midfield;Frosinone Calcio;198087;88
+Ernesto Torregrossa;3,0;Centre-Forward;Ac Pisa 1909;159883;10
+Salvatore Esposito;2,8;Defensive Midfield;Spal;390160;5
+Manuel De Luca;2,8;Centre-Forward;Ac Perugia Calcio;375816;9
+Leonardo Mancuso;2,7;Centre-Forward;Ac Monza;160344;11
+Gianluca Lapadula;2,5;Centre-Forward;Benevento Calcio;130394;9
+Samuele Birindelli;2,5;Right-Back;Ac Pisa 1909;461019;19
+Alessio Zerbin;2,5;Left Winger;Frosinone Calcio;433584;24
+Dario Saric;2,5;Central Midfield;Ascoli Calcio;293228;30
+Mehdi Leris;2,4;Midfield;Brescia Calcio;348601;37
+Luca Mazzitelli;2,4;Central Midfield;Ac Monza;226025;4
+Andrea Colpani;2,4;Central Midfield;Ac Monza;392959;28
+Antonino La Gumina;2,4;Centre-Forward;Como 1907;287876;20
+Pedro Pereira;2,3;Right-Back;Ac Monza;314965;13
+Simon Sohm;2,3;Defensive Midfield;Parma Calcio 1913;507486;19
+Mirko Maric;2,2;Centre-Forward;Fc Crotone;215649;99
+Dimitri Bisoli;2,2;Central Midfield;Brescia Calcio;163216;25
+Alexis Blin;2,2;Defensive Midfield;Us Lecce;236041;29
+Lorenzo Pirola;2,2;Centre-Back;Ac Monza;487834;98
+Matteo Tramoni;2,2;Left Winger;Brescia Calcio;475410;27
+Gaston Brugman;2,0;Defensive Midfield;Parma Calcio 1913;131109;-
+Tommaso Milanese;2,0;Central Midfield;Us Alessandria Calcio 1912;538569;62
+Alberto Cerri;2,0;Centre-Forward;Como 1907;197751;27
+Francesco Di Mariano;2,0;Left Winger;Us Lecce;238950;10
+Janio Bikel;2,0;Central Midfield;Lr Vicenza Virtus;288121;16
+Pablo Rodriguez;2,0;Striker;Us Lecce;537765;99
+Pietro Beruatto;2,0;Left-Back;Ac Pisa 1909;381370;20
+Bruno Amione;2,0;Centre-Back;Reggina 1914;644676;2
+Enrico Del Prato;2,0;Right-Back;Parma Calcio 1913;392956;15
+Yordan Osorio;2,0;Centre-Back;Parma Calcio 1913;358165;24
+Maxime Leverbe;2,0;Centre-Back;Ac Pisa 1909;451310;3
+Luca Zanimacchia;2,0;Right Winger;Us Cremonese;407265;98
+Adam Nagy;2,0;Defensive Midfield;Ac Pisa 1909;368559;16
+Federico Di Francesco;2,0;Left Winger;Spal;38607;-
+Mattia Valoti;2,0;Central Midfield;Ac Monza;167741;10
+Nicolo Cambiaghi;2,0;Left Winger;Pordenone Calcio;459151;28
+Davide Bettella;2,0;Centre-Back;Ac Monza;357995;18
+Francesco Vicari;2,0;Centre-Back;Spal;240158;23
+Adrian Benedyczak;2,0;Centre-Forward;Parma Calcio 1913;454386;17
+Juan Brunetta;2,0;Midfield;Parma Calcio 1913;466268;8
+Samuele Mulattieri;2,0;Centre-Forward;Fc Crotone;457422;9
+Ilias Koutsoupias;1,9;Central Midfield;Ternana Calcio;534161;80
+Emanuele Valeri;1,8;Left-Back;Us Cremonese;445126;3
+Florian Aye;1,8;Forward;Brescia Calcio;372713;20
+Filippo Ranocchia;1,8;Central Midfield;Lr Vicenza Virtus;489611;11
+Yonatan Cohen;1,8;Left Winger;Ac Pisa 1909;408026;11
+Stefano Gori;1,8;Goalkeeper;Como 1907;244491;66
+Niccolo Zanellato;1,8;Central Midfield;Fc Crotone;343945;-
+Cesar Falletti;1,8;Midfield;Ternana Calcio;218306;17
+Christian Kouan;1,7;Midfield;Ac Perugia Calcio;529885;28
+Zan Majer;1,7;Central Midfield;Us Lecce;180805;37
+Riccardo Improta;1,7;Left Winger;Benevento Calcio;163489;16
+Francesco Forte;1,7;Centre-Forward;Benevento Calcio;164534;88
+Valentin Gendrey;1,7;Right-Back;Us Lecce;569387;17
+Jose Machin;1,7;Midfield;Ac Monza;355104;7
+Alessio Da Cruz;1,7;Midfield;Lr Vicenza Virtus;337670;70
+Mario Gargiulo;1,7;Central Midfield;As Cittadella;242469;-
+Antonio Palumbo;1,7;Central Midfield;Ternana Calcio;287863;5
+Jaime Baez;1,6;Left Winger;Us Cremonese;238654;7
+Jacopo Segre;1,6;Central Midfield;Ac Perugia Calcio;373899;6
+Marco Sala;1,6;Left-Back;Fc Crotone;392570;29
+Patrick Ciurria;1,6;Right Winger;Ac Monza;255838;84
+Gaetano Letizia;1,5;Right-Back;Benevento Calcio;160560;3
+Gabriel;1,5;Goalkeeper;Us Lecce;79242;21
+Stefano Sabelli;1,5;Right-Back;Brescia Calcio;167491;3
+Arturo Calabresi;1,5;Right-Back;Us Lecce;240897;33
+Massimo Coda;1,5;Centre-Forward;Us Lecce;33763;9
+Andrea Favilli;1,5;Centre-Forward;Ac Monza;340151;19
+Roberto Insigne;1,5;Right Winger;Benevento Calcio;200174;19
+Alfredo Donnarumma;1,5;Centre-Forward;Ternana Calcio;130485;99
+Riad Bajic;1,5;Forward;Brescia Calcio;263267;11
+Luca Garritano;1,5;Midfield;Frosinone Calcio;205677;16
+Alessandro Vogliacco;1,5;Centre-Back;Benevento Calcio;330208;14
+Michael Folorunsho;1,5;Central Midfield;Reggina 1914;377042;90
+Roberto Inglese;1,5;Centre-Forward;Parma Calcio 1913;159337;45
+Antonio Barreca;1,5;Left-Back;Us Lecce;241889;30
+Felix Correia;1,5;Left Winger;Parma Calcio 1913;479648;77
+Simy;1,5;Centre-Forward;Parma Calcio 1913;194549;99
+Lorenzo Dickmann;1,5;Right-Back;Spal;283060;24
+Davide Diaw;1,5;Centre-Forward;Lr Vicenza Virtus;404995;9
+Federico Proia;1,5;Central Midfield;Brescia Calcio;287651;23
+Ahmad Benali;1,5;Central Midfield;Fc Crotone;121402;-
+Filip Jagiello;1,5;Central Midfield;Brescia Calcio;242813;24
+Andrea Barberis;1,5;Defensive Midfield;Ac Monza;146680;8
+Leonardo Sernicola;1,5;Right-Back;Us Cremonese;340707;17
+Idrissa Toure;1,4;Midfield;Ac Pisa 1909;335516;15
+Christian Gytkjaer;1,4;Centre-Forward;Ac Monza;76274;9
+Andrea Papetti;1,4;Centre-Back;Brescia Calcio;503619;32
+Jesse Joronen;1,4;Goalkeeper;Brescia Calcio;131758;1
+Claud Adjapong;1,4;Right-Back;Reggina 1914;337716;27
+Federico Barba;1,4;Centre-Back;Benevento Calcio;165873;93
+Nahuel Estevez;1,4;Midfield;Fc Crotone;552472;8
+Fabio Maistro;1,4;Central Midfield;Ascoli Calcio;398031;37
+Anthony Partipilo;1,4;Right Winger;Ternana Calcio;182517;21
+Stanko Juric;1,4;Defensive Midfield;Parma Calcio 1913;388125;11
+Jacopo Da Riva;1,3;Central Midfield;Spal;430503;40
+Nicola Leali;1,3;Goalkeeper;Ascoli Calcio;136111;1
+Orji Okwonkwo;1,3;Right Winger;As Cittadella;401935;22
+Luca Vignali;1,3;Right-Back;Como 1907;287367;28
+Fabrizio Caligara;1,3;Central Midfield;Ascoli Calcio;386574;32
+Marco Mancosu;1,3;Midfield;Spal;51736;8
+Mattia Viviani;1,3;Defensive Midfield;Benevento Calcio;403845;24
+Luca Palmiero;1,2;Defensive Midfield;Cosenza Calcio;240357;19
+Massimo Bertagnoli;1,2;Central Midfield;Brescia Calcio;394352;26
+Luca Valzania;1,2;Central Midfield;Us Cremonese;287663;14
+Christian Dalle Mura;1,2;Centre-Back;Us Cremonese;487829;-
+Giuseppe Caso;1,2;Left Winger;Cosenza Calcio;398030;10
+Enrico Baldini;1,2;Centre-Forward;As Cittadella;262521;92
+Artur Ionita;1,2;Central Midfield;Benevento Calcio;98888;23
+Tom van de Looi;1,2;Defensive Midfield;Brescia Calcio;420189;5
+Elio Capradossi;1,2;Centre-Back;Spal;238947;17
+Daniel Boloca;1,1;Central Midfield;Frosinone Calcio;441515;21
+Marco D'Alessandro;1,1;Right Winger;Ac Monza;99232;77
+Luca Vido;1,1;Centre-Forward;Spal;264514;-
+Salvatore Molina;1,1;Midfield;Fc Crotone;163582;-
+Ionut Nedelcearu;1,0;Centre-Back;Fc Crotone;274694;27
+Luca Caldirola;1,0;Centre-Back;Ac Monza;88680;5
+Kamil Glik;1,0;Centre-Back;Benevento Calcio;46552;15
+Daam Foulon;1,0;Left-Back;Benevento Calcio;338637;18
+Paolo Farago;1,0;Midfield;Us Lecce;167796;24
+Giacomo Calo;1,0;Midfield;Benevento Calcio;301235;5
+Stefano Moreo;1,0;Centre-Forward;Brescia Calcio;279823;9
+Gennaro Acampora;1,0;Central Midfield;Benevento Calcio;230826;4
+Andrija Novakovich;1,0;Centre-Forward;Frosinone Calcio;336160;18
+Luis Rojas;1,0;Midfield;Fc Crotone;662752;-
+Diego Farias;1,0;Left Winger;Benevento Calcio;83877;11
+Fran Karacic;1,0;Right-Back;Brescia Calcio;367795;2
+Marko Pajac;1,0;Left-Back;Brescia Calcio;190634;29
+Simone Canestrelli;1,0;Centre-Back;Fc Crotone;358003;19
+Tiago Casasola;1,0;Right-Back;Us Cremonese;224044;-
+Ales Mateju;1,0;Right-Back;Brescia Calcio;242078;-
+Gianluigi Buffon;1,0;Goalkeeper;Parma Calcio 1913;5023;1
+Vincenzo Millico;1,0;Left Winger;Cosenza Calcio;390159;20
+Antonino Gallo;1,0;Left-Back;Us Lecce;392516;25
+Marco Olivieri;1,0;Left Winger;Us Lecce;346562;-
+Anthony Fontana;1,0;Midfield;Ascoli Calcio;447216;99
+Jayden Oosterwolde;1,0;Left-Back;Parma Calcio 1913;591361;50
+Elhan Kastrati;1,0;Goalkeeper;As Cittadella;258608;36
+Mirko Antonucci;1,0;Right Winger;As Cittadella;315852;48
+Alberto Paleari;1,0;Goalkeeper;Benevento Calcio;163048;29
+Marco Carraro;0,9;Defensive Midfield;Cosenza Calcio;297630;4
+Botond Balogh;0,9;Centre-Back;Parma Calcio 1913;543727;4
+Nikolas Spalek;0,9;Right Winger;Brescia Calcio;243239;7
+Flavio Bianchi;0,9;Centre-Forward;Brescia Calcio;364132;18
+Karlo Lulic;0,9;Central Midfield;Frosinone Calcio;240252;26
+Brian Oddei;0,9;Right Winger;Fc Crotone;546176;-
+Gaston Ramirez;0,9;Midfield;Ac Monza;123742;21
+Vittorio Parigini;0,9;Right Winger;Como 1907;238981;11
+Adrian Leon Barisic;0,9;Centre-Back;Frosinone Calcio;625206;44
+Milos Vulic;0,9;Central Midfield;Fc Crotone;270901;7
+Michele Collocolo;0,9;Central Midfield;Ascoli Calcio;434551;18
+Stefano Turati;0,9;Goalkeeper;Reggina 1914;543666;63
+Gaetan Laura;0,9;Centre-Forward;Cosenza Calcio;291124;95
+Aldo Florenzi;0,9;Central Midfield;Cosenza Calcio;619326;34
+Alessandro Cortinovis;0,9;Midfield;Reggina 1914;421768;72
+Francesco Cassata;0,9;Central Midfield;Parma Calcio 1913;301236;7
+Frank Tsadjout;0,9;Centre-Forward;Pordenone Calcio;392545;-
+Rigoberto Rivas;0,9;Right Winger;Reggina 1914;451353;99
+Alessandro Tuia;0,9;Centre-Back;Us Lecce;73943;13
+Woyo Coulibaly;0,9;Right-Back;Parma Calcio 1913;592975;26
+Cristian Dell'Orco;0,9;Left-Back;Ac Perugia Calcio;240244;15
+Raffaele Maiello;0,85;Defensive Midfield;Frosinone Calcio;140559;-
+Luka Bogdan;0,85;Centre-Back;Ternana Calcio;226058;26
+Cristian Buonaiuto;0,8;Left Winger;Us Cremonese;187384;10
+Kastriot Dermaku;0,8;Centre-Back;Us Lecce;163647;44
+Andres Tello;0,8;Central Midfield;Benevento Calcio;331389;8
+Alessandro Plizzari;0,8;Goalkeeper;Us Lecce;357991;22
+Valentin Antov;0,8;Centre-Back;Ac Monza;227347;26
+Alessio Vita;0,8;Central Midfield;As Cittadella;163606;16
+Zito Luvumbo;0,8;Right Winger;Como 1907;666547;-
+Alessandro Bellemo;0,8;Central Midfield;Como 1907;241052;14
+John Bjorkengren;0,8;Midfield;Us Lecce;413942;23
+Gianmarco Cangiano;0,8;Left Winger;Fc Crotone;496270;74
+Riccardo Gagliolo;0,8;Centre-Back;Parma Calcio 1913;240786;-
+Francesco Zampano;0,8;Right-Back;Frosinone Calcio;216872;11
+Nikita Contini;0,8;Goalkeeper;Lr Vicenza Virtus;250683;-
+Domenico Frare;0,8;Centre-Back;As Cittadella;287639;15
+Przemyslaw Szyminski;0,8;Centre-Back;Frosinone Calcio;255461;25
+Jacopo Petriccione;0,8;Defensive Midfield;Pordenone Calcio;218067;-
+Gabriele Moncini;0,8;Centre-Forward;Benevento Calcio;238977;21
+Luigi Canotto;0,8;Right Winger;Frosinone Calcio;188436;27
+Nicola Dalmonte;0,8;Right Winger;Lr Vicenza Virtus;301237;34
+Massimiliano Mangraviti;0,8;Centre-Back;Brescia Calcio;395805;14
+Bruno Martella;0,8;Left-Back;Ternana Calcio;164108;87
+Michele Camporese;0,8;Centre-Back;Pordenone Calcio;62716;-
+Filippo Sgarbi;0,8;Centre-Back;Ac Perugia Calcio;394920;39
+Davide Adorni;0,8;Centre-Back;Brescia Calcio;163212;6
+Gianluca Di Chiara;0,8;Left-Back;Reggina 1914;189340;17
+Alessandro Tripaldelli;0,75;Left-Back;Spal;357176;3
+Tommaso Cassandro;0,75;Right-Back;As Cittadella;412649;84
+Moutir Chajia;0,75;Left Winger;Como 1907;448538;7
+Ettore Gliozzi;0,75;Centre-Forward;Como 1907;209936;72
+Emanuele Ndoj;0,75;Central Midfield;Brescia Calcio;287717;-
+Pietro Iemmello;0,75;Centre-Forward;Frosinone Calcio;62735;-
+Idriz Voca;0,75;Defensive Midfield;Cosenza Calcio;342098;42
+Michele Castagnetti;0,7;Defensive Midfield;Us Cremonese;195335;19
+Cedric Gondo;0,7;Centre-Forward;Us Cremonese;213854;8
+Matteo Bianchetti;0,7;Centre-Back;Us Cremonese;160986;15
+Enrico Brignola;0,7;Striker;Benevento Calcio;323147;99
+Samuele Perisan;0,7;Goalkeeper;Pordenone Calcio;301240;22
+Hjortur Hermannsson;0,7;Centre-Back;Ac Pisa 1909;187147;6
+Mikael Egill Ellertsson;0,7;Central Midfield;Spal;566615;20
+Salvatore Elia;0,7;Right Winger;Benevento Calcio;392963;7
+Michele Cavion;0,7;Central Midfield;Lr Vicenza Virtus;199971;7
+Thorir Johann Helgason;0,7;Central Midfield;Us Lecce;488996;14
+Alex Blanco;0,7;Left Winger;Como 1907;328914;19
+Federico Ricci;0,7;Right Winger;Ascoli Calcio;198086;8
+Dimitrios Stavropoulos;0,7;Centre-Back;Reggina 1914;402970;4
+Lorenzo Crisetig;0,7;Defensive Midfield;Reggina 1914;110928;8
+Alessandro Murgia;0,7;Central Midfield;Ac Perugia Calcio;289061;14
+Gabriele Ferrarini;0,7;Right-Back;Ac Perugia Calcio;392033;30
+Jordan Lukaku;0,7;Left-Back;Lr Vicenza Virtus;140804;94
+Tommaso Arrigoni;0,65;Central Midfield;Como 1907;199070;21
+Godfred Donsah;0,65;Central Midfield;Fc Crotone;291266;-
+Augustus Kargbo;0,65;Striker;Fc Crotone;549791;24
+Simone Santoro;0,65;Central Midfield;Ac Perugia Calcio;392515;25
+Luca Maniero;0,6;Goalkeeper;As Cittadella;176182;77
+Giuseppe Di Serio;0,6;Centre-Forward;Benevento Calcio;532040;-
+Perparim Hetemaj;0,6;Central Midfield;Reggina 1914;37295;-
+Soufiane Bidaoui;0,6;Left Winger;Ascoli Calcio;90118;26
+Daan Dierckx;0,6;Centre-Back;Parma Calcio 1913;621965;3
+Matteo Cotali;0,6;Left-Back;Frosinone Calcio;382567;29
+Dario Del Fabro;0,6;Centre-Back;As Cittadella;110475;5
+Frederik Sorensen;0,6;Centre-Back;Ternana Calcio;91716;15
+Nicola Falasco;0,6;Left-Back;Pordenone Calcio;176180;-
+Alessandro Lovisa;0,6;Central Midfield;Pordenone Calcio;565041;5
+Simone Branca;0,6;Central Midfield;As Cittadella;167793;23
+Mario Sampirisi;0,6;Right-Back;Ac Monza;160357;31
+Fabio Lucioni;0,6;Centre-Back;Us Lecce;160561;5
+Jhon Chancellor;0,6;Centre-Back;Brescia Calcio;213614;-
+Gabriele Gori;0,6;Centre-Forward;Cosenza Calcio;315859;9
+Musa Juwara;0,6;Left Winger;Fc Crotone;562030;-
+Giulio Donati;0,6;Right-Back;Ac Monza;88684;2
+Pasquale Schiattarella;0,6;Defensive Midfield;Parma Calcio 1913;56762;21
+Lukasz Teodorczyk;0,6;Centre-Forward;Lr Vicenza Virtus;157849;91
+Samuele Vignato;0,6;Midfield;Ac Monza;650966;80
+Rodney Kongolo;0,6;Central Midfield;Cosenza Calcio;264748;36
+Andrea Hristov;0,6;Centre-Back;Cosenza Calcio;415520;55
+Luca Strizzolo;0,6;Centre-Forward;Us Cremonese;155802;11
+Manuel Marras;0,6;Right Winger;Fc Crotone;198128;17
+Lorenco Simic;0,6;Centre-Back;Us Lecce;226093;6
+Leandro Chichizola;0,6;Goalkeeper;Ac Perugia Calcio;95736;22
+Samuel Di Carmine;0,6;Centre-Forward;Us Cremonese;45389;29
+Christian D'Urso;0,55;Midfield;Ac Perugia Calcio;340444;18
+Giovanni Crociata;0,55;Central Midfield;Spal;291400;7
+Luca Magnino;0,5;Central Midfield;Pordenone Calcio;297444;-
+Andrea Cagnano;0,5;Left-Back;Como 1907;418884;33
+Nikolas Ioannou;0,5;Left-Back;Como 1907;265033;44
+Emmanuel Gyabuaa;0,5;Central Midfield;Ac Perugia Calcio;432089;4
+Martin Turk;0,5;Goalkeeper;Parma Calcio 1913;700643;22
+Giuseppe Cuomo;0,5;Centre-Back;Fc Crotone;365565;3
+Camillo Ciano;0,5;Centre-Forward;Frosinone Calcio;61511;28
+Tommaso Mancini;0,5;Centre-Forward;Lr Vicenza Virtus;659416;39
+Hamza El Kaouakibi;0,5;Right-Back;Pordenone Calcio;395089;2
+Theophilus Awua;0,5;Central Midfield;Fc Crotone;427576;86
+Vladimir Golemic;0,5;Centre-Back;Fc Crotone;169841;5
+David Schnegg;0,5;Left-Back;Fc Crotone;378260;16
+Simone Mazzocchi;0,5;Centre-Forward;Ternana Calcio;337809;9
+Eric Botteghin;0,5;Centre-Back;Ascoli Calcio;56601;33
+Andrea Beghetto;0,5;Left-Back;Us Alessandria Calcio 1912;199941;-
+Luca Parodi;0,5;Right-Back;Us Alessandria Calcio 1912;256688;7
+Christian Capone;0,5;Left Winger;Ternana Calcio;315856;11
+Ryder Matos;0,5;Striker;Ac Perugia Calcio;62713;10
+Marcello Falzerano;0,5;Midfield;Ac Perugia Calcio;158548;23
+Giuseppe Sibilli;0,5;Centre-Forward;Ac Pisa 1909;424275;17
+Abou Ba;0,5;Defensive Midfield;Us Alessandria Calcio 1912;427653;6
+Andrea Danzi;0,5;Defensive Midfield;As Cittadella;319171;72
+Hamza Rafia;0,5;Midfield;Us Cremonese;418571;99
+Marco Pinato;0,5;Central Midfield;Spal;164020;-
+Andrey Galabinov;0,5;Centre-Forward;Reggina 1914;67639;16
+Federico Ravaglia;0,5;Goalkeeper;Frosinone Calcio;390304;1
+Raffaele Celia;0,5;Left-Back;Spal;195057;91
+Nicola Pavan;0,5;Defensive Midfield;As Cittadella;167480;26
+Alessandro Russo;0,5;Goalkeeper;Us Alessandria Calcio 1912;481344;-
+Oliver Kragl;0,5;Midfield;Benevento Calcio;56513;-
+Emanuele Cicerelli;0,5;Left Winger;Frosinone Calcio;265320;17
+Filippo Scaglia;0,5;Centre-Back;Como 1907;163597;23
+Matteo Pisseri;0,5;Goalkeeper;Us Alessandria Calcio 1912;168444;12
+Giuseppe Prestia;0,5;Centre-Back;Us Alessandria Calcio 1912;163187;19
+Gian Filippo Felicioli;0,45;Left-Back;Ascoli Calcio;290733;5
+Sauli Vaisanen;0,45;Centre-Back;Cosenza Calcio;261095;15
+Joaquin Larrivey;0,45;Centre-Forward;Cosenza Calcio;52428;32
+Nicolas;0,45;Goalkeeper;Ac Pisa 1909;99523;1
+Matthieu Huard;0,45;Left-Back;Brescia Calcio;588997;19
+Kristjan Matosevic;0,45;Goalkeeper;Cosenza Calcio;340448;31
+Vasile Mogos;0,45;Right-Back;Fc Crotone;324214;32
+Ben Lhassine Kone;0,45;Midfield;Fc Crotone;522681;10
+Antonis Siatounis;0,45;Defensive Midfield;Ac Monza;554397;20
+Nehuen Paz;0,45;Centre-Back;Fc Crotone;284724;-
+Federico Baschirotto;0,45;Centre-Back;Ascoli Calcio;351955;6
+Matteo Di Gennaro;0,45;Centre-Back;Us Alessandria Calcio 1912;177188;30
+Amedeo Benedetti;0,45;Left-Back;As Cittadella;148585;3
+Luca Crecco;0,45;Midfield;Lr Vicenza Virtus;228604;26
+Roberto Zammarini;0,45;Central Midfield;Pordenone Calcio;331197;33
+Daniele Liotti;0,45;Left-Back;Reggina 1914;199767;-
+Salim Diakite;0,45;Right-Back;Ternana Calcio;696550;29
+Edoardo Pierozzi;0,45;Right-Back;Us Alessandria Calcio 1912;534083;25
+Loris Zonta;0,45;Central Midfield;Lr Vicenza Virtus;377043;6
+Umberto Eusepi;0,425;Centre-Forward;Us Alessandria Calcio 1912;62238;-
+Marco Tumminello;0,4;Centre-Forward;Reggina 1914;315850;93
+Gabriele Angella;0,4;Centre-Back;Ac Perugia Calcio;86793;5
+Jean Freddi Greco;0,4;Central Midfield;Lr Vicenza Virtus;498557;24
+Gabriel Lunetta;0,4;Midfield;Us Alessandria Calcio 1912;287710;8
+Davide Marsura;0,4;Left Winger;Ac Pisa 1909;163078;77
+Djavan Anderson;0,4;Right-Back;Cosenza Calcio;215089;-
+Drissa Camara;0,4;Central Midfield;Parma Calcio 1913;614742;23
+Michele Cerofolini;0,4;Goalkeeper;Us Alessandria Calcio 1912;370701;22
+Brayan Vera;0,4;Left-Back;Us Lecce;642967;-
+Goran Pandev;0,4;Striker;Parma Calcio 1913;12563;27
+Giuseppe Mastinu;0,4;Central Midfield;Ac Pisa 1909;397950;18
+Federico Mattiello;0,4;Right-Back;Us Alessandria Calcio 1912;200194;11
+Luca Paganini;0,4;Right Winger;Us Lecce;167444;-
+Marcus Rohden;0,4;Midfield;Frosinone Calcio;205809;7
+Fabrizio Paghera;0,4;Defensive Midfield;Ternana Calcio;127799;20
+Alessio Tribuzzi;0,4;Midfield;Frosinone Calcio;395546;19
+Stefano Minelli;0,4;Goalkeeper;Frosinone Calcio;197901;94
+Antonino Ragusa;0,4;Left Winger;Us Lecce;102470;7
+Federico Dionisi;0,4;Centre-Forward;Ascoli Calcio;119369;9
+Stefano Pettinari;0,4;Centre-Forward;Ternana Calcio;130369;32
+Brynjar Ingi Bjarnason;0,4;Centre-Back;Us Lecce;569171;-
+Marcin Listkowski;0,4;Midfield;Us Lecce;291276;19
+Atanas Iliev;0,4;Centre-Forward;Ascoli Calcio;225824;11
+Federico Viviani;0,4;Defensive Midfield;Spal;165900;77
+Ange-Yoan Bonny;0,4;Centre-Forward;Parma Calcio 1913;827734;37
+Andrea Tiritiello;0,4;Centre-Back;Cosenza Calcio;248695;14
+Christian Pastina;0,4;Centre-Back;Benevento Calcio;476624;58
+Valerio Mantovani;0,4;Centre-Back;Us Alessandria Calcio 1912;324378;44
+Sanasi Sy;0,4;Left-Back;Cosenza Calcio;606451;18
+Charles Boli;0,4;Midfield;Lr Vicenza Virtus;695646;20
+Luca Ravanelli;0,4;Centre-Back;Us Cremonese;312341;6
+Vasilios Zagaritis;0,4;Left-Back;Parma Calcio 1913;613781;20
+Simone Corazza;0,4;Centre-Forward;Us Alessandria Calcio 1912;155036;18
+Simone Palombi;0,4;Centre-Forward;Us Alessandria Calcio 1912;289065;29
+Robert Gucher;0,4;Defensive Midfield;Ac Pisa 1909;52188;27
+Alessandro Di Pardo;0,4;Right-Back;Lr Vicenza Virtus;457674;-
+Karlo Butic;0,4;Centre-Forward;Pordenone Calcio;388121;32
+Davide Facchin;0,4;Goalkeeper;Como 1907;45570;1
+Antonio Caracciolo;0,4;Centre-Back;Ac Pisa 1909;149525;4
+Paolo Bartolomei;0,4;Central Midfield;Us Cremonese;281900;16
+Amato Ciciretti;0,4;Right Winger;Pordenone Calcio;159902;-
+Antony Iannarilli;0,4;Goalkeeper;Ternana Calcio;73929;1
+Mario Situm;0,4;Left Winger;Reggina 1914;138741;-
+Luca Marrone;0,4;Centre-Back;Ac Monza;124769;34
+Filippo Berra;0,4;Right-Back;Ac Pisa 1909;213952;2
+Alberto Barison;0,4;Centre-Back;Pordenone Calcio;199940;6
+Aristidi Kolaj;0,4;Right Winger;Us Alessandria Calcio 1912;396067;72
+Luigi Cuppone;0,4;Centre-Forward;As Cittadella;352704;-
+Jakub Labojko;0,4;Central Midfield;Brescia Calcio;387529;-
+Danilo Quaranta;0,4;Centre-Back;Ascoli Calcio;396307;15
+Salvatore Burrai;0,4;Defensive Midfield;Ac Perugia Calcio;41920;8
+Matteo Grandi;0,4;Goalkeeper;Lr Vicenza Virtus;155038;22
+Giacomo Beretta;0,35;Centre-Forward;As Cittadella;91241;11
+Giuseppe Bellusci;0,35;Centre-Back;Ac Monza;57354;-
+Alessandro Mattioli;0,35;Right-Back;As Cittadella;297646;18
+Alessandro Celli;0,35;Left-Back;Ternana Calcio;330560;3
+Mamadou Tounkara;0,35;Centre-Forward;As Cittadella;242965;9
+Marcos Curado;0,35;Centre-Back;Ac Perugia Calcio;334371;21
+Federico Casarini;0,35;Central Midfield;Us Alessandria Calcio 1912;56853;21
+Kevin Biondi;0,35;Central Midfield;Pordenone Calcio;499678;-
+David Heidenreich;0,35;Centre-Back;Spal;473887;87
+Bobby Adekanye;0,35;Right Winger;Fc Crotone;331514;11
+Riccardo Chiarello;0,35;Central Midfield;Us Alessandria Calcio 1912;167810;4
+Daniele Donnarumma;0,35;Left-Back;As Cittadella;167900;17
+Marco Brescianini;0,35;Central Midfield;Ac Monza;459128;33
+Ivan Lakicevic;0,35;Right-Back;Reggina 1914;196978;33
+Riccardo Brosco;0,35;Centre-Back;Lr Vicenza Virtus;89034;17
+Stefano Giacomelli;0,35;Left Winger;Lr Vicenza Virtus;88691;10
+Sebastien De Maio;0,35;Centre-Back;Lr Vicenza Virtus;56830;4
+Federico Giraudo;0,35;Left-Back;Reggina 1914;349715;98
+Marko Bozic;0,35;Midfield;Frosinone Calcio;307427;77
+Matteo Solini;0,35;Centre-Back;Como 1907;136135;4
+Demba Thiam;0,35;Goalkeeper;Spal;435406;22
+Davide Agazzi;0,35;Central Midfield;Ternana Calcio;197468;34
+Aliou Traore;0,35;Midfield;Parma Calcio 1913;495668;29
+Michele Marconi;0,35;Centre-Forward;Us Alessandria Calcio 1912;57299;10
+Ignacio Lores Varela;0,35;Right Winger;As Cittadella;139535;33
+Christos Donis;0,35;Defensive Midfield;Ascoli Calcio;212432;-
+Alessandro Fiordaliso;0,35;Right-Back;Us Cremonese;386447;2
+Matteo Scozzarella;0,3;Defensive Midfield;Ac Monza;85208;23
+Ivan Kontek;0,3;Centre-Back;Ternana Calcio;402580;6
+Marco Capuano;0,3;Centre-Back;Ternana Calcio;164091;19
+Matija Boben;0,3;Centre-Back;Ternana Calcio;149810;42
+Andrea Ghion;0,3;Defensive Midfield;Ac Perugia Calcio;390163;16
+Oscar Linner;0,3;Goalkeeper;Brescia Calcio;366974;-
+Pasquale Giannotti;0,3;Central Midfield;Fc Crotone;373381;23
+Luca Calapai;0,3;Right-Back;Fc Crotone;168189;14
+Alberto Gerbo;0,3;Central Midfield;Cosenza Calcio;88690;25
+Filippo Nardi;0,3;Central Midfield;Como 1907;404969;25
+Marco Sau;0,3;Centre-Forward;Benevento Calcio;55801;25
+Alberto Almici;0,3;Right-Back;Spal;163542;27
+Dimitrios Sounas;0,3;Central Midfield;Ac Perugia Calcio;234137;-
+Simone Colombi;0,3;Goalkeeper;Parma Calcio 1913;57285;34
+Andrea Arrighini;0,3;Centre-Forward;Us Alessandria Calcio 1912;110823;-
+Danilo;0,3;Centre-Back;Parma Calcio 1913;32816;5
+Simone Iacoponi;0,3;Centre-Back;Parma Calcio 1913;59699;-
+Valon Behrami;0,3;Defensive Midfield;Brescia Calcio;21905;30
+Vasco Regini;0,3;Left-Back;Reggina 1914;72274;-
+Riccardo Collodel;0,3;Central Midfield;Us Cremonese;394373;-
+Marco Varnier;0,3;Centre-Back;Como 1907;362981;24
+Federico Furlan;0,3;Left Winger;Ternana Calcio;88688;7
+Filippo Costa;0,3;Left-Back;Parma Calcio 1913;197743;44
+Mattia Proietti;0,3;Defensive Midfield;Ternana Calcio;198137;8
+Samuele Longo;0,3;Centre-Forward;Lr Vicenza Virtus;124560;-
+Marco Festa;0,3;Goalkeeper;Fc Crotone;257660;1
+Edoardo Masciangelo;0,3;Left-Back;Benevento Calcio;286293;32
+Mattia Mustacchio;0,3;Right Winger;Us Alessandria Calcio 1912;56803;17
+Alessandro Gabrielloni;0,3;Centre-Forward;Como 1907;311333;9
+Camillo Tavernelli;0,3;Left Winger;As Cittadella;410655;21
+Simone Missiroli;0,3;Central Midfield;Spal;35747;-
+Simone Pontisso;0,3;Defensive Midfield;Lr Vicenza Virtus;292422;-
+Antonino Barilla;0,3;Midfield;Us Alessandria Calcio 1912;39828;23
+Emmanuel Latte Lath;0,3;Centre-Forward;Spal;392964;99
+Anthony Oyono;0,3;Right-Back;Frosinone Calcio;804812;2
+Mattia Finotto;0,3;Centre-Forward;Spal;284604;18
+Daniele Iacoponi;0,3;Left Winger;Pordenone Calcio;790885;98
+Valerio Mastrantonio;0,3;Central Midfield;As Cittadella;459725;29
+Adriano Montalto;0,3;Centre-Forward;Reggina 1914;84763;30
+Tomasz Kupisz;0,3;Right Winger;Reggina 1914;45185;20
+Marcel Buchel;0,3;Midfield;Ascoli Calcio;74956;77
+Rodrigo Palacio;0,3;Centre-Forward;Brescia Calcio;39099;8
+Andrea Rispoli;0,3;Right-Back;Parma Calcio 1913;74448;90
+Federico Melchiorri;0,3;Centre-Forward;Spal;46060;11
+Semuel Pizzignacco;0,3;Goalkeeper;Lr Vicenza Virtus;537171;-
+Cristiano Lombardi;0,3;Right Winger;Reggina 1914;240349;87
+Reda Boultam;0,3;Midfield;Cosenza Calcio;360516;6
+Victor De Lucia;0,275;Goalkeeper;Frosinone Calcio;287752;-
+Alessandro Micai;0,25;Goalkeeper;Reggina 1914;167685;12
+Titas Krapikas;0,25;Goalkeeper;Ternana Calcio;353609;22
+Romario Benzar;0,25;Right-Back;Us Lecce;164231;-
+Giovanni Corradini;0,25;Defensive Midfield;Ac Perugia Calcio;566927;-
+Luca Pandolfi;0,25;Centre-Forward;Cosenza Calcio;438021;7
+Valentin Vanbaleghem;0,25;Defensive Midfield;Ac Perugia Calcio;447217;-
+Aleandro Rosi;0,25;Right-Back;Ac Perugia Calcio;34239;2
+Joan Gonzalez;0,25;Midfield;Us Lecce;692209;-
+Alessio Iovine;0,25;Midfield;Como 1907;330472;6
+Daniel Cappelletti;0,25;Centre-Back;Lr Vicenza Virtus;130380;23
+Elvis Kabashi;0,25;Central Midfield;Como 1907;200057;8
+Marino Defendi;0,25;Right-Back;Ternana Calcio;38589;25
+Raul Asencio;0,25;Centre-Forward;Us Lecce;340260;90
+Matteo Perri;0,25;Left-Back;Pordenone Calcio;410473;72
+Mauro Vigorito;0,25;Goalkeeper;Cosenza Calcio;88595;26
+Matteo Bruscagin;0,25;Right-Back;Lr Vicenza Virtus;56618;15
+Francesco Orlando;0,25;Right Winger;Us Alessandria Calcio 1912;334341;20
+Ramzi Aya;0,25;Centre-Back;Reggina 1914;57633;29
+Mark Pabai;0,25;Right-Back;Spal;464699;2
+Jeremy Menez;0,25;Forward;Reggina 1914;16993;7
+Emanuele Torrasi;0,25;Central Midfield;Pordenone Calcio;315870;23
+Filippo Palazzino;0,25;Right Winger;Ascoli Calcio;713357;29
+Michele Rigione;0,25;Centre-Back;Cosenza Calcio;88705;5
+Mouhamadou Sarr;0,25;Goalkeeper;Us Cremonese;338101;45
+Andrea Vallocchia;0,25;Central Midfield;Cosenza Calcio;355929;21
+Diego Fabbrini;0,25;Left Winger;Ascoli Calcio;56903;-
+Biagio Meccariello;0,25;Centre-Back;Spal;124002;6
+Thomas Schiro;0,25;Midfield;Fc Crotone;357997;44
+Lorenzo Ariaudo;0,25;Centre-Back;Us Alessandria Calcio 1912;84921;15
+Riccardo Spaltro;0,25;Right-Back;Spal;459180;-
+Mirko Gori;0,25;Central Midfield;Frosinone Calcio;163223;-
+Patryk Peda;0,25;Centre-Back;Spal;555113;29
+Riccardo Meggiorini;0,25;Centre-Forward;Lr Vicenza Virtus;28936;69
+Tommaso D'Orazio;0,25;Left-Back;Ascoli Calcio;331199;3
+Lukas Klitten;0,25;Left-Back;Frosinone Calcio;490842;3
+Leonardo Candellone;0,25;Centre-Forward;Pordenone Calcio;342341;27
+Azzedine Dkidak;0,25;Left-Back;Como 1907;464640;-
+Edoardo Sarri;0,225;Goalkeeper;Cosenza Calcio;392027;24
+Massimiliano Gatto;0,225;Left Winger;Como 1907;240312;10
+Gianvito Misuraca;0,225;Central Midfield;Pordenone Calcio;61753;-
+Lorenzo Gavioli;0,225;Central Midfield;Reggina 1914;364136;-
+Emanuele Terranova;0,225;Centre-Back;Us Cremonese;61770;-
+Ilario Monterisi;0,225;Centre-Back;Us Lecce;550116;-
+Michele Vano;0,2;Centre-Forward;Ac Perugia Calcio;400941;-
+Giacomo Olzer;0,2;Midfield;Brescia Calcio;539132;28
+Francesco Deli;0,2;Central Midfield;Pordenone Calcio;288896;10
+Karim Laribi;0,2;Central Midfield;As Cittadella;124911;20
+Kevin Piscopo;0,2;Striker;Spal;395739;-
+Ludovico D'Orazio;0,2;Left Winger;Spal;370435;97
+Nicola Bellomo;0,2;Midfield;Reggina 1914;107958;10
+Diego Peralta;0,2;Right Winger;Ternana Calcio;256659;24
+Anthony Taugourdeau;0,2;Defensive Midfield;Lr Vicenza Virtus;91596;5
+Mirko Eramo;0,2;Central Midfield;Ascoli Calcio;61783;27
+Christian Mora;0,2;Right-Back;Us Alessandria Calcio 1912;301239;-
+Dennis Politic;0,2;Right Winger;Us Cremonese;470152;20
+Andrea Bianchimano;0,2;Centre-Forward;Ac Perugia Calcio;392205;-
+Santiago Visentin;0,2;Centre-Back;Fc Crotone;549681;-
+Aniello Salzano;0,2;Central Midfield;Ternana Calcio;195199;28
+Mattia Sprocati;0,2;Right Winger;Parma Calcio 1913;199274;-
+Andrea Palazzi;0,2;Central Midfield;Us Alessandria Calcio 1912;238980;26
+Dejan Vokic;0,2;Midfield;Benevento Calcio;290698;-
+Thiago Cionek;0,2;Centre-Back;Reggina 1914;79510;3
+Alessio Sabbione;0,2;Centre-Back;Pordenone Calcio;287472;3
+Alessandro Crescenzi;0,2;Left-Back;Us Cremonese;96758;23
+Gianluca Saro;0,2;Goalkeeper;Fc Crotone;420179;22
+Davide Bertoncini;0,2;Centre-Back;Como 1907;91914;5
+Giuseppe Loiacono;0,2;Centre-Back;Reggina 1914;331471;6
+Alessandro Salvi;0,2;Right-Back;Ascoli Calcio;150462;2
+Simone Benedetti;0,2;Centre-Back;Us Alessandria Calcio 1912;99923;13
+Edoardo Blondett;0,2;Centre-Back;Us Alessandria Calcio 1912;167877;-
+Youssouph Cheikh Sylla;0,2;Centre-Forward;Pordenone Calcio;494928;45
+Thomas Sandon;0,2;Left-Back;Lr Vicenza Virtus;818134;73
+Andrea Meroni;0,2;Centre-Back;Us Cremonese;337149;13
+Gianluigi Sueva;0,2;Centre-Forward;Cosenza Calcio;531973;-
+Simone Pasa;0,2;Defensive Midfield;Pordenone Calcio;76895;18
+Gabriele Piccinini;0,2;Central Midfield;Ac Pisa 1909;628365;-
+Alessandro Livieri;0,2;Goalkeeper;Ac Pisa 1909;295766;22
+Nicolo Bianchi;0,2;Central Midfield;Reggina 1914;167792;15
+Davide Mondonico;0,2;Centre-Back;Fc Crotone;347588;6
+Julian Kristoffersen;0,2;Centre-Forward;Cosenza Calcio;267614;11
+Luca Bittante;0,2;Right-Back;Cosenza Calcio;163062;27
+Gabriel Paletta;0,2;Centre-Back;Ac Monza;30767;29
+Daniel Ciofani;0,2;Centre-Forward;Us Cremonese;29605;9
+Georgi Tunjov;0,2;Central Midfield;Spal;363610;-
+Ayoub Abou;0,2;Central Midfield;Spal;280147;-
+Simone Perilli;0,2;Goalkeeper;Brescia Calcio;240675;12
+Marco Calderoni;0,2;Left-Back;Lr Vicenza Virtus;75327;-
+Davide Mazzocco;0,2;Central Midfield;Spal;240254;-
+Alessandro Semprini;0,2;Right-Back;Brescia Calcio;315843;-
+Marco Bleve;0,2;Goalkeeper;Us Lecce;215167;1
+Nicolo Brighenti;0,2;Centre-Back;Frosinone Calcio;109110;23
+Luca Bolletta;0,2;Goalkeeper;Ascoli Calcio;704468;12
+Eugenio Lamanna;0,2;Goalkeeper;Ac Monza;85240;1
+Francesco Lisi;0,2;Midfield;Ac Perugia Calcio;146937;44
+Alessandro De Vitis;0,2;Defensive Midfield;Ac Pisa 1909;62725;30
+Mirko Carretta;0,2;Right Winger;Ac Perugia Calcio;82648;7
+Roberto Pirrello;0,2;Centre-Back;Cosenza Calcio;250781;17
+Mattia Capoferri;0,2;Left-Back;Brescia Calcio;489468;-
+Andrea Seculin;0,2;Goalkeeper;Spal;85380;-
+Giuseppe Borello;0,2;Right Winger;Fc Crotone;373379;28
+Alessandro Minelli;0,2;Centre-Back;Cosenza Calcio;431470;-
+Edoardo Bovolon;0,2;Defensive Midfield;Como 1907;386829;98
+Lukas Spendlhofer;0,2;Centre-Back;Ascoli Calcio;126114;23
+Luca Coccolo;0,2;Centre-Back;Spal;344655;-
+Ismail H'Maidat;0,2;Central Midfield;Como 1907;257160;-
+Samuele Angori;0,2;Left-Back;Ac Perugia Calcio;705063;-
+Luca Ghiringhelli;0,2;Right-Back;Ternana Calcio;130352;23
+Christian Maggio;0,2;Right-Back;Lr Vicenza Virtus;21151;35
+Anastasios Avlonitis;0,2;Centre-Back;Ascoli Calcio;60164;24
+Andrea Fulignati;0,2;Goalkeeper;Ac Perugia Calcio;231381;1
+Gianmaria Zanandrea;0,2;Centre-Back;Ac Perugia Calcio;315874;32
+Michael Venturi;0,2;Centre-Back;Cosenza Calcio;441611;16
+Mirko Bruccini;0,175;Central Midfield;Us Alessandria Calcio 1912;42117;-
+Davis Mensah;0,175;Left Winger;Pordenone Calcio;307334;7
+Manuele Castorani;0,175;Central Midfield;Ascoli Calcio;391058;-
+Francesco Giorno;0,175;Central Midfield;Us Alessandria Calcio 1912;273131;-
+Laurens Serpe;0,175;Centre-Back;Fc Crotone;500164;2
+Jacopo Murano;0,175;Centre-Forward;Ac Perugia Calcio;164164;-
+Manuel Nicoletti;0,175;Left-Back;Fc Crotone;318058;21
+Mattia Vitale;0,175;Central Midfield;Frosinone Calcio;291432;-
+Lorenzo Peli;0,175;Right Winger;Como 1907;459149;55
+Jacopo Pellegrini;0,175;Centre-Forward;Pordenone Calcio;546627;11
+Federico Secli;0,15;Centre-Forward;Pordenone Calcio;592513;19
+Kalifa Manneh;0,15;Left Winger;Ac Perugia Calcio;485083;-
+Nicolo Manfredini;0,15;Goalkeeper;Benevento Calcio;139743;12
+Ciro Panico;0,15;Left-Back;Cosenza Calcio;474684;-
+Alessandro Quaini;0,15;Defensive Midfield;Ac Pisa 1909;345742;-
+Lorenzo Andreoli;0,15;Defensive Midfield;Brescia Calcio;536458;31
+Simone Icardi;0,15;Central Midfield;As Cittadella;355451;24
+Vincent Laurini;0,15;Right-Back;Parma Calcio 1913;94936;-
+Gabriele Bellodi;0,15;Centre-Back;Us Alessandria Calcio 1912;406912;31
+Adam Chrzanowski;0,15;Centre-Back;Pordenone Calcio;320898;-
+Mario Ierardi;0,15;Right-Back;Lr Vicenza Virtus;370704;-
+Armando Anastasio;0,15;Left-Back;Pordenone Calcio;286275;16
+Emanuele Padella;0,15;Centre-Back;Lr Vicenza Virtus;160854;14
+Steeve-Mike Eyango;0,15;Central Midfield;Cosenza Calcio;702372;-
+Alessandro Bassoli;0,15;Centre-Back;Pordenone Calcio;112457;26
+Lorenzo Crisanto;0,15;Goalkeeper;Us Alessandria Calcio 1912;340430;1
+Alexander Satariano;0,15;Centre-Forward;Frosinone Calcio;491026;-
+Angelo Talia;0,15;Defensive Midfield;Benevento Calcio;705288;38
+Federico Valietti;0,15;Right-Back;Pordenone Calcio;315871;24
+Leonardo Mazza;0,15;Defensive Midfield;Ternana Calcio;420515;88
+Cristian Andreoni;0,15;Right-Back;Pordenone Calcio;273126;99
+Dean Lico;0,15;Central Midfield;Ascoli Calcio;454292;-
+Alessandro Confente;0,15;Goalkeeper;Lr Vicenza Virtus;393797;98
+Giovanni D'Aprile;0,15;Centre-Back;Fc Crotone;818159;-
+Giacomo Manzari;0,15;Left Winger;Frosinone Calcio;459953;78
+Andrea De Paoli;0,15;Centre-Forward;Ascoli Calcio;391698;40
+Alexandru Borbei;0,15;Goalkeeper;Us Lecce;667640;-
+Sergio Kalaj;0,15;Centre-Back;Frosinone Calcio;457237;4
+Giuseppe Rossi;0,15;Centre-Forward;Spal;19104;49
+Luca Mora;0,15;Central Midfield;Spal;110338;19
+Massimo Zilli;0,15;Centre-Forward;Cosenza Calcio;539582;-
+Alessandro Circati;0,15;Centre-Back;Parma Calcio 1913;867137;-
+Nicolas Izzillo;0,15;Central Midfield;Ac Pisa 1909;239106;-
+Enrico Alfonso;0,15;Goalkeeper;Us Cremonese;34334;-
+Tommaso Fischer;0,125;Right-Back;Ac Pisa 1909;671302;23
+Umberto Saracco;0,125;Goalkeeper;Cosenza Calcio;199001;-
+Gian Marco Nesta;0,125;Midfield;Ternana Calcio;466380;-
+Christian Celesia;0,125;Centre-Back;Us Alessandria Calcio 1912;562287;-
+Luka Koblar;0,125;Centre-Back;Frosinone Calcio;340408;-
+Giovanni Bruzzaniti;0,125;Left Winger;Fc Crotone;420460;-
+Franco Zuculini;0,1;Central Midfield;Spal;73083;14
+Paolo Tornaghi;0,1;Goalkeeper;Fc Crotone;45583;70
+Emanuele Foti;0,1;Right-Back;Reggina 1914;816703;-
+Alberto Lucano;0,1;Goalkeeper;Fc Crotone;730792;-
+Luigi Sciammarella;0,1;Goalkeeper;Reggina 1914;887646;-
+Simone Pagni;0,1;Centre-Forward;Reggina 1914;736583;-
+Antonio Prisco;0,1;Defensive Midfield;Benevento Calcio;721731;-
+Emre Gural;0,1;Forward;Fc Crotone;60004;77
+Dario Sits;0,1;Centre-Forward;Parma Calcio 1913;806955;-
+Pietro Rovaglia;0,1;Centre-Forward;Ternana Calcio;421417;18
+Davide Di Quinzio;0,1;Central Midfield;Ac Pisa 1909;85502;28
+Nicholas Siega;0,1;Midfield;Ac Pisa 1909;97192;7
+Andrea Cisco;0,1;Left Winger;Ac Pisa 1909;426179;-
+Assane Seck;0,1;Right Winger;Ac Pisa 1909;856056;-
+Matteo Panattoni;0,1;Centre-Forward;Ac Pisa 1909;705370;-
+Davide De Marino;0,1;Centre-Back;Ac Pisa 1909;459535;33
+Dorian Ciezkowski;0,1;Goalkeeper;Us Cremonese;466367;22
+Vladan Dekic;0,1;Goalkeeper;Ac Pisa 1909;416587;25
+Matteo Kucich;0,1;Goalkeeper;Ac Pisa 1909;383778;12
+Elia Petrelli;0,1;Centre-Forward;Ascoli Calcio;477027;-
+Mario Paura;0,1;Centre-Back;Reggina 1914;820679;-
+Giacomo Bindi;0,1;Goalkeeper;Pordenone Calcio;45568;1
+Lorenzo Palmisani;0,1;Goalkeeper;Frosinone Calcio;705355;-
+Steven Nador;0,1;Centre-Back;Spal;707219;95
+Marcel Perri;0,1;Midfield;Reggina 1914;882827;-
+Artemijus Tutyskinas;0,1;Left-Back;Fc Crotone;647701;26
+Cosimo Spezzano;0,1;Centre-Back;Fc Crotone;746887;-
+Alessandro Malva;0,1;Centre-Forward;Benevento Calcio;721732;-
+Riccardo Rossi;0,1;Central Midfield;Benevento Calcio;736643;-
+Davide Gavazzi;0,1;Central Midfield;Pordenone Calcio;124909;79
+Alvin Obinna Okoro;0,1;Left Winger;Pordenone Calcio;816861;-
+Rares Burnete;0,1;Centre-Forward;Us Lecce;731525;-
+Andrea Zaccagno;0,1;Goalkeeper;Ac Perugia Calcio;291314;27
+Lorenzo Abati;0,1;Goalkeeper;Spal;738358;-
+Davide Masella;0,1;Midfield;Benevento Calcio;550443;-
+Davide Peschieri;0,1;Goalkeeper;Us Cremonese;821109;-
+Moustapha Yabre;0,1;Left-Back;Spal;616903;-
+Filippo Saiani;0,1;Left-Back;Spal;709539;-
+Samuele Righetti;0,1;Left-Back;Ac Perugia Calcio;475134;-
+Alessandro Morlupo;0,1;Goalkeeper;Ternana Calcio;918804;-
+Flavio Sulejmani;0,1;Centre-Forward;Ac Perugia Calcio;903191;-
+Alessio Maestrelli;0,1;Centre-Back;Frosinone Calcio;705387;-
+Tommaso Aglietti;0,1;Goalkeeper;Reggina 1914;459574;22
+Federico Agazzi;0,1;Goalkeeper;Us Cremonese;729536;-
+Luca Moro;0,1;Goalkeeper;Ac Perugia Calcio;738112;-
+Gabriele Capanni;0,1;Left Winger;Ternana Calcio;421446;70
+Federico Giacobbo;0,1;Right Winger;Lr Vicenza Virtus;818142;-
+Mattia Morello;0,1;Goalkeeper;Lr Vicenza Virtus;816753;-
+Enrico Guarna;0,1;Goalkeeper;Ascoli Calcio;22304;13
+Andrea Tabanelli;0,1;Central Midfield;Frosinone Calcio;134369;34
+Matteo Raffaelli;0,1;Goalkeeper;Ascoli Calcio;744622;22
+Nicola Pasini;0,1;Centre-Back;Lr Vicenza Virtus;63254;13
+Paolo Prandini;0,1;Goalkeeper;Brescia Calcio;704282;33
+Lorenzo Andrenacci;0,1;Goalkeeper;Brescia Calcio;234880;22
+Hamza Haoudi;0,1;Left Winger;Frosinone Calcio;572658;15
+Dario Toninelli;0,1;Right-Back;Como 1907;146614;-
+Alessandro Selvini;0,1;Left Winger;Frosinone Calcio;895596;-
+Simone Stampete;0,1;Centre-Forward;Frosinone Calcio;860708;-
+Baldovino Cimino;0,1;Right-Back;Cosenza Calcio;816006;-
+Luca Ascoli;0,1;Midfield;Us Alessandria Calcio 1912;934796;-
+Aljaz Tavcar;0,1;Centre-Back;Ascoli Calcio;744482;4
+Alberto Lattanzio;0,1;Right-Back;Lr Vicenza Virtus;816757;-
+Elia Di Giuliomaria;0,1;Striker;Como 1907;907636;-
+Tommaso Bresolin;0,1;Goalkeeper;Lr Vicenza Virtus;816752;-
+Luca Cocino;0,1;Centre-Back;Us Alessandria Calcio 1912;933656;-
+Luca Gozzo;0,1;Left Winger;Fc Crotone;823331;-
+Nicholas Allievi;0,1;Centre-Back;Como 1907;167725;-
+Davide Lanzafame;0,1;Centre-Forward;Lr Vicenza Virtus;61539;-
+Luca Rigoni;0,1;Central Midfield;Lr Vicenza Virtus;22210;-
+Giulio Andrea Vottari;0,1;Centre-Back;Benevento Calcio;866601;-
+Daniele Vantaggiato;0,1;Centre-Forward;Ternana Calcio;22155;-
+Catalin Vulturar;0,1;Defensive Midfield;Us Lecce;710079;-
+Enrico Maset;0,1;Centre-Back;Pordenone Calcio;816919;-
+Marco Zunno;0,1;Left Winger;Us Cremonese;479158;-
+Serigne Saliou Thioune;0,1;Midfield;As Cittadella;707421;-
+Clemente Tartaro;0,1;Goalkeeper;Benevento Calcio;818536;-
+Alessandro Arioli;0,1;Centre-Forward;Cosenza Calcio;703767;-
+Stefano Cester;0,1;Central Midfield;Lr Vicenza Virtus;537545;77
+Vincenzo Ciriello;0,1;Centre-Back;As Cittadella;601450;19
+Nikolas Smajlaj;0,1;Centre-Back;As Cittadella;134654;25
+Romano Perticone;0,1;Centre-Back;As Cittadella;44294;2
+Bright Gyamfi;0,1;Right-Back;Benevento Calcio;339982;2
+Alberto Dima;0,1;Goalkeeper;Us Lecce;862393;-
+Luciano Borrelli;0,1;Goalkeeper;Cosenza Calcio;816004;-
+Andrea Piga;0,1;Goalkeeper;Parma Calcio 1913;808933;-
+Gaetano Masucci;0,1;Centre-Forward;Ac Pisa 1909;82751;26
+Andrea Mazza;0,1;Goalkeeper;Ac Monza;815567;-
+Daniele Sommariva;0,1;Goalkeeper;Ac Monza;312773;12
+Filippo Alessio;0,1;Centre-Forward;Lr Vicenza Virtus;830243;-
+Siriky Sanogo;0,075;Central Midfield;Benevento Calcio;539612;-
+Nicolas Gerardi;0,075;Goalkeeper;Lr Vicenza Virtus;567458;1
+Danilo Ventola;0,075;Centre-Forward;Ascoli Calcio;401802;-
+Stefano Rubbi;0,075;Goalkeeper;Ac Monza;630812;22
+Angelo Corsi;0,075;Right-Back;Cosenza Calcio;102562;-
+Malik Djibril;0,075;Central Midfield;Lr Vicenza Virtus;669914;-
+Milan Kremenovic;0,075;Centre-Back;Frosinone Calcio;531188;43
+Jasper Samooja;0,075;Goalkeeper;Us Lecce;712911;-
+Bruno Umile;0,075;Left Winger;Benevento Calcio;571613;-
+Federico Bevilacqua;0,075;Centre-Back;Frosinone Calcio;539212;-
+Yassin Ejjaki;0,075;Central Midfield;Reggina 1914;367621;46
+Marco Meneghetti;0,075;Goalkeeper;Spal;524393;-
+Ottavio Garau;0,075;Right Winger;Reggina 1914;676641;-
+Mauro Ghiozzi;0,075;Right Winger;Us Alessandria Calcio 1912;923235;-
+Emin Hasic;0,075;Centre-Back;Us Lecce;615235;-
+Mattia Felici;0,075;Left Winger;Us Lecce;600041;-
+Raffaele Spina;0,075;Centre-Back;Ac Pisa 1909;502822;-
+Leon Baldi;0,075;Centre-Back;Ac Perugia Calcio;816958;-
+Gaspare Muraca;0,05;Goalkeeper;Benevento Calcio;818543;1
+Raffaele Maresca;0,05;Central Midfield;Cosenza Calcio;707042;-
+Ahmed Ankrah;0,05;Defensive Midfield;Parma Calcio 1913;669921;-
+Giulio Falsettini;0,05;Goalkeeper;Ac Pisa 1909;691533;-
+Francesco Cosenza;0,05;Centre-Back;Us Alessandria Calcio 1912;57794;-
+Andrea Mallamo;0,05;Defensive Midfield;Parma Calcio 1913;616634;-
+Alessandro Favero;0,05;Midfield;Lr Vicenza Virtus;818132;-
+Alberto Rossi;0,05;Goalkeeper;Parma Calcio 1913;624437;-
+German Denis;0,05;Centre-Forward;Reggina 1914;30873;19
+Nicholas Saggionetto;0,05;Central Midfield;As Cittadella;616746;-
+Matteo Spiller;0,05;Centre-Forward;Lr Vicenza Virtus;818140;-
+Filippo Manfrin;0,05;Goalkeeper;As Cittadella;707397;1
+Mihael Onisa;0,05;Central Midfield;Pordenone Calcio;418225;15
+Khadim Diop;0,05;Centre-Forward;Reggina 1914;932860;-
+Abdallah Basit;0,05;Central Midfield;Benevento Calcio;457773;-
+Lorenzo Pellegrini;0,05;Midfield;Us Alessandria Calcio 1912;889687;-
+Zak Ruggiero;0,05;Central Midfield;Fc Crotone;433447;-
+Lewis Walker;0,05;Centre-Forward;Como 1907;430801;-
+Gabriele Carlucci;0,05;Central Midfield;Reggina 1914;628557;-
+Mattia Ongaro;0,05;Central Midfield;Lr Vicenza Virtus;818136;-
+Luca Zanotti;0,05;Goalkeeper;Como 1907;202834;22
+Andrea Rigon;0,05;Goalkeeper;Spal;704626;-
+Salvatore D'Elia;0,05;Left-Back;Frosinone Calcio;62365;32
+Mirco Musumeci;0,05;Left-Back;Reggina 1914;703794;-
+Pierre Bolchini;0,05;Goalkeeper;Como 1907;431417;12
+Riccardo Moreo;0,05;Centre-Forward;Cosenza Calcio;305409;-
+Gabor Megyeri;0,05;Goalkeeper;Ac Perugia Calcio;616947;31
+Alberto Pomini;0,05;Goalkeeper;Spal;82743;1
+Andrea Filipi;0,05;Centre-Forward;Us Alessandria Calcio 1912;933691;-
+Matteo Ortolani;0,05;Centre-Forward;Ternana Calcio;534043;63
+Paolo Ficara;0,05;Centre-Back;Cosenza Calcio;616908;-
+Damiano Franco;0,05;Centre-Back;Reggina 1914;421778;77
+Andrea Franzolini;0,05;Central Midfield;Ascoli Calcio;704470;36
+Giuseppe Marciano;0,05;Goalkeeper;Frosinone Calcio;460034;22
+Federico Paoloni;0,05;Centre-Back;Lr Vicenza Virtus;701029;-
+Angelo Casadei;0,05;Goalkeeper;Ternana Calcio;102626;33
+Michele Russo;0,05;Centre-Back;Ternana Calcio;240812;-
+Tommaso Vitali;0,05;Goalkeeper;Ternana Calcio;393150;12
+Mattia D'Agostino;0,05;Right Winger;Ascoli Calcio;457453;-
+Gaetano Fasolino;0,025;Goalkeeper;Pordenone Calcio;418037;12
+Alessandro Curci;0,025;Left-Back;Ac Pisa 1909;690453;-
+Tommaso Di Fusco;0,025;Goalkeeper;Cosenza Calcio;742206;-
+Ricardo Faty;0,025;Defensive Midfield;Reggina 1914;33953;91
+Matteo Gerace;0,025;Central Midfield;Us Alessandria Calcio 1912;624874;-
+Mattia Speranza;0,025;Defensive Midfield;Us Alessandria Calcio 1912;918810;-
+Filippo Giacomazzo;0,025;Striker;As Cittadella;653344;-
+Mirko Stefani;0,025;Centre-Back;Pordenone Calcio;16905;4
+Thomas Prestianni;0,025;Central Midfield;Cosenza Calcio;673142;-
+Francesco Intinacelli;0,025;Left Winger;Ascoli Calcio;536949;-
+Gabriele Onesti;0,025;Left Winger;Ternana Calcio;685273;-
+Salvatore La Vardera;0,025;Left-Back;Cosenza Calcio;673126;-
+Daniel Frey;0,025;Right-Back;Us Cremonese;623441;27
+Alessandro Maesano;0,025;Centre-Forward;Fc Crotone;672791;-
+Giovanni Aceto;0,025;Centre-Back;Cosenza Calcio;621258;-
+Domenico Pasqua;0,025;Goalkeeper;Fc Crotone;705238;-
+Paolo Chierichetti;0,025;Centre-Back;Como 1907;704338;-
+Ndir Mame Ass;0,025;Centre-Back;Ternana Calcio;617650;4
+Giuseppe Barone;0,025;Left Winger;Ascoli Calcio;718128;-
+Modibo Diakite;0,025;Centre-Back;Ternana Calcio;41749;13
+Gianluca Ravarelli;0,01;Goalkeeper;Ac Monza;816744;-
