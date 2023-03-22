@@ -24,7 +24,7 @@ scaler = MinMaxScaler()
 np.random.seed(4)
 
 image = Image.open(os.getcwd()+"/Documentacion/logomin.png")
-image_comp = Image.open(os.getcwd()+"/Documentacion/logo_comp.png")
+#image_comp = Image.open(os.getcwd()+"/Documentacion/logo_comp.png")
 sns.set(style="whitegrid")
 
 ruta_datos = os.path.join(os.getcwd(),"Datos")
@@ -102,7 +102,7 @@ for c in columnas_e_pl:
 st.set_page_config(layout="wide")
 cola, colb, colc = st.columns([0.25,0.25,1.5]) 
 cola.image(image)
-colb.image(image_comp)
+#colb.image(image_comp)
 
 st.title('Perfilación de Futbolistas en base a Métricas Avanzadas y Modelo de Juego')
 st.write("""
