@@ -104,7 +104,7 @@ cola, colb, colc = st.columns([0.25,0.25,1.5])
 cola.image(image)
 #colb.image(image_comp)
 
-st.title('Perfilación de Futbolistas en base a Métricas Avanzadas y Modelo de Juego')
+st.title('Perfilación de Futbolistas mediante Clusterización, Métricas Avanzadas y Análisis de Modelos de Juego')
 st.write("""
         Esta aplicación ilustra un modelo que busca segmentar las
 características de los jugadores de las competiciones más importantes del fútbol
