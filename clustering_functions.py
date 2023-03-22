@@ -24,6 +24,7 @@ warnings.filterwarnings('ignore')
 from sklearn.feature_selection import VarianceThreshold
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics.pairwise import euclidean_distances
+from rapidfuzz.distance import Levenshtein
 from scipy.spatial import distance
 
 def elbow_method(X, max_range_for_elbow):
