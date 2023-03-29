@@ -430,6 +430,10 @@ select_clu1= col12.selectbox(
         "Mostrar Equipos de Cluster Táctico:",
         tuple([i for i in range(1,5)]))               
 col12.dataframe(gl[gl['disposicion_tactica_cluster']==select_clu1][['last_coach','league-instat','Puntos esperados']])
+col12.metric("Media de Puntos Esperados para el Cluster Seleccionado",
+             "{:.2f}".format(gl[gl['disposicion_tactica_cluster']==select_clu1]['Puntos esperados'].mean()),
+             "{:.2f}".format(gl[gl['disposicion_tactica_cluster']==select_clu1]['Puntos esperados'].mean() - gl['Puntos esperados'].mean()))
+
 
 col12.write('***')
 col12.markdown("""
@@ -447,6 +451,10 @@ select_clu2= col12.selectbox(
         "Mostrar Equipos de Cluster Defensivo:",
         tuple([i for i in range(1,5)]))               
 col12.dataframe(gl[gl['defensa_cluster']==select_clu2][['last_coach','league-instat','Puntos esperados']])
+col12.metric("Media de Puntos Esperados para el Cluster Seleccionado",
+             "{:.2f}".format(gl[gl['defensa_cluster']==select_clu2]['Puntos esperados'].mean()),
+             "{:.2f}".format(gl[gl['defensa_cluster']==select_clu2]['Puntos esperados'].mean() - gl['Puntos esperados'].mean()))
+
 col12.write('***')
 col12.markdown("""
 **Buildup**
@@ -463,6 +471,9 @@ select_clu3= col12.selectbox(
         "Mostrar Equipos de Cluster de Buildup:",
         tuple([i for i in range(1,5)]))              
 col12.dataframe(gl[gl['buildup_cluster']==select_clu3][['last_coach','league-instat','Puntos esperados']])
+col12.metric("Media de Puntos Esperados para el Cluster Seleccionado",
+             "{:.2f}".format(gl[gl['buildup_cluster']==select_clu3]['Puntos esperados'].mean()),
+             "{:.2f}".format(gl[gl['buildup_cluster']==select_clu3]['Puntos esperados'].mean() - gl['Puntos esperados'].mean()))
 
 col12.write('***')
 col12.markdown("""
@@ -481,7 +492,9 @@ select_clu4= col12.selectbox(
         "Mostrar Equipos de Cluster de Creación de Oportunidades:",
         tuple([i for i in range(1,5)]))              
 col12.dataframe(gl[gl['creacion_oportunidades_cluster']==select_clu4][['last_coach','league-instat','Puntos esperados']])
-
+col12.metric("Media de Puntos Esperados para el Cluster Seleccionado",
+             "{:.2f}".format(gl[gl['buildup_cluster']==select_clu4]['Puntos esperados'].mean()),
+             "{:.2f}".format(gl[gl['buildup_cluster']==select_clu4]['Puntos esperados'].mean() - gl['Puntos esperados'].mean()))
 
 pose = players_df[players_df['Posición']==option].PosE.values[0]
 pose = pose.replace('/','-')
