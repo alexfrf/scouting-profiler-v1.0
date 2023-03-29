@@ -414,6 +414,7 @@ for i in gl.columns:
 st.write('***')
 col12,col13 = st.columns([1,1]) 
 col12.markdown("""#### Clusters de Modelos de Juego de Equipos Explicados, por categorías""")
+
 col12.markdown("""
 **Disposición Táctica**
 - **C1**: Cuatro defensas, doble pivote, un delantero - 4-2-3-1
@@ -421,6 +422,9 @@ col12.markdown("""
 - **C3**: Tres centrales, no juegan con un delantero - 3-4-3, 3-5-2
 - **C4**: Cuatro defensas, tres delanteros - 4-3-3
                """)
+
+col12.markdown("""*{} se encuentra en el Cluster {}*""".format(select_team,
+                                                               squad_df[squad_df['Equipo']==select_team]['disposicion_tactica_cluster'].values[0]))
 
 select_clu1= col12.selectbox(
         "Mostrar Equipos de Cluster Táctico:",
@@ -436,6 +440,9 @@ col12.markdown("""
 - **C4**: Más tendencia a presionar, defensa alta y agresividad en campo contrario.
 """)
 
+col12.markdown("""*{} se encuentra en el Cluster {}*""".format(select_team,
+                                                               squad_df[squad_df['Equipo']==select_team]['defensa_cluster'].values[0]))
+
 select_clu2= col12.selectbox(
         "Mostrar Equipos de Cluster Defensivo:",
         tuple([i for i in range(1,5)]))               
@@ -448,6 +455,9 @@ col12.markdown("""
 - **C3**: Salida de balón más elaborada, ritmo bajo en construcción y posesiones largas, poco recurso al contragolpe.
 - **C4**: Transiciones cortas en campo contrario, salida de balón relativamente elaborada, alto volumen de juego en tercio final, ritmo muy elevado y verticalidad.
 """)
+
+col12.markdown("""*{} se encuentra en el Cluster {}*""".format(select_team,
+                                                               squad_df[squad_df['Equipo']==select_team]['buildup_cluster'].values[0]))
 
 select_clu3= col12.selectbox(
         "Mostrar Equipos de Cluster de Buildup:",
@@ -462,6 +472,10 @@ col12.markdown("""
 - **C3**: Alto índice de transformación (tiro u ocasión) al llegar al área rival, calidad individual para encontrar una buena oportunidad, mayor asociación entre jugadores de ataque.
 - **C4**: Buen ratio de transformación por cada ataque, menor asociación entre atacantes para encontrar la oportunidad.
 """)
+
+col12.markdown("""*{} se encuentra en el Cluster {}*""".format(select_team,
+                                                               squad_df[squad_df['Equipo']==select_team]['creacion_oportunidades_cluster'].values[0]))
+
 
 select_clu4= col12.selectbox(
         "Mostrar Equipos de Cluster de Creación de Oportunidades:",
