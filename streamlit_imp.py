@@ -190,12 +190,11 @@ def player_similarities(p, data):
     pl = pl.reset_index()
     pl = pl.drop('index',axis=1)
 
-
     reduced=data_pos
 
     reduced = pd.merge(reduced,pl[['ID','Posición','Edad','Equipo','league-instat','Nacionalidad']],how='left',left_index=True,right_index=True)
     y = reduced[reduced['ID']==idx]
-    y.drop(['ID','Nombre','Posición','Edad','Equipo','league-instat','Nacionalidad'],inplace=True,axis=1)
+    y.drop(['ID','Nombre','Posición','Edad','Equipo','league-instat','Nacionalidad','cluster'],inplace=True,axis=1)
     pl = list(reduced.Nombre)
     pos = list(reduced['Posición'])
     eda = list(reduced.Edad)
@@ -203,13 +202,14 @@ def player_similarities(p, data):
     le = list(reduced['league-instat'])
     nac = list(reduced.Nacionalidad)
     idx = list(reduced.ID)
-    reduced.drop(['ID','Nombre','Posición','Edad','Equipo','league-instat','Nacionalidad'],inplace=True,axis=1)
+    cl = list(reduced.cluster)
+    reduced.drop(['ID','Nombre','Posición','Edad','Equipo','league-instat','Nacionalidad','cluster'],inplace=True,axis=1)
     euc = []
     for i in reduced.values:
         euc.append(euclidean_distances(np.array(y),[i])[0][0])
-    simil = pd.DataFrame(euc,index=[idx,pos,eda,eq,le,nac],columns=['Similarity_Score'])
+    simil = pd.DataFrame(euc,index=[idx,pos,eda,eq,le,nac,cl],columns=['Similarity_Score'])
     simil = simil.reset_index()
-    simil.columns = ['ID','Posición','Edad','Equipo','league-instat','Nacionalidad','Similarity_Score']
+    simil.columns = ['ID','Posición','Edad','Equipo','league-instat','Nacionalidad','cluster','Similarity_Score']
     #simil = simil[simil.Nombre.str.title()!=player_name.title()]
     if name2[0] == 'L':
         simil = simil[simil['Posición']==name2]
@@ -280,8 +280,8 @@ def team_mapping(team,position, data_team, data_player, cats):
     y = reduced.tail(1)
     #y.drop('cluster',axis=1,inplace=True)
     reduced = reduced.head(data_pos.shape[0])
-    #data_pos = pd.merge(data_pos,players,how='left',on='Nombre')
-    reduced = pd.merge(reduced,data_pos[['Nombre','ID','Posición','teamid','Índice InStat','Values','Edad','Pierna','Equipo','Nacionalidad']],how='left',left_index=True,right_index=True)
+    data_pos = pd.merge(data_pos,players[['cluster','Nombre']],how='left',on='Nombre')
+    reduced = pd.merge(reduced,data_pos[['Nombre','ID','Posición','teamid','Índice InStat','Values','Edad','Pierna','Equipo','Nacionalidad','cluster']],how='left',left_index=True,right_index=True)
     #reduced['idx'] = reduced['idx'].fillna('{}-{}'.format(team,position))
     #reduced['Player'] = reduced['Player'].fillna('{}-{}'.format(team,position))
     if position[0]=='E':
@@ -295,18 +295,19 @@ def team_mapping(team,position, data_team, data_player, cats):
     vl=list(reduced.Values)
     ag=list(reduced.Edad)
     ft=list(reduced.Pierna)
+    cl = list(reduced.cluster)
     eq = list(reduced.Equipo)
     nc = list(reduced.Nacionalidad)
-    reduced.drop(['Nombre','ID','Posición','teamid','Índice InStat','Values','Edad','Pierna','Equipo','Nacionalidad'],inplace=True,axis=1)
+    reduced.drop(['Nombre','ID','Posición','teamid','Índice InStat','Values','Edad','Pierna','Equipo','Nacionalidad','cluster'],inplace=True,axis=1)
     euc = []
     for i in reduced.values:
         euc.append(euclidean_distances(np.array(y),[i])[0][0])
-    simil = pd.DataFrame(euc,index=[pl,idx,sq,ag,ft,vl,pw,eq,nc],columns=['Team_Similarity_Index'])
+    simil = pd.DataFrame(euc,index=[pl,idx,sq,ag,ft,vl,pw,eq,nc,cl],columns=['Team_Similarity_Index'])
     
     simil = simil.sort_values(by='Team_Similarity_Index',ascending=True)
 
     simil = simil.reset_index()
-    simil.columns = ['Nombre','ID','teamid','Edad','Pierna','Values','Índice InStat','Equipo','Nacionalidad','Team_Similarity_Index']
+    simil.columns = ['Nombre','ID','teamid','Edad','Pierna','Values','Índice InStat','Equipo','Nacionalidad','cluster','Team_Similarity_Index']
     simil['Team_Similarity_Index'] = round(simil['Team_Similarity_Index'],3)
 
     #simil = simil[simil['Team_Similarity_Index']!=0]
@@ -334,11 +335,12 @@ select_team_l = st.sidebar.multiselect('Equipo',teams,teams)
 df = df[(df.Equipo.isin(select_team_l))]
 df = df[(df.Edad<=selected_age) & (df.Values<=selected_value) & (df['Índice InStat']>=selected_instat) & (df.Pierna.isin(select_pierna))]
 
-cols = ['Nombre','Equipo','Nacionalidad','Edad','Values','Team_Similarity_Index','Índice InStat']
+cols = ['Nombre','Equipo','Nacionalidad','Edad','Values','Team_Similarity_Index','Índice InStat','cluster']
 df = df[cols]
 df.rename({'Índice InStat':'IDX',
            'Values':'Valor',
-           'Team_Similarity_Index':'Similarity'},
+           'Team_Similarity_Index':'Similarity',
+           'cluster':'Cluster_Jugador'},
           inplace=True,axis=1)
 df = df.set_index('Nombre')
 df = df.head(select_unt)
