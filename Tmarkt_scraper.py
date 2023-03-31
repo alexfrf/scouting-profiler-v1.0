@@ -39,40 +39,14 @@ def download_tmarkt_files():
 headers = {'User-Agent': 
            'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
 
-leagues_url = ["https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id={}",
-               "https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id={}",
-               "https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id={}",
-               "https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id={}",
-               "https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id={}",
-"https://www.transfermarkt.com/premier-liga/startseite/wettbewerb/RU1/plus/?saison_id={}",
-"https://www.transfermarkt.com/jupiler-pro-league/startseite/wettbewerb/BE1/plus/?saison_id={}",
-"https://www.transfermarkt.com/championship/startseite/wettbewerb/GB2/plus/?saison_id={}",
-"https://www.transfermarkt.com/ligue-2/startseite/wettbewerb/FR2/plus/?saison_id={}",
-"https://www.transfermarkt.com/liga-portugal/startseite/wettbewerb/PO1/plus/?saison_id={}",
-"https://www.transfermarkt.com/pko-ekstraklasa/startseite/wettbewerb/PL1/plus/?saison_id={}",
-"https://www.transfermarkt.com/super-liga-srbije/startseite/wettbewerb/SER1/plus/?saison_id={}",
-"https://www.transfermarkt.com/prva-liga/startseite/wettbewerb/SL1/plus/?saison_id={}",
-"https://www.transfermarkt.com/laliga2/startseite/wettbewerb/ES2/plus/?saison_id={}",
-"https://www.transfermarkt.com/super-lig/startseite/wettbewerb/TR1/plus/?saison_id={}",
-"https://www.transfermarkt.com/professional-football-league/startseite/wettbewerb/AR1N/plus/?saison_id={}",
-"https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/A1/plus/?saison_id={}",
-"https://www.transfermarkt.com/campeonato-brasileiro-serie-a/startseite/wettbewerb/BRA1/plus/?saison_id={}",
-"https://www.transfermarkt.com/supersport-hnl/startseite/wettbewerb/KR1/plus/?saison_id={}",
-"https://www.transfermarkt.com/2-bundesliga/startseite/wettbewerb/L2/plus/?saison_id={}",
-"https://www.transfermarkt.com/super-league-1/startseite/wettbewerb/GR1/plus/?saison_id={}",
-"https://www.transfermarkt.com/nemzeti-bajnoksag/startseite/wettbewerb/UNG1/plus/?saison_id={}",
-"https://www.transfermarkt.com/serie-b/startseite/wettbewerb/IT2/plus/?saison_id={}",
-"https://www.transfermarkt.com/eliteserien/startseite/wettbewerb/NO1/plus/?saison_id={}",
-"https://www.transfermarkt.com/superliga/startseite/wettbewerb/RO1/plus/?saison_id={}",
-"https://www.transfermarkt.com/scottish-premiership/startseite/wettbewerb/SC1/plus/?saison_id={}",
-"https://www.transfermarkt.com/allsvenskan/startseite/wettbewerb/SE1/plus/?saison_id={}",
-"https://www.transfermarkt.com/super-league/startseite/wettbewerb/C1/plus/?saison_id={}",
-"https://www.transfermarkt.com/fortuna-liga/startseite/wettbewerb/TS1/plus/?saison_id={}",
-"https://www.transfermarkt.com/efbet-liga/startseite/wettbewerb/BU1/plus/?saison_id={}"
+leagues_url = [
+"https://www.transfermarkt.es/primera-federacion-grupo-ii/startseite/wettbewerb/E3G2/plus/?saison_id={}",
+"https://www.transfermarkt.es/primera-federacion-grupo-i/startseite/wettbewerb/E3G1/plus/?saison_id={}"
  ]
 
 
 temporada = '2021-2022'
+transfermarkt_scrap(temporada)
 def transfermarkt_scrap(season):
     
     if type(season)==str:

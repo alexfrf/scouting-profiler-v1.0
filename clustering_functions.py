@@ -310,22 +310,23 @@ def squad_clustering(categories):
     squad_clustering['cluster_clas'] = squad_clustering['disposicion_tactica_cluster'].astype(str).str.replace('.0','') + squad_clustering['defensa_cluster'].astype(str).str.replace('.0','') + squad_clustering['buildup_cluster'].astype(str).str.replace('.0','') + squad_clustering['creacion_oportunidades_cluster'].astype(str).str.replace('.0','')
     squad_clustering.rename({'Squad':'Equipo'},inplace=True,axis=1)
     squad_merged = pd.merge(squad,squad_clustering,how='left',on='Equipo')
+    squad_merged.to_csv(ruta_datos+'/Modeled/equipos.csv',sep=';',decimal=',',index=False)
     return squad_merged,fs
 
-
-#df,features = squad_clustering(list(cat_dict.keys()))
 """
-for i in squad.columns:
+df,features = squad_clustering(list(cat_dict.keys()))
+
+for i in df.columns:
     if '_cluster' in i:
         df[i] = df[i].astype(str)
-"""
 
+"""
 def get_squad_features(feat_team):
 
-    for f in features:
+    for f in feat_team:
         clu = list(f.columns)[0]
         print('-----CATEGORY: {}-----'.format(clu))
-        perf = squad.groupby(by=clu+'_cluster')['Puntos esperados'].mean()
+        perf = df.groupby(by=clu+'_cluster')['Puntos esperados'].mean()
         perf =round(perf,3)
         means = list(perf.values)
         f = f[:5]
@@ -340,7 +341,7 @@ def get_squad_features(feat_team):
             sns.boxplot(x = "{}_cluster".format(clu),
                         y = col,
                         orient = "v",
-                        data = squad,
+                        data = df,
                         ax = ax,
                         palette='muted')
             
@@ -354,6 +355,7 @@ def get_squad_features(feat_team):
             plt.savefig(os.path.join(os.getcwd(),'Model','Teams')+"/{}_cluster_metric{}.png".format(clu,str(n)),dpi=100)
             plt.show();
 
+#get_squad_features(features)
 
 def player_clustering(position):
     #np.random.seed(0)
@@ -410,12 +412,15 @@ def player_clustering(position):
         # We intend to have, as min, four clusters
         plt.figure(figsize=(10,5))
         view = elbow_method(reduced,10)
+
         if view.elbow_value_>=5:
             n = 4
         elif view.elbow_value_<3:
             n=3
         else:
             n = view.elbow_value_
+        
+            
         #view.show()
         k = KMeans(n_clusters = n,random_state=0)
         pcas[position] = pca_app
@@ -525,11 +530,11 @@ def player_clustering(position):
         
 
     return frames, fs, ks, pcas
-
-#df,features,ks,pcas = player_clustering(list(players.PosE.unique()))
+"""
+df,features,ks,pcas = player_clustering(list(players.PosE.unique()))
 
 #players2 = players[players['Min']>=min_minutes]
-"""
+
 for i in df:
     k = df[i]
     i = i.replace('/','-')
@@ -544,8 +549,8 @@ for i in features:
     k.to_csv(ruta_datos+'/Modeled/{}_features.csv'.format(i),
              decimal=',',sep=';',index=False)
     
-"""
 
+"""
 def get_player_features(feat):
     for f in feat.keys():
         clu = f
@@ -582,7 +587,7 @@ def get_player_features(feat):
             plt.savefig(os.path.join(os.getcwd(),'Model','Players')+"/{}_cluster_metric{}.png".format(clu.replace('/','-').replace('.',''),str(n)),dpi=100)
             plt.show();
 
-
+#get_player_features(features)
 
 def player_similarities(p):
     print('Looking for similar profiles to {}'.format(p.upper()))

@@ -516,8 +516,8 @@ dict_explicacion = {'Centre-Back':"""
                                   """,
            'Midfielder':"""
                            - **C1**: Pivote, alto volumen de tareas defensivas, poca participación en tercio final, alta tasa de disputas.
-                           - **C2**: Perfil mixto, jugador de base de la jugada o llegador.
-                           - **C3**: Perfil más ofensivo, menos acciones defensivas, mayor participación en creación de oportunidades, caída a banda.
+                           - **C2**: Perfil más ofensivo, menos acciones defensivas, mayor participación en creación de oportunidades, caída a banda.
+                           - **C3**: Perfil mixto, jugador de base de la jugada o llegador.
                            """,
            'Att. Midfield-Winger':"""
                            - **C1**: Jugadores autosuficientes, siempre por el centro o en banda a pierna cambiada. Alta incidencia en area (valores altos de último pase y oportunidades propias disfrutadas).
