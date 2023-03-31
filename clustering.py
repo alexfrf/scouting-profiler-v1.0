@@ -157,7 +157,7 @@ for i in df.columns:
         df[i] = df[i].astype(str)
 
 
-cf.get_squad_features(features)
+cf.get_squad_features(features,df)
 
 
 df,features,ks,pcas = cf.player_clustering(list(players.PosE.unique()))
@@ -181,5 +181,5 @@ for i in features:
 
 
 
-cf.get_player_features(features)
+cf.get_player_features(features,df)
         

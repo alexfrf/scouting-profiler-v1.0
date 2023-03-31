@@ -321,12 +321,12 @@ for i in df.columns:
         df[i] = df[i].astype(str)
 
 """
-def get_squad_features(feat_team):
+def get_squad_features(feat_team,data):
 
     for f in feat_team:
         clu = list(f.columns)[0]
         print('-----CATEGORY: {}-----'.format(clu))
-        perf = df.groupby(by=clu+'_cluster')['Puntos esperados'].mean()
+        perf = data.groupby(by=clu+'_cluster')['Puntos esperados'].mean()
         perf =round(perf,3)
         means = list(perf.values)
         f = f[:5]
@@ -341,7 +341,7 @@ def get_squad_features(feat_team):
             sns.boxplot(x = "{}_cluster".format(clu),
                         y = col,
                         orient = "v",
-                        data = df,
+                        data = data,
                         ax = ax,
                         palette='muted')
             
@@ -551,17 +551,17 @@ for i in features:
     
 
 """
-def get_player_features(feat):
+def get_player_features(feat,data):
     for f in feat.keys():
         clu = f
         print('-----POSITION: {}-----'.format(clu))
     
-        d = df[clu]
-        pl = players.set_index('Nombre')
-        ls=list(features[clu].index)
+        d = data[clu]
+        #pl = players.set_index('Nombre')
+        ls=list(feat[clu].index)
         ls.append('Nombre')
         d = pd.merge(d,players[ls],how='left',on='Nombre')
-        f = features[clu][:8]
+        f = feat[clu][:8]
         n=0
         for k in f.index:
             n+=1
