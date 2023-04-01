@@ -48,9 +48,14 @@ def position_mapping(df):
     df['Posición'] = np.where((df['POS']=='Right Midfield') & (df['Posición']=='D') ,'Right Winger',df['Posición'])
     df['Posición'] = np.where((df['POS']=='Left Midfield') & (df['Posición']=='D') ,'Left Winger',df['Posición'])
     df['Posición'] = np.where((df['Posición']=='MC') & ((df.POS.str.contains('Winger')) | (df.POS.str.contains('Forward')) | (df.POS.str.contains('Striker')) | df.POS.str.contains('Attacking')) ,'MCO',df['Posición'])
+    df['Posición'] = np.where((df['Posición']=='D') & (df.POS=='Right Winger') ,'ED',df['Posición'])
+    df['Posición'] = np.where((df['Posición']=='D') & (df.POS=='Left Winger') ,'EI',df['Posición'])
+    df['Posición'] = np.where((df['Posición']=='D') & (~df.POS.str.contains('Forward')) & (~df.POS.str.contains('Striker')) ,'MCO',df['Posición'])
     df['PosE'] = ''
     df['PosE'] = np.where(df['Posición']=='DC','Centre-Back',df.PosE)
     df['PosE'] = np.where((df['Posición']=='D'),'Forward',df.PosE)
+    
+    
     df['PosE'] = np.where((df['Posición']=='LD')|(df['Posición']=='LI'),'Full-Back',df.PosE)
     df['PosE'] = np.where((df['Posición']=='MCD')|(df['Posición']=='MC'),'Midfielder',df.PosE)
     df['PosE'] = np.where((df['Posición']=='MCO') | (df['Posición'].str.startswith('E')),'Att. Midfield/Winger',df.PosE)

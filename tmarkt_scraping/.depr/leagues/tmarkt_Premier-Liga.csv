@@ -1,0 +1,571 @@
+Players;Values;POS;Team;ID;Num
+Sardar Azmoun;22,0;Centre-Forward;Zenit St Petersburg;180337;-
+Nikola Vlasic;22,0;Midfield;Zska Moskau;293200;-
+Malcom;22,0;Right Winger;Zenit St Petersburg;323704;10
+Wilmar Barrios;20,0;Defensive Midfield;Zenit St Petersburg;257668;5
+Wendel;19,0;Central Midfield;Zenit St Petersburg;499721;8
+Claudinho;18,0;Midfield;Zenit St Petersburg;403315;11
+Yusuf Yazici;17,0;Midfield;Zska Moskau;386726;97
+Yuri Alberto;16,0;Centre-Forward;Zenit St Petersburg;489893;9
+Douglas Santos;16,0;Left-Back;Zenit St Petersburg;220793;3
+Matvey Safonov;16,0;Goalkeeper;Fk Krasnodar;318470;39
+Arsen Zakharyan;15,0;Midfield;Dinamo Moskau;555143;47
+Khvicha Kvaratskhelia;15,0;Left Winger;Rubin Kazan;502670;-
+Jhon Cordoba;15,0;Forward;Fk Krasnodar;185245;9
+Sebastian Szymanski;14,0;Midfield;Dinamo Moskau;320748;53
+Dmitri Barinov;11,0;Defensive Midfield;Lokomotiv Moskau;263905;6
+Samuel Gigot;10,0;Centre-Back;Spartak Moskau;276896;2
+Mathias Normann;10,0;Defensive Midfield;Fk Rostov;257805;-
+Nikola Moro;9,0;Defensive Midfield;Dinamo Moskau;316934;8
+Daniil Fomin;9,0;Defensive Midfield;Dinamo Moskau;400713;74
+Jean-Philippe Gbamin;9,0;Defensive Midfield;Zska Moskau;182894;27
+Quincy Promes;9,0;Left Winger;Spartak Moskau;182381;10
+Daler Kuzyaev;9,0;Central Midfield;Zenit St Petersburg;279570;14
+Grzegorz Krychowiak;8,0;Defensive Midfield;Fk Krasnodar;45184;-
+Mario Fernandes;8,0;Right-Back;Zska Moskau;102740;2
+Anders Dreyer;8,0;Right Winger;Rubin Kazan;342389;-
+Aleksandr Sobolev;8,0;Centre-Forward;Spartak Moskau;464259;7
+Georgiy Dzhikiya;8,0;Centre-Back;Spartak Moskau;185024;14
+Jordan Larsson;8,0;Right Winger;Spartak Moskau;308552;-
+Rifat Zhemaletdinov;7,5;Midfield;Lokomotiv Moskau;267383;17
+Chidera Ejuke;7,5;Left Winger;Zska Moskau;500067;11
+Shamar Nicholson;7,5;Centre-Forward;Spartak Moskau;354666;19
+Pablo;7,0;Centre-Back;Lokomotiv Moskau;149577;-
+Konstantin Tyukavin;7,0;Centre-Forward;Dinamo Moskau;532676;70
+Viktor Claesson;7,0;Left Winger;Fk Krasnodar;116598;-
+Jorge Carrascal;7,0;Midfield;Zska Moskau;354145;8
+Oliver Abildgaard;7,0;Defensive Midfield;Rubin Kazan;325993;28
+Alex Kral;7,0;Midfield;Spartak Moskau;337333;-
+Sebastian Driussi;7,0;Striker;Zenit St Petersburg;294853;-
+Remy Cabella;6,5;Midfield;Fk Krasnodar;113707;-
+Artem Dzyuba;6,0;Centre-Forward;Zenit St Petersburg;48067;22
+Eduard Spertsyan;6,0;Midfield;Fk Krasnodar;515744;74
+Yaroslav Rakitskyi;6,0;Centre-Back;Zenit St Petersburg;89222;-
+Igor Diveev;6,0;Centre-Back;Zska Moskau;532732;78
+Gamid Agalarov;6,0;Centre-Forward;Fk Ufa;567023;9
+Wilson Isidor;6,0;Centre-Forward;Lokomotiv Moskau;494237;10
+Roman Zobnin;6,0;Central Midfield;Spartak Moskau;166277;47
+Fabian Balbuena;6,0;Centre-Back;Dinamo Moskau;285548;5
+Fedor Chalov;6,0;Centre-Forward;Zska Moskau;287183;-
+Fedor Smolov;6,0;Centre-Forward;Dinamo Moskau;50355;40
+Denis Makarov;6,0;Midfield;Rubin Kazan;599203;-
+Vyacheslav Karavaev;6,0;Right-Back;Zenit St Petersburg;170620;15
+Filip Uremovic;6,0;Centre-Back;Rubin Kazan;325887;-
+Sead Haksabanovic;5,5;Left Winger;Rubin Kazan;349300;-
+Gyrano Kerk;5,5;Right Winger;Lokomotiv Moskau;268112;7
+Francois Kamano;5,0;Left Winger;Lokomotiv Moskau;333802;25
+Christopher Martins Pereira;5,0;Defensive Midfield;Spartak Moskau;248054;17
+Tonny Vilhena;5,0;Central Midfield;Fk Krasnodar;182581;-
+Anton Miranchuk;5,0;Midfield;Lokomotiv Moskau;255451;11
+Danil Glebov;5,0;Defensive Midfield;Fk Rostov;570423;15
+Ivan Oblyakov;5,0;Central Midfield;Zska Moskau;419845;10
+Ezequiel Ponce;5,0;Centre-Forward;Spartak Moskau;296783;-
+Jan Kuchta;5,0;Centre-Forward;Lokomotiv Moskau;334802;9
+Zelimkhan Bakaev;5,0;Right Winger;Spartak Moskau;279242;10
+Ivan Ordets;5,0;Centre-Back;Dinamo Moskau;118850;18
+Cristian Ramirez;5,0;Left-Back;Fk Krasnodar;189485;6
+Jesus Medina;5,0;Right Winger;Zska Moskau;353037;28
+Dejan Lovren;4,5;Centre-Back;Zenit St Petersburg;37838;6
+Mateo Cassierra;4,5;Centre-Forward;Fk Sochi;362667;30
+Ayrton Lucas;4,5;Left-Back;Spartak Moskau;349585;-
+Dmitri Skopintsev;4,5;Left-Back;Dinamo Moskau;281917;7
+Nail Umyarov;4,0;Defensive Midfield;Spartak Moskau;381833;18
+Ivan Sergeev;4,0;Centre-Forward;Krylya Sovetov Samara;395659;-
+Emil Bohinen;4,0;Central Midfield;Zska Moskau;406806;-
+Erik Botheim;4,0;Centre-Forward;Fk Krasnodar;418559;20
+Tin Jedvaj;4,0;Centre-Back;Lokomotiv Moskau;206386;16
+Dmitriy Chistyakov;4,0;Centre-Back;Zenit St Petersburg;235339;2
+Daniil Lesovoy;4,0;Left Winger;Dinamo Moskau;315252;19
+Anton Zinkovskiy;3,5;Left Winger;Krylya Sovetov Samara;263962;17
+Rodrigao;3,5;Centre-Back;Fk Sochi;510782;5
+Didier Lamkel Ze;3,5;Left Winger;Fk Khimki;442320;-
+Victor Moses;3,5;Midfield;Spartak Moskau;59866;8
+Shapi Suleymanov;3,5;Right Winger;Fk Krasnodar;335725;-
+Roman Evgenjev;3,5;Centre-Back;Dinamo Moskau;422838;24
+Diego Laxalt;3,5;Left-Back;Dinamo Moskau;230552;93
+Daniil Khlusevich;3,5;Midfield;Spartak Moskau;621436;26
+Vyacheslav Grulev;3,5;Left Winger;Dinamo Moskau;365261;20
+Maksim Osipenko;3,5;Centre-Back;Fk Rostov;293829;55
+Jaka Bijol;3,5;Centre-Back;Zska Moskau;371851;29
+Daniil Utkin;3,5;Central Midfield;Akhmat Grozny;375667;47
+Maksim Mukhin;3,5;Defensive Midfield;Zska Moskau;623274;6
+Bakhtiyor Zaynutdinov;3,5;Midfield;Zska Moskau;344299;19
+Danila Prokhin;3,2;Centre-Back;Fk Sochi;486083;87
+Danil Krugovoy;3,0;Left-Back;Zenit St Petersburg;372535;4
+In-beom Hwang;3,0;Central Midfield;Rubin Kazan;365394;-
+Alexis Beka Beka;3,0;Defensive Midfield;Lokomotiv Moskau;539065;8
+Ilya Samoshnikov;3,0;Left-Back;Rubin Kazan;522030;77
+Dmitri Poloz;3,0;Left Winger;Fk Rostov;98539;7
+Adolfo Gaich;3,0;Centre-Forward;Zska Moskau;608469;-
+Aleksey Sutormin;3,0;Right Winger;Zenit St Petersburg;217033;19
+Pontus Almqvist;3,0;Centre-Forward;Fk Rostov;300532;-
+Andrey Mostovoy;3,0;Left Winger;Zenit St Petersburg;362570;17
+Tino Anjorin;3,0;Midfield;Lokomotiv Moskau;433181;-
+Konstantin Maradishvili;3,0;Defensive Midfield;Zska Moskau;535974;-
+Konstantin Kuchaev;3,0;Midfield;Zska Moskau;381834;-
+Nikolay Komlichenko;3,0;Centre-Forward;Fk Rostov;300538;27
+Ilzat Akhmetov;2,8;Midfield;Zska Moskau;334440;7
+Victorien Angban;2,7;Central Midfield;Fk Sochi;178314;19
+Aleksandr Maksimenko;2,5;Goalkeeper;Spartak Moskau;351419;98
+Daniil Kulikov;2,5;Defensive Midfield;Lokomotiv Moskau;425756;69
+Egor Sorokin;2,5;Centre-Back;Fk Krasnodar;288721;2
+Ali Sowe;2,5;Centre-Forward;Fk Rostov;229817;22
+Ibragim Tsallagov;2,5;Defensive Midfield;Fk Sochi;138399;15
+Nair Tiknizyan;2,5;Left-Back;Zska Moskau;461701;-
+Guillermo Varela;2,5;Right-Back;Dinamo Moskau;188862;2
+Aleksandr Chernikov;2,5;Defensive Midfield;Fk Krasnodar;432112;53
+Igor Akinfeev;2,5;Goalkeeper;Zska Moskau;15570;35
+Dennis Hadzikadunic;2,5;Centre-Back;Fk Rostov;322065;-
+Bruno Fuchs;2,5;Centre-Back;Zska Moskau;563692;3
+Hordur Magnusson;2,5;Centre-Back;Zska Moskau;130353;23
+Miroslav Bogosavac;2,5;Left-Back;Akhmat Grozny;273945;8
+Artur Yusupov;2,5;Central Midfield;Fk Sochi;97541;6
+Aleksandr Selikhov;2,5;Goalkeeper;Spartak Moskau;265153;57
+Djordje Despotovic;2,5;Centre-Forward;Rubin Kazan;167316;-
+Stanislav Magkeev;2,5;Centre-Back;Lokomotiv Moskau;462329;4
+Magomed Ozdoev;2,5;Defensive Midfield;Zenit St Petersburg;137206;27
+Kento Hashimoto;2,2;Defensive Midfield;Fk Rostov;183436;-
+Kristijan Bistrovic;2,2;Central Midfield;Zska Moskau;375857;-
+Uros Spajic;2,2;Centre-Back;Fk Krasnodar;160222;-
+Zuriko Davitashvili;2,0;Right Winger;Arsenal Tula;427572;-
+Dmitri Zhivoglyadov;2,0;Right-Back;Lokomotiv Moskau;178335;2
+Anton Zabolotnyi;2,0;Centre-Forward;Zska Moskau;70114;91
+Kaio;2,0;Centre-Back;Fk Krasnodar;523363;31
+Dmitri Rybchinskiy;2,0;Midfield;Lokomotiv Moskau;362572;94
+Murilo;2,0;Centre-Back;Lokomotiv Moskau;458710;-
+Artem Timofeev;2,0;Defensive Midfield;Akhmat Grozny;211727;94
+Danil Stepanov;2,0;Left-Back;Arsenal Tula;456182;25
+Armin Gigovic;2,0;Central Midfield;Fk Rostov;651269;-
+Ilya Lantratov;2,0;Goalkeeper;Fk Khimki;230946;22
+Silvije Begic;2,0;Centre-Back;Krylya Sovetov Samara;290774;-
+Ivan Lomaev;2,0;Goalkeeper;Krylya Sovetov Samara;421045;1
+Aleksey Ionov;2,0;Right Winger;Fk Krasnodar;55356;11
+Filip Dagerstal;2,0;Centre-Back;Fk Khimki;270905;-
+Dmytro Ivanisenya;2,0;Defensive Midfield;Krylya Sovetov Samara;376228;21
+Bruno Viana;1,8;Centre-Back;Fk Khimki;411838;-
+Khoren Bayramyan;1,8;Midfield;Fk Rostov;189715;19
+Sergey Petrov;1,8;Right-Back;Fk Krasnodar;102581;98
+Ilya Pomazun;1,8;Goalkeeper;Ural Ekaterinburg;217686;1
+Sergey Terekhov;1,8;Left-Back;Fk Sochi;74081;13
+Jorrit Hendrix;1,8;Defensive Midfield;Spartak Moskau;205004;-
+Vladislav Sarveli;1,8;Centre-Forward;Krylya Sovetov Samara;393864;10
+Maksim Glushenkov;1,8;Centre-Forward;Krylya Sovetov Samara;448981;15
+Sergey Pinyaev;1,7;Left Winger;Krylya Sovetov Samara;516751;9
+Rafal Augustyniak;1,7;Centre-Back;Ural Ekaterinburg;264796;6
+Vitaliy Lisakovich;1,7;Centre-Forward;Lokomotiv Moskau;344565;-
+Bastos;1,7;Centre-Back;Fk Rostov;195810;16
+Tiago Rodrigues;1,7;Midfield;Fk Ufa;139337;-
+Yuri Gorshkov;1,7;Left-Back;Krylya Sovetov Samara;448983;5
+Nikita Chernov;1,7;Centre-Back;Spartak Moskau;214238;23
+Maksim Nenakhov;1,5;Right-Back;Lokomotiv Moskau;382535;24
+Georgiy Shchennikov;1,5;Left-Back;Zska Moskau;70097;42
+Mark Mampassi;1,5;Centre-Back;Lokomotiv Moskau;712857;18
+Alan Dzagoev;1,5;Central Midfield;Zska Moskau;69683;10
+Stanislav Kritsyuk;1,5;Goalkeeper;Zenit St Petersburg;98547;1
+Darko Jevtic;1,5;Midfield;Rubin Kazan;159718;-
+Yuriy Gazinskiy;1,5;Central Midfield;Fk Krasnodar;159957;8
+Timofey Margasov;1,5;Right-Back;Fk Sochi;148485;34
+Nikolay Kalinskiy;1,5;Defensive Midfield;Fk Nizhny Novgorod;146468;78
+Bernard Berisha;1,5;Left Winger;Akhmat Grozny;240226;7
+Aleksandr Silyanov;1,5;Right-Back;Fk Rostov;515051;45
+Kirill Zaika;1,5;Right-Back;Fk Sochi;379181;27
+Nuraly Alip;1,5;Centre-Back;Zenit St Petersburg;465408;28
+Emanuel Mammana;1,5;Centre-Back;Fk Sochi;275512;-
+Ze Luis;1,5;Centre-Forward;Lokomotiv Moskau;134602;-
+Ivan Ignatjev;1,5;Centre-Forward;Rubin Kazan;318426;-
+Aleksandr Soldatenkov;1,5;Centre-Back;Krylya Sovetov Samara;393858;4
+Mateo Barac;1,5;Centre-Back;Krylya Sovetov Samara;329629;44
+Evgeniy Kharin;1,5;Midfield;Akhmat Grozny;193464;59
+Reziuan Mirzov;1,5;Left Winger;Spartak Moskau;232093;-
+Aleksandr Erokhin;1,5;Midfield;Zenit St Petersburg;84483;21
+Arsen Adamov;1,5;Right-Back;Ural Ekaterinburg;455016;-
+Roman Ezhov;1,5;Right Winger;Krylya Sovetov Samara;284843;11
+Montassar Talbi;1,2;Centre-Back;Rubin Kazan;496706;3
+Soltmurad Bakaev;1,2;Right Winger;Rubin Kazan;416704;7
+Igor Konovalov;1,2;Central Midfield;Akhmat Grozny;288240;11
+Dmitri Tikhiy;1,2;Centre-Back;Fk Khimki;188650;6
+Andrey Semenov;1,2;Centre-Back;Akhmat Grozny;105478;15
+Anton Shvets;1,2;Defensive Midfield;Akhmat Grozny;221992;23
+Aleksandr Troshechkin;1,2;Defensive Midfield;Fk Khimki;308541;-
+Bryan Idowu;1,2;Left-Back;Fk Khimki;178957;4
+Mikhail Ignatov;1,2;Midfield;Spartak Moskau;419672;22
+Oleg Shatov;1,2;Midfield;Ural Ekaterinburg;59187;27
+Anton Shunin;1,2;Goalkeeper;Dinamo Moskau;37549;1
+Fernando Costanza;1,2;Right-Back;Krylya Sovetov Samara;524403;22
+Clinton N'Jie;1,2;Right Winger;Dinamo Moskau;241119;9
+Ruslan Litvinov;1,2;Centre-Back;Spartak Moskau;520073;68
+Yuri Dyupin;1,2;Goalkeeper;Rubin Kazan;228660;22
+Kings Kangwa;1,2;Central Midfield;Arsenal Tula;684998;44
+Danil Prutsev;1,2;Central Midfield;Krylya Sovetov Samara;381714;-
+Aleksandr Lomovitskiy;1,2;Right Winger;Spartak Moskau;292837;-
+Maciej Rybus;1,2;Left-Back;Lokomotiv Moskau;59597;31
+Pavel Maslov;1,0;Centre-Back;Spartak Moskau;424121;39
+Denis Adamov;1,0;Goalkeeper;Fk Sochi;334477;1
+Vanja Drkusic;1,0;Centre-Back;Fk Sochi;371856;3
+Kemal Ademi;1,0;Centre-Forward;Fk Khimki;333161;-
+Igor Yurganov;1,0;Centre-Back;Fk Sochi;231724;20
+Kirill Gotsuk;1,0;Centre-Back;Fk Nizhny Novgorod;343749;24
+Nikita Krivtsov;1,0;Midfield;Fk Krasnodar;746180;88
+Viktor Melekhin;1,0;Centre-Back;Fk Rostov;866001;92
+Goran Causic;1,0;Central Midfield;Arsenal Tula;94304;20
+Glenn Bijl;1,0;Right-Back;Krylya Sovetov Samara;203961;23
+Danijel Miskic;1,0;Central Midfield;Ural Ekaterinburg;131323;19
+Denis Glushakov;1,0;Central Midfield;Fk Khimki;55336;8
+Daniil Khudyakov;1,0;Goalkeeper;Lokomotiv Moskau;718756;53
+Vladimir Iljin;1,0;Centre-Forward;Fk Krasnodar;220650;29
+Christian Noboa;1,0;Central Midfield;Fk Sochi;45858;16
+Eric Bicfalvi;1,0;Midfield;Ural Ekaterinburg;46504;10
+Mohamed Konate;1,0;Forward;Akhmat Grozny;457743;13
+Maksim Belyaev;1,0;Centre-Back;Arsenal Tula;98533;60
+Aleksandr Zuev;1,0;Left Winger;Rubin Kazan;263963;23
+Kirill Bozhenov;1,0;Right-Back;Fk Khimki;605534;87
+Evgeniy Chernov;1,0;Left-Back;Fk Krasnodar;187024;18
+Aleksandr Filin;1,0;Centre-Back;Fk Khimki;301037;25
+Nikita Kakkoev;0,9;Defensive Midfield;Fk Nizhny Novgorod;458387;22
+Marat Bystrov;0,9;Right-Back;Akhmat Grozny;394980;96
+Maximiliano Caufriez;0,9;Centre-Back;Spartak Moskau;369267;3
+Georgi Kostadinov;0,9;Defensive Midfield;Arsenal Tula;198816;70
+Roman Tugarev;0,9;Left Winger;Fk Rostov;289643;23
+Nikolay Rasskazov;0,9;Right-Back;Spartak Moskau;285868;92
+Andrey Egorychev;0,9;Central Midfield;Ural Ekaterinburg;447257;5
+Sergey Pesjakov;0,9;Goalkeeper;Fk Rostov;61397;30
+Ibrokhimkhalil Yuldoshev;0,9;Left-Back;Fk Nizhny Novgorod;704545;6
+Artem Makarchuk;0,9;Left-Back;Fk Sochi;380761;17
+Elmir Nabiullin;0,9;Left-Back;Fk Khimki;214257;11
+Ilya Kutepov;0,9;Centre-Back;Spartak Moskau;129096;29
+Lucas Masoero;0,9;Centre-Back;Fk Nizhny Novgorod;441098;5
+Aleksandr Rudenko;0,8;Left Winger;Fk Khimki;318468;19
+Aleksey Nikitin;0,8;Centre-Back;Fk Ufa;106536;4
+Uros Radakovic;0,8;Centre-Back;Arsenal Tula;169511;4
+Vladislav Kamilov;0,8;Central Midfield;Fk Ufa;152962;29
+Ivan Miladinovic;0,8;Centre-Back;Fk Nizhny Novgorod;296963;15
+Igor Smolnikov;0,8;Right-Back;Arsenal Tula;46635;6
+Mehdi Zeffane;0,8;Right-Back;Krylya Sovetov Samara;118303;-
+Pavel Mogilevets;0,8;Central Midfield;Fk Nizhny Novgorod;176618;-
+Sergey Babkin;0,8;Central Midfield;Lokomotiv Moskau;622461;75
+Maksim Petrov;0,8;Central Midfield;Lokomotiv Moskau;431708;73
+Ilya Kukharchuk;0,8;Right Winger;Fk Khimki;104700;44
+Akos Kecskes;0,8;Centre-Back;Fk Nizhny Novgorod;204155;4
+Sly;0,8;Centre-Forward;Dinamo Moskau;102043;-
+Guilherme;0,8;Goalkeeper;Lokomotiv Moskau;55369;1
+Joaozinho;0,8;Left Winger;Fk Sochi;73783;22
+Ivan Kuzmichev;0,8;Centre-Back;Ural Ekaterinburg;686059;25
+Branko Jovicic;0,8;Defensive Midfield;Ural Ekaterinburg;214715;-
+Igor Leshchuk;0,8;Goalkeeper;Dinamo Moskau;168527;31
+Kirill Kravtsov;0,8;Defensive Midfield;Zenit St Petersburg;607814;-
+Egor Danilkin;0,8;Centre-Back;Fk Khimki;260229;15
+Soslan Dzhanaev;0,8;Goalkeeper;Fk Sochi;59209;35
+Sergey Parshivlyuk;0,8;Right-Back;Dinamo Moskau;52477;4
+Georgi Melkadze;0,8;Centre-Forward;Spartak Moskau;281552;-
+Magnus Knudsen;0,8;Central Midfield;Fk Rostov;651735;-
+Andrey Langovich;0,75;Right-Back;Fk Rostov;727569;87
+Denis Terentjev;0,75;Right-Back;Fk Rostov;144583;4
+Nemanja Glavcic;0,75;Central Midfield;Fk Khimki;257468;20
+Yuriy Zhuravlev;0,75;Centre-Back;Fk Ufa;323710;44
+Kirill Shchetinin;0,75;Midfield;Fk Rostov;501769;88
+Zoran Nizic;0,75;Centre-Back;Akhmat Grozny;120710;20
+Igor Kalinin;0,75;Left-Back;Fk Rostov;267396;13
+Mitsuki Saito;0,7;Central Midfield;Rubin Kazan;353878;-
+Nikolay Poyarkov;0,7;Left-Back;Fk Rostov;449721;71
+Vyacheslav Litvinov;0,7;Centre-Back;Fk Krasnodar;601852;84
+Ayaz Guliev;0,7;Central Midfield;Arsenal Tula;260672;9
+Ramazan Gadzhimuradov;0,7;Right Winger;Ural Ekaterinburg;585013;11
+Konstantin Pliev;0,7;Centre-Back;Fk Ufa;394400;3
+Artur Nigmatullin;0,7;Goalkeeper;Fk Nizhny Novgorod;70074;25
+Filip Mrzljak;0,7;Defensive Midfield;Fk Ufa;131324;24
+Oston Urunov;0,7;Midfield;Fk Ufa;492556;17
+Luka Gagnidze;0,7;Central Midfield;Ural Ekaterinburg;724969;-
+Maksim Vityugov;0,7;Defensive Midfield;Krylya Sovetov Samara;447101;8
+Danila Sukhomlinov;0,7;Midfield;Fk Rostov;699265;76
+Timur Suleymanov;0,7;Centre-Forward;Fk Nizhny Novgorod;582074;93
+Olakunle Olusegun;0,7;Left Winger;Fk Krasnodar;666616;40
+Vitaliy Gudiev;0,7;Goalkeeper;Akhmat Grozny;190188;33
+Ilya Gaponov;0,7;Centre-Back;Spartak Moskau;395654;-
+Leon Musaev;0,7;Defensive Midfield;Rubin Kazan;375668;38
+Aleksandr Belenov;0,7;Goalkeeper;Fk Ufa;62514;31
+Egor Baburin;0,7;Goalkeeper;Fk Rostov;146918;1
+Dmitriy Kabutov;0,7;Right-Back;Fk Ufa;148118;7
+Evans Kangwa;0,7;Left Winger;Arsenal Tula;212415;10
+Artem Polyarus;0,7;Left Winger;Akhmat Grozny;131444;-
+Darko Todorovic;0,7;Right-Back;Akhmat Grozny;293231;4
+Zakhar Volkov;0,6;Centre-Back;Fk Khimki;471156;23
+Sergey Tkachev;0,6;Midfield;Arsenal Tula;132091;11
+Maksim Barsov;0,6;Centre-Forward;Fk Sochi;126341;-
+Butta Magomedov;0,6;Midfield;Fk Khimki;395163;70
+Besard Sabovic;0,6;Central Midfield;Fk Khimki;322077;14
+Artem Sokol;0,6;Centre-Back;Arsenal Tula;330780;3
+Denis Yakuba;0,6;Defensive Midfield;Krylya Sovetov Samara;267382;6
+Dusan Stojinovic;0,6;Centre-Back;Fk Khimki;469688;-
+Ivan Novoseltsev;0,6;Centre-Back;Arsenal Tula;231873;99
+Alexandru Tudorie;0,6;Centre-Forward;Arsenal Tula;260139;-
+Evgeniy Markov;0,6;Centre-Forward;Arsenal Tula;166737;7
+Ivelin Popov;0,6;Midfield;Fk Sochi;38340;8
+Dmitri Tsypchenko;0,6;Centre-Forward;Krylya Sovetov Samara;421046;19
+Artem Sokolov;0,6;Midfield;Krylya Sovetov Samara;555172;77
+Sergey Borodin;0,6;Centre-Back;Fk Krasnodar;318403;44
+Gabriel Iancu;0,6;Left Winger;Akhmat Grozny;164254;-
+Irakliy Manelov;0,6;Right Winger;Fk Krasnodar;667980;69
+Vyacheslav Podberezkin;0,6;Midfield;Ural Ekaterinburg;207528;21
+Vladislav Shitov;0,6;Centre-Forward;Spartak Moskau;516749;-
+Aleksey Gerasimov;0,6;Centre-Back;Ural Ekaterinburg;300447;93
+Mikhail Kerzhakov;0,6;Goalkeeper;Zenit St Petersburg;27706;41
+Vladislav Karapuzov;0,6;Right Winger;Akhmat Grozny;404912;77
+Leo Goglichidze;0,6;Left-Back;Ural Ekaterinburg;334481;3
+Dmitri Stotskiy;0,6;Right-Back;Fk Krasnodar;124700;-
+Stanislav Agkatsev;0,6;Goalkeeper;Fk Krasnodar;617520;58
+Oleg Isaenko;0,6;Left-Back;Fk Krasnodar;504001;48
+Leon Klassen;0,6;Left-Back;Spartak Moskau;441987;5
+Igor Gorbunov;0,6;Midfield;Fk Nizhny Novgorod;214246;17
+Stepan Oganesyan;0,55;Right Winger;Spartak Moskau;515056;-
+Ylldren Ibrahimaj;0,5;Right Winger;Ural Ekaterinburg;230845;-
+Marko Dugandzic;0,5;Centre-Forward;Fk Sochi;225961;-
+Vladislav Yakovlev;0,5;Centre-Forward;Zska Moskau;646896;46
+Mikhail Kostyukov;0,5;Right Winger;Rubin Kazan;275159;14
+Aleksey Gritsaenko;0,5;Centre-Back;Rubin Kazan;379634;-
+Vyacheslav Krotov;0,5;Centre-Forward;Fk Ufa;187460;57
+Sergey Volkov;0,5;Right-Back;Fk Krasnodar;520060;82
+German Onugkha;0,5;Centre-Forward;Rubin Kazan;568318;10
+Nikolay Zabolotnyi;0,5;Goalkeeper;Fk Sochi;55439;12
+Dmitriy Vorobyev;0,5;Centre-Forward;Fk Sochi;370287;7
+Aleksey Kuznetsov;0,5;Goalkeeper;Fk Ufa;263932;-
+Lechi Sadulaev;0,5;Midfield;Akhmat Grozny;623553;17
+Anton Chichkan;0,5;Goalkeeper;Fk Ufa;345408;32
+Georgiy Zotov;0,5;Right-Back;Rubin Kazan;113235;31
+Pavel Karasev;0,5;Defensive Midfield;Fk Nizhny Novgorod;185028;77
+Egor Teslenko;0,5;Centre-Back;Rubin Kazan;584231;2
+Aleksandr Yushin;0,5;Left Winger;Ural Ekaterinburg;285064;7
+Sergey Bozhin;0,5;Centre-Back;Krylya Sovetov Samara;265282;47
+Albert Sharipov;0,5;Central Midfield;Fk Nizhny Novgorod;304617;37
+Pavel Mamaev;0,5;Central Midfield;Fk Rostov;38802;-
+Danila Emeljanov;0,5;Central Midfield;Fk Ufa;480424;8
+Erving Botaka;0,5;Centre-Back;Fk Ufa;448880;15
+Vadim Karpov;0,5;Centre-Back;Zska Moskau;518261;-
+Vitaliy Lystsov;0,5;Centre-Back;Akhmat Grozny;207519;5
+Aleksandr Selyava;0,5;Defensive Midfield;Fk Rostov;187532;38
+Aleksandr Martynovich;0,5;Centre-Back;Fk Krasnodar;59352;4
+Daniil Denisov;0,5;Right-Back;Spartak Moskau;649303;97
+Giorgi Shelia;0,5;Goalkeeper;Akhmat Grozny;58971;88
+Arshak Koryan;0,5;Right Winger;Fk Khimki;214252;-
+Aleksandr Kovalenko;0,5;Central Midfield;Krylya Sovetov Samara;811544;14
+Aleksandr Sapeta;0,5;Central Midfield;Fk Nizhny Novgorod;89589;-
+Richlord Ennin;0,5;Centre-Forward;Fk Nizhny Novgorod;442319;7
+Azer Aliyev;0,5;Midfield;Fk Ufa;230929;-
+Ruslan Fishchenko;0,5;Defensive Midfield;Fk Ufa;535968;6
+Artem Golubev;0,5;Defensive Midfield;Fk Ufa;375663;22
+Ilya Berkovskiy;0,5;Midfield;Fk Nizhny Novgorod;532574;88
+Aleksandr Dolgov;0,45;Centre-Forward;Fk Khimki;515506;10
+Kirill Kolesnichenko;0,45;Left Winger;Ural Ekaterinburg;366751;24
+Senin Sebai;0,45;Centre-Forward;Akhmat Grozny;332554;18
+Dmitriy Markitesov;0,45;Central Midfield;Spartak Moskau;430489;-
+Gia Grigalava;0,45;Centre-Back;Fk Khimki;52089;88
+Lars Olden Larsen;0,4;Left Winger;Fk Nizhny Novgorod;432682;-
+Artem Arkhipov;0,4;Centre-Forward;Akhmat Grozny;524826;68
+Artem Mamin;0,4;Centre-Back;Ural Ekaterinburg;282630;29
+Roman Emeljanov;0,4;Defensive Midfield;Ural Ekaterinburg;103950;8
+Aleksey Gorodovoy;0,4;Goalkeeper;Rubin Kazan;288559;-
+Daniil Odoevskiy;0,4;Goalkeeper;Zenit St Petersburg;555135;71
+Danila Khotulev;0,4;Centre-Back;Zenit St Petersburg;529870;-
+Egor Ushakov;0,4;Right Winger;Zska Moskau;703581;41
+Vladislav Panteleev;0,4;Midfield;Arsenal Tula;260681;21
+Nikita Burmistrov;0,4;Right Winger;Fk Sochi;49676;18
+Ruslan Apekov;0,4;Left Winger;Fk Krasnodar;600312;92
+Idris Umaev;0,4;Centre-Forward;Akhmat Grozny;495845;9
+Fanil Sungatulin;0,4;Defensive Midfield;Spartak Moskau;431182;-
+Aleksandr Putsko;0,4;Centre-Back;Akhmat Grozny;126337;55
+Kamran Aliev;0,4;Striker;Fk Khimki;489815;-
+Kirill Folmer;0,4;Central Midfield;Fk Rostov;485658;25
+Vladislav Torop;0,4;Goalkeeper;Zska Moskau;555146;49
+Egas Cacintura;0,4;Midfield;Fk Ufa;911400;23
+Vyacheslav Yakimov;0,4;Defensive Midfield;Fk Krasnodar;645682;23
+Marat Apshatsev;0,4;Central Midfield;Rubin Kazan;599046;18
+Yaroslav Gladyshev;0,4;Centre-Forward;Dinamo Moskau;673114;91
+Aleks Matsukatov;0,4;Central Midfield;Fk Krasnodar;312895;15
+Moritz Bauer;0,4;Right-Back;Fk Ufa;159692;-
+Yuri Zheleznov;0,4;Midfield;Ural Ekaterinburg;673998;14
+Andrey Panyukov;0,4;Centre-Forward;Ural Ekaterinburg;181177;-
+Artem Maksimenko;0,4;Right Winger;Ural Ekaterinburg;310132;-
+Viktor Vasin;0,4;Centre-Back;Zska Moskau;60134;-
+Artem Karpukas;0,4;Defensive Midfield;Lokomotiv Moskau;691920;93
+Saba Sazonov;0,4;Centre-Back;Dinamo Moskau;655456;15
+Petrus Boumal;0,35;Defensive Midfield;Fk Nizhny Novgorod;127074;-
+Aleksandr Saplinov;0,35;Midfield;Fk Ufa;449575;25
+Nikita Goylo;0,35;Goalkeeper;Fk Nizhny Novgorod;440135;13
+Egor Golenkov;0,35;Centre-Forward;Fk Rostov;449722;69
+Daniil Kornyushin;0,35;Right-Back;Fk Krasnodar;601851;-
+Maksim Turishchev;0,35;Centre-Forward;Fk Rostov;555837;90
+Ilya Svinov;0,35;Goalkeeper;Spartak Moskau;599150;88
+Bogdan Reichmen;0,35;Central Midfield;Fk Krasnodar;601856;-
+Axel Bjornstrom;0,35;Left-Back;Arsenal Tula;299902;-
+Anton Kochenkov;0,35;Goalkeeper;Arsenal Tula;70220;1
+Leon Sabua;0,35;Centre-Forward;Fk Krasnodar;476142;-
+Danil Lipovoy;0,35;Midfield;Krylya Sovetov Samara;462988;13
+Zaurbek Pliev;0,3;Left-Back;Dinamo Moskau;121958;3
+Jonathan Okoronkwo;0,3;Centre-Forward;Fk Krasnodar;987700;85
+Egor Shamov;0,3;Goalkeeper;Arsenal Tula;449377;50
+Artur Chernyi;0,3;Centre-Back;Lokomotiv Moskau;515249;74
+Vladislav Galkin;0,3;Midfield;Dinamo Moskau;503639;-
+David Tosevski;0,3;Centre-Forward;Fk Rostov;542338;-
+Taras Burlak;0,3;Centre-Back;Arsenal Tula;70212;5
+Pavel Shakuro;0,3;Left-Back;Fk Sochi;379084;-
+Stepan Melnikov;0,3;Right Winger;Fk Rostov;501250;77
+Ivan Budachev;0,3;Goalkeeper;Dinamo Moskau;638365;16
+Kirill Panchenko;0,3;Striker;Arsenal Tula;106675;8
+Nikita Medvedev;0,3;Goalkeeper;Rubin Kazan;296513;1
+Timur Akmurzin;0,3;Goalkeeper;Spartak Moskau;281873;-
+Vladislav Ignatjev;0,3;Right-Back;Rubin Kazan;51897;20
+Mikhail Levashov;0,3;Goalkeeper;Arsenal Tula;148028;36
+Lameck Banda;0,3;Left Winger;Arsenal Tula;545538;-
+Aleksandr Kutitskiy;0,3;Defensive Midfield;Dinamo Moskau;687617;50
+Yan Gudkov;0,3;Left-Back;Krylya Sovetov Samara;598479;66
+Ruslan Kambolov;0,3;Defensive Midfield;Arsenal Tula;58568;-
+Dilan Ortiz;0,3;Forward;Fk Ufa;633430;99
+Evgeniy Lutsenko;0,3;Centre-Forward;Arsenal Tula;38801;48
+Dominik Dinga;0,3;Centre-Back;Ural Ekaterinburg;343957;66
+Daniil Kuznetsov;0,3;Left Winger;Zenit St Petersburg;522145;-
+Aleksey Evseev;0,3;Central Midfield;Ural Ekaterinburg;194947;30
+Artem Galadzhan;0,3;Centre-Forward;Fk Nizhny Novgorod;285858;-
+Maksim Karpov;0,3;Centre-Back;Fk Khimki;279152;-
+Chingiz Magomadov;0,3;Right-Back;Ural Ekaterinburg;455014;95
+Kirill Kosarev;0,3;Centre-Forward;Fk Nizhny Novgorod;561883;-
+Artur Anisimov;0,3;Goalkeeper;Fk Nizhny Novgorod;188613;1
+Denis Tkachuk;0,3;Midfield;Fk Nizhny Novgorod;73854;31
+Bogdan Ovsyannikov;0,3;Goalkeeper;Krylya Sovetov Samara;534477;81
+Timur Zhamaletdinov;0,3;Centre-Forward;Fk Ufa;315557;75
+Viktor Aleksandrov;0,3;Centre-Back;Fk Nizhny Novgorod;649261;2
+Nemanja Miletic;0,3;Left-Back;Fk Ufa;91557;11
+Vladislav Samko;0,275;Left Winger;Fk Krasnodar;667981;-
+David Kokoev;0,275;Central Midfield;Fk Krasnodar;532745;-
+Ilya Petukhov;0,275;Defensive Midfield;Lokomotiv Moskau;515054;-
+Artem Sukhanov;0,25;Right-Back;Arsenal Tula;601454;76
+Kirill Zinovich;0,25;Midfield;Lokomotiv Moskau;720936;90
+Ilya Kamyshev;0,25;Defensive Midfield;Fk Khimki;282364;21
+Yuriy Zhirkov;0,25;Left-Back;Fk Khimki;16760;18
+Islam Alsultanov;0,25;Centre-Forward;Akhmat Grozny;623557;90
+Vitaliy Stezhko;0,25;Centre-Back;Fk Krasnodar;375662;-
+Nikita Sergeev;0,25;Left Winger;Fk Krasnodar;452326;-
+Oleg Ivanov;0,25;Midfield;Fk Ufa;16756;19
+Andrey Savin;0,25;Goalkeeper;Lokomotiv Moskau;449351;60
+Dmitri Pivovarov;0,25;Left-Back;Fk Krasnodar;574934;-
+Aleksandr Melikhov;0,25;Goalkeeper;Akhmat Grozny;476274;42
+Maksim Rudakov;0,25;Goalkeeper;Fk Rostov;235347;-
+Maksim Kaynov;0,25;Defensive Midfield;Arsenal Tula;699263;78
+Islamzhan Nasyrov;0,25;Left-Back;Ural Ekaterinburg;398721;-
+Daniil Penchikov;0,25;Right-Back;Fk Nizhny Novgorod;450168;23
+Bekim Balaj;0,25;Centre-Forward;Fk Nizhny Novgorod;99137;-
+Mikhail Chernomyrdin;0,25;Left Winger;Zenit St Petersburg;524779;-
+Dmitriy Prishchepa;0,25;Left-Back;Krylya Sovetov Samara;546983;-
+Danila Bokov;0,25;Goalkeeper;Zska Moskau;558631;45
+Evgeniy Frolov;0,25;Goalkeeper;Krylya Sovetov Samara;177350;39
+Maksim Kanunnikov;0,25;Centre-Forward;Krylya Sovetov Samara;104201;99
+Aleksey Kozlov;0,25;Right-Back;Fk Nizhny Novgorod;24912;34
+Aleksandr Dovbnya;0,25;Centre-Back;Arsenal Tula;263911;-
+Milson;0,25;Midfield;Fk Nizhny Novgorod;589374;27
+Mikhail Ageev;0,25;Centre-Forward;Ural Ekaterinburg;381067;9
+David Davidyan;0,25;Right Winger;Fk Khimki;449345;27
+Nikolay Tolstopyatov;0,225;Centre-Back;Spartak Moskau;671829;-
+Lawrence Nicholas;0,2;Central Midfield;Fk Khimki;685589;24
+Kirill Klimov;0,2;Centre-Forward;Rubin Kazan;431724;13
+Evgeniy Gorodov;0,2;Goalkeeper;Fk Krasnodar;38681;1
+Lenar Fattakhov;0,2;Right Winger;Rubin Kazan;708184;56
+Denys Kulakov;0,2;Right-Back;Ural Ekaterinburg;25734;15
+Maksim Zhumabekov;0,2;Midfield;Fk Khimki;613665;-
+Timur Kasimov;0,2;Left Winger;Lokomotiv Moskau;685723;-
+Eduard Bagrintsev;0,2;Right Winger;Zska Moskau;555154;-
+Georgiy Sulakvelidze;0,2;Midfield;Dinamo Moskau;629940;-
+Nikita Khlynov;0,2;Centre-Forward;Lokomotiv Moskau;686255;-
+Egor Generalov;0,2;Goalkeeper;Fk Khimki;104503;1
+Ilya Bykovskiy;0,2;Left-Back;Ural Ekaterinburg;607809;-
+Grigori Borisenko;0,2;Right Winger;Lokomotiv Moskau;501770;-
+Dmitriy Kaptilovich;0,2;Centre-Back;Zska Moskau;690572;-
+Rizvan Utsiev;0,2;Right-Back;Akhmat Grozny;51274;40
+Ilya Sadygov;0,2;Centre-Forward;Fk Khimki;686530;7
+Amir Aduev;0,2;Central Midfield;Akhmat Grozny;485961;-
+Ansor Khabibov;0,175;Central Midfield;Arsenal Tula;685219;73
+Dmitriy Sergeev;0,175;Defensive Midfield;Zenit St Petersburg;575783;-
+David Byazrov;0,175;Goalkeeper;Zenit St Petersburg;718289;-
+Andrey Sinitsyn;0,175;Goalkeeper;Fk Nizhny Novgorod;106196;-
+Ruslan Daurov;0,175;Defensive Midfield;Zska Moskau;700753;-
+Vladislav Masalskiy;0,175;Centre-Back;Zenit St Petersburg;413244;-
+Mikhail Strelnik;0,175;Defensive Midfield;Fk Krasnodar;686632;-
+Roman Nogtev;0,175;Right Winger;Zenit St Petersburg;518260;-
+Maksim Kolmakov;0,175;Midfield;Fk Sochi;668948;-
+Vitaliy Sychev;0,175;Goalkeeper;Fk Khimki;513257;-
+Danil Khromov;0,175;Centre-Forward;Fk Rostov;685761;-
+Mikhail Ivankov;0,175;Centre-Back;Lokomotiv Moskau;685698;-
+Yaroslav Godzyur;0,15;Goalkeeper;Ural Ekaterinburg;48514;-
+Parfait Bizoza;0,15;Central Midfield;Fk Ufa;634963;-
+Igor Gorbatenko;0,15;Midfield;Arsenal Tula;62834;23
+Artem Isik;0,15;Defensive Midfield;Fk Rostov;673153;-
+Sergey Kochkanyan;0,15;Right-Back;Fk Rostov;685855;-
+Damir Shaykhtdinov;0,15;Right-Back;Spartak Moskau;555164;-
+Zaur Tarba;0,15;Central Midfield;Zska Moskau;814870;-
+Grigori Zhilkin;0,15;Left-Back;Fk Krasnodar;712561;-
+Omar Popov;0,15;Centre-Forward;Fk Krasnodar;685661;-
+Stepan Surikov;0,15;Defensive Midfield;Rubin Kazan;501775;-
+Nikita Kotin;0,15;Centre-Back;Fk Rostov;566046;42
+Evgeniy Kim;0,15;Midfield;Zenit St Petersburg;714779;-
+Ilya Tuseev;0,15;Goalkeeper;Fk Khimki;699306;93
+Danila Smirnov;0,15;Central Midfield;Krylya Sovetov Samara;577718;52
+Ilya Vakhania;0,15;Right-Back;Zenit St Petersburg;515050;-
+Dmitri Malykhin;0,15;Defensive Midfield;Fk Khimki;702148;-
+Aleksandr Mukhin;0,15;Centre-Back;Fk Rostov;501767;29
+Konstantin Nizhegorodov;0,15;Centre-Back;Rubin Kazan;604073;97
+Bojan Jokic;0,15;Left-Back;Fk Ufa;44317;5
+Maksim Eleev;0,15;Right-Back;Zska Moskau;535963;13
+Dmitri Landakov;0,15;Goalkeeper;Ural Ekaterinburg;503998;13
+Vladimir Rykov;0,15;Centre-Back;Ural Ekaterinburg;117802;-
+Danila Proshlyakov;0,15;Centre-Forward;Fk Rostov;485657;31
+Denis Osokin;0,15;Centre-Back;Dinamo Moskau;691781;-
+Mikhail Sukhoruchenko;0,15;Centre-Back;Fk Krasnodar;712560;-
+Daniil Sokolov;0,125;Midfield;Fk Rostov;555137;-
+Pavel Gorelov;0,125;Defensive Midfield;Fk Rostov;787303;-
+Turpal-Ali Ibishev;0,125;Centre-Back;Akhmat Grozny;810558;-
+Ilya Levchenkov;0,125;Defensive Midfield;Spartak Moskau;501249;-
+Danil Massurenko;0,125;Left Winger;Fk Khimki;570909;-
+Nikita Yanovich;0,125;Goalkeeper;Rubin Kazan;655461;-
+Kirill Fateev;0,125;Left Winger;Zenit St Petersburg;692573;-
+Aleksandr Dyachkov;0,125;Goalkeeper;Fk Rostov;706584;-
+Daniil Nikolaev;0,125;Centre-Back;Fk Rostov;700424;-
+Dmitri Motovichev;0,1;Central Midfield;Krylya Sovetov Samara;866676;-
+Danil Beltyukov;0,1;Goalkeeper;Krylya Sovetov Samara;623232;-
+Ruslan Murtazov;0,1;Goalkeeper;Fk Rostov;690300;-
+Mikhail Volkov;0,1;Goalkeeper;Spartak Moskau;522142;-
+Nikita Matyunin;0,1;Goalkeeper;Lokomotiv Moskau;637549;-
+Artem Yuran;0,1;Right-Back;Fk Khimki;315556;-
+Kirill Nababkin;0,1;Right-Back;Zska Moskau;38805;14
+Artem Rebrov;0,1;Goalkeeper;Spartak Moskau;15680;-
+Daniil Pavlov;0,1;Centre-Forward;Fk Sochi;635298;-
+Andrey Eshchenko;0,1;Right-Back;Spartak Moskau;48987;-
+Dmitriy Kuchugura;0,1;Right Winger;Fk Krasnodar;747236;-
+Denis Mikhailov;0,1;Central Midfield;Rubin Kazan;816471;-
+Vladislav Teplyakov;0,1;Left-Back;Krylya Sovetov Samara;911386;-
+Danil Kazantsev;0,1;Defensive Midfield;Fk Khimki;687059;43
+Ilya Kuleshin;0,1;Midfield;Arsenal Tula;745483;-
+Ivan Kukushkin;0,1;Goalkeeper;Fk Ufa;692563;81
+Guram Adzhoev;0,1;Striker;Arsenal Tula;290649;-
+Boris Rotenberg;0,1;Right-Back;Lokomotiv Moskau;54310;28
+Mikhail Kizeev;0,1;Goalkeeper;Zenit St Petersburg;388988;-
+Georgiy Korolev;0,1;Goalkeeper;Zenit St Petersburg;751093;-
+Danil Akhatov;0,1;Midfield;Fk Ufa;865092;-
+Dmitriy Makovskiy;0,075;Midfield;Ural Ekaterinburg;623305;-
+Kirill Stolbov;0,075;Central Midfield;Zenit St Petersburg;718763;-
+Ivan Lyubukhin;0,075;Centre-Back;Ural Ekaterinburg;653845;-
+Ivan Savitskiy;0,075;Left-Back;Rubin Kazan;673122;-
+Aleksandr Alekseev;0,075;Goalkeeper;Spartak Moskau;518258;-
+Egor Mosin;0,075;Left-Back;Ural Ekaterinburg;708169;-
+Bogdan Rogochiy;0,075;Centre-Back;Fk Rostov;743232;-
+Artem Shmykov;0,05;Centre-Back;Ural Ekaterinburg;615648;-
+Luka Tsulukidze;0,05;Midfield;Ural Ekaterinburg;931185;16
+Abubakar Inalkaev;0,05;Central Midfield;Akhmat Grozny;866756;92
+Vadim Lukyanov;0,05;Goalkeeper;Fk Rostov;743231;-
+Maksim Shakhov;0,05;Central Midfield;Fk Nizhny Novgorod;910769;-
+Aleksandr Grunichev;0,05;Right-Back;Fk Nizhny Novgorod;615644;-
+Ivan Komarov;0,05;Midfield;Fk Rostov;787305;-
+Egor Pigaev;0,05;Centre-Back;Fk Nizhny Novgorod;910782;-
+Aleksandr Sukhov;0,05;Right-Back;Fk Ufa;48557;33
+Artem Ntumba Muamba;0,05;Centre-Forward;Fk Rostov;558688;-
+Abubakar Kadyrov;0,025;Centre-Forward;Akhmat Grozny;488849;95
+Daniil Markov;0,025;Goalkeeper;Spartak Moskau;451245;-
+Vladimir Panov;0,025;Goalkeeper;Ural Ekaterinburg;826410;-
+Khalid Kadyrov;0,025;Right Winger;Akhmat Grozny;155304;10
+Artem Ismagilov;0,025;Goalkeeper;Rubin Kazan;697853;-

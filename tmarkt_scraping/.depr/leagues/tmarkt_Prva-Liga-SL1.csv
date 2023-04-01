@@ -1,0 +1,383 @@
+Players;Values;POS;Team;ID;Num
+Neven Djurasek;1,0;Defensive Midfield;Nk Olimpija Ljubljana;341424;8
+Vanja Drkusic;1,0;Centre-Back;Nk Bravo;371856;-
+Timi Max Elsnik;1,0;Central Midfield;Nk Olimpija Ljubljana;320854;10
+Robert Voloder;1,0;Centre-Back;Nk Maribor;452392;-
+Ognjen Mudrinski;0,9;Centre-Forward;Nk Maribor;822078;91
+Djordje Ivanovic;0,8;Left Winger;Nk Maribor;358845;17
+Arnel Jakupovic;0,8;Centre-Forward;Nk Domzale;268426;29
+Antoine Makoumbou;0,8;Central Midfield;Nk Maribor;460651;29
+Rudi Pozeg Vancas;0,8;Left Winger;Nk Maribor;168152;-
+Jan Repas;0,8;Central Midfield;Nk Maribor;245083;15
+Mirlind Daku;0,8;Centre-Forward;Ns Mura;521872;17
+Kaheem Parris;0,8;Right Winger;Fc Koper;530414;10
+Gregor Sikosek;0,75;Left-Back;Nk Maribor;224892;12
+Zan Karnicnik;0,7;Centre-Back;Ns Mura;507403;-
+Advan Kadusic;0,7;Right-Back;Nk Celje;318829;-
+Max Watson;0,7;Centre-Back;Nk Maribor;257102;20
+Jan Gorenc;0,7;Centre-Back;Ns Mura;476165;30
+Tomi Horvat;0,7;Midfield;Ns Mura;340415;10
+Marijan Cabraja;0,7;Left-Back;Nk Olimpija Ljubljana;355651;11
+Marin Pilj;0,65;Defensive Midfield;Nk Olimpija Ljubljana;458052;30
+Amadej Marosa;0,6;Centre-Forward;Ns Mura;262699;-
+Dusan Stojinovic;0,6;Centre-Back;Nk Celje;469688;5
+Dario Kolobaric;0,6;Centre-Forward;Nk Domzale;463855;-
+Sven Karic;0,6;Centre-Back;Nk Domzale;320864;20
+Eric Boakye;0,6;Right-Back;Nk Olimpija Ljubljana;268875;20
+Nemanja Mitrovic;0,55;Centre-Back;Nk Maribor;98844;32
+Ivan Banic;0,55;Goalkeeper;Nk Olimpija Ljubljana;160467;1
+Maks Barisic;0,5;Right Winger;Fc Koper;183845;22
+Luka Bobicanec;0,5;Midfield;Ns Mura;263055;8
+Almedin Ziljkic;0,5;Left Winger;Nk Olimpija Ljubljana;300901;77
+Zan Zuzek;0,5;Centre-Back;Fc Koper;325222;21
+Karlo Brucic;0,5;Left-Back;Fc Koper;115447;3
+Marko Djira;0,5;Defensive Midfield;Fc Koper;357791;5
+Luka Vesner Ticic;0,5;Central Midfield;Fc Koper;624030;6
+Aljosa Matko;0,5;Right Winger;Nk Maribor;487606;-
+Lamin Colley;0,5;Centre-Forward;Fc Koper;446894;9
+Tomislav Mrkonjic;0,5;Midfield;Nk Radomlje;271179;70
+David Brekalo;0,5;Centre-Back;Nk Bravo;371864;-
+Mattias Kait;0,5;Midfield;Nk Domzale;205227;-
+Ivan Bozic;0,5;Centre-Forward;Nk Celje;392306;9
+Zan Zaletel;0,5;Centre-Back;Nk Celje;412517;30
+Andrija Filipovic;0,5;Right Winger;Ns Mura;312760;-
+Zan Trontelj;0,45;Right-Back;Nk Bravo;469685;2
+Nino Kouter;0,45;Central Midfield;Ns Mura;174530;-
+Mario Kvesic;0,45;Midfield;Nk Olimpija Ljubljana;166173;18
+Ivan Prtajin;0,45;Centre-Forward;Nk Olimpija Ljubljana;340700;47
+Janez Pisek;0,45;Defensive Midfield;Nk Domzale;320860;5
+David Flakus Bosilj;0,45;Centre-Forward;Nk Aluminij Kidricevo;506941;-
+Mark Zabukovnik;0,45;Defensive Midfield;Nk Radomlje;577785;6
+Ivan Saric;0,4;Left Winger;Nk Radomlje;491046;-
+Mateo Muzek;0,4;Centre-Back;Nk Radomlje;270930;20
+Kevin Doukoure;0,4;Central Midfield;Nk Tabor Sezana;740191;4
+Luka Gucek;0,4;Centre-Back;Nk Radomlje;365779;29
+Mico Kuzmanovic;0,4;Left Winger;Nk Celje;267056;14
+Marko Alvir;0,4;Midfield;Nk Maribor;179898;8
+Svit Seslar;0,4;Midfield;Nk Olimpija Ljubljana;603368;25
+Klemen Sturm;0,4;Left-Back;Ns Mura;168085;23
+Nino Zugelj;0,4;Right Winger;Nk Maribor;496989;99
+Djordje Crnomarkovic;0,4;Centre-Back;Nk Olimpija Ljubljana;307325;15
+Blaz Vrhovec;0,4;Defensive Midfield;Nk Maribor;165579;-
+Bede Osuji;0,4;Left Winger;Fc Koper;331708;11
+Enes Alic;0,4;Left-Back;Nk Domzale;563194;30
+Stefan Milic;0,4;Centre-Back;Nk Bravo;502022;4
+Martin Kramaric;0,4;Left Winger;Nk Bravo;318705;10
+Sandi Ogrinec;0,4;Midfield;Nk Bravo;320858;-
+Ziga Kous;0,4;Midfield;Ns Mura;165568;11
+Amar Beganovic;0,4;Right-Back;Ns Mura;376098;6
+Grigoriy Morozov;0,4;Left-Back;Nk Celje;166275;24
+Marko Bozic;0,35;Midfield;Nk Radomlje;307427;-
+Amar Memic;0,35;Centre-Forward;Nk Bravo;638990;24
+Martin Sroler;0,35;Midfield;Nk Aluminij Kidricevo;510408;20
+Robert Mudrazija;0,35;Central Midfield;Nk Olimpija Ljubljana;339584;44
+Damian van Bruggen;0,35;Centre-Back;Nk Olimpija Ljubljana;241420;4
+Tamar Svetlin;0,35;Midfield;Nk Domzale;469695;-
+Nardin Mulahusejnovic;0,35;Centre-Forward;Fc Koper;397771;-
+Nemanja Jaksic;0,35;Right-Back;Nk Bravo;186489;18
+Martin Milec;0,35;Right-Back;Nk Maribor;94523;22
+Ivan Calusic;0,35;Defensive Midfield;Nk Radomlje;641060;27
+Gedeon Guzina;0,35;Centre-Forward;Nk Radomlje;447462;30
+Nsana Simon;0,3;Central Midfield;Nk Bravo;569391;11
+Alen Jurilj;0,3;Left Winger;Nk Domzale;317824;8
+Benjamin Markus;0,3;Central Midfield;Nk Domzale;515480;18
+Andraz Zinic;0,3;Right-Back;Nk Domzale;412516;2
+Igor Vekic;0,3;Goalkeeper;Nk Bravo;341535;-
+Loren Maruzin;0,3;Centre-Forward;Nk Bravo;526369;7
+Gal Primc;0,3;Central Midfield;Nk Radomlje;300524;4
+Marin Ljubic;0,3;Goalkeeper;Ns Mura;532772;1
+Mario Cuic;0,3;Central Midfield;Nk Radomlje;545226;24
+Mitja Lotric;0,3;Midfield;Ns Mura;149820;33
+Kai Cipot;0,3;Centre-Back;Ns Mura;685375;2
+Mihael Klepac;0,3;Centre-Forward;Ns Mura;510263;47
+Mihael Briski;0,3;Centre-Back;Nk Tabor Sezana;357773;13
+Dejan Georgijevic;0,3;Centre-Forward;Nk Domzale;153429;9
+Tjas Begic;0,3;Left Winger;Nk Celje;708186;79
+Aljaz Antolin;0,3;Central Midfield;Nk Maribor;838494;16
+Ivan Borna Jelic Balta;0,3;Defensive Midfield;Fc Koper;319143;8
+Klemen Nemanic;0,3;Centre-Back;Nk Tabor Sezana;245065;18
+Mustafa Nukic;0,3;Centre-Forward;Nk Olimpija Ljubljana;192113;9
+Matej Palcic;0,3;Right-Back;Fc Koper;183896;18
+Aldair;0,3;Right Winger;Nk Olimpija Ljubljana;194603;97
+Michael Pavlovic;0,3;Left-Back;Nk Olimpija Ljubljana;721631;62
+Adnan Golubovic;0,3;Goalkeeper;Fc Koper;183848;1
+Vid Koderman;0,3;Left-Back;Nk Maribor;622200;-
+Azbe Jug;0,3;Goalkeeper;Nk Maribor;116918;1
+Mark Spanring;0,3;Right-Back;Nk Bravo;502349;5
+Mitja Krizan;0,3;Centre-Back;Nk Bravo;413524;6
+Marcel Ratnik;0,3;Centre-Back;Nk Olimpija Ljubljana;660544;14
+Jost Urbancic;0,25;Left-Back;Nk Domzale;487605;-
+Samsondin Ouro;0,25;Defensive Midfield;Ns Mura;521333;32
+Altin Kryeziu;0,25;Defensive Midfield;Nk Tabor Sezana;637117;22
+Gasper Trdin;0,25;Defensive Midfield;Nk Bravo;521370;8
+David Zec;0,25;Centre-Back;Nk Celje;469709;6
+Klemen Pucko;0,25;Left-Back;Ns Mura;399433;3
+Matko Obradovic;0,25;Goalkeeper;Ns Mura;176588;69
+Jakob Novak;0,25;Central Midfield;Nk Celje;320865;-
+Duje Cop;0,25;Centre-Forward;Nk Celje;46415;90
+Vicko Sevelj;0,25;Right-Back;Nk Radomlje;575209;88
+Ilija Martinovic;0,25;Centre-Back;Nk Maribor;329253;-
+Gregor Bajde;0,25;Left Winger;Nk Bravo;149807;9
+Nik Lorbek;0,25;Defensive Midfield;Ns Mura;245055;14
+Damjan Vuklisevic;0,25;Centre-Back;Nk Celje;183843;3
+Diogo Izata;0,25;Defensive Midfield;Fc Koper;258024;4
+Amadej Brecl;0,25;Right-Back;Nk Celje;402944;15
+Nik Prelec;0,25;Centre-Forward;Nk Olimpija Ljubljana;469690;99
+Rodrigue Bongongui;0,25;Left Winger;Nk Tabor Sezana;216458;11
+Aleks Pihler;0,25;Central Midfield;Nk Maribor;167931;6
+Mateo Monjac;0,25;Right Winger;Nk Tabor Sezana;364581;16
+Ivan Novoselec;0,25;Centre-Back;Fc Koper;349015;33
+Renato Josipovic;0,25;Goalkeeper;Nk Bravo;432745;33
+Dino Stancic;0,25;Centre-Forward;Nk Tabor Sezana;153927;25
+Malik Sellouki;0,25;Right Winger;Nk Maribor;811430;30
+Matic Vrbanec;0,25;Central Midfield;Nk Celje;270077;13
+Marko Futacs;0,25;Forward;Nk Olimpija Ljubljana;101277;-
+Emil Velic;0,25;Goalkeeper;Nk Radomlje;372380;95
+Nik Marinsek;0,2;Midfield;Nk Aluminij Kidricevo;568282;8
+Antonio Delamea Mlinar;0,2;Centre-Back;Nk Olimpija Ljubljana;87214;70
+Marcel Cermak;0,2;Midfield;Nk Aluminij Kidricevo;366718;-
+Marko Zulj;0,2;Centre-Back;Nk Radomlje;492004;-
+Marin Karamarko;0,2;Centre-Back;Ns Mura;317035;13
+Ester Sokler;0,2;Centre-Forward;Nk Celje;481244;7
+Lovro Bizjak;0,2;Centre-Forward;Nk Celje;220315;77
+Rok Sirk;0,2;Centre-Forward;Nk Maribor;139918;13
+Ajdin Mulalic;0,2;Goalkeeper;Nk Domzale;264688;84
+Almin Kurtovic;0,2;Central Midfield;Nk Bravo;469689;30
+Marko Krivicic;0,2;Central Midfield;Nk Tabor Sezana;245049;23
+Vasilije Janjicic;0,2;Central Midfield;Nk Celje;265254;27
+Mirko Mutavcic;0,2;Right-Back;Nk Maribor;515479;2
+Nik Kapun;0,2;Central Midfield;Nk Olimpija Ljubljana;248315;-
+Emir Azemovic;0,2;Centre-Back;Nk Aluminij Kidricevo;391903;55
+Alen Kozar;0,2;Central Midfield;Ns Mura;226985;7
+Andrej Pogacar;0,2;Right Winger;Nk Radomlje;801075;21
+Matija Kavcic;0,2;Left-Back;Nk Bravo;351791;19
+Tilen Klemencic;0,2;Centre-Back;Nk Domzale;183850;6
+Enrik Ostrc;0,2;Defensive Midfield;Nk Olimpija Ljubljana;694318;-
+Chinwendu Johan Nkama;0,2;Defensive Midfield;Nk Aluminij Kidricevo;535761;25
+Aljaz Krefl;0,2;Left-Back;Nk Aluminij Kidricevo;216588;-
+Luka Bransteter;0,2;Centre-Forward;Nk Aluminij Kidricevo;502700;24
+Dominik Mihaljevic;0,2;Left-Back;Nk Tabor Sezana;286807;-
+Sava Petrov;0,2;Centre-Forward;Nk Olimpija Ljubljana;423610;-
+Darko Ilieski;0,175;Centre-Back;Fc Koper;227424;-
+Dragan Lovric;0,175;Centre-Back;Ns Mura;308778;-
+Zvonimir Blaic;0,175;Right-Back;Nk Radomlje;179693;-
+Til Mavretic;0,15;Central Midfield;Nk Tabor Sezana;457908;15
+Matija Orbanic;0,15;Goalkeeper;Nk Bravo;547307;31
+Zan Vipotnik;0,15;Centre-Forward;Nk Maribor;308828;-
+Rok Kidric;0,15;Centre-Forward;Nk Aluminij Kidricevo;316467;-
+Danijel Sturm;0,15;Left Winger;Nk Maribor;421758;11
+Tio Cipot;0,15;Central Midfield;Ns Mura;795431;24
+Mak Varesanovic;0,15;Central Midfield;Fc Koper;366068;-
+Dario Rugasevic;0,15;Left-Back;Nk Radomlje;107387;18
+Zan Besir;0,15;Midfield;Fc Koper;708239;17
+Stjepan Ostrek;0,15;Midfield;Fc Koper;226087;24
+Menno Bergsen;0,15;Goalkeeper;Nk Maribor;481804;81
+Luka Susnjara;0,15;Left Winger;Fc Koper;334724;20
+Ignacio Guerrico;0,15;Left-Back;Nk Tabor Sezana;857297;-
+Gasper Pecnik;0,15;Right-Back;Nk Aluminij Kidricevo;627438;2
+Nikola Krajinovic;0,15;Right Winger;Fc Koper;357774;29
+Zan Medved;0,15;Centre-Forward;Nk Celje;340425;55
+Sandi Nuhanovic;0,15;Central Midfield;Nk Radomlje;521369;8
+Tomislav Tomic;0,15;Defensive Midfield;Nk Celje;190272;70
+Marko Martinovic;0,15;Midfield;Nk Domzale;433657;26
+Mitja Ilenic;0,15;Right-Back;Nk Domzale;822074;-
+Leon Sever;0,15;Central Midfield;Nk Bravo;488799;25
+Roko Prsa;0,15;Central Midfield;Nk Aluminij Kidricevo;226089;12
+Miha Kompan Breznik;0,15;Left-Back;Nk Olimpija Ljubljana;938525;-
+Ibrahim Kargbo Jr.;0,15;Centre-Forward;Nk Celje;550696;-
+Luka Janzekovic;0,15;Goalkeeper;Nk Aluminij Kidricevo;402943;1
+Jon Sporn;0,15;Central Midfield;Nk Celje;356936;8
+Gregor Balazic;0,15;Centre-Back;Ns Mura;70869;4
+Tai Kmetec;0,1;Right Winger;Nk Aluminij Kidricevo;992788;-
+Marcos Tavares;0,1;Centre-Forward;Nk Maribor;699236;-
+Nikola Jovicic;0,1;Goalkeeper;Nk Domzale;963933;-
+Lovro Stubljar;0,1;Goalkeeper;Nk Domzale;728516;-
+Haris Kadric;0,1;Centre-Forward;Nk Aluminij Kidricevo;537180;9
+Luka Marjanac;0,1;Right Winger;Nk Bravo;583024;-
+Lucas Mario Horvat;0,1;Defensive Midfield;Nk Aluminij Kidricevo;50274;-
+Anze Pisek;0,1;Central Midfield;Nk Radomlje;245074;-
+Grega Sorcan;0,1;Goalkeeper;Nk Domzale;245092;-
+Armin Djerlek;0,1;Midfield;Nk Aluminij Kidricevo;429787;99
+Senijad Ibricic;0,1;Midfield;Nk Domzale;27861;10
+Ivan Makovec;0,1;Left-Back;Nk Domzale;502346;-
+Lovro Golic;0,1;Centre-Back;Nk Domzale;991751;-
+Luka Topalovic;0,1;Midfield;Nk Domzale;991744;-
+Miha Kancilija;0,1;Right Winger;Nk Bravo;687845;-
+Mark Strajnar;0,1;Left-Back;Nk Domzale;935217;-
+Timotej Dodlek;0,1;Midfield;Nk Aluminij Kidricevo;60083;-
+Gal Puconja;0,1;Left Winger;Nk Bravo;722378;-
+Kristjan Trdin;0,1;Centre-Back;Nk Bravo;722382;-
+Denis Kouao;0,1;Right-Back;Nk Tabor Sezana;569050;5
+Nikola Jovicevic;0,1;Midfield;Nk Domzale;872104;-
+Tilen Pecnik;0,1;Left Winger;Nk Aluminij Kidricevo;390847;-
+Edvin Krupic;0,1;Central Midfield;Nk Domzale;987753;-
+Rok Kronaveter;0,1;Midfield;Nk Maribor;50293;7
+Gal Gorenak;0,1;Central Midfield;Nk Maribor;622205;-
+Jost Pisek;0,1;Central Midfield;Nk Domzale;728517;-
+Tibor Knaus;0,1;Central Midfield;Nk Aluminij Kidricevo;941927;-
+Lukas Tomazic;0,1;Goalkeeper;Nk Maribor;940209;-
+Zan Nikolic;0,1;Centre-Forward;Nk Radomlje;341696;-
+Oliver Kregar;0,1;Left Winger;Nk Radomlje;543700;7
+Nick Perc;0,1;Left Winger;Nk Domzale;651843;-
+Nejc Gradisar;0,1;Centre-Forward;Nk Bravo;793476;-
+Luka Mlakar;0,1;Centre-Forward;Nk Domzale;866221;-
+Tomislav Turcin;0,1;Right Winger;Nk Aluminij Kidricevo;345771;13
+Enej Klampfer;0,1;Centre-Back;Nk Maribor;822077;-
+Anel Zulic;0,1;Centre-Back;Nk Radomlje;935640;-
+Marcel Lorber;0,1;Midfield;Nk Maribor;996391;-
+Rok Jazbec;0,1;Centre-Back;Nk Radomlje;255677;5
+Klemen Bolha;0,1;Defensive Midfield;Nk Aluminij Kidricevo;187182;19
+Marko Brest;0,1;Left Winger;Nk Aluminij Kidricevo;689227;22
+Emir Saitoski;0,1;Right Winger;Nk Domzale;715309;-
+Matej Podlogar;0,1;Right Winger;Nk Domzale;167565;21
+Anze Kolar;0,1;Midfielder;Nk Radomlje;901737;-
+Karlo Plantak;0,1;Defensive Midfield;Nk Aluminij Kidricevo;293188;6
+Axel Prohouly;0,1;Left Winger;Nk Radomlje;342225;97
+Jan Koprivec;0,1;Goalkeeper;Nk Tabor Sezana;50286;1
+Timi Mlinaric;0,1;Goalkeeper;Nk Tabor Sezana;844457;-
+Nejc Medved;0,1;Midfield;Nk Aluminij Kidricevo;622210;-
+Robert Pusaver;0,1;Right-Back;Nk Aluminij Kidricevo;348265;-
+Samo Pridgar;0,1;Goalkeeper;Nk Maribor;622197;-
+Ziga Ovsenek;0,1;Centre-Back;Nk Tabor Sezana;504554;8
+Darko Misic;0,1;Right-Back;Nk Radomlje;194075;26
+Beno Selan;0,1;Central Midfield;Nk Bravo;940220;-
+Sasa Varga;0,1;Centre-Forward;Nk Radomlje;188136;-
+Jaka Ihbeisheh;0,1;Right-Back;Nk Radomlje;48346;-
+Luka Cerar;0,1;Right Winger;Nk Radomlje;198819;10
+Matej Malensek;0,1;Left Winger;Nk Radomlje;1013087;-
+Luka Benotic;0,1;Central Midfield;Nk Aluminij Kidricevo;985093;-
+Aljaz Ploj;0,1;Left-Back;Nk Aluminij Kidricevo;514347;21
+David Sugic;0,1;Goalkeeper;Nk Radomlje;580432;1
+Tom Alen Tolic;0,1;Midfield;Nk Tabor Sezana;376446;10
+Filip Cukjati;0,1;Midfield;Fc Koper;993767;-
+Azur Mahmic;0,1;Centre-Back;Ns Mura;621633;44
+Mitja Viler;0,1;Left-Back;Fc Koper;50387;-
+Jakob Vodan;0,1;Goalkeeper;Fc Koper;930399;-
+Denny Tiganj;0,1;Goalkeeper;Fc Koper;928776;-
+David Adam;0,1;Goalkeeper;Fc Koper;198911;12
+Klemen Kozjak;0,1;Midfielder;Nk Aluminij Kidricevo;941946;-
+Rok Schaubach;0,1;Midfielder;Nk Aluminij Kidricevo;953958;-
+Jonathan Bumbu;0,1;Central Midfield;Nk Radomlje;694498;78
+Maj Mittendorfer;0,1;Centre-Back;Nk Celje;469687;-
+Tom Kljun;0,1;Left Winger;Nk Tabor Sezana;722380;7
+Fahd Ndzengue;0,1;Centre-Forward;Nk Tabor Sezana;427953;9
+Jakoslav Stankovic;0,1;Centre-Forward;Nk Tabor Sezana;795734;30
+Ivica Guberac;0,1;Defensive Midfield;Fc Koper;50269;7
+Matic Kompare;0,1;Central Midfield;Nk Tabor Sezana;845598;-
+Nino Milic;0,1;Left-Back;Nk Celje;822079;-
+Herve Mattia Gotter;0,1;Centre-Forward;Nk Tabor Sezana;817314;-
+Tin Martic;0,1;Centre-Back;Nk Aluminij Kidricevo;364285;4
+Zan Flis;0,1;Left-Back;Nk Celje;340403;4
+Luka Petek;0,1;Centre-Back;Nk Aluminij Kidricevo;496664;15
+Zan Benedicic;0,1;Defensive Midfield;Nk Celje;149809;23
+Ivan Maevskiy;0,1;Defensive Midfield;Nk Celje;118044;33
+Nejc Klasnja;0,1;Centre-Back;Nk Celje;722376;-
+Zan Vidovic;0,1;Centre-Back;Nk Aluminij Kidricevo;984399;-
+Miha Sitar;0,1;Midfielder;Nk Celje;822073;-
+Zeni Husmani;0,1;Defensive Midfield;Nk Domzale;110267;90
+Adam Vosnjak;0,1;Defensive Midfield;Fc Koper;675017;-
+Tino-Sven Susic;0,1;Central Midfield;Nk Tabor Sezana;140790;31
+Rok Grudina;0,1;Central Midfield;Fc Koper;444019;-
+David Nwolokor;0,1;Goalkeeper;Nk Aluminij Kidricevo;358195;31
+Luka Zinko;0,1;Defensive Midfield;Nk Bravo;22391;-
+Andrej Kotnik;0,1;Midfield;Fc Koper;382007;47
+Ziga Repas;0,1;Central Midfield;Nk Domzale;546686;19
+Gaber Dobrovoljc;0,1;Centre-Back;Nk Domzale;125436;4
+Mario Musa;0,1;Left-Back;Nk Aluminij Kidricevo;86633;33
+Matic Marusko;0,1;Defensive Midfield;Ns Mura;131488;9
+Nemanja Gavric;0,1;Defensive Midfield;Nk Olimpija Ljubljana;901726;-
+Nino Pungarsek;0,1;Defensive Midfield;Nk Olimpija Ljubljana;325126;8
+Stanisa Mandic;0,1;Left Winger;Ns Mura;298743;-
+Niko Kasalo;0,1;Left Winger;Ns Mura;940211;-
+Gal Kurez;0,1;Right Winger;Nk Olimpija Ljubljana;749024;-
+Ziga Skoflek;0,1;Right Winger;Ns Mura;223030;27
+Henrik Nerguti;0,1;Defensive Midfield;Ns Mura;900675;-
+Zan Mauricio;0,1;Goalkeeper;Nk Olimpija Ljubljana;916855;-
+Tilen Scernjavic;0,1;Left-Back;Ns Mura;847237;-
+Lan Erjavec;0,1;Goalkeeper;Ns Mura;862888;-
+Renato Simic;0,1;Right Winger;Fc Koper;502347;30
+Lamine Tall;0,1;Centre-Forward;Nk Olimpija Ljubljana;720868;95
+Dino Spehar;0,1;Centre-Forward;Nk Olimpija Ljubljana;160381;-
+Tai Matea Panic;0,1;Striker;Fc Koper;949165;-
+Goran Milovic;0,1;Centre-Back;Nk Olimpija Ljubljana;131305;35
+Luka Kerin;0,1;Left Winger;Nk Celje;371858;-
+Bi Nene Junior Gbamble;0,1;Right Winger;Nk Celje;913085;47
+Adam Jakobsen;0,1;Centre-Forward;Nk Celje;503602;16
+Vid Sumenjak;0,1;Goalkeeper;Ns Mura;1006697;-
+Kevin Zizek;0,075;Centre-Forward;Nk Celje;320872;-
+David Djurak;0,05;Midfield;Ns Mura;565295;-
+Filip Kosi;0,05;Right-Back;Nk Tabor Sezana;804280;-
+Andraz Kirm;0,05;Central Midfield;Nk Bravo;28393;17
+Chikwado Chukwu;0,05;Midfield;Nk Domzale;929442;24
+Lovro Juric;0,05;Goalkeeper;Nk Aluminij Kidricevo;434247;96
+Nejc Ajhmajer;0,05;Right-Back;Nk Celje;622167;20
+Vitja Valencic;0,05;Defensive Midfield;Nk Olimpija Ljubljana;320870;6
+Marko Ristic;0,05;Centre-Back;Nk Tabor Sezana;37588;3
+Erik Salkic;0,05;Left-Back;Nk Tabor Sezana;48385;33
+Maj Fogec;0,05;Left-Back;Nk Aluminij Kidricevo;651844;3
+Andrew Agnoletti;0,05;Central Midfield;Nk Tabor Sezana;617172;-
+Alen Korosec;0,05;Central Midfield;Nk Tabor Sezana;916531;88
+Hugo Komano;0,05;Midfield;Nk Tabor Sezana;779555;27
+Mark Seliskar;0,05;Midfield;Nk Tabor Sezana;941930;20
+Blaz Urh;0,05;Centre-Back;Nk Tabor Sezana;371855;2
+Matic Fink;0,05;Right-Back;Nk Olimpija Ljubljana;88370;17
+Jan Andrejasic;0,05;Right-Back;Nk Olimpija Ljubljana;245368;48
+Collins Chinemerem Ugwueze;0,05;Defensive Midfield;Nk Domzale;551154;14
+Erik Gliha;0,05;Left-Back;Nk Olimpija Ljubljana;284608;22
+Martin Jarc;0,05;Goalkeeper;Nk Aluminij Kidricevo;367554;97
+Terry Lartey Sanniez;0,05;Right-Back;Nk Celje;241483;34
+Nermin Hodzic;0,05;Central Midfield;Nk Domzale;226279;-
+Lan Stravs;0,05;Defensive Midfield;Nk Celje;585824;-
+Maj Roric;0,05;Central Midfield;Nk Celje;459890;71
+Luka Mesaric;0,05;Midfield;Nk Aluminij Kidricevo;502340;70
+Denis Adamov;0,05;Right-Back;Nk Domzale;321045;15
+Tibor Gorenc Stankovic;0,05;Centre-Back;Nk Domzale;464165;27
+Uros Korun;0,05;Centre-Back;Nk Olimpija Ljubljana;70872;-
+Miroslav Ilicic;0,05;Centre-Forward;Nk Celje;427370;11
+Zacharie Iscaye;0,05;Right-Back;Nk Tabor Sezana;801576;77
+Nejc Vidmar;0,05;Goalkeeper;Nk Olimpija Ljubljana;77248;-
+Matevz Vidovsek;0,05;Goalkeeper;Nk Olimpija Ljubljana;371863;69
+Klemen Mihelak;0,05;Goalkeeper;Nk Domzale;502345;22
+Tibor Banic;0,05;Goalkeeper;Nk Aluminij Kidricevo;525137;-
+Aaron Kacinari;0,05;Midfield;Nk Tabor Sezana;657338;41
+Anis Jasaragic;0,05;Left Winger;Fc Koper;371865;28
+Miha Hlad;0,05;Centre-Back;Nk Tabor Sezana;786047;-
+Darko Marjanovic;0,05;Goalkeeper;Nk Radomlje;320668;-
+Arian Rener;0,05;Goalkeeper;Nk Tabor Sezana;520327;99
+Rok Maher;0,05;Central Midfield;Nk Maribor;502356;24
+Luka Kambic;0,05;Right-Back;Fc Koper;390849;23
+Vilibald Vuco;0,05;Centre-Back;Nk Radomlje;388135;-
+Luka Uskokovic;0,05;Centre-Back;Nk Maribor;340401;23
+Cristojaye Daley;0,05;Midfield;Fc Koper;909027;80
+Marko Zalokar;0,05;Goalkeeper;Ns Mura;180822;90
+Matevz Matko;0,05;Centre-Back;Nk Bravo;546684;-
+Matija Burin;0,05;Centre-Back;Nk Bravo;502353;15
+Adrian Zeljkovic;0,05;Defensive Midfield;Nk Tabor Sezana;660545;6
+Ervin Sehic;0,05;Midfield;Nk Bravo;838408;-
+Gasper Vodeb;0,05;Centre-Back;Nk Bravo;842336;28
+Lun Boncina;0,05;Attacking Midfield;Nk Olimpija Ljubljana;905068;-
+Jure Matjasic;0,05;Left Winger;Nk Aluminij Kidricevo;112448;18
+Ognjen Bakic;0,05;Central Midfield;Nk Olimpija Ljubljana;724666;-
+Ziga Fermisek;0,05;Goalkeeper;Nk Radomlje;506924;31
+Aleksander Rajcevic;0,05;Centre-Back;Fc Koper;50337;26
+Jaka Bizjak;0,05;Centre-Forward;Nk Aluminij Kidricevo;109809;11
+Jovan Zogovic;0,05;Left Winger;Nk Domzale;650055;70
+Robert Caks;0,05;Centre-Forward;Nk Tabor Sezana;718031;19
+Metod Jurhar;0,05;Goalkeeper;Nk Celje;378128;1
+Matjaz Rozman;0,05;Goalkeeper;Nk Celje;70873;22
+Florijan Raduha;0,05;Goalkeeper;Nk Celje;519504;31
+Slobodan Vuk;0,05;Centre-Forward;Nk Domzale;179062;89
+Zan Bucek;0,05;Left-Back;Ns Mura;952945;5
+Ranaldo Biggs;0,05;Centre-Forward;Nk Domzale;923695;7
+Denis Marandici;0,05;Left-Back;Nk Celje;249891;25
+Mory Keita;0,05;Left Winger;Nk Tabor Sezana;738602;17
+Nana Kofi Babil;0,05;Left Winger;Nk Aluminij Kidricevo;734819;14
+Jus Stusej;0,05;Midfield;Nk Aluminij Kidricevo;536517;17
+Marko Brkic;0,05;Central Midfield;Ns Mura;476045;-
+Gal Lubej Fink;0,05;Goalkeeper;Nk Bravo;694317;22
+Stevan Nikolic;0,05;Centre-Forward;Nk Maribor;506942;31
+Gasper Petek;0,025;Centre-Back;Nk Radomlje;842658;-
+Lenart Brolih;0,025;Centre-Back;Nk Radomlje;521367;-
+Nik Fortuna;0,025;Midfielder;Nk Radomlje;930522;-
+Ziga Dajcman;0,01;Centre-Back;Nk Domzale;627436;-
+Rai Rudonja;0,01;Attacking Midfielder;Fc Koper;949139;-

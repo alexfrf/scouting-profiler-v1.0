@@ -73,7 +73,8 @@ def expanding_dfs():
     ## De Sustitución
     
     gr_partidos = df_jug.groupby(by='league-id-instat',as_index=False)['Partidos jugados'].agg(['mean','max']).reset_index()
-    
+    df_jug = pd.merge(df_jug,df_equipos[['teamid','league-id-instat','league-instat']],
+                                how='left',on='teamid')
     df_jug = pd.merge(df_jug,gr_partidos[['league-id-instat','max']],how='left',on='league-id-instat')
     df_jug['PJ_maxleague'] = df_jug['Partidos jugados'] / df_jug['max']
     
@@ -145,7 +146,6 @@ def expanding_dfs():
     
     df_jug_clean['Wing_Natural'] = 0
     df_jug_clean['Wing_Natural'] = np.where((df_jug_clean['x0_Derechа']==1) & (df_jug_clean['Posición'].isin(['LD','ED'])) | ((df_jug_clean['x0_Zurda']==1) & (df_jug_clean['Posición'].isin(['LI','EI']))),1,0)
-    df_jug_clean['Wing_Natural'] = np.where((df_jug_clean['Posición'].isin(['LD','LI','ED','EI'])) & (df_jug_clean['x0_Ambidiestro']==1),1,df_jug_clean['Wing_Natural'])
     df_jug_clean['x0_Derechа'] = np.where(df_jug_clean['x0_Ambidiestro']==1,1,df_jug_clean['x0_Derechа'])      
       
     for i in pies_list:

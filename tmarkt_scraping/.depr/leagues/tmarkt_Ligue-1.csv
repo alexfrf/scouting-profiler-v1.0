@@ -1,0 +1,761 @@
+Players;Values;POS;Team;ID;Num
+Kylian Mbappe;160,0;Forward;Fc Paris Saint Germain;342229;7
+Neymar;75,0;Left Winger;Fc Paris Saint Germain;68290;10
+Marquinhos;70,0;Centre-Back;Fc Paris Saint Germain;181767;5
+Achraf Hakimi;65,0;Right-Back;Fc Paris Saint Germain;398073;2
+Aurelien Tchouameni;60,0;Defensive Midfield;As Monaco;413112;8
+Eduardo Camavinga;55,0;Central Midfield;Fc Stade Rennes;640428;-
+Gianluigi Donnarumma;50,0;Goalkeeper;Fc Paris Saint Germain;315858;50
+Marco Verratti;50,0;Central Midfield;Fc Paris Saint Germain;102558;6
+Lionel Messi;50,0;Right Winger;Fc Paris Saint Germain;28003;30
+Jonathan David;45,0;Centre-Forward;Losc Lille;533738;9
+Amine Gouiri;42,0;Centre-Forward;Ogc Nizza;418659;11
+Nuno Mendes;40,0;Left-Back;Fc Paris Saint Germain;616341;25
+Presnel Kimpembe;40,0;Centre-Back;Fc Paris Saint Germain;282041;3
+Bruno Guimaraes;40,0;Midfield;Olympique Lyon;520624;-
+Lucas Paqueta;35,0;Midfield;Olympique Lyon;444523;10
+Sven Botman;30,0;Centre-Back;Losc Lille;361093;4
+Benoit Badiashile;30,0;Centre-Back;As Monaco;463603;5
+William Saliba;30,0;Centre-Back;Olympique Marseille;495666;2
+Tanguy Ndombele;30,0;Midfield;Olympique Lyon;450936;28
+Renato Sanches;28,0;Central Midfield;Losc Lille;258027;10
+Hugo Ekitike;28,0;Forward;Stade Reims;709726;22
+Houssem Aouar;25,0;Central Midfield;Olympique Lyon;395693;8
+Wissam Ben Yedder;25,0;Centre-Forward;As Monaco;146854;10
+Aleksandr Golovin;25,0;Midfield;As Monaco;263918;17
+Martin Terrier;25,0;Left Winger;Fc Stade Rennes;442891;7
+Pablo Sarabia;25,0;Right Winger;Fc Paris Saint Germain;74230;-
+Seko Fofana;25,0;Central Midfield;Rc Lens;182893;8
+Maxence Caqueret;25,0;Central Midfield;Olympique Lyon;395237;25
+Matteo Guendouzi;25,0;Central Midfield;Olympique Marseille;465830;6
+Boubacar Kamara;25,0;Defensive Midfield;Olympique Marseille;394327;4
+Mauro Icardi;22,0;Centre-Forward;Fc Paris Saint Germain;68863;9
+Tete;22,0;Right Winger;Olympique Lyon;371256;20
+Kevin Volland;22,0;Centre-Forward;As Monaco;82009;31
+Reinildo Mandava;22,0;Left-Back;Losc Lille;240692;-
+Gerson;22,0;Central Midfield;Olympique Marseille;341705;8
+Cengiz Under;22,0;Right Winger;Olympique Marseille;341647;17
+Thilo Kehrer;22,0;Centre-Back;Fc Paris Saint Germain;228948;24
+Moussa Dembele;20,0;Forward;Olympique Lyon;229004;9
+Jeremy Doku;20,0;Right Winger;Fc Stade Rennes;486049;11
+Castello Lukeba;20,0;Centre-Back;Olympique Lyon;618472;4
+Sofiane Diop;20,0;Left Winger;As Monaco;569389;37
+Jean-Clair Todibo;20,0;Centre-Back;Ogc Nizza;605184;25
+Caio Henrique;20,0;Left-Back;As Monaco;420064;12
+Lovro Majer;20,0;Midfield;Fc Stade Rennes;387106;21
+Jonathan Ikone;18,0;Right Winger;Losc Lille;324690;-
+Gaetan Laborde;18,0;Centre-Forward;Fc Stade Rennes;181378;24
+Vanderson;18,0;Right-Back;As Monaco;789082;2
+Zeki Celik;18,0;Right-Back;Losc Lille;251075;2
+Abdou Diallo;18,0;Centre-Back;Fc Paris Saint Germain;229005;22
+Rayan Cherki;18,0;Midfield;Olympique Lyon;607223;18
+Julian Draxler;18,0;Left Winger;Fc Paris Saint Germain;85148;23
+Arnaud Kalimuendo;18,0;Centre-Forward;Rc Lens;585959;15
+Benjamin Bourigeaud;18,0;Midfield;Fc Stade Rennes;266359;14
+Georginio Wijnaldum;18,0;Central Midfield;Fc Paris Saint Germain;49499;18
+Kamaldeen Sulemana;18,0;Left Winger;Fc Stade Rennes;746695;10
+Youssouf Fofana;18,0;Central Midfield;As Monaco;569598;22
+Axel Disasi;17,0;Centre-Back;As Monaco;386047;6
+Jonathan Bamba;17,0;Left Winger;Losc Lille;292818;7
+Khephren Thuram;17,0;Defensive Midfield;Ogc Nizza;463618;19
+Yusuf Yazici;17,0;Midfield;Losc Lille;386726;-
+Leandro Paredes;17,0;Defensive Midfield;Fc Paris Saint Germain;166237;8
+Kasper Dolberg;17,0;Centre-Forward;Ogc Nizza;283196;9
+Arkadiusz Milik;16,0;Centre-Forward;Olympique Marseille;191891;9
+Duje Caleta-Car;16,0;Centre-Back;Olympique Marseille;238266;15
+Alban Lafont;16,0;Goalkeeper;Fc Nantes;357117;1
+Randal Kolo Muani;16,0;Centre-Forward;Fc Nantes;487969;23
+Ludovic Blas;16,0;Midfield;Fc Nantes;288225;10
+Ludovic Ajorque;16,0;Centre-Forward;Rc Strassburg Alsace;283994;25
+Cheick Doucoure;15,0;Midfield;Rc Lens;543387;28
+Youcef Atal;15,0;Right-Back;Ogc Nizza;416108;20
+Justin Kluivert;15,0;Left Winger;Ogc Nizza;330659;21
+Guillermo Maripan;15,0;Centre-Back;As Monaco;249730;3
+Momo Cho;15,0;Centre-Forward;Sco Angers;670847;21
+Pape Matar Sarr;15,0;Central Midfield;Fc Metz;568693;15
+Gelson Martins;15,0;Right Winger;As Monaco;257448;7
+Romain Faivre;15,0;Midfield;Stade Brest 29;555076;-
+Karl Toko Ekambi;15,0;Left Winger;Olympique Lyon;315110;7
+Maxwel Cornet;15,0;Left Winger;Olympique Lyon;234781;-
+Jonathan Clauss;15,0;Right-Back;Rc Lens;175639;11
+Baptiste Santamaria;14,0;Central Midfield;Fc Stade Rennes;285323;8
+Jeff Reine-Adelaide;14,0;Midfield;Olympique Lyon;326300;22
+Jason Denayer;14,0;Centre-Back;Olympique Lyon;277114;5
+Danilo Pereira;14,0;Defensive Midfield;Fc Paris Saint Germain;141050;15
+Emerson;14,0;Left-Back;Olympique Lyon;181778;3
+Myron Boadu;14,0;Centre-Forward;As Monaco;412932;9
+Walter Benitez;14,0;Goalkeeper;Ogc Nizza;296802;40
+Krepin Diatta;13,0;Right Winger;As Monaco;490426;27
+Calvin Stengs;13,0;Right Winger;Ogc Nizza;409344;22
+Andy Delort;13,0;Centre-Forward;Ogc Nizza;122797;7
+Angel Di Maria;12,0;Right Winger;Fc Paris Saint Germain;45320;11
+Mohamed Bayo;12,0;Centre-Forward;Clermont Foot 63;594991;27
+Elye Wahi;12,0;Centre-Forward;Montpellier Hsc;659542;21
+Pau Lopez;12,0;Goalkeeper;Olympique Marseille;286415;16
+Angelo Fulgini;12,0;Midfield;Sco Angers;250013;10
+Pape Gueye;12,0;Defensive Midfield;Olympique Marseille;485963;22
+Valentin Rongier;12,0;Central Midfield;Olympique Marseille;332889;21
+Idrissa Gueye;12,0;Central Midfield;Fc Paris Saint Germain;126665;27
+Juan Bernat;12,0;Left-Back;Fc Paris Saint Germain;126719;14
+Loic Bade;12,0;Centre-Back;Fc Stade Rennes;730581;4
+Nayef Aguerd;12,0;Centre-Back;Fc Stade Rennes;361914;6
+Habib Diallo;12,0;Centre-Forward;Rc Strassburg Alsace;344888;20
+Malo Gusto;12,0;Right-Back;Olympique Lyon;620322;17
+Timothy Weah;12,0;Right Winger;Losc Lille;370846;22
+Tiago Djalo;12,0;Centre-Back;Losc Lille;420465;3
+Teji Savanier;12,0;Midfield;Montpellier Hsc;127156;11
+Benjamin Andre;12,0;Midfield;Losc Lille;84301;21
+Adrien Truffert;12,0;Left-Back;Fc Stade Rennes;654539;3
+Facundo Medina;11,0;Centre-Back;Rc Lens;474800;14
+Ruben Aguilar;10,0;Right-Back;As Monaco;203746;26
+Ander Herrera;10,0;Central Midfield;Fc Paris Saint Germain;99343;21
+Moses Simon;10,0;Left Winger;Fc Nantes;274862;27
+Lucas Gourna-Douath;10,0;Defensive Midfield;As Saint Etienne;620313;6
+Stephy Mavididi;10,0;Left Winger;Montpellier Hsc;340328;10
+Serhou Guirassy;10,0;Centre-Forward;Fc Stade Rennes;270541;9
+Franck Honorat;10,0;Right Winger;Stade Brest 29;229006;9
+Pablo Rosario;10,0;Defensive Midfield;Ogc Nizza;370791;8
+Joris Chotard;10,0;Defensive Midfield;Montpellier Hsc;624037;13
+Hamari Traore;10,0;Right-Back;Fc Stade Rennes;297070;27
+Luiz Araujo;10,0;Right Winger;Losc Lille;435485;-
+Leonardo Balerdi;10,0;Centre-Back;Olympique Marseille;575998;5
+Amine Harit;10,0;Midfield;Olympique Marseille;372711;7
+Anthony Lopes;10,0;Goalkeeper;Olympique Lyon;60561;1
+Leo Dubois;10,0;Right-Back;Olympique Lyon;236400;14
+Wout Faes;10,0;Centre-Back;Stade Reims;292808;2
+Bamba Dieng;10,0;Centre-Forward;Olympique Marseille;822458;12
+Alexander Djiku;10,0;Centre-Back;Rc Strassburg Alsace;250844;24
+Amadou Onana;10,0;Defensive Midfield;Losc Lille;485706;24
+Predrag Rajkovic;9,0;Goalkeeper;Stade Reims;190263;1
+Xeka;9,0;Central Midfield;Losc Lille;290256;8
+Kevin Danso;9,0;Centre-Back;Rc Lens;263236;4
+Adrien Thomasson;9,0;Midfield;Rc Strassburg Alsace;215977;10
+Mario Lemina;9,0;Defensive Midfield;Ogc Nizza;170934;18
+Melvin Bard;9,0;Left-Back;Ogc Nizza;532775;26
+Thiago Mendes;9,0;Defensive Midfield;Olympique Lyon;135617;23
+Terem Moffi;9,0;Centre-Forward;Fc Lorient;538874;13
+Yacine Adli;9,0;Midfield;Fc Girondins Bordeaux;395236;19
+Rafinha;9,0;Midfield;Fc Paris Saint Germain;129473;-
+Keylor Navas;8,0;Goalkeeper;Fc Paris Saint Germain;79422;1
+Jonas Omlin;8,0;Goalkeeper;Montpellier Hsc;247915;1
+Eliot Matazo;8,0;Central Midfield;As Monaco;535834;36
+Djibril Sidibe;8,0;Right-Back;As Monaco;161869;19
+Flavien Tait;8,0;Central Midfield;Fc Stade Rennes;202278;20
+Ibrahima Sissoko;8,0;Defensive Midfield;Rc Strassburg Alsace;372712;27
+Jean Lucas;8,0;Central Midfield;As Monaco;578872;11
+Nathanael Mbuku;8,0;Left Winger;Stade Reims;557614;11
+Warmed Omari;8,0;Centre-Back;Fc Stade Rennes;711996;23
+Jean-Ricner Bellegarde;8,0;Central Midfield;Rc Strassburg Alsace;450050;17
+Flavius Daniliuc;8,0;Centre-Back;Ogc Nizza;322655;5
+Alexander Nubel;8,0;Goalkeeper;As Monaco;195778;16
+Toma Basic;8,0;Central Midfield;Fc Girondins Bordeaux;334835;-
+Alfred Gomis;8,0;Goalkeeper;Fc Stade Rennes;163568;16
+Matz Sels;8,0;Goalkeeper;Rc Strassburg Alsace;127202;1
+Denis Bouanga;8,0;Left Winger;As Saint Etienne;236045;20
+Cedric Bakambu;8,0;Centre-Forward;Olympique Marseille;127048;13
+Przemyslaw Frankowski;8,0;Midfield;Rc Lens;239743;29
+Sofiane Boufal;8,0;Left Winger;Sco Angers;232271;7
+Pol Lirola;8,0;Right-Back;Olympique Marseille;298975;29
+Gerzino Nyamsi;7,5;Centre-Back;Rc Strassburg Alsace;378953;22
+Ui-jo Hwang;7,0;Centre-Forward;Fc Girondins Bordeaux;260166;18
+Ismail Jakobs;7,0;Left-Back;As Monaco;375137;14
+Steve Mounie;7,0;Forward;Stade Brest 29;238639;15
+Lucien Agoume;7,0;Midfield;Stade Brest 29;569384;10
+Birger Meling;7,0;Left-Back;Fc Stade Rennes;282250;25
+Fabien Centonze;7,0;Right-Back;Fc Metz;384859;18
+Armand Lauriente;7,0;Left Winger;Fc Lorient;579930;28
+Gael Kakuta;7,0;Midfield;Rc Lens;74297;10
+Xherdan Shaqiri;7,0;Right Winger;Olympique Lyon;86792;-
+Anthony Caci;7,0;Left-Back;Rc Strassburg Alsace;453016;19
+Martin Satriano;7,0;Centre-Forward;Stade Brest 29;640109;11
+Angel Gomes;7,0;Midfield;Losc Lille;392770;20
+Luan Peres;7,0;Centre-Back;Olympique Marseille;347913;14
+Ghislain Konan;7,0;Left-Back;Stade Reims;422850;3
+Frederic Guilbert;7,0;Right-Back;Rc Strassburg Alsace;354352;2
+Raoul Bellanova;7,0;Right-Back;Fc Girondins Bordeaux;357992;-
+Etienne Green;7,0;Goalkeeper;As Saint Etienne;696849;40
+Jordan Lotomba;7,0;Right-Back;Ogc Nizza;313094;23
+Pedro Chirivella;7,0;Central Midfield;Fc Nantes;242273;5
+Paul Bernardoni;7,0;Goalkeeper;Sco Angers;318507;-
+Colin Dagba;7,0;Right-Back;Fc Paris Saint Germain;460629;17
+Azor Matusiwa;7,0;Defensive Midfield;Stade Reims;315145;21
+Hicham Boudaoui;6,5;Central Midfield;Ogc Nizza;560593;28
+Remy Cabella;6,5;Midfield;Montpellier Hsc;113707;22
+Andreaw Gravillon;6,5;Centre-Back;Stade Reims;395083;6
+Alberth Elis;6,5;Right Winger;Fc Girondins Bordeaux;281319;29
+El Bilal Toure;6,5;Forward;Stade Reims;649016;7
+Gabriel Gudmundsson;6,0;Left-Back;Losc Lille;362108;5
+Luis Henrique;6,0;Left Winger;Olympique Marseille;691316;11
+Konrad de la Fuente;6,0;Left Winger;Olympique Marseille;466809;20
+Sergio Ramos;6,0;Centre-Back;Fc Paris Saint Germain;25557;4
+Adil Aouchiche;6,0;Midfield;As Saint Etienne;569385;17
+Alexis Claude-Maurice;6,0;Midfield;Ogc Nizza;384593;10
+Javairo Dilrosun;6,0;Left Winger;Fc Girondins Bordeaux;315125;21
+Wilson Isidor;6,0;Centre-Forward;As Monaco;494237;-
+Timothee Pembele;6,0;Right-Back;Fc Girondins Bordeaux;538998;22
+Otavio;6,0;Defensive Midfield;Fc Girondins Bordeaux;312314;-
+Mahdi Camara;6,0;Central Midfield;As Saint Etienne;324795;8
+Jordan Amavi;6,0;Left-Back;Olympique Marseille;241229;-
+Anel Ahmedhodzic;6,0;Centre-Back;Fc Girondins Bordeaux;377468;5
+Florent Mollet;6,0;Midfield;Montpellier Hsc;222859;25
+Tino Kadewere;6,0;Centre-Forward;Olympique Lyon;384060;11
+Enzo Le Fee;6,0;Midfield;Fc Lorient;633992;10
+Jens Cajuste;5,0;Defensive Midfield;Stade Reims;468066;8
+Ike Ugbo;5,0;Centre-Forward;Es Troyes Ac;339943;13
+Junior Dina Ebimbe;5,0;Midfield;Fc Paris Saint Germain;536482;28
+Lucas Perrin;5,0;Centre-Back;Rc Strassburg Alsace;352392;5
+Jordan Ferri;5,0;Central Midfield;Montpellier Hsc;118284;12
+Remi Oudin;5,0;Right Winger;Fc Girondins Bordeaux;399543;28
+Chrislain Matsima;5,0;Centre-Back;As Monaco;569383;34
+Dimitri Payet;5,0;Midfield;Olympique Marseille;37647;10
+Strahinja Pavlovic;5,0;Centre-Back;As Monaco;574671;-
+Thomas Foket;5,0;Right-Back;Stade Reims;215114;32
+Simon Banza;5,0;Centre-Forward;Rc Lens;344869;-
+Marshall Munetsi;5,0;Defensive Midfield;Stade Reims;414908;15
+Rominigue Kouame;5,0;Midfield;Es Troyes Ac;277635;6
+Brendan Chardonnet;5,0;Centre-Back;Stade Brest 29;250779;5
+Ibrahima Niane;5,0;Centre-Forward;Fc Metz;490417;7
+Sinaly Diomande;5,0;Centre-Back;Olympique Lyon;702441;2
+Ronael Pierre-Gabriel;5,0;Right-Back;Stade Brest 29;410185;18
+Quentin Merlin;5,0;Left-Back;Fc Nantes;557613;29
+Layvin Kurzawa;5,0;Left-Back;Fc Paris Saint Germain;126710;20
+Andrei Girotto;5,0;Centre-Back;Fc Nantes;270051;3
+Nicolas Cozza;5,0;Left-Back;Montpellier Hsc;485965;31
+Jean Onana;5,0;Defensive Midfield;Losc Lille;656441;-
+Jimmy Cabot;5,0;Midfield;Sco Angers;206912;11
+Edon Zhegrova;5,0;Right Winger;Losc Lille;496857;23
+Kiki Kouyate;5,0;Centre-Back;Fc Metz;211637;23
+Ignatius Ganago;5,0;Centre-Forward;Rc Lens;531949;9
+Billal Brahimi;5,0;Left Winger;Ogc Nizza;543051;14
+Maxime Esteve;4,5;Centre-Back;Montpellier Hsc;842341;14
+Mamadou Sakho;4,5;Centre-Back;Montpellier Hsc;47713;3
+Ibrahima Kone;4,5;Forward;Fc Lorient;490223;9
+Arber Zeneli;4,5;Left Winger;Stade Reims;222876;10
+David Costa;4,5;Midfield;Rc Lens;719442;20
+Junior Sambia;4,5;Right-Back;Montpellier Hsc;335147;6
+Irvin Cardona;4,5;Centre-Forward;Stade Brest 29;342226;14
+Yvann Macon;4,5;Right-Back;As Saint Etienne;580747;27
+Patrick Berg;4,5;Defensive Midfield;Rc Lens;308439;6
+Wylan Cyprien;4,5;Central Midfield;Fc Nantes;182889;8
+Marco Bizot;4,5;Goalkeeper;Stade Brest 29;124884;40
+Pietro Pellegri;4,5;Centre-Forward;As Monaco;364133;-
+Mama Balde;4,5;Forward;Es Troyes Ac;325223;25
+Jonathan Gradit;4,5;Centre-Back;Rc Lens;126557;24
+Ilan Kebbal;4,5;Midfield;Stade Reims;739769;20
+Lucas Da Cunha;4,0;Right Winger;Clermont Foot 63;495667;10
+Leo Jardim;4,0;Goalkeeper;Losc Lille;288415;30
+Giulian Biancone;4,0;Right-Back;Es Troyes Ac;536507;4
+Dan Ndoye;4,0;Right Winger;Ogc Nizza;365108;-
+Wahbi Khazri;4,0;Centre-Forward;As Saint Etienne;103565;10
+Pedro Mendes;4,0;Centre-Back;Montpellier Hsc;72857;5
+Renaud Ripart;4,0;Right Winger;Es Troyes Ac;234802;20
+Zaydou Youssouf;4,0;Central Midfield;As Saint Etienne;471582;28
+Hassane Kamara;4,0;Left-Back;Ogc Nizza;290017;-
+Jean-Charles Castelletto;4,0;Centre-Back;Fc Nantes;182875;21
+Xavi Simons;4,0;Midfield;Fc Paris Saint Germain;566931;34
+Issa Kabore;4,0;Right-Back;Es Troyes Ac;649452;29
+Falaye Sacko;4,0;Right-Back;As Saint Etienne;364857;14
+Lilian Brassier;4,0;Centre-Back;Stade Brest 29;485960;3
+Arnaud Nordin;4,0;Right Winger;As Saint Etienne;324811;18
+Christophe Herelle;4,0;Centre-Back;Stade Brest 29;170544;23
+Stephane Bahoken;4,0;Centre-Forward;Sco Angers;170953;19
+Sanjin Prcic;4,0;Central Midfield;Rc Strassburg Alsace;125783;14
+Haris Belkebla;4,0;Central Midfield;Stade Brest 29;138055;7
+Akim Zedadka;4,0;Right-Back;Clermont Foot 63;327863;20
+Saidou Sow;4,0;Centre-Back;As Saint Etienne;807128;4
+Dylan Bronn;4,0;Centre-Back;Fc Metz;450417;2
+M'Baye Niang;4,0;Centre-Forward;Fc Girondins Bordeaux;157501;10
+Willem Geubbels;4,0;Left Winger;Fc Nantes;463620;19
+Nemanja Radonjic;4,0;Left Winger;Olympique Marseille;245078;-
+Mathieu Cafaro;4,0;Left Winger;Stade Reims;399383;-
+Harold Moukoudi;4,0;Centre-Back;As Saint Etienne;272636;2
+Wuilker Farinez;4,0;Goalkeeper;Rc Lens;373714;1
+Sergio Rico;4,0;Goalkeeper;Fc Paris Saint Germain;207302;-
+Jean-Kevin Duverne;4,0;Centre-Back;Stade Brest 29;344864;2
+Jerome Boateng;3,5;Centre-Back;Olympique Lyon;26485;27
+Farid Boulaya;3,5;Midfield;Fc Metz;202318;10
+Habib Maiga;3,5;Midfield;Fc Metz;293944;19
+Isaac Lihadji;3,5;Right Winger;Losc Lille;557610;19
+Maxime Busi;3,5;Right-Back;Stade Reims;570817;4
+Domagoj Bradaric;3,5;Left-Back;Losc Lille;357796;29
+Xavier Chavalerin;3,5;Central Midfield;Es Troyes Ac;118278;24
+Ivo Grbic;3,5;Goalkeeper;Losc Lille;226073;1
+Danilo Barbosa;3,5;Defensive Midfield;Ogc Nizza;273438;15
+Nabil Bentaleb;3,5;Central Midfield;Sco Angers;245537;23
+Morgan Schneiderlin;3,5;Defensive Midfield;Ogc Nizza;56818;6
+Josuha Guilavogui;3,5;Defensive Midfield;Fc Girondins Bordeaux;93704;23
+Mihailo Ristic;3,5;Left-Back;Montpellier Hsc;271455;7
+Dogan Alemdar;3,5;Goalkeeper;Fc Stade Rennes;576033;40
+Didier Lamkel Ze;3,5;Left Winger;Fc Metz;442320;22
+Batista Mendy;3,0;Defensive Midfield;Sco Angers;395234;2
+Cedric Hountondji;3,0;Centre-Back;Clermont Foot 63;198709;4
+Moreto Cassama;3,0;Midfield;Stade Reims;290746;23
+Houboulang Mendes;3,0;Right-Back;Fc Lorient;442552;17
+Julien Laporte;3,0;Centre-Back;Fc Lorient;386057;15
+Faitout Maouassa;3,0;Left-Back;Fc Stade Rennes;357072;-
+Laurent Abergel;3,0;Defensive Midfield;Fc Lorient;238626;6
+Erik Palmer-Brown;3,0;Centre-Back;Es Troyes Ac;282199;2
+Evann Guessand;3,0;Centre-Forward;Ogc Nizza;500689;24
+Azzedine Ounahi;3,0;Central Midfield;Sco Angers;593482;18
+Christopher Wooh;3,0;Centre-Back;Rc Lens;572326;5
+Osman Bukari;3,0;Right Winger;Fc Nantes;548650;26
+Sekou Mara;3,0;Centre-Forward;Fc Girondins Bordeaux;557612;11
+Myziane Maolida;3,0;Left Winger;Ogc Nizza;371142;-
+Florian Tardieu;3,0;Central Midfield;Es Troyes Ac;212804;10
+Metinho;3,0;Central Midfield;Es Troyes Ac;859396;31
+Robson Bambu;3,0;Centre-Back;Ogc Nizza;458715;-
+Abdu Conte;3,0;Left-Back;Es Troyes Ac;337798;12
+Radoslaw Majecki;3,0;Goalkeeper;As Monaco;346546;1
+Josh Maja;3,0;Centre-Forward;Fc Girondins Bordeaux;453824;-
+Samuel Moutoussamy;3,0;Central Midfield;Fc Nantes;353403;18
+Yvan Neyou;3,0;Defensive Midfield;As Saint Etienne;469669;19
+Sead Kolasinac;3,0;Left-Back;Olympique Marseille;94005;23
+Gautier Larsonneur;3,0;Goalkeeper;Stade Brest 29;357047;1
+Lorenz Assignon;3,0;Right-Back;Fc Stade Rennes;711969;22
+Edouard Michut;3,0;Central Midfield;Fc Paris Saint Germain;659521;38
+Jeremy Le Douaron;3,0;Centre-Forward;Stade Brest 29;737781;26
+Dario Benedetto;3,0;Centre-Forward;Olympique Marseille;92693;-
+Souleyman Doumbia;3,0;Left-Back;Sco Angers;296356;3
+Romain Del Castillo;3,0;Midfield;Stade Brest 29;353399;25
+Salis Abdul Samed;3,0;Defensive Midfield;Clermont Foot 63;688707;19
+Jean Marcelin;3,0;Centre-Back;As Monaco;475412;43
+Jean-Eudes Aholou;3,0;Defensive Midfield;Rc Strassburg Alsace;178313;6
+Enock Kwateng;3,0;Right-Back;Fc Girondins Bordeaux;288241;25
+Matthis Abline;3,0;Centre-Forward;Fc Stade Rennes;659543;-
+Samuel Kalu;3,0;Right Winger;Fc Girondins Bordeaux;424051;-
+Lesley Ugochukwu;3,0;Defensive Midfield;Fc Stade Rennes;711999;26
+Arnaud Souquet;2,5;Right-Back;Montpellier Hsc;111058;2
+Fransergio;2,5;Central Midfield;Fc Girondins Bordeaux;111828;13
+Adrian Grbic;2,5;Centre-Forward;Fc Lorient;167342;-
+Matthieu Udol;2,5;Left-Back;Fc Metz;344886;3
+Alvaro Gonzalez;2,5;Centre-Back;Olympique Marseille;183647;3
+Mathias Pereira Lage;2,5;Midfield;Sco Angers;424072;27
+Gideon Mensah;2,5;Left-Back;Fc Girondins Bordeaux;397171;14
+Elbasan Rashani;2,5;Left Winger;Clermont Foot 63;149579;18
+Yasser Larouci;2,5;Left-Back;Es Troyes Ac;554251;22
+Moritz Jenz;2,5;Centre-Back;Fc Lorient;460245;3
+Vital Nsimba;2,5;Left-Back;Clermont Foot 63;203761;12
+Alexis Flips;2,5;Right Winger;Stade Reims;395242;12
+Florian Sotoca;2,5;Centre-Forward;Rc Lens;354726;7
+Valon Berisha;2,5;Central Midfield;Stade Reims;145115;14
+Nicolas de Preville;2,5;Forward;Fc Metz;122116;9
+Jonas Martin;2,5;Defensive Midfield;Fc Stade Rennes;127142;28
+Wesley Said;2,5;Forward;Rc Lens;182916;22
+Dion Lopy;2,5;Defensive Midfield;Stade Reims;649033;26
+Cesc Fabregas;2,5;Midfield;As Monaco;8806;4
+Valere Germain;2,5;Centre-Forward;Montpellier Hsc;60540;9
+Jeremy Gelin;2,5;Centre-Back;Fc Stade Rennes;288237;31
+Mickael Nade;2,5;Centre-Back;As Saint Etienne;494586;3
+Timothee Kolodziejczak;2,5;Centre-Back;As Saint Etienne;84085;5
+Gauthier Gallon;2,5;Goalkeeper;Es Troyes Ac;193256;30
+Gerson Rodrigues;2,5;Left Winger;Es Troyes Ac;282734;-
+Ruben Pardo;2,4;Central Midfield;Fc Girondins Bordeaux;99352;-
+Kaj Sierhuis;2,3;Centre-Forward;Stade Reims;315283;-
+Georges Mikautadze;2,2;Centre-Forward;Fc Metz;729814;-
+Thuler;2,0;Centre-Back;Montpellier Hsc;549815;26
+Mitchell van Bergen;2,0;Left Winger;Stade Reims;393239;19
+Lebo Mothiba;2,0;Centre-Forward;Rc Strassburg Alsace;427161;-
+Kevin Gameiro;2,0;Centre-Forward;Rc Strassburg Alsace;27389;9
+Marcin Bulka;2,0;Goalkeeper;Ogc Nizza;465955;1
+Enzo Ebosse;2,0;Centre-Back;Sco Angers;342877;6
+Bonke Innocent;2,0;Defensive Midfield;Fc Lorient;333383;8
+Igor Silva;2,0;Right-Back;Fc Lorient;391720;2
+Youssouph Badji;2,0;Centre-Forward;Stade Brest 29;649035;-
+Jim Allevinah;2,0;Midfield;Clermont Foot 63;646733;11
+Youssouf Kone;2,0;Left-Back;Es Troyes Ac;274484;3
+Yohann Magnin;2,0;Defensive Midfield;Clermont Foot 63;594997;7
+Alidu Seidu;2,0;Centre-Back;Clermont Foot 63;798404;36
+Loum Tchaouna;2,0;Right Winger;Fc Stade Rennes;607226;17
+Bradley Locko;2,0;Left-Back;Stade Reims;805908;28
+Mathys Tel;2,0;Centre-Forward;Fc Stade Rennes;801734;39
+Massadio Haidara;2,0;Left-Back;Rc Lens;170929;21
+Ryad Boudebouz;2,0;Midfield;As Saint Etienne;77826;7
+Paul Nardi;2,0;Goalkeeper;Fc Lorient;189744;30
+Jere Uronen;2,0;Left-Back;Stade Brest 29;131827;20
+Philippe Sandler;2,0;Centre-Back;Es Troyes Ac;340460;-
+Ibrahim Amadou;2,0;Defensive Midfield;Fc Metz;205503;32
+Hugo Magnetti;2,0;Central Midfield;Stade Brest 29;474662;27
+Youcef Belaili;2,0;Left Winger;Stade Brest 29;175014;24
+Jemerson;2,0;Centre-Back;Fc Metz;258254;-
+Mamadou Fofana;2,0;Centre-Back;Fc Metz;402004;-
+Marcus Coco;2,0;Right Winger;Fc Nantes;353365;11
+Yoann Salmier;2,0;Centre-Back;Es Troyes Ac;351843;17
+Sada Thioub;2,0;Right Winger;As Saint Etienne;290593;9
+Thomas Delaine;2,0;Left-Back;Fc Metz;170961;17
+El Chadaille Bitshiabu;2,0;Centre-Back;Fc Paris Saint Germain;787912;31
+William Mikelbrencis;2,0;Right-Back;Fc Metz;743500;25
+Lamine Gueye;2,0;Right Winger;Fc Metz;568701;-
+Papa Ndiaga Yade;2,0;Left Winger;Fc Metz;568702;26
+Kevin N'Doram;2,0;Defensive Midfield;Fc Metz;342209;6
+Dennis Appiah;2,0;Right-Back;Fc Nantes;111038;12
+Opa Nguette;2,0;Left Winger;Fc Metz;205587;11
+Enzo Crivelli;1,8;Centre-Forward;As Saint Etienne;291110;31
+Sebastien Corchia;1,8;Right-Back;Fc Nantes;102744;24
+Boubacar Traore;1,8;Midfield;Fc Metz;649020;8
+Eliaquim Mangala;1,8;Centre-Back;As Saint Etienne;90681;22
+Jodel Dossou;1,8;Right Winger;Clermont Foot 63;221151;24
+Fabio;1,8;Right-Back;Fc Nantes;61891;2
+Antonin Bobichon;1,8;Central Midfield;Sco Angers;344575;-
+Ouparine Djoco;1,8;Goalkeeper;Clermont Foot 63;594993;40
+Pape Cheikh;1,8;Central Midfield;Olympique Lyon;336828;24
+Miguel Trauco;1,8;Left-Back;As Saint Etienne;177690;13
+Sikou Niakate;1,8;Centre-Back;Fc Metz;413118;4
+Ambroise Oyongo;1,8;Left-Back;Montpellier Hsc;184922;8
+Deiver Machado;1,8;Left-Back;Rc Lens;332560;3
+Jean-Philippe Krasso;1,8;Centre-Forward;As Saint Etienne;358515;-
+Stefan Bajic;1,8;Goalkeeper;As Saint Etienne;465836;-
+Quentin Boisgard;1,8;Midfield;Fc Lorient;412671;11
+Amine Bassi;1,5;Midfield;Fc Metz;506009;21
+Alexis Trouillet;1,5;Central Midfield;Ogc Nizza;482769;27
+Kalifa Coulibaly;1,5;Centre-Forward;Fc Nantes;184935;7
+Jean-Kevin Augustin;1,5;Centre-Forward;Fc Nantes;264956;20
+Charles Abi;1,5;Centre-Forward;As Saint Etienne;418658;-
+Benoit Costil;1,5;Goalkeeper;Fc Girondins Bordeaux;22628;1
+Thomas Monconduit;1,5;Defensive Midfield;Fc Lorient;127182;23
+Henrique Silva;1,5;Left-Back;Olympique Lyon;204072;12
+Hatem Ben Arfa;1,5;Midfield;Losc Lille;18900;11
+Ignacio Ramirez;1,5;Forward;As Saint Etienne;402079;-
+Aimen Moueffek;1,5;Central Midfield;As Saint Etienne;484992;29
+Ismael Gharbi;1,5;Midfield;Fc Paris Saint Germain;810096;35
+Lenny Pintor;1,5;Left Winger;Olympique Lyon;418660;31
+Burak Yilmaz;1,5;Centre-Forward;Losc Lille;34987;17
+Steve Mandanda;1,5;Goalkeeper;Olympique Marseille;23951;30
+Ismael Doukoure;1,5;Centre-Back;Rc Strassburg Alsace;786436;29
+Fali Cande;1,5;Centre-Forward;Fc Metz;520530;13
+Sofiane Alakouch;1,5;Right-Back;Fc Metz;434358;-
+Vagner;1,5;Right Winger;Fc Metz;353211;-
+Saif-Eddine Khaoui;1,5;Midfield;Clermont Foot 63;270411;6
+Dimitry Bertaud;1,5;Goalkeeper;Montpellier Hsc;371816;16
+Nicholas Gioacchini;1,5;Centre-Forward;Montpellier Hsc;704156;23
+Leo Leroy;1,5;Central Midfield;Montpellier Hsc;650350;18
+Hianga'a Mbock;1,5;Central Midfield;Stade Brest 29;684062;28
+Islam Slimani;1,5;Centre-Forward;Olympique Lyon;174915;-
+Stian Gregersen;1,5;Centre-Back;Fc Girondins Bordeaux;230140;2
+Ricardo Mangas;1,5;Left-Back;Fc Girondins Bordeaux;314944;12
+Stephane Diarra;1,5;Right Winger;Fc Lorient;428954;7
+Danylo Ignatenko;1,5;Central Midfield;Fc Girondins Bordeaux;376082;6
+Patrick Roberts;1,5;Right Winger;Es Troyes Ac;225452;-
+Ismael Boura;1,5;Left-Back;Rc Lens;770895;-
+Tristan Dingome;1,5;Midfield;Es Troyes Ac;126683;5
+Nicolas Pallois;1,5;Centre-Back;Fc Nantes;139279;4
+Jimmy Giraudon;1,5;Centre-Back;Es Troyes Ac;213052;-
+Charles Traore;1,5;Left-Back;Fc Nantes;394906;14
+Mehdi Zerkane;1,5;Right Winger;Fc Girondins Bordeaux;460654;17
+Mahame Siby;1,3;Defensive Midfield;Rc Strassburg Alsace;587646;-
+Pierre-Yves Hamel;1,2;Centre-Forward;Fc Lorient;203504;-
+Gabriel Silva;1,2;Left-Back;As Saint Etienne;114340;11
+Dylan Chambost;1,2;Midfield;Es Troyes Ac;508941;14
+Yunis Abdelhamid;1,2;Centre-Back;Stade Reims;199704;5
+Sambou Soumano;1,2;Centre-Forward;Fc Lorient;704270;22
+Uri Busquets;1,2;Defensive Midfield;Clermont Foot 63;282721;22
+N'Dri Koffi;1,2;Centre-Forward;Stade Reims;798927;-
+Moussa Doumbia;1,2;Left Winger;Stade Reims;316137;25
+Grejohn Kyei;1,2;Centre-Forward;Clermont Foot 63;321647;9
+Arthur Desmas;1,2;Goalkeeper;Clermont Foot 63;379869;1
+Marc-Aurele Caillard;1,2;Goalkeeper;Fc Metz;205465;30
+Majeed Waris;1,2;Striker;Rc Strassburg Alsace;146805;8
+Jason Berthomier;1,2;Midfield;Clermont Foot 63;306191;8
+Maxime Le Marchand;1,2;Centre-Back;Rc Strassburg Alsace;60558;23
+Renaud Emond;1,2;Centre-Forward;Fc Nantes;168471;-
+Casimir Ninga;1,2;Centre-Forward;Sco Angers;392810;9
+Anthony Limbombe;1,2;Left Winger;Fc Nantes;140803;-
+Karol Fila;1,2;Right-Back;Rc Strassburg Alsace;385817;4
+Marin Jakolis;1,2;Left Winger;Sco Angers;261963;22
+Corentin Jean;1,2;Centre-Forward;Rc Lens;20463;25
+Mehdi Chahiri;1,2;Left Winger;Rc Strassburg Alsace;358509;-
+Anthony Musaba;1,2;Right Winger;As Monaco;511401;-
+Alexandre Oukidja;1,2;Goalkeeper;Fc Metz;56809;16
+Gaetan Poussin;1,0;Goalkeeper;Fc Girondins Bordeaux;344591;16
+Anthony Mandrea;1,0;Goalkeeper;Sco Angers;290559;16
+Vincent Pajot;1,0;Defensive Midfield;Fc Metz;126699;14
+Lenny Lacroix;1,0;Centre-Back;Fc Metz;620315;29
+Danijel Petkovic;1,0;Goalkeeper;Sco Angers;188930;30
+Romain Thomas;1,0;Centre-Back;Sco Angers;57467;24
+Romain Hamouma;1,0;Centre-Forward;As Saint Etienne;98349;21
+Fraser Hornby;1,0;Centre-Forward;Stade Reims;388160;18
+Vincent Le Goff;1,0;Left-Back;Fc Lorient;120651;25
+Jean-Claude Billong;1,0;Centre-Back;Clermont Foot 63;391192;5
+Anastasios Donis;1,0;Right Winger;Stade Reims;243606;17
+Denys Bain;1,0;Centre-Back;Stade Brest 29;184575;17
+Damien Da Silva;1,0;Centre-Back;Olympique Lyon;57370;21
+Mexer;1,0;Centre-Back;Fc Girondins Bordeaux;127610;4
+Leo Petrot;1,0;Centre-Back;Fc Lorient;412829;19
+Bradley Barcola;1,0;Left Winger;Olympique Lyon;708265;26
+Marcelo;1,0;Centre-Back;Fc Girondins Bordeaux;52920;15
+Maghnes Akliouche;1,0;Midfield;As Monaco;745200;33
+Cheikh Niasse;1,0;Defensive Midfield;Losc Lille;644032;-
+Hyun-jun Suk;1,0;Centre-Forward;Es Troyes Ac;129990;9
+Oualid El Hajjam;1,0;Right-Back;Es Troyes Ac;283127;19
+Assane Diousse;1,0;Midfield;As Saint Etienne;287635;25
+Pele;1,0;Defensive Midfield;As Monaco;99189;28
+Kamory Doumbia;1,0;Midfield;Stade Reims;671594;33
+Farid El Melali;0,9;Left Winger;Sco Angers;425400;-
+Kouadio-Yves Dabila;0,9;Centre-Back;Losc Lille;503740;-
+Cheikh Sabaly;0,9;Left Winger;Fc Metz;568696;-
+Louis Mafouta;0,9;Centre-Forward;Fc Metz;461790;34
+Filip Krastev;0,9;Central Midfield;Es Troyes Ac;486814;-
+Dango Ouattara;0,9;Right Winger;Fc Lorient;823231;38
+Moise Sahi Dion;0,8;Centre-Forward;Rc Strassburg Alsace;880330;15
+Vincent Manceau;0,8;Centre-Back;Sco Angers;83132;29
+Loic Bessile;0,8;Centre-Back;Fc Girondins Bordeaux;371150;-
+Paul Baysse;0,8;Centre-Back;Fc Girondins Bordeaux;43256;24
+Johan Gastien;0,8;Defensive Midfield;Clermont Foot 63;72121;25
+Loris Benito;0,8;Left-Back;Fc Girondins Bordeaux;119085;-
+Jose Fonte;0,8;Centre-Back;Losc Lille;33829;6
+Amadou Salif Mbengue;0,8;Centre-Back;Fc Metz;806310;33
+Warren Tchimbembe;0,8;Left Winger;Fc Metz;591914;-
+Tom Lacoux;0,8;Defensive Midfield;Fc Girondins Bordeaux;847759;27
+Jeremy Pied;0,8;Right-Back;Losc Lille;60583;26
+Habib Keita;0,8;Midfield;Olympique Lyon;669000;19
+Beni Makouana;0,8;Left Winger;Montpellier Hsc;624920;28
+Remy Descamps;0,8;Goalkeeper;Fc Nantes;282028;16
+Dante;0,8;Centre-Back;Ogc Nizza;16136;4
+Sacha Delaye;0,8;Central Midfield;Montpellier Hsc;842425;-
+Martin Adeline;0,8;Central Midfield;Stade Reims;814976;35
+Julian Pollersbeck;0,8;Goalkeeper;Olympique Lyon;228975;30
+Dimitri Lienard;0,7;Midfield;Rc Strassburg Alsace;314940;11
+Florent Ogier;0,7;Centre-Back;Clermont Foot 63;91473;21
+Arial Mendy;0,7;Left-Back;Clermont Foot 63;422715;15
+Gabriel Bares;0,7;Midfield;Montpellier Hsc;484743;15
+Roli Pereira de Sa;0,7;Midfield;Fc Nantes;243737;6
+Luka Ilic;0,7;Midfield;Es Troyes Ac;429790;18
+Rachid Alioui;0,65;Centre-Forward;Sco Angers;193130;-
+Steven Fortes;0,65;Centre-Back;Rc Lens;276895;-
+Brandon Domingues;0,6;Midfield;Es Troyes Ac;804708;27
+Brayann Pereira;0,6;Right-Back;Rc Lens;620317;-
+Abdel Medioub;0,6;Centre-Back;Fc Girondins Bordeaux;596901;3
+Samuel Loric;0,6;Left-Back;Fc Lorient;648886;20
+Jimmy Briand;0,6;Centre-Forward;Fc Girondins Bordeaux;18909;7
+Maxence Rivera;0,6;Right Winger;As Saint Etienne;735700;30
+Thomas Mangani;0,6;Central Midfield;Sco Angers;18934;5
+Fabien Lemoine;0,6;Defensive Midfield;Fc Lorient;56794;18
+Alpha Sissoko;0,6;Right-Back;As Saint Etienne;594992;-
+Felix Lemarechal;0,6;Midfield;As Monaco;659518;33
+Florent Sanchez;0,6;Central Midfield;Olympique Lyon;607225;-
+Yoann Touzghar;0,6;Centre-Forward;Es Troyes Ac;68718;7
+Fode Doucoure;0,6;Right-Back;Stade Reims;798925;-
+Thibaut Vargas;0,6;Right-Back;Montpellier Hsc;627463;-
+Waniss Taibi;0,6;Midfield;Sco Angers;680447;26
+Ismael Traore;0,6;Centre-Back;Sco Angers;57216;8
+Moustapha Mbow;0,6;Centre-Back;Stade Reims;649026;-
+Habib Diarra;0,6;Defensive Midfield;Rc Strassburg Alsace;876631;38
+Jordan Tell;0,6;Centre-Forward;Clermont Foot 63;272644;-
+Frank Magri;0,5;Centre-Forward;Sco Angers;807689;-
+Yehvann Diouf;0,5;Goalkeeper;Stade Reims;448632;16
+Romain Philippoteaux;0,5;Midfield;Stade Brest 29;255220;-
+Paul Lasne;0,5;Defensive Midfield;Stade Brest 29;93726;8
+Marvin Senaya;0,5;Right-Back;Rc Strassburg Alsace;830890;-
+Lenny Joseph;0,5;Centre-Forward;Fc Metz;815359;24
+Nassim Chadli;0,5;Right Winger;Es Troyes Ac;721746;28
+Jean-Louis Leca;0,5;Goalkeeper;Rc Lens;27490;16
+Loris Mouyokolo;0,5;Centre-Back;Fc Lorient;799936;-
+Andy Diouf;0,5;Central Midfield;Fc Stade Rennes;711976;19
+Rafiki Said;0,5;Left Winger;Stade Brest 29;780147;19
+Jeanuel Belocian;0,5;Centre-Back;Fc Stade Rennes;919515;-
+Thomas Fontaine;0,5;Centre-Back;Fc Lorient;80036;-
+Pierrick Capelle;0,5;Midfield;Sco Angers;214532;15
+Abdoulaye Bamba;0,5;Right-Back;Sco Angers;62351;25
+Ihsan Sacko;0,5;Centre-Forward;Ogc Nizza;412095;-
+Sambou Sissoko;0,5;Defensive Midfield;Stade Reims;522791;33
+Adam Jakubech;0,5;Goalkeeper;Losc Lille;258267;16
+Orestis Karnezis;0,5;Goalkeeper;Losc Lille;16408;-
+Vito Mannone;0,5;Goalkeeper;As Monaco;33781;30
+Jean-Armel Kana-Biyik;0,5;Centre-Back;Fc Metz;57404;27
+Issouf Sissokho;0,5;Central Midfield;Fc Girondins Bordeaux;740674;20
+Hugo Vogel;0,5;Left-Back;Olympique Lyon;743519;-
+Julien Boyer;0,45;Left-Back;Clermont Foot 63;590629;-
+Jonathan Iglesias;0,45;Central Midfield;Clermont Foot 63;159907;-
+Amadou Traore;0,4;Right Winger;Fc Girondins Bordeaux;540665;31
+Mykola Kukharevych;0,4;Centre-Forward;Es Troyes Ac;730126;-
+Simon Ngapandouetnbu;0,4;Goalkeeper;Olympique Marseille;696600;1
+Salim Ben Seghir;0,4;Left Winger;Olympique Marseille;708681;32
+Charles Boli;0,4;Midfield;Rc Lens;695646;-
+Romain Salin;0,4;Goalkeeper;Fc Stade Rennes;23974;1
+Tanguy Zoukrou;0,4;Centre-Back;Es Troyes Ac;917120;35
+Theo Le Bris;0,4;Right-Back;Fc Lorient;766412;37
+Desire Doue;0,4;Midfield;Fc Stade Rennes;914562;-
+Alexandre Letellier;0,4;Goalkeeper;Fc Paris Saint Germain;93730;60
+Dilane Bakwa;0,4;Left Winger;Fc Girondins Bordeaux;540664;32
+Eric N'Jo;0,4;Centre-Back;Es Troyes Ac;991649;-
+Mathias Suarez;0,4;Right-Back;Montpellier Hsc;294895;-
+Gor Manvelyan;0,4;Midfield;Fc Nantes;773795;33
+Bakary Sako;0,4;Left Winger;As Saint Etienne;46791;26
+Sebastien Cibois;0,4;Goalkeeper;Stade Brest 29;395251;16
+Yanis Lhery;0,4;Forward;As Saint Etienne;654414;-
+Nathan Bitumazala;0,4;Midfield;Fc Paris Saint Germain;618415;39
+Bilal Benkhedim;0,4;Midfield;As Saint Etienne;609692;15
+Pepe Bonet;0,4;Goalkeeper;Fc Stade Rennes;685086;30
+Adil Rami;0,4;Centre-Back;Es Troyes Ac;51118;23
+Teddy Alloh;0,4;Left-Back;Fc Paris Saint Germain;618405;-
+Nordine Kandil;0,4;Midfield;Rc Strassburg Alsace;891379;-
+Karim Azamoum;0,4;Centre-Back;Es Troyes Ac;275361;15
+Mohamed Achi;0,3;Central Midfield;Fc Nantes;855158;-
+Boubacar Fall;0,3;Goalkeeper;As Saint Etienne;836132;16
+Abdoulaye Bakayoko;0,3;Centre-Back;As Saint Etienne;855615;-
+Ibrahima Balde;0,3;Forward;Rc Lens;804884;-
+Gabriel Mutombo;0,3;Centre-Back;Es Troyes Ac;341394;-
+Jeremy Morel;0,3;Centre-Back;Fc Lorient;23960;21
+Petar Skuletic;0,3;Centre-Forward;Montpellier Hsc;58295;-
+Ugo Bertelli;0,3;Midfield;Olympique Marseille;708680;31
+Redwan Bourles;0,3;Midfield;Fc Lorient;804547;31
+Kenny Nagera;0,3;Centre-Forward;Fc Paris Saint Germain;618416;-
+Thibault Klidje;0,3;Forward;Fc Girondins Bordeaux;575610;-
+Sekou Yansane;0,3;Forward;Fc Paris Saint Germain;853344;-
+Mathys Saban;0,3;Centre-Forward;As Saint Etienne;783799;-
+Yllan Okou;0,3;Centre-Back;As Monaco;745202;-
+Josue Albert;0,3;Centre-Back;Clermont Foot 63;170487;17
+Ousmane Ba;0,3;Goalkeeper;Fc Metz;666975;40
+Kevin Boma;0,3;Centre-Back;Sco Angers;709727;20
+Djeidi Gassama;0,3;Left Winger;Fc Paris Saint Germain;795657;-
+Yannick Cahuzac;0,3;Defensive Midfield;Rc Lens;44686;18
+Noa Cervantes;0,3;Right Winger;Stade Reims;659517;-
+Noah Fatar;0,3;Right Winger;Sco Angers;707225;17
+Julien Faussurier;0,3;Right-Back;Stade Brest 29;78917;22
+Jerome Phojo;0,3;Right-Back;Clermont Foot 63;170459;23
+Bica;0,3;Centre-Forward;Losc Lille;743987;-
+Matthieu Dreyer;0,3;Goalkeeper;Fc Lorient;57134;1
+Garissone Innocent;0,3;Goalkeeper;Fc Paris Saint Germain;460626;-
+Justin Smith;0,3;Defensive Midfield;Ogc Nizza;904712;33
+Bryan Teixeira;0,3;Left Winger;Clermont Foot 63;657635;-
+Johaneko Louis-Jean;0,3;Right-Back;Fc Girondins Bordeaux;926766;-
+Jerome Hergault;0,25;Right-Back;Fc Lorient;314912;14
+El Hadji Dieye;0,25;Right Winger;As Saint Etienne;947069;-
+Aylan Benyahia-Tani;0,25;Centre-Forward;Olympique Marseille;881250;-
+Zinedine Ould Khaled;0,25;Defensive Midfield;Sco Angers;650104;12
+Jonathan Pitou;0,25;Left Winger;Olympique Marseille;800611;-
+Enzo Tchato;0,25;Centre-Back;Montpellier Hsc;842338;-
+Ugo Raghouber;0,25;Central Midfield;Losc Lille;707230;-
+Denis Franchi;0,25;Goalkeeper;Fc Paris Saint Germain;606576;40
+Kayne Bonnevie;0,25;Goalkeeper;Olympique Lyon;618465;-
+Amay Caprice;0,25;Right-Back;Olympique Marseille;743494;-
+Aymeric Ahmed;0,25;Midfield;Rc Strassburg Alsace;918157;37
+Malcolm Barcola;0,25;Goalkeeper;Olympique Lyon;461581;16
+Jonathan Varane;0,25;Central Midfield;Rc Lens;812902;-
+Yanis Guermouche;0,25;Centre-Forward;Montpellier Hsc;876034;20
+David Oberhauser;0,25;Goalkeeper;Fc Metz;130110;1
+Lamine Ghezali;0,25;Right Winger;As Saint Etienne;413033;-
+Jessy Moulin;0,25;Goalkeeper;Es Troyes Ac;33925;40
+Abdoulaye Sylla;0,25;Centre-Back;Fc Nantes;807648;31
+Sebastien Renot;0,25;Goalkeeper;Es Troyes Ac;125350;16
+Levi Lumeka;0,25;Left Winger;Es Troyes Ac;537182;-
+Tiago Ribeiro;0,25;Central Midfield;As Monaco;504084;-
+Derek Mazou-Sacko;0,25;Central Midfield;Es Troyes Ac;917104;-
+Noah Francoise;0,25;Midfield;Fc Stade Rennes;620321;-
+Nael Jaby;0,25;Central Midfield;Clermont Foot 63;668503;29
+Gael Nsombi;0,2;Centre-Forward;Olympique Lyon;744942;-
+Mohamed Cisse;0,2;Right Winger;Rc Lens;800246;-
+Denis Petric;0,2;Goalkeeper;Fc Nantes;28356;30
+Ibrahim Diakite;0,2;Right-Back;Stade Reims;919173;36
+Bryan Nokoue;0,2;Right-Back;As Saint Etienne;855607;-
+Manuel Cabit;0,2;Left-Back;Fc Metz;127075;28
+Logan Delaurier-Chaubet;0,2;Midfield;Fc Girondins Bordeaux;569386;-
+Baptiste Mouazan;0,2;Central Midfield;Fc Lorient;804548;-
+Tijany Atallah;0,2;Centre-Back;Fc Girondins Bordeaux;709729;-
+Oussama Targhalline;0,2;Central Midfield;Olympique Marseille;667965;26
+Yann Lienard;0,2;Goalkeeper;As Monaco;745341;-
+Thibault Tamas;0,2;Left-Back;Montpellier Hsc;569374;17
+Jason Mbock;0,2;Left Winger;Sco Angers;460660;35
+Pablo Pagis;0,2;Centre-Forward;Fc Lorient;810411;-
+Yadaly Diaby;0,2;Midfield;Clermont Foot 63;806496;-
+Gregoire Coudert;0,2;Goalkeeper;Stade Brest 29;525155;30
+Junior Mwanga;0,2;Centre-Back;Fc Girondins Bordeaux;1011200;-
+Samba Sow;0,2;Defensive Midfield;Rc Lens;89461;-
+Elias Damergy;0,2;Goalkeeper;Fc Stade Rennes;693312;-
+Cheick Souare;0,2;Midfield;Olympique Marseille;569367;-
+Rocco Ascone;0,2;Central Midfield;Losc Lille;620318;-
+Mamadou Camara;0,2;Centre-Forward;Es Troyes Ac;857148;-
+Junior Kadile;0,2;Right Winger;Fc Stade Rennes;585958;-
+Enzo Valentim;0,2;Centre-Back;Stade Reims;502511;-
+Soungoutou Magassa;0,2;Defensive Midfield;As Monaco;745181;-
+Exauce Mpembele Boula;0,2;Midfield;Losc Lille;538972;-
+Ryan Bouallak;0,2;Goalkeeper;Es Troyes Ac;510262;1
+Matis Carvalho;0,2;Goalkeeper;Montpellier Hsc;478346;30
+Yannick Pandor;0,2;Goalkeeper;Rc Lens;804829;-
+Guede Nadje;0,2;Centre-Forward;Sco Angers;855160;-
+Irvyn Lomami;0,2;Right-Back;Olympique Lyon;802987;-
+Yannis M'Bemba;0,2;Centre-Back;Fc Nantes;822116;-
+Eiji Kawashima;0,2;Goalkeeper;Rc Strassburg Alsace;77383;16
+Capita;0,175;Left Winger;Losc Lille;666545;-
+Davy Rouyard;0,15;Goalkeeper;Fc Girondins Bordeaux;540641;30
+Yannis Nahounou;0,15;Centre-Back;Ogc Nizza;904707;-
+Aurelien Platret;0,15;Right-Back;As Monaco;745201;-
+Antoine Mendy;0,15;Right-Back;Ogc Nizza;891998;-
+Noam Bonnet;0,15;Central Midfield;Olympique Lyon;729677;-
+Ronny Labonne;0,15;Right-Back;Fc Lorient;562175;-
+Madyan Sounni;0,15;Left Winger;Olympique Lyon;729680;-
+Jules Raux;0,15;Goalkeeper;Losc Lille;707245;-
+Simon Ramet;0,15;Right-Back;Losc Lille;707231;-
+Maxime Wackers;0,15;Centre-Back;Losc Lille;798894;-
+Leny Yoro;0,15;Centre-Back;Losc Lille;923831;-
+Nicolas Penneteau;0,15;Goalkeeper;Stade Reims;5578;30
+Lucas Margueron;0,15;Goalkeeper;Clermont Foot 63;618463;16
+Teddy Bartouche;0,15;Goalkeeper;Fc Lorient;629587;16
+Eric Ayiah;0,15;Left Winger;As Monaco;543503;41
+Thomas Callens;0,15;Goalkeeper;Fc Lorient;593315;40
+Louis Torres;0,15;Left-Back;As Monaco;536510;-
+Teddy Boulhendi;0,15;Goalkeeper;Ogc Nizza;789419;16
+Lohann Doucet;0,15;Defensive Midfield;Fc Nantes;830265;-
+Florian Baranik;0,15;Central Midfield;As Monaco;538968;-
+Aboubakar Sidibe;0,15;Right Winger;Clermont Foot 63;503518;-
+Carlos Baleba;0,15;Central Midfield;Losc Lille;973085;-
+Robin Voisine;0,15;Centre-Back;Fc Nantes;650582;-
+Samuel Koeberle;0,15;Midfield;Stade Reims;926235;-
+Fred Gnalega;0,15;Central Midfield;Clermont Foot 63;837093;2
+Fabio Vanni;0,15;Goalkeeper;Olympique Marseille;801577;-
+Lucas Calodat;0,15;Left-Back;As Saint Etienne;857653;-
+Benrandy Abdallah;0,15;Right-Back;Es Troyes Ac;485959;-
+Marvin Elimbi;0,15;Centre-Back;Rc Strassburg Alsace;862628;-
+Noe Sow;0,15;Centre-Back;Stade Brest 29;796913;33
+Calvin Bombo;0,15;Central Midfield;Es Troyes Ac;485962;-
+Tidiane Malbec;0,15;Goalkeeper;Fc Girondins Bordeaux;540643;40
+Aissa Boudechicha;0,15;Left-Back;Fc Girondins Bordeaux;592398;-
+Bilal Nadir;0,15;Central Midfield;Olympique Marseille;659520;39
+Paolo Sciortino;0,15;Defensive Midfield;Olympique Marseille;805476;34
+Alaa Bellaarouch;0,15;Goalkeeper;Rc Strassburg Alsace;667991;-
+Fouad El Maach;0,15;Centre-Back;As Monaco;536503;-
+Abdoul Ouattara;0,1;Midfield;Rc Strassburg Alsace;991487;-
+Yuliwes Bellache;0,1;Central Midfield;Clermont Foot 63;1020544;35
+Dany Jean;0,1;Midfield;Rc Strassburg Alsace;628835;-
+Tresor Matondo;0,1;Central Midfield;Fc Stade Rennes;711988;-
+Baptiste Boit;0,1;Centre-Back;Clermont Foot 63;912601;-
+Bamo Meite;0,1;Centre-Back;Fc Lorient;807165;-
+Guerric Bernou;0,1;Goalkeeper;Fc Girondins Bordeaux;970278;-
+Moudja Sie Ouattara;0,1;Right Winger;Fc Girondins Bordeaux;842764;-
+Kanfory Kaba;0,1;Centre-Back;Rc Strassburg Alsace;962560;-
+Joffrey Bazie;0,1;Left Winger;Losc Lille;854488;-
+Anas Namri;0,1;Right-Back;Es Troyes Ac;972473;-
+Alexis Lefebvre;0,1;Right Winger;Es Troyes Ac;857154;-
+Adrien Louveau;0,1;Centre-Back;Rc Lens;804817;-
+Yakine Said M'Madi;0,1;Centre-Back;Olympique Marseille;922488;-
+Malcom Musquet;0,1;Left-Back;Rc Lens;911512;-
+Tom Moustier;0,1;Defensive Midfield;Olympique Marseille;782889;-
+Yacouba Barry;0,1;Central Midfield;Rc Lens;821136;-
+Bachir Diop;0,1;Defensive Midfield;Es Troyes Ac;972479;-
+Yael Mouanga;0,1;Centre-Back;Fc Girondins Bordeaux;970364;-
+Mathis Hamdi;0,1;Left-Back;Es Troyes Ac;982864;-
+Lassine Soumaoro;0,1;Centre-Back;Es Troyes Ac;976271;-
+Laurent Koscielny;0,1;Centre-Back;Fc Girondins Bordeaux;76277;-
+Nathan Gassama;0,1;Centre-Back;Es Troyes Ac;815346;-
+Karim Mohamed;0,1;Right-Back;Clermont Foot 63;942083;-
+Redouane Halhal;0,1;Centre-Back;Montpellier Hsc;913660;-
+Daylam Meddah;0,1;Centre-Back;Sco Angers;768439;-
+Louis Mouton;0,1;Defensive Midfield;As Saint Etienne;904662;-
+Danley Jean Jacques;0,1;Central Midfield;Fc Metz;628834;-
+Axel Camblan;0,1;Midfield;Stade Brest 29;924800;-
+Ahmed Sidibe;0,1;Midfield;As Saint Etienne;808477;-
+Yassin Belkhdim;0,1;Central Midfield;Sco Angers;807688;-
+Ali Kalla;0,1;Right-Back;Sco Angers;807687;-
+Marius Ros;0,1;Right-Back;Montpellier Hsc;913674;-
+Ryan Bakayoko;0,1;Centre-Forward;Montpellier Hsc;855043;-
+Noah Zilliox;0,1;Centre-Back;Fc Metz;855309;-
+Oliver Kamdem;0,1;Right-Back;Clermont Foot 63;969154;-
+Matteo Corduan;0,1;Central Midfield;Sco Angers;829873;-
+Lucas Llort;0,1;Left-Back;As Saint Etienne;562463;-
+Emeric Depussay;0,1;Defensive Midfield;Fc Girondins Bordeaux;540693;-
+Rudy Kohon;0,1;Centre-Back;Es Troyes Ac;917101;-
+Aiman Maurer;0,1;Midfield;Clermont Foot 63;860056;-
+Mohamed Aggoun;0,1;Right-Back;Fc Girondins Bordeaux;861248;-
+Rudy Orea;0,1;Central Midfield;Fc Girondins Bordeaux;970280;-
+Johab Pascal;0,1;Midfield;Fc Girondins Bordeaux;540656;-
+Jacques Ekomie;0,1;Left-Back;Fc Girondins Bordeaux;970279;-
+Mathis Clairicia;0,1;Centre-Forward;Clermont Foot 63;969153;-

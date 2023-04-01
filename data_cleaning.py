@@ -374,8 +374,8 @@ if gk.ID.isna().any()==False and gk[gk.duplicated(subset='ID',keep=False)].shape
 
 """
 df_jug_tot = df_jug_tot.drop_duplicates(keep='first')
-df_jug_tot = pd.merge(df_jug_tot,df_equipos_full[['teamid','league-id-instat','league-instat']],
-                                 how='left',on='teamid')
+#df_jug_tot = pd.merge(df_jug_tot,df_equipos_full[['teamid','league-id-instat','league-instat']],
+#                                 how='left',on='teamid')
 
 if df_jug_tot.ID.isna().any()==False and df_jug_tot[df_jug_tot.duplicated(subset='ID',keep=False)].shape[0]==0:
     df_jug_tot.to_excel(ruta_datos+'/datos_jugadores_instat.xlsx',index=False)

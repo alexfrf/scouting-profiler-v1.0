@@ -45,13 +45,14 @@ cbs = list(set(['% disputas por arriba ganadas','PAdj_Disputas por arriba ganada
     ]))
 
 mid = list(set([
-    'KP/100Acciones no defensivas','Pases/100Acciones defensivas','Regates/100Acciones no defensivas','CC/100Acciones no defensivas','PAdj_Interceptaciones+Entradas',
+    'KP/100Acciones no defensivas','Pases/100Acciones defensivas','Regates/100Acciones no defensivas',
+    'CC/100Acciones no defensivas','PAdj_Interceptaciones+Entradas',
     '% de efectividad de pases','PAdj_Disputas por arriba ganadas', 'Perdidas_crival%','Recuperaciones_crival%',
     'Disputas en ataque/100Disputas','Centros/100Pases','Robos de balón con éxito, %',
-    'PAdj_Balones recuperados','PAdj_Disputas ganadas','% de efectividad de pases',
+    'PAdj_Balones recuperados','PAdj_Disputas ganadas','% de efectividad de pases','Pases efectivos',
     'Entradas/100Acciones defensivas','PAdj_Interceptaciones','PAdj_Rechaces',
     'xG per shot','Tiros/100Acciones no defensivas','xA/PFe','PF/100Pases','Entradas, %',
-    'Regates/100Acciones no defensivas', 'Acciones no defensivas','Pases de finalización efectivos'
+    'Regates/100Acciones no defensivas', 'Pases/100Acciones','Pases de finalización efectivos'
     ]))
 
 
@@ -67,11 +68,11 @@ flb=list(set(['Regates/100Acciones no defensivas','Centros/100PF','Centros/100Pa
 
 attm=list(set(['Regates/100Acciones no defensivas','Centros/100PF','Centros/100Pases',
               'Centros/100Acciones no defensivas','PF/100Acciones no defensivas',
-     'Regates/100Centros','% de efectividad de pases','xG per shot',
+     'Regates/100Centros','% de efectividad de pases','xG per shot','Regates efectivos',
      'Perdidas_crival%','Recuperaciones_crival%','xG/Jugada_Gol','xg+xa/100Acciones',
      'Acciones defensivas/100Acciones','KP/100Acciones no defensivas','xA/CC',
      'CC/100Centros','CC/100Regates','xA/PFe','PF/100Pases','KP_Ocasiones%','CC/100PF','Disputas aéreas/100Disputas',
-     'Disputas en ataque/100Disputas','Jugada_Gol/100Centros','% disputas por arriba ganadas',
+     'Jugada_Gol/100Centros','% disputas por arriba ganadas',
      'Jugada_Gol/100Regates','Tiros/100Acciones no defensivas','Wing_Natural']))
 
 fwd=list(set(['Regates/100Acciones no defensivas','Centros/100PF','Centros/100Pases',
@@ -80,7 +81,7 @@ fwd=list(set(['Regates/100Acciones no defensivas','Centros/100PF','Centros/100Pa
      'xG/Jugada_Gol','xg+xa/100Acciones',
      'Acciones defensivas/100Acciones','KP/100Acciones no defensivas','xA/CC',
      'CC/100Centros','CC/100Regates','xA/PFe','PF/100Pases','KP_Ocasiones%','CC/100PF','Disputas aéreas/100Disputas',
-     'Disputas en ataque/100Disputas','Jugada_Gol/100Centros','% disputas por arriba ganadas',
+     'Jugada_Gol/100Centros','% disputas por arriba ganadas',
      'Jugada_Gol/100Regates','Tiros/100Acciones no defensivas','Altura']))
 
 
@@ -515,25 +516,26 @@ dict_explicacion = {'Centre-Back':"""
                                     - **C3**: Menor propensión a duelos y a entradas, menos faltas, mayor participación con balón.
                                   """,
            'Midfielder':"""
-                           - **C1**: Pivote, alto volumen de tareas defensivas, poca participación en tercio final, alta tasa de disputas.
-                           - **C2**: Perfil más ofensivo, menos acciones defensivas, mayor participación en creación de oportunidades, caída a banda.
-                           - **C3**: Perfil mixto, jugador de base de la jugada o llegador.
+                           - **C1**: Perfil más ofensivo, menos acciones defensivas, mayor participación en creación de oportunidades, caída a banda y recepciones cercanas al área. 
+                           - **C2**: Pivote, alto volumen de tareas defensivas, poca participación en tercio final, alta tasa de disputas y recepciones en la base de la jugada.
+                           - **C3**: Perfil mixto y de amplio recorrido, con y sin balón. Organizadores itinerantes en equipos que aparecen para construir en distintas alturas y centrocampistas con alta capacidad de llegada a área para rematar.
                            """,
            'Att. Midfield-Winger':"""
-                           - **C1**: Jugadores autosuficientes, siempre por el centro o en banda a pierna cambiada. Alta incidencia en area (valores altos de último pase y oportunidades propias disfrutadas).
-                           - **C2**: Extremo a pie natural, encarador y regateador. Alta tasa de centros en línea de fondo. Se incluyen carrileros que juegan muy alto.
-                           - **C3**: Extremos inversos o mediapuntas con alto valor generado a través del pase. Algunos, acostumbrados a jugar en la posición de 10 o como interiores en 4-3-3.
+                           - **C1**: Extremo a pie natural, encarador y regateador. Alta tasa de centros en línea de fondo. Se incluyen carrileros que juegan muy alto.
+                           - **C2**: Extremos inversos o mediapuntas con alto valor generado a través del pase y mucha participación en construcción. Algunos, acostumbrados a jugar en la posición de 10 o como interiores en 4-3-3.
+                           - **C3**: Jugadores autosuficientes, siempre por el centro o en banda a pierna cambiada. Alta incidencia en area (valores altos de último pase y oportunidades propias disfrutadas).
                            """,
-           'Full-Back':"""
-                           - **C1**: Perfil conservador. Menor tasa de centros, mayor volumen de actividad defensiva, poca llegada a zonas de último pase.            
+           'Full-Back':"""           
+                           - **C1**: Organizador desde la banda, menor intensidad defensiva pero en altura no elevada -no gana línea de fondo en ataque-. Mucha participación en salida y elaboración.
                            - **C2**: Lateral a pie cambiado, incorporación al ataque hacia zonas interiores.
-                           - **C3**: Organizador desde la banda, menor intensidad defensiva pero en altura no elevada -no gana línea de fondo en ataque-. Mucha participación en salida y elaboración.
-                           - **C4**: Profundidad y centros, alta participación directa en la generación de ocasiones y menor participación en la construcción.
+                           - **C3**: Profundidad y centros, alta participación directa en la generación de ocasiones y menor participación en la construcción.
+                           - **C4**: Perfil conservador. Menor tasa de centros, mayor volumen de actividad defensiva, poca llegada a zonas de último pase.
                            """,
            'Forward':"""
-                           - **C1**: Más esfuerzo defensivo y participación en la elaboración, perfil segundo delantero. Cae a banda, regatea y genera para los demás.
-                           - **C2**: Más disputas aéreas y dominio del juego por alto, menor participación en la generación de ocasiones.
-                           - **C3**: Mayor influencia en la generación de oportunidades, propias y para sus compañeros. Nueve puro, móvil y autosuficiente.
+                           - **C1**: Perfil de área, regateador en espacios cortos, menor movimiento sin balón, menor participación en posesión.
+                           - **C2**: Mayor influencia en la generación de oportunidades, propias y para sus compañeros. Nueve puro, móvil y autosuficiente.
+                           - **C3**: Más disputas aéreas y dominio del juego por alto, estático pero con participación en el juego -recibiendo de espaldas, ganando duelos que propician segunda jugada-.  
+                           - **C4**: Más esfuerzo defensivo y participación en la elaboración, perfil segundo delantero. Cae a banda, regatea y genera para los demás. 
                            """}
             
 col13.write("""

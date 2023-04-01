@@ -95,13 +95,14 @@ cbs = list(set(['% disputas por arriba ganadas','PAdj_Disputas por arriba ganada
     ]))
 
 mid = list(set([
-    'KP/100Acciones no defensivas','Pases/100Acciones defensivas','Regates/100Acciones no defensivas','CC/100Acciones no defensivas','PAdj_Interceptaciones+Entradas',
+    'KP/100Acciones no defensivas','Pases/100Acciones defensivas','Regates/100Acciones no defensivas',
+    'CC/100Acciones no defensivas','PAdj_Interceptaciones+Entradas',
     '% de efectividad de pases','PAdj_Disputas por arriba ganadas', 'Perdidas_crival%','Recuperaciones_crival%',
     'Disputas en ataque/100Disputas','Centros/100Pases','Robos de balón con éxito, %',
-    'PAdj_Balones recuperados','PAdj_Disputas ganadas','% de efectividad de pases',
+    'PAdj_Balones recuperados','PAdj_Disputas ganadas','% de efectividad de pases','Pases efectivos',
     'Entradas/100Acciones defensivas','PAdj_Interceptaciones','PAdj_Rechaces',
     'xG per shot','Tiros/100Acciones no defensivas','xA/PFe','PF/100Pases','Entradas, %',
-    'Regates/100Acciones no defensivas', 'Acciones no defensivas','Pases de finalización efectivos'
+    'Regates/100Acciones no defensivas', 'Pases/100Acciones','Pases de finalización efectivos'
     ]))
 
 
@@ -117,11 +118,11 @@ flb=list(set(['Regates/100Acciones no defensivas','Centros/100PF','Centros/100Pa
 
 attm=list(set(['Regates/100Acciones no defensivas','Centros/100PF','Centros/100Pases',
               'Centros/100Acciones no defensivas','PF/100Acciones no defensivas',
-     'Regates/100Centros','% de efectividad de pases','xG per shot',
+     'Regates/100Centros','% de efectividad de pases','xG per shot','Regates',
      'Perdidas_crival%','Recuperaciones_crival%','xG/Jugada_Gol','xg+xa/100Acciones',
      'Acciones defensivas/100Acciones','KP/100Acciones no defensivas','xA/CC',
      'CC/100Centros','CC/100Regates','xA/PFe','PF/100Pases','KP_Ocasiones%','CC/100PF','Disputas aéreas/100Disputas',
-     'Disputas en ataque/100Disputas','Jugada_Gol/100Centros','% disputas por arriba ganadas',
+     'Jugada_Gol/100Centros','% disputas por arriba ganadas',
      'Jugada_Gol/100Regates','Tiros/100Acciones no defensivas','Wing_Natural']))
 
 fwd=list(set(['Regates/100Acciones no defensivas','Centros/100PF','Centros/100Pases',
@@ -130,7 +131,7 @@ fwd=list(set(['Regates/100Acciones no defensivas','Centros/100PF','Centros/100Pa
      'xG/Jugada_Gol','xg+xa/100Acciones',
      'Acciones defensivas/100Acciones','KP/100Acciones no defensivas','xA/CC',
      'CC/100Centros','CC/100Regates','xA/PFe','PF/100Pases','KP_Ocasiones%','CC/100PF','Disputas aéreas/100Disputas',
-     'Disputas en ataque/100Disputas','Jugada_Gol/100Centros','% disputas por arriba ganadas',
+     'Jugada_Gol/100Centros','% disputas por arriba ganadas',
      'Jugada_Gol/100Regates','Tiros/100Acciones no defensivas','Altura']))
 
 
@@ -186,6 +187,9 @@ def squad_clustering(categories):
     #np.random.seed(0)
     sns.set(style="whitegrid")
     squad_clustering = pd.DataFrame(squad[['Equipo']],columns=['Equipo'])
+    for i in squad.columns:
+        if 'cluster' in i:
+            squad.drop(i,inplace=True,axis=1)
     fs=[]
     for i in categories:
         name = i
@@ -235,6 +239,8 @@ def squad_clustering(categories):
                 n = 6
             else:
                 n = view.elbow_value_
+                
+        
 #view.show()
         k = KMeans(n_clusters = n,random_state=0)
 
@@ -420,7 +426,8 @@ def player_clustering(position):
         else:
             n = view.elbow_value_
         
-            
+        if 'Full-' in position:
+            n = 4    
         #view.show()
         k = KMeans(n_clusters = n,random_state=0)
         pcas[position] = pca_app
@@ -551,6 +558,8 @@ for i in features:
     
 
 """
+
+
 def get_player_features(feat,data):
     for f in feat.keys():
         clu = f
