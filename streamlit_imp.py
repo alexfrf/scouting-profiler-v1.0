@@ -531,8 +531,8 @@ dict_explicacion = {'Centre-Back':"""
                            """,
            'Att. Midfield-Winger':"""
                            - **C1**: Extremo a pie natural, encarador y regateador. Alta tasa de centros en línea de fondo. Se incluyen carrileros que juegan muy alto.
-                           - **C2**: Extremos inversos o mediapuntas con alto valor generado a través del pase y mucha participación en construcción. Algunos, acostumbrados a jugar en la posición de 10 o como interiores en 4-3-3.
-                           - **C3**: Jugadores autosuficientes, siempre por el centro o en banda a pierna cambiada. Alta incidencia en area (valores altos de último pase y oportunidades propias disfrutadas).
+                           - **C2**: Jugadores autosuficientes, siempre por el centro o en banda a pierna cambiada. Alta incidencia en area (valores altos de último pase y oportunidades propias disfrutadas).
+                           - **C3**: Extremos inversos o mediapuntas con alto valor generado a través del pase y mucha participación en construcción. Algunos, acostumbrados a jugar en la posición de 10 o como interiores en 4-3-3.
                            """,
            'Full-Back':"""           
                            - **C1**: Organizador desde la banda, menor intensidad defensiva pero en altura no elevada -no gana línea de fondo en ataque-. Mucha participación en salida y elaboración.
