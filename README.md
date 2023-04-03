@@ -399,7 +399,7 @@ For this position, the most explanatory variables and those that contribute to a
 
 - C3: More aerial duels and dominance of the game by imposing his rule up high. Static but with participation in the game -receiving from behind, winning duels that lead to second play-.
 
-![png](attachment:dcc3.PNG)
+![png](/Model/Players/dcc3.PNG)
 
 - C4: More defensive effort and participation in development, second striker / false nine profile. He moves and stays wide, dribbles and generates supporting plays for surrounding players.
 
