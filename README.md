@@ -2,7 +2,6 @@
 
 # Segmentation & Profiling of Football Players through Clustering, Advanced Metrics and Analysis of Game Model
 
-### Alejandro Fernández Rodríguez
 
 [Portfolio](https://alexfrf.github.io/) | [GitHub Repo](https://github.com/alexfrf/scouting-profiler)
 
@@ -167,19 +166,19 @@ The PCA algorithm selects the first six of the present image.
 
 - C1: Four defenders, double pivot, one striker - 4-2-3-1
 
-![png](/Model/Teams/ttc1.PNG)
+![png](/Model/Teams/ttc1.png)
 
 - C2: Four defenders, two forwards - 4-3-1-2, 4-4-2
 
-![png](/Model/Teams/ttc2.PNG)
+![png](/Model/Teams/ttc2.png)
 
 - C3: Three center backs, do not play with a striker - 3-4-3, 3-5-2
 
-![png](/Model/Teams/ttc3.PNG)
+![png](/Model/Teams/ttc3.png)
 
 - C4: Four defenders, three forwards - 4-3-3
     
-![png](/Model/Teams/ttc4.PNG)    
+![png](/Model/Teams/ttc4.png)    
 
 ![png](/Model/Teams/PCA6_4clusters_disposicion_tactica.png)
 
@@ -200,19 +199,19 @@ The PCA function selects the first nine variables from this image.
 
 - C1: Less pressure tendency, more low withdrawal and more time defending.
 
-![png](/Model/Teams/tdc1.PNG)
+![png](/Model/Teams/tdc1.png)
 
 - C2: More defensive intensity in intermediate zones.
 
-![png](/Model/Teams/tdc2.PNG)
+![png](/Model/Teams/tdc2.png)
 
 - C3: Different heights depending on the situation and efficiency when they decide to defend high.
 
-![png](/Model/Teams/tdc3.PNG)
+![png](/Model/Teams/tdc3.png)
 
 - C4: More prompt to press, high defense and aggressiveness in the opposite field.
 
-![png](/Model/Teams/tdc4.PNG)
+![png](/Model/Teams/tdc4.png)
 
 ![png](/Model/Teams/PCA9_4clusters_defensa.png)
 
@@ -232,19 +231,19 @@ The PCA function selects the first seven variables from this image.
 
 - C1: Long possessions, low volume of play in the final third, long transitions and from afar, little incidence of counterattack.
 
-![png](/Model/Teams/tbc1.PNG)
+![png](/Model/Teams/tbc1.png)
 
 - C2: Progression towards a more direct rival field, high tendency to counterattack, high pace in construction and arrival in the box with few passes.
 
-![png](/Model/Teams/tbc2.PNG)
+![png](/Model/Teams/tbc2.png)
 
 - C3: More elaborate ball release from the back, slow pace under construction and long possessions, little recourse to counterattack.
 
-![png](/Model/Teams/tbc3.PNG)
+![png](/Model/Teams/tbc3.png)
 
 - C4: Short transitions in the opposite field, relatively elaborate ball release, high volume of play in the final third, very high pace and verticality.
 
-![png](/Model/Teams/tbc4.PNG)
+![png](/Model/Teams/tbc4.png)
 
 ![png](/Model/Teams/PCA7_4clusters_buildup.png)
 
@@ -264,19 +263,19 @@ The PCA function selects the first eight variables from this image.
 
 - C1: Low transformation index (shot or opportunity) when reaching the rival area, reduced association to generate -greater dependence on individual action-.
 
-![png](/Model/Teams/toc1.PNG)
+![png](/Model/Teams/toc1.png)
 
 - C2: Little ability to make their possessions profitable but a relatively high number of arrivals and possibilities of passing to the area/centre, low level of association in final meters.
 
-![png](/Model/Teams/toc2.PNG)
+![png](/Model/Teams/toc2.png)
 
 - C3: High transformation rate (shot or opportunity) when reaching the rival area, individual quality to find a good opportunity, greater association between attacking players.
 
-![png](/Model/Teams/toc3.PNG)
+![png](/Model/Teams/toc3.png)
 
 - C4: Decent transformation ratio for each attack, less association between attackers to find the opportunity.
 
-![png](/Model/Teams/toc4.PNG)
+![png](/Model/Teams/toc4.png)
 
 ![png](/Model/Teams/PCA8_4clusters_creacion_oportunidades.png)
 
@@ -316,15 +315,15 @@ For this position, the most explanatory variables and those that contribute to a
 
 - C1: Greater tendency to make tackles and go out of the area -higher rate of committing fouls-, less propensity to aerial duels.
 
-![png](/Model/Players/dfcc1.PNG)
+![png](/Model/Players/dfcc1.png)
 
 - C2: Mastery of the aerial game, more defensive disputes, greater ability to prevail individually, less participation with the ball.
 
-![png](/Model/Players/dfcc2.PNG)
+![png](/Model/Players/dfcc2.png)
 
 - C3: Less propensity to duels and tackles, fewer fouls, greater participation with the ball.
 
-![png](/Model/Players/dfcc3.PNG)
+![png](/Model/Players/dfcc3.png)
 
 **Full-Backs**
 
@@ -334,19 +333,19 @@ For this position, the most explanatory variables and those that contribute to a
 
 - C1: Playmaker from the side, less defensive intensity but does not gain height in attack. A lot of participation in buildup and elaboration.
 
-![png](/Model/Players/latc1.PNG)
+![png](/Model/Players/latc1.png)
 
 - C2: Inverted full-back, joining the attack towards interior areas.
 
-![png](/Model/Players/latc2.PNG)
+![png](/Model/Players/latc2.png)
 
 - C3: Gains depth and seek for crosses, high involvement in the generation of chances and less participation in buildup.
 
-![png](/Model/Players/latc3.PNG)
+![png](/Model/Players/latc3.png)
 
 - C4: Rather classic profile. Lower rate of crosses, greater volume of defensive activity, little arrival in areas of the last pass.
 
-![png](/Model/Players/latc4.PNG)
+![png](/Model/Players/latc4.png)
 
 **Midfielders**
 
@@ -356,15 +355,15 @@ For this position, the most explanatory variables and those that contribute to a
 
 - C1: More offensive profile, fewer defensive actions, greater participation in creating chances, drop to the wing and receptions close to the area.
 
-![png](/Model/Players/cenc1.PNG)
+![png](/Model/Players/cenc1.png)
 
 - C2: Pivot, high volume of defensive tasks, little participation in the final third, high rate of disputes and receptions at the base of the play.
 
-![png](/Model/Players/cenc2.PNG)
+![png](/Model/Players/cenc2.png)
 
 - C3: Ambivalent profile. Covers a lot of area, with and without the ball. Itinerant organizers in teams that appear to build at different heights and midfielders with a high ability to reach the area to finish off.
 
-![png](/Model/Players/cenc3.PNG)
+![png](/Model/Players/cenc3.png)
 
 
 **Attacking Midfielders / Wingers**
@@ -375,15 +374,15 @@ For this position, the most explanatory variables and those that contribute to a
 
 - C1: Winger on natural foot, facer and dribbler. High rate of crosses in the baseline. Wingers that play very high are included.
 
-![png](/Model/Players/mcoc1.PNG)
+![png](/Model/Players/mcoc1.png)
 
 - C2: Self-sufficient players, always in the center or on the wing with a different leg. High incidence in the area (high values ​​of the last pass and own opportunities enjoyed).
 
-![png](/Model/Players/mcoc2.PNG)
+![png](/Model/Players/mcoc2.png)
 
 - C3: Inverted wingers or attacking midfielders with high value generated through the pass and a lot of participation in construction. Some, accustomed to playing in the position of 10 or as interiors in 4-3-3.
 
-![png](/Model/Players/mcoc3.PNG)
+![png](/Model/Players/mcoc3.png)
 
 **Forwards**
 
@@ -393,19 +392,19 @@ For this position, the most explanatory variables and those that contribute to a
 
 - C1: Penalty-area-based striker, dribbler in short spaces, less movement without the ball, less participation in possession.
 
-![png](/Model/Players/dcc1.PNG)
+![png](/Model/Players/dcc1.png)
 
 - C2: Greater influence in the generation of opportunities, both for themselves and for their teammates. Striker with a wide range of movements and self-sufficient.
 
-![png](/Model/Players/dcc2.PNG)
+![png](/Model/Players/dcc2.png)
 
 - C3: More aerial duels and dominance of the game by imposing his rule up high. Static but with participation in the game -receiving from behind, winning duels that lead to second play-.
 
-![png](attachment:dcc3.PNG)
+![png](attachment:dcc3.png)
 
 - C4: More defensive effort and participation in development, second striker / false nine profile. He moves and stays wide, dribbles and generates supporting plays for surrounding players.
 
-![png](/Model/Players/dcc4.PNG)
+![png](/Model/Players/dcc4.png)
 
 
 ### Distance Algorithms
@@ -421,7 +420,7 @@ The functions are collected in the script: *clustering_functions.py*.
 
 *Player_Similarities* fits the distance measurement function prototype, and its results are easy to see on any advanced player analytics website. This function becomes relevant in practice when we are interested in replacing a footballer whose profile and role is very defined. A clear case will happen when a purely selling club has to release a key piece and wants to look for a replacement that is as similar as possible, to avoid redefining its game model.
 
-![png](/Model/Players/rodri1.PNG)
+![png](/Model/Players/rodri1.png)
 
 ![png](/Model/Players/rodri2.png)
 
@@ -429,13 +428,13 @@ The figures shown above show the results of the model in the case of the players
 
 As a practice-oriented example, we can apply the model to the context of Sevilla FC, which in the summer had to deal with the departures of its starting central defenders, Diego Carlos and Jules Koundé. We take a look at the role returns for the French centre-back below, looking at the players who most resemble him and a comparison with some of the biggest names.
 
-![png](/Model/Players/kounde2.PNG)
+![png](/Model/Players/kounde2.png)
 
 ![png](/Model/Players/kounde1.png)
 
 We endorse the results of the model by comparing Jules Koundé and Samy Mmaee, the Moroccan central defender for Ferencvaros. We found that the morphology of the radar, indeed, shows great similarity, and that, for general purposes, both players share strengths and weaknesses despite the level differences that may exist.
 
-![png](/Model/Players/mmaee.PNG)
+![png](/Model/Players/mmaee.png)
 
 In fact, we can see that, despite the divergence in the market value -€60M vs. €1M-, the French center-back does not show a clear superiority -with the exception of the recoveries made in the rival field-, which may imply a certain competitive advantage for the Nervionenses, since they could eventually find a financial replacement in the Ferencvaros center-back very appetizing, and that, given the figure for which it was sold to Koundé, it would be an economic operation of great benefit while, sportingly, damage would be limited. The results are also encouraging if we measure Koundé with Castello Lukeba, the Lyon centre-back who, obviously, has a superior lineup to Mmaee and a value that, for economic purposes, would probably keep him off Sevilla's radar.
 
@@ -447,7 +446,7 @@ The fact that the model returns players that are close to an average portrait im
 
 It is worth to focus on the similarities, and for this we will show some quick examples, going through the team and the need in question, and in which we will be returned a list with the footballers closest to the metrics of the game model of the indicated team.
 
-![png](/Model/Players/city_centrales.PNG)
+![png](/Model/Players/city_centrales.png)
 
 We see in the example the list of central defenders that are closest to the metrics of the Manchester City model for that position, establishing a filter of *InStat Index* that is not very exclusive. As we saw earlier in the profiling, the center backs of this cluster are characterized by excellent footwork and extraordinary precision when changing direction. They must also be quick, as Pep Guardiola's team places the defensive line very far from their goalkeeper, and with the ability to anticipate.
 
@@ -455,11 +454,11 @@ We take Manuel Akanji as an example below, and we measure his similarity on the 
 
 ![png](/Model/Players/akanji.png)
 
-![png](/Model/Players/nino.PNG)
+![png](/Model/Players/nino.png)
 
 To check the ambivalence of the model, we will now face another problem in defense, but this time we will look for left-backs adapted to the Chelsea style, a team that, although it defends up front and also demands a clean start from behind, has a fundamental character that must be taken into account in the model: he has been in a line of 3 center-backs for years, with which he must find players who adapt to the role of winger. Once again, full-backs are shown who pass the same permissive InStat Index filter -which simply discards players who are clearly not comparable, in terms of competition level, to the Chelsea context- but with an age of no more than 30 years.
 
-![png](/Model/Players/inter.PNG)
+![png](/Model/Players/inter.png)
 
 Observing the table, we find that the model returns very offensive profiles -clusters 1 (band organizer with less defensive activity) and 3 (deep winger, crosser and chance generator who participates less in construction). Within the diversity, we can verify that there are names that either have a great facility to be differential in higher areas of the field -Alex Telles, Yuri Berchiche- or base their game on an excellent ability to cross -Lucas Digne- or have Experience forming as wingers in defenses of three -Reguilón, Cucurella, Renan Lodi, Fortuna, Doumbia, Estupiñán or Caio Henrique-. There are even players who, in their past or occasionally in the present, act/acted in the extreme position, in the case of the aforementioned Cucurella or Johan Mojica.
 
@@ -471,13 +470,9 @@ If, in addition, said need that makes the club go to the transfer market is moti
 
 If the incorporation that is intended to be carried out really satisfies a role that did not exist until today in the template, it would not make so much sense to use the **player_similarities** function, while **team_mapping**, used correctly, would continue to offer some relevant information.
 
-### La Herramienta de Visualización
+### Explaining the App
 
-Comenzamos el último apéndice del proyecto analizando el script que genera los distintos elementos disponibles en la aplicación.
-
-#### Codificación de la aplicación
-
-La ejecución y deployment del las funciones de distancia del modelo y de todos los elementos que forman parte del front de la página se realiza en el script *streamlit_imp.py*. Sin embargo, los plots de barras y radar de matplotlib y seaborn que se pueden distinguir en la app están formulados en el script *players_plotting.py*.
+We begin the last appendix of the text by analyzing the script that generates the different elements available in the application
 
 
 #### Application coding
@@ -511,7 +506,7 @@ The app is divided into five very different sections:
 
 - **Model Return**: shows the X players best suited to the selected position and team, in a table detailing the player's club, age, country, market value, Instat index, degree of similarity with the game model and cluster (group) to which the player is assigned. On the right, it shows the most determining variables when establishing clustering and the distances between players.
 
-![png](/Model/Players/streamlit.PNG)
+![png](/Model/Players/streamlit.png)
 
 - **Dashboard**: it is located in the part that, vertically, we could call "central" in the application. This section contains the key information of the selected player, either one of those listed in the returns table or any other that we want to consult and compare. Four views are available:
     - Simple radar of the selected player (upper widget, by default it is the 1st of the returns table). Compare the player (purple) with the average number of players in his position in his league (red) and the maximum for each variable (light grey).
@@ -519,10 +514,10 @@ The app is divided into five very different sections:
     - Below is a comparative radar that, by default, measures the selected player with the footballer who occupies the chosen position in the club that we have chosen in the filter section. Likewise, any comparison can be made using the widgets that appear just above the radar.
     - The fourth quadrant shows the most similar players -without taking into account the game model of the teams- to the football player selected in the first widget-. We can also see the cluster of each of them and their degree of similarity.
 
-![png](/Model/Players/radar1.PNG)
+![png](/Model/Players/radar1.png)
 
 ![png](/Model/Players/radar2.png)
 
 - **Explanation of Clusters**: this last section explains the segmentation carried out by the model, both for team game models (left), differentiating by game phase, and for players (right), showing the division for position selected. For each group, both in players and in teams, explain the basic characteristics of each cluster, adding, in tables, the members of each group (use widgets). In addition, in the case of teams, a KPI is shown with the average number of expected points for each cluster.
 
-![png](/Model/Players/dash_clusters.PNG)
+![png](/Model/Players/dash_clusters.png)
