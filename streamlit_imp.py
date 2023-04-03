@@ -401,7 +401,7 @@ col8,col9,col10 = st.columns([0.5,0.5,1])
 
 select_pl1 = col8.selectbox(
         "Mostrar Radar Comparativo de:",
-        tuple(df.index.unique()))
+        tuple(kdf.Nombre.unique()))
 select_pl2 = col9.selectbox(
         "y:",
         tuple(plf.Nombre.unique()))
