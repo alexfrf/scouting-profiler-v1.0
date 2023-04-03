@@ -598,84 +598,99 @@ def get_player_features(feat,data):
 
 #get_player_features(features)
 
-def player_similarities(p):
+
+def player_similarities(p, data):
+    np.random.seed(4)
+    pos = data[data['Nombre']==p].PosE.values[0]
+    pos2 = pos.replace('/','-')
     print('Looking for similar profiles to {}'.format(p.upper()))
     player_name = p.title()
-    
-    data_player = players[players['Nombre']==p]
+    df = pd.read_csv(ruta_datos+'/Modeled/{}_clustered.csv'.format(pos2),sep=';',decimal=',')
+    data_player = data[data['Nombre']==p]
     idx = data_player.ID.unique()[0]
     name = data_player.PosE.unique()[0]
     name2 = data_player['Posición'].unique()[0]
-    pl = players[(players.PosE==name)]
-    data_pos = df[name]
+    pl = data[(data.PosE==name)]
+    
+    data_pos = df
     pl = pl.reset_index()
     pl = pl.drop('index',axis=1)
 
-
     reduced=data_pos
 
-    reduced = pd.merge(reduced,players[['ID','Posición']],how='left',left_index=True,right_index=True)
+    reduced = pd.merge(reduced,pl[['ID','Posición','Edad','Equipo','league-instat','Nacionalidad']],how='left',left_index=True,right_index=True)
     y = reduced[reduced['ID']==idx]
-    y.drop(['ID','Nombre','Posición'],inplace=True,axis=1)
+    y.drop(['ID','Nombre','Posición','Edad','Equipo','league-instat','Nacionalidad','cluster'],inplace=True,axis=1)
     pl = list(reduced.Nombre)
     pos = list(reduced['Posición'])
-    reduced.drop(['ID','Nombre','Posición'],inplace=True,axis=1)
+    eda = list(reduced.Edad)
+    eq = list(reduced.Equipo)
+    le = list(reduced['league-instat'])
+    nac = list(reduced.Nacionalidad)
+    idx = list(reduced.ID)
+    cl = list(reduced.cluster)
+    reduced.drop(['ID','Nombre','Posición','Edad','Equipo','league-instat','Nacionalidad','cluster'],inplace=True,axis=1)
     euc = []
     for i in reduced.values:
-        euc.append(distance.euclidean(y.values,i))
-    simil = pd.DataFrame(euc,index=[pl,pos],columns=['Similarity_Score'])
+        euc.append(euclidean_distances(np.array(y),[i])[0][0])
+    simil = pd.DataFrame(euc,index=[idx,pos,eda,eq,le,nac,cl],columns=['Similarity_Score'])
     simil = simil.reset_index()
-    simil.columns = ['Nombre','Posición','Similarity_Score']
+    simil.columns = ['ID','Posición','Edad','Equipo','league-instat','Nacionalidad','cluster','Similarity_Score']
     #simil = simil[simil.Nombre.str.title()!=player_name.title()]
     if name2[0] == 'L':
         simil = simil[simil['Posición']==name2]
         
     simil = simil.sort_values(by='Similarity_Score',ascending=True)
-    
-    #simil = simil[simil.Nombre!=p]
-    simil.drop('Posición',axis=1,inplace=True)
+    simil = pd.merge(simil,data[['ID','Nombre']],how='left',on='ID')
+    simil = simil[simil.Nombre!=p]
+    simil = simil.set_index('Nombre')
+    simil.drop('ID',axis=1,inplace=True)
 
 
 
     return simil
 
-        
 
 
-def team_mapping(team,position):
+def team_mapping(team,position, data_team, data_player, cats):
+    pos = data_player[data_player['Posición']==position].PosE.values[0]
+    pos2 = pos.replace('/','-')
+    #players,features,ks,pcas = player_clustering(position=klist, data = data_player, cat_input = cats)
+    
+    players = pd.read_csv(ruta_datos+'/Modeled/{}_clustered.csv'.format(pos2),sep=';',decimal=',')
     cluster_cols=[]
     
-    for i in squad.columns:
+    for i in data_team.columns:
         if 'cluster' in i:
             cluster_cols.append(i)
-    squad[cluster_cols] = squad[cluster_cols].astype(str)
+    data_team[cluster_cols] = data_team[cluster_cols].astype(str)
     cluster_cols.append('teamid')
-    pl = pd.merge(players,squad[cluster_cols],how='left',on='teamid')
+    pl = pd.merge(data_player,data_team[cluster_cols],how='left',on='teamid')
     clus = cluster_cols
     for i in ['teamid','cluster_clas']:
         if i in clus:
             clus.remove(i)
-    if position == 'DFC' or position[0]=='L' or position=='MCD':
+    if (position == 'DFC' or position[0]=='L' or position=='MCD') and 'creacion_oportunidades_cluster' in clus:
         clus.remove('creacion_oportunidades_cluster')
 
-   
-    cluster_comb = squad[squad['Equipo']==team].set_index(clus)
+
+    cluster_comb = data_team[data_team['Equipo']==team].set_index(clus)
     cluster_comb.index=cluster_comb.index.map(''.join).str.replace('.0','')
     cluster_comb = cluster_comb.index[0]
     grouped = pl[(pl['Posición']==position)]
     name = grouped.PosE.unique()[0]
     grouped = grouped.groupby(by=clus).mean()
-    data_cluster = grouped[pos_dict[name]]
+    data_cluster = grouped[cats[name]]
     data_cluster.index = data_cluster.index.map(''.join).str.replace('.0','')
     data_cluster = data_cluster[data_cluster.index==cluster_comb]
-    
-    pca_app = pcas[name]
-
+    pcas = pd.read_csv(ruta_datos+'/Modeled/pca_positions.csv',sep=';',decimal=',')
+    pca_app = pcas[pcas.pos==name].PCA.values[0]
     #pl = players[players['Min']>=min_minutes]
-    data_pos= players[players['PosE']==name]
+    #players = players[name]
+    data_pos= data_player[data_player['PosE']==name]
     data_pos.reset_index(inplace=True)
     data_pos.drop('index',inplace=True,axis=1) 
-    data = data_pos[pos_dict[name]]
+    data = data_pos[cats[name]]
 
     data = pd.concat([data,data_cluster])
     data.reset_index(inplace=True)
@@ -690,8 +705,9 @@ def team_mapping(team,position):
 
     y = reduced.tail(1)
     #y.drop('cluster',axis=1,inplace=True)
-    reduced = reduced.head(reduced.shape[0])
-    reduced = pd.merge(reduced,data_pos[['Nombre','ID','Posición','teamid','Índice InStat','Values','Edad','Pierna']],how='left',left_index=True,right_index=True)
+    reduced = reduced.head(data_pos.shape[0])
+    data_pos = pd.merge(data_pos,players[['cluster','Nombre']],how='left',on='Nombre')
+    reduced = pd.merge(reduced,data_pos[['Nombre','ID','Posición','teamid','Índice InStat','Values','Edad','Pierna','Equipo','Nacionalidad','cluster']],how='left',left_index=True,right_index=True)
     #reduced['idx'] = reduced['idx'].fillna('{}-{}'.format(team,position))
     #reduced['Player'] = reduced['Player'].fillna('{}-{}'.format(team,position))
     if position[0]=='E':
@@ -705,20 +721,29 @@ def team_mapping(team,position):
     vl=list(reduced.Values)
     ag=list(reduced.Edad)
     ft=list(reduced.Pierna)
-    reduced.drop(['Nombre','ID','Posición','teamid','Índice InStat','Values','Edad','Pierna'],inplace=True,axis=1)
+    cl = list(reduced.cluster)
+    eq = list(reduced.Equipo)
+    nc = list(reduced.Nacionalidad)
+    reduced.drop(['Nombre','ID','Posición','teamid','Índice InStat','Values','Edad','Pierna','Equipo','Nacionalidad','cluster'],inplace=True,axis=1)
     euc = []
     for i in reduced.values:
-        euc.append(distance.euclidean(y.values,i))
-    simil = pd.DataFrame(euc,index=[pl,idx,sq,ag,ft,vl,pw],columns=['Team_Similarity_Index'])
+        euc.append(euclidean_distances(np.array(y),[i])[0][0])
+    simil = pd.DataFrame(euc,index=[pl,idx,sq,ag,ft,vl,pw,eq,nc,cl],columns=['Team_Similarity_Index'])
     
     simil = simil.sort_values(by='Team_Similarity_Index',ascending=True)
 
     simil = simil.reset_index()
-    simil.columns = ['Nombre','ID','teamid','Edad','Pierna','Values','Power','Team_Similarity_Index']
+    simil.columns = ['Nombre','ID','teamid','Edad','Pierna','Values','Índice InStat','Equipo','Nacionalidad','cluster','Team_Similarity_Index']
     simil['Team_Similarity_Index'] = round(simil['Team_Similarity_Index'],3)
 
-    simil = simil[simil['Team_Similarity_Index']!=0]
-   
+    #simil = simil[simil['Team_Similarity_Index']!=0]
+    simil['Values'] = round(simil.Values,0).astype(int)
+    simil['Edad'] = simil.Edad.astype(int)
+    simil['Índice InStat'] = simil['Índice InStat'].astype(int)
+    simil['Nacionalidad'] = simil.Nacionalidad.apply(lambda x: x.split(',')[0].strip())
+    #simil = simil[(simil.Values<=value) & (simil.Edad<=age)]
+    
+    
     return simil
 
 
