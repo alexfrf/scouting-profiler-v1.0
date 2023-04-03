@@ -1,7 +1,5 @@
 ![png](/Documentacion/logomin.png)
 
-![png](/Documentacion/logo_comp.png)
-
 # Segmentation & Profiling of Football Players through Clustering, Advanced Metrics and Analysis of Game Model
 
 ### Alejandro Fernández Rodríguez
