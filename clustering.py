@@ -26,7 +26,8 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics.pairwise import euclidean_distances
 from scipy.spatial import distance
 import clustering_functions as cf
-from clustering_functions import cat_dict
+from clustering_functions import cbs,mid,attm,flb,fwd,pos_dict
+from clustering_functions import cat_dict, cca_cols, def_cols, buildup_cols,system_cols
 
 def elbow_method(X, max_range_for_elbow):
     return kelbow_visualizer(KMeans(random_state=0), X, k=(1, max_range_for_elbow)) 

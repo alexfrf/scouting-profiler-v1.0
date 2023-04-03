@@ -14,10 +14,10 @@ import os
 from sklearn.metrics.pairwise import euclidean_distances
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import MinMaxScaler
-from Players_plotting import sradar,radar_comp,plot_percentiles
 from PIL import Image
 from clustering_functions import isna_check
-
+from clustering_functions import cbs,mid,attm,flb,fwd,pos_dict
+from Players_plotting import sradar,radar_comp,plot_percentiles
 
 scaler = MinMaxScaler()
 
@@ -33,63 +33,6 @@ players_df = pd.read_csv(ruta_datos+'/Modeled/jugadores.csv',sep=';',decimal=','
 players_df.drop('Equipo',inplace=True,axis=1)
 squad_df = pd.read_csv(ruta_datos+'/Modeled/equipos.csv',sep=';',decimal=',')
 players_df = pd.merge(players_df,squad_df[['teamid','Equipo']],how='left',on='teamid')
-
-
-cbs = list(set(['% disputas por arriba ganadas','PAdj_Disputas por arriba ganadas','PAdj_Interceptaciones+Entradas',
-                'PAdj_Rechaces','PAdj_Entradas','Perdidas_crival%','Recuperaciones_crival%',
-                'Entradas/100Acciones defensivas','Entradas, %','Robos de balón con éxito, %',
-        '% disputas defensivas ganadas','PAdj_Disputas defensivas','Disputas defensivas/100Acciones defensivas',
-        'PAdj_Faltas','Disputas aéreas/100Disputas','Disputas defensivas/100Disputas',
-        'PAdj_Balones recuperados','PAdj_Acciones defensivas','Pases/100Acciones defensivas',
-        '% de efectividad de pases','PAdj_Rechaces'
-    ]))
-
-mid = list(set([
-    'KP/100Acciones no defensivas','Pases/100Acciones defensivas','Regates/100Acciones no defensivas',
-    'CC/100Acciones no defensivas','PAdj_Interceptaciones+Entradas',
-    '% de efectividad de pases','PAdj_Disputas por arriba ganadas', 'Perdidas_crival%','Recuperaciones_crival%',
-    'Disputas en ataque/100Disputas','Centros/100Pases','Robos de balón con éxito, %',
-    'PAdj_Balones recuperados','PAdj_Disputas ganadas','% de efectividad de pases','Pases efectivos',
-    'Entradas/100Acciones defensivas','PAdj_Interceptaciones','PAdj_Rechaces',
-    'xG per shot','Tiros/100Acciones no defensivas','xA/PFe','PF/100Pases','Entradas, %',
-    'Regates/100Acciones no defensivas', 'Pases/100Acciones','Pases de finalización efectivos'
-    ]))
-
-
-flb=list(set(['Regates/100Acciones no defensivas','Centros/100PF','Centros/100Pases',
-              'Centros/100Acciones no defensivas','PF/100Acciones no defensivas',
-     'Regates/100Centros','% de efectividad de pases','Entradas/100Acciones defensivas','% de efectividad de los centros',
-     'Perdidas_crival%','Recuperaciones_crival%','PAdj_Interceptaciones+Entradas',
-     'Acciones defensivas/100Acciones','KP/100Acciones no defensivas',
-     'CC/100Centros','xA/PFe','PF/100Pases','Entradas, %','PAdj_Balones recuperados',
-     'Expected assists','Disputas/100Acciones defensivas','Jugada_Gol/100Centros',
-     'Pases/100Acciones defensivas','Tiros/100Acciones no defensivas','Wing_Natural']
-             ))
-
-attm=list(set(['Regates/100Acciones no defensivas','Centros/100PF','Centros/100Pases',
-              'Centros/100Acciones no defensivas','PF/100Acciones no defensivas',
-     'Regates/100Centros','% de efectividad de pases','xG per shot','Regates efectivos',
-     'Perdidas_crival%','Recuperaciones_crival%','xG/Jugada_Gol','xg+xa/100Acciones',
-     'Acciones defensivas/100Acciones','KP/100Acciones no defensivas','xA/CC',
-     'CC/100Centros','CC/100Regates','xA/PFe','PF/100Pases','KP_Ocasiones%','CC/100PF','Disputas aéreas/100Disputas',
-     'Jugada_Gol/100Centros','% disputas por arriba ganadas',
-     'Jugada_Gol/100Regates','Tiros/100Acciones no defensivas','Wing_Natural']))
-
-fwd=list(set(['Regates/100Acciones no defensivas','Centros/100PF','Centros/100Pases',
-              'Centros/100Acciones no defensivas','PF/100Acciones no defensivas',
-     'Regates/100Centros','xG conversion','xG per shot','Ocasiones de gol, % conversión',
-     'xG/Jugada_Gol','xg+xa/100Acciones',
-     'Acciones defensivas/100Acciones','KP/100Acciones no defensivas','xA/CC',
-     'CC/100Centros','CC/100Regates','xA/PFe','PF/100Pases','KP_Ocasiones%','CC/100PF','Disputas aéreas/100Disputas',
-     'Jugada_Gol/100Centros','% disputas por arriba ganadas',
-     'Jugada_Gol/100Regates','Tiros/100Acciones no defensivas','Altura']))
-
-
-pos_dict= {'Centre-Back':cbs,
-           'Midfielder':mid,
-           'Att. Midfield/Winger':attm,
-           'Full-Back':flb,
-           'Forward':fwd}
 
 
 
