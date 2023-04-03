@@ -337,6 +337,14 @@ df = df[(df.Equipo.isin(select_team_l))]
 df = df[(df.Edad<=selected_age) & (df.Values<=selected_value) & (df['Índice InStat']>=selected_instat) & (df.Pierna.isin(select_pierna))]
 
 cols = ['Nombre','Equipo','Nacionalidad','Edad','Values','Team_Similarity_Index','Índice InStat','cluster']
+
+plf = players_df[(players_df['Posición']==option)]
+kdf1 = plf[plf.ID==df.head(1).ID.values[0]]
+kdf = plf[plf.ID!=df.head(1).ID.values[0]]
+kdf = pd.concat([kdf1,kdf])
+kdf = pd.merge(kdf,df[['ID','Team_Similarity_Index']],how='left',on='ID')
+kdf = kdf.sort_values(by='Team_Similarity_Index',ascending=True)
+
 df = df[cols]
 df.rename({'Índice InStat':'IDX',
            'Values':'Valor',
@@ -371,14 +379,15 @@ st.write('***')
 st.set_option('deprecation.showPyplotGlobalUse', False)
 col4,col5 = st.columns([1,1])  
 col4.markdown("""#### Dashboard""")
+
 select_pl = col4.selectbox(
         "Mostrar Datos de:",
-        tuple(df.index.unique()))
+        tuple(kdf.Nombre.unique()))
 
 
 
 
-plf = players_df[(players_df['Posición']==option)]
+
 plf_team = plf[plf.Equipo==select_team]
 
 plf = plf[~plf.index.isin(plf_team.index)]
