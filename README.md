@@ -24,23 +24,22 @@ The purpose of this notebook is to describe the procedures carried out, at a tec
      - Cleaning and treatment of tables + auxiliary functions
      
           
-  - **DATA MODELING**
+- **DATA MODELING**
      - Feature Engineering
      - Creation and Definition of Metrics
      
            
-  - **SEGMENTATION PROCESS**
+- **SEGMENTATION PROCESS**
      - Segmenting the teams + definition of key metrics
      - Segmenting the players + definition of key metrics
      
-           
-  - **DISTANCE ALGORITHMS**
+
+- **DISTANCE ALGORITHMS**
      - Team_Mapping: degree of adequacy of the player to a certain game model and position.
      - Player_Similarities: degree of resemblance to a given player.
      
-           
-  
-  - **THE APP EXPLAINED**
+            
+- **THE APP EXPLAINED**
      - Application coding
      - Deployment and repository
      - Displayable Elements
