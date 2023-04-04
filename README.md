@@ -4,6 +4,10 @@
 
 [Portfolio](https://alexfrf.github.io/) | [GitHub Repo](https://github.com/alexfrf/scouting-profiler)
 
+- **Disclaimer 1: Both data and the app itself are written in Spanish**
+- **Disclaimer 2: This model, including the app build-up, is entirely written in Python. You can check out the code line by line on the [Github Repo](https://github.com/alexfrf/scouting-profiler)**
+
+
 The purpose of this text is to describe a project for planning, developing, conceptualizing, and subsequently deploying a web application that visualizes a model for segmenting the characteristics of players in the world's most important football competitions according to advanced metrics. By segmenting the game model of teams, the application aims to associate the footballers who best fit into their system for each position on the field. The goal is to add the variant of the team's style of play, both their own and others, by measuring and quantifying it to find those players who are closest, based on advanced metrics, to the numbers of the team being analyzed. These footballers will potentially best suit the needs for which the team goes to the market, as they will require a shorter adaptation process and will know similar game mechanisms since they come from teams that show tactical similarities.
 
 
@@ -81,11 +85,11 @@ The data comes from two sources -Instat and Transfermarkt-, whose export from it
 | TS1 | CzechRepublic | FortunaLeague |
 | UNG1 | Hungary | NBI |
 
-For its part, the transfermarkt data referring to the report is scraped directly from the web using the Requests and BeautifulSoup libraries, using the code included in the *Tmarkt_scraper.py* script. This task results in the creation of three files:
+On the other hand, the transfermarkt data referring to the report is scraped directly from the web using the Requests and BeautifulSoup libraries, using the code included in the *Tmarkt_scraper.py* script. This task results in the creation of three files:
 
 - **tmarkt**: made up by the basic information of the players that are part of the competitions listed above.
 - **leagues**: metadata of teams and leagues
-- **equipos_sistemas**: stands for detailed information on match plans, collected in Transfermarkt [here](https://www.transfermarkt.com/Real%20Betis%20Sevilla/spielplan/verein/150/saison_id/2021/plus/1#ES1). Se recoge el entrenador que ha dirigido al equipo en cada encuentro y el sistema de juego. Sobre esa informacións se calculan una serie de métricas relacionadas con el tiempo absoluto y relativo de empleo de cada estructura.
+- **equipos_sistemas**: stands for detailed information on match plans, collected in Transfermarkt [here](https://www.transfermarkt.com/Real%20Betis%20Sevilla/spielplan/verein/150/saison_id/2021/plus/1#ES1). The coach who directed the team in each match and the playing system are collected. Based on this information, a series of metrics related to the absolute and relative time of use of each structure are calculated.
 
 Based on this information, the *data_cleaning.py* script imports the files and, after concatenating the Instat team and player data by competition, performs the following operations:
 
