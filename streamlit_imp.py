@@ -50,24 +50,24 @@ cola.image(image)
 
 st.title('Perfilación de Futbolistas mediante Clusterización, Métricas Avanzadas y Análisis de Modelos de Juego')
 st.write("""
-        Esta aplicación ilustra un modelo que busca segmentar las
-características de los jugadores de las competiciones más importantes del fútbol
-mundial según métricas avanzadas y,
-segmentando el modelo de juego de los equipos, poder asociar, a cada club, los futbolistas que,
-para cada posición en el campo, mejor encajen en su sistema. El propósito es añadir
-la variante del estilo de juego de los equipos -el propio y los demás-, midiéndolo y
-cuantificándolo para poder encontrar a aquellos jugadores que más se aproximen, basándonos
-en métricas avanzadas, a los números del equipo que estemos analizando. Serán esos futbolistas
-los que, potencialmente, más se adecúen a las necesidades por las que dicho equipo acude al
-mercado, pues serán piezas que requerirán un proceso de adaptación más corto y conocerán
-mecanismos similares de juego, pues vendrán de conjuntos que, tácticamente, muestran
-simitudes.
+        Esta aplicación emplea un modelo analítico para segmentar las características de
+        los jugadores en las competiciones de fútbol más importantes del mundo, 
+        utilizando métricas avanzadas. Al considerar el modelo de juego de los equipos,
+        la aplicación puede asociar a cada club los jugadores que mejor se adapten a su
+        sistema para cada posición en el campo. El valor añadido principal se centra, pues,
+        en agregar el estilo de juego de los equipos como factor clave, midiendo y
+        cuantificándolo para identificar a los jugadores que se acerquen más las métricas
+        objetivo del conjunto que se está analizando. Estos jugadores son los que potencialmente
+        mejor se adaptarán a las necesidades del equipo al acudir al mercado, ya que requerirán 
+        un proceso de adaptación más corto y conocerán mecanismos de juego similares, al provenir
+        de equipos que muestran similitudes tácticas.
 
          """)
 
 st.markdown("""
             * **Datos procedentes de [InStat](https://www.instatsport.com/en/) y  [Transfermarkt](https://www.transfermarkt.com/), correspondientes a la temporada 2021/22**.
             * **Desarrollo del Modelo: [Alex Fernández](https://alexfrf.github.io/)**
+            * **Repositorio y Documentación del Proyecto en [Github](https://github.com/alexfrf/scouting-profiler)**
             """)
 
           
