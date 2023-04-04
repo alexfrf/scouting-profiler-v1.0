@@ -4,7 +4,7 @@
 
 [Portfolio](https://alexfrf.github.io/) | [GitHub Repo](https://github.com/alexfrf/scouting-profiler)
 
-The purpose of this text is to describe the project for the planning, development, conceptualization and subsequent deployment of a web application that visualizes a model that seeks to segment the characteristics of the players in the most important world football competitions according to advanced metrics and, segmenting the game model of the teams, being able to associate, to each club, the footballers who, for each position on the field, best fit into their system. The purpose is to add the variant of the team's style of play -their own and the others-, measuring and quantifying it to be able to find those players that are closest, based on advanced metrics, to the numbers of the team that we are analyzing. Those footballers will be the ones that, potentially, best suit the needs for which said team goes to the market, since they will be pieces that will require a shorter adaptation process and will know similar game mechanisms, since they will come from sets that, tactically, show similarities.
+The purpose of this text is to describe a project for planning, developing, conceptualizing, and subsequently deploying a web application that visualizes a model for segmenting the characteristics of players in the world's most important football competitions according to advanced metrics. By segmenting the game model of teams, the application aims to associate the footballers who best fit into their system for each position on the field. The goal is to add the variant of the team's style of play, both their own and others, by measuring and quantifying it to find those players who are closest, based on advanced metrics, to the numbers of the team being analyzed. These footballers will potentially best suit the needs for which the team goes to the market, as they will require a shorter adaptation process and will know similar game mechanisms since they come from teams that show tactical similarities.
 
 
 **App built and shared via Streamlit | [LINK](https://alexfrf-mlscoutingprofiler.streamlit.app/)**
@@ -16,7 +16,7 @@ The purpose of this text is to describe the project for the planning, developmen
 
 *InStat* | *Transfermarkt*
 
-The purpose of this notebook is to describe the procedures carried out, at a technical level, from the extraction of the necessary data to the deployment in the Streamlit cloud of the application that can currently be viewed, detailing the scripts and functions used in each passed. This explanation is structured as follows:
+In the following lines, we will explain the technical procedures that were carried out, from the extraction of the necessary data to the deployment of the application in the Streamlit cloud. We will also detail the scripts and functions used in each step. The structure of this explanation is as follows:
 
 - **SOURCE DATA: Content and Treatment (Extraction, Import and Transformation)**
      - Instant Data
