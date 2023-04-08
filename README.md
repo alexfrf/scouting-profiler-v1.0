@@ -474,7 +474,7 @@ If the incorporation that is intended to be carried out really satisfies a role 
 
 ### The App Explained
 
-
+We begin the last appendix of the project by analyzing the script that generates the different elements available in the application.
 
 #### Application coding
 
