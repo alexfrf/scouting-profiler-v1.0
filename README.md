@@ -416,7 +416,7 @@ The two processes outlined below aim to turn all of the above analytical modelin
 - The **player_Similarities** function measures the degree of similarity between a player and the rest of his homonyms. It takes a player and returns a table with the Euclidean distance with respect to the most similar ones. It should be noted that, although there may be a relationship between the results of this model and the level of the player, what it tries to illustrate is exclusively the similarity between one player and another, leaving aside their level and quality.
 
 
-- The **team_Mapping** function, for its part, takes some base data corresponding to a specific game model and returns the players whose attributes are closest -and, therefore, are most appropriate to adapt to that context-. It takes a subposition and a team, and returns a table with the Euclidean distance from the closest players to that base data.
+- The **team_Mapping** function takes some base data corresponding to a specific game model and returns the players whose attributes are closest -and, therefore, are most appropriate to adapt to that context-. It takes a subposition and a team, and returns a table with the Euclidean distance from the closest players to that base data.
 
 The functions are collected in the script: *clustering_functions.py*.
 
@@ -472,13 +472,8 @@ If, in addition, said need that makes the club go to the transfer market is moti
 
 If the incorporation that is intended to be carried out really satisfies a role that did not exist until today in the template, it would not make so much sense to use the **player_similarities** function, while **team_mapping**, used correctly, would continue to offer some relevant information.
 
-### La Herramienta de Visualización
+### The App Explained
 
-Comenzamos el último apéndice del proyecto analizando el script que genera los distintos elementos disponibles en la aplicación.
-
-#### Codificación de la aplicación
-
-La ejecución y deployment del las funciones de distancia del modelo y de todos los elementos que forman parte del front de la página se realiza en el script *streamlit_imp.py*. Sin embargo, los plots de barras y radar de matplotlib y seaborn que se pueden distinguir en la app están formulados en el script *players_plotting.py*.
 
 
 #### Application coding
