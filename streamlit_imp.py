@@ -107,7 +107,7 @@ st.markdown("""
 
 col2, col3 = st.columns([1,1])  
 
-@st.cache
+@st.cache(allow_output_mutation=True)
 def get_features(position):
     pose = players_df[players_df['Posición']==position].PosE.values[0]
     pose = pose.replace('/','-')
@@ -116,7 +116,7 @@ def get_features(position):
     
     return features
 
-@st.cache
+@st.cache(allow_output_mutation=True)
 def player_similarities(p, data):
     np.random.seed(4)
     pos = data[data['Nombre']==p].PosE.values[0]
@@ -169,7 +169,7 @@ def player_similarities(p, data):
     return simil
 
 
-@st.cache
+@st.cache(allow_output_mutation=True)
 def team_mapping(team,position, data_team, data_player, cats):
     pos = data_player[data_player['Posición']==position].PosE.values[0]
     pos2 = pos.replace('/','-')
