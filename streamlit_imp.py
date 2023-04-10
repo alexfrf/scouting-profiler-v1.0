@@ -261,14 +261,19 @@ def team_mapping(team,position, data_team, data_player, cats):
     simil['Nacionalidad'] = simil.Nacionalidad.apply(lambda x: x.split(',')[0].strip())
     #simil = simil[(simil.Values<=value) & (simil.Edad<=age)]
     
-    
+    s = pd.DataFrame(simil['Team_Similarity_Index'].describe()).T
+    s = s[['count', 'mean','25%', '50%', '75%']]
+    s.rename({'count':'N','mean':'Media','25%':'PCT25','50%':'PCT50','75%':'PCT75'},axis=1,
+             inplace=True)
     #simil = simil[(simil.Values<=value) & (simil.Edad<=age)]
     
     
-    return simil
+    return simil,s
 
-df = team_mapping(select_team,option, squad_df, players_df, pos_dict)
+df = team_mapping(select_team,option, squad_df, players_df, pos_dict)[0]
+describe = team_mapping(select_team,option, squad_df, players_df, pos_dict)[1]
 
+describe.rename({'Team_Similarity_Index':'Similarity'},axis=0,inplace=True)
 sorted_unique_lg = sorted(squad_df['league-instat'].unique())
 select_league = st.sidebar.multiselect('Competición',sorted_unique_lg,sorted_unique_lg)
 sorted_unique_team = sorted(squad_df.Equipo.unique())
@@ -300,7 +305,7 @@ df.rename({'Índice InStat':'IDX',
 df = df.set_index('Nombre')
 df = df.head(select_unt)
 col2.dataframe(df)
-
+col2.dataframe(describe)
 
 feat = get_features(option)
 fig,ax = plt.subplots(figsize=(16, 12))
