@@ -13,11 +13,12 @@ import seaborn as sns
 import os
 from sklearn.metrics.pairwise import euclidean_distances
 from sklearn.decomposition import PCA
-from sklearn.preprocessing import MinMaxScaler
+from sklearn.preprocessing import MinMaxScaler,StandardScaler
 from PIL import Image
 from clustering_functions import isna_check
 from clustering_functions import cbs,mid,attm,flb,fwd,pos_dict
 from Players_plotting import sradar,radar_comp,plot_percentiles
+import math
 
 scaler = MinMaxScaler()
 
@@ -78,6 +79,10 @@ st.sidebar.header('Introducción de Filtros')
 option = st.sidebar.selectbox(
         "Posición",
         ('DFC','LD','LI','MCD','MC','MCO','ED','EI','DC'))
+
+pose = players_df[players_df['Posición']==option].PosE.values[0]
+pose = pose.replace('/','-')
+clu = pd.read_csv(ruta_datos+'/Modeled/{}_clustered.csv'.format(pose),decimal=',',sep=';')
 
 sorted_unique_team = sorted(squad_df.Equipo.unique())
 select_team = st.sidebar.selectbox(
@@ -252,14 +257,15 @@ def team_mapping(team,position, data_team, data_player, cats):
 
     simil = simil.reset_index()
     simil.columns = ['Nombre','ID','teamid','Edad','Pierna','Values','Índice InStat','Equipo','Nacionalidad','cluster','Team_Similarity_Index']
-    simil['Team_Similarity_Index'] = round(simil['Team_Similarity_Index'],3)
-
+    
+    simil['Team_Similarity_Index'] = ((simil.Team_Similarity_Index - simil.Team_Similarity_Index.mean()) / simil.Team_Similarity_Index.std())
     #simil = simil[simil['Team_Similarity_Index']!=0]
+    simil['Team_Similarity_Index'] = simil['Team_Similarity_Index'] + math.ceil(abs(simil.Team_Similarity_Index.min()))
+    simil['Team_Similarity_Index'] = round(simil['Team_Similarity_Index'],3)
     simil['Values'] = round(simil.Values,0).astype(int)
     simil['Edad'] = simil.Edad.astype(int)
     simil['Índice InStat'] = simil['Índice InStat'].astype(int)
     simil['Nacionalidad'] = simil.Nacionalidad.apply(lambda x: x.split(',')[0].strip())
-    #simil = simil[(simil.Values<=value) & (simil.Edad<=age)]
     
     s = pd.DataFrame(simil['Team_Similarity_Index'].describe()).T
     s = s[['count', 'mean','25%', '50%', '75%']]
@@ -273,7 +279,6 @@ def team_mapping(team,position, data_team, data_player, cats):
 df = team_mapping(select_team,option, squad_df, players_df, pos_dict)[0]
 describe = team_mapping(select_team,option, squad_df, players_df, pos_dict)[1]
 
-describe.rename({'Team_Similarity_Index':'Similarity'},axis=0,inplace=True)
 sorted_unique_lg = sorted(squad_df['league-instat'].unique())
 select_league = st.sidebar.multiselect('Competición',sorted_unique_lg,sorted_unique_lg)
 sorted_unique_team = sorted(squad_df.Equipo.unique())
@@ -290,11 +295,12 @@ df = df[(df.Edad<=selected_age) & (df.Values<=selected_value) & (df['Índice InS
 cols = ['Nombre','Equipo','Nacionalidad','Edad','Values','Team_Similarity_Index','Índice InStat','cluster']
 
 plf = players_df[(players_df['Posición']==option)]
-kdf1 = plf[plf.ID==df.head(1).ID.values[0]]
-kdf = plf[plf.ID!=df.head(1).ID.values[0]]
-kdf = pd.concat([kdf1,kdf])
-kdf = pd.merge(kdf,df[['ID','Team_Similarity_Index']],how='left',on='ID')
-kdf = kdf.sort_values(by='Team_Similarity_Index',ascending=True)
+#kdf1 = plf[plf.ID==df.head(1).ID.values[0]]
+#kdf = plf[plf.ID!=df.head(1).ID.values[0]]
+#kdf = pd.concat([kdf1,kdf])
+#kdf = pd.merge(kdf,df[['ID','Team_Similarity_Index']],how='left',on='ID')
+plf = pd.merge(plf,clu[['cluster','Nombre']],how='left',on='Nombre')
+#kdf = kdf.sort_values(by='Team_Similarity_Index',ascending=True)
 
 df = df[cols]
 df.rename({'Índice InStat':'IDX',
@@ -302,10 +308,18 @@ df.rename({'Índice InStat':'IDX',
            'Team_Similarity_Index':'Similarity',
            'cluster':'Cluster_Jugador'},
           inplace=True,axis=1)
+
 df = df.set_index('Nombre')
-df = df.head(select_unt)
-col2.dataframe(df)
-col2.dataframe(describe)
+tab = df[['Similarity']].copy()
+tab['Ranking'] = tab['Similarity'].rank()
+tab['Ranking'] = tab['Ranking'].apply(lambda x: "{:.0f}º".format(x))
+
+
+
+
+
+col2.dataframe(df.head(select_unt))
+
 
 feat = get_features(option)
 fig,ax = plt.subplots(figsize=(16, 12))
@@ -324,16 +338,24 @@ ax.set_title('Variables más Influyentes en el Modelo para Segmentar {}'.format(
 
 col3.pyplot(fig)
 
+describe.rename({'Team_Similarity_Index':'Similarity'},axis=0,inplace=True)
+col2.dataframe(describe)
+
+
 
 st.write('***')
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
-col4,col5 = st.columns([1,1])  
+col4, col5= st.columns([1,1]) 
 col4.markdown("""#### Dashboard""")
 
-select_pl = col4.selectbox(
+st.set_option('deprecation.showPyplotGlobalUse', False)
+col6, col7= st.columns([1,1]) 
+
+select_pl = col6.selectbox(
         "Mostrar Datos de:",
-        tuple(kdf.Nombre.unique()))
+        tuple(df.index.unique()))
+
+#col5.dataframe(tab[tab.index==select_pl][['Similarity','Ranking']])
 
 
 
@@ -344,26 +366,45 @@ plf_team = plf[plf.Equipo==select_team]
 plf = plf[~plf.index.isin(plf_team.index)]
 plf = pd.concat([plf_team,plf])
 
-col6, col7= st.columns([1,1])
+tab['Rank'] = np.where(tab.index.isin(list(tab.head(select_unt).index.values)),"Top{:.0f}".format(select_unt),'Resto')
 col6.pyplot(sradar(select_pl))
+
+fig,ax=plt.subplots(figsize=(12,2.5))
+sns.histplot(data=tab, x="Similarity", hue="Rank", multiple="stack",kde=True,palette='seismic')
+ax.scatter(x=tab[tab.index==select_pl].Similarity.values[0],y=8,s=300,marker='X',color='purple')
+ax.axvline(tab.Similarity.mean(),0,color='blue')
+ax.axvline(tab.Similarity.quantile(.25),0,color='blue')
+ax.annotate(tab[tab.index==select_pl].index[0]+' ({})'.format(tab[tab.index==select_pl].Ranking.values[0]),(tab[tab.index==select_pl].Similarity.values[0],20),ha='center',weight='bold',size=16)
+ax.annotate('Pct25',(tab.Similarity.quantile(.25),100),ha='right',size=10,weight='bold')
+ax.annotate('Media',(tab.Similarity.mean(),100),ha='right',size=10,weight='bold')
+#ax.set_title('Distribución de Similitud', size= 18, weight='bold')
+#ax.set_xlabel(None)
+#ax.set_ylabel(None)
+sns.despine()
+col7.pyplot(fig)
 col7.pyplot(plot_percentiles(select_pl,select_team_l))
 
 col8,col9,col10 = st.columns([0.5,0.5,1]) 
 
 select_pl1 = col8.selectbox(
         "Mostrar Radar Comparativo de:",
-        tuple(kdf.Nombre.unique()))
+        tuple(df.index.unique()))
 select_pl2 = col9.selectbox(
         "y:",
         tuple(plf.Nombre.unique()))
 
+plf.rename({'cluster':'Cluster_Jugador'},axis=1,inplace=True)
+plf = plf.set_index('Nombre')
 
 col10,col11 = st.columns([1,1]) 
 col10.pyplot(radar_comp(select_pl1,select_pl2))
 
 ps = player_similarities(select_pl, players_df)
 #ps = ps.set_index('Nombre')
+col11.dataframe(plf[plf.index.isin([select_pl1,select_pl2])][['Índice InStat','Cluster_Jugador']])
+
 col11.markdown('**Jugadores similares a {}**'.format(select_pl))
+
 col11.dataframe(ps.head(50))
 
 gl= squad_df
@@ -386,14 +427,18 @@ col12.markdown("""
 
 col12.markdown("""*{} se encuentra en el Cluster {}*""".format(select_team,
                                                                squad_df[squad_df['Equipo']==select_team]['disposicion_tactica_cluster'].values[0]))
-
+means = []
+for i in range(1,1+gl['disposicion_tactica_cluster'].max()):
+    means.append(gl[gl['disposicion_tactica_cluster']==i]['Puntos esperados'].mean())
+    
+media = np.mean(means)
 select_clu1= col12.selectbox(
         "Mostrar Equipos de Cluster Táctico:",
         tuple([i for i in range(1,5)]))               
 col12.dataframe(gl[gl['disposicion_tactica_cluster']==select_clu1][['last_coach','league-instat','Puntos esperados']])
 col12.metric("Media de Puntos Esperados para el Cluster Seleccionado",
              "{:.2f}".format(gl[gl['disposicion_tactica_cluster']==select_clu1]['Puntos esperados'].mean()),
-             "{:.2f}".format(gl[gl['disposicion_tactica_cluster']==select_clu1]['Puntos esperados'].mean() - gl['Puntos esperados'].mean()))
+             "{:.2f}".format(gl[gl['disposicion_tactica_cluster']==select_clu1]['Puntos esperados'].mean() - media))
 
 
 col12.write('***')
@@ -408,13 +453,18 @@ col12.markdown("""
 col12.markdown("""*{} se encuentra en el Cluster {}*""".format(select_team,
                                                                squad_df[squad_df['Equipo']==select_team]['defensa_cluster'].values[0]))
 
+means = []
+for i in range(1,1+gl['defensa_cluster'].max()):
+    means.append(gl[gl['defensa_cluster']==i]['Puntos esperados'].mean())
+    
+media = np.mean(means)
 select_clu2= col12.selectbox(
         "Mostrar Equipos de Cluster Defensivo:",
         tuple([i for i in range(1,5)]))               
 col12.dataframe(gl[gl['defensa_cluster']==select_clu2][['last_coach','league-instat','Puntos esperados']])
 col12.metric("Media de Puntos Esperados para el Cluster Seleccionado",
              "{:.2f}".format(gl[gl['defensa_cluster']==select_clu2]['Puntos esperados'].mean()),
-             "{:.2f}".format(gl[gl['defensa_cluster']==select_clu2]['Puntos esperados'].mean() - gl['Puntos esperados'].mean()))
+             "{:.2f}".format(gl[gl['defensa_cluster']==select_clu2]['Puntos esperados'].mean() - media))
 
 col12.write('***')
 col12.markdown("""
@@ -428,13 +478,18 @@ col12.markdown("""
 col12.markdown("""*{} se encuentra en el Cluster {}*""".format(select_team,
                                                                squad_df[squad_df['Equipo']==select_team]['buildup_cluster'].values[0]))
 
+means = []
+for i in range(1,1+gl['buildup_cluster'].max()):
+    means.append(gl[gl['buildup_cluster']==i]['Puntos esperados'].mean())
+    
+media = np.mean(means)
 select_clu3= col12.selectbox(
         "Mostrar Equipos de Cluster de Buildup:",
         tuple([i for i in range(1,5)]))              
 col12.dataframe(gl[gl['buildup_cluster']==select_clu3][['last_coach','league-instat','Puntos esperados']])
 col12.metric("Media de Puntos Esperados para el Cluster Seleccionado",
              "{:.2f}".format(gl[gl['buildup_cluster']==select_clu3]['Puntos esperados'].mean()),
-             "{:.2f}".format(gl[gl['buildup_cluster']==select_clu3]['Puntos esperados'].mean() - gl['Puntos esperados'].mean()))
+             "{:.2f}".format(gl[gl['buildup_cluster']==select_clu3]['Puntos esperados'].mean() - media))
 
 col12.write('***')
 col12.markdown("""
@@ -448,18 +503,20 @@ col12.markdown("""
 col12.markdown("""*{} se encuentra en el Cluster {}*""".format(select_team,
                                                                squad_df[squad_df['Equipo']==select_team]['creacion_oportunidades_cluster'].values[0]))
 
-
+means = []
+for i in range(1,1+gl['creacion_oportunidades_cluster'].max()):
+    means.append(gl[gl['creacion_oportunidades_cluster']==i]['Puntos esperados'].mean())
+    
+media = np.mean(means)
 select_clu4= col12.selectbox(
         "Mostrar Equipos de Cluster de Creación de Oportunidades:",
         tuple([i for i in range(1,5)]))              
 col12.dataframe(gl[gl['creacion_oportunidades_cluster']==select_clu4][['last_coach','league-instat','Puntos esperados']])
 col12.metric("Media de Puntos Esperados para el Cluster Seleccionado",
              "{:.2f}".format(gl[gl['buildup_cluster']==select_clu4]['Puntos esperados'].mean()),
-             "{:.2f}".format(gl[gl['buildup_cluster']==select_clu4]['Puntos esperados'].mean() - gl['Puntos esperados'].mean()))
+             "{:.2f}".format(gl[gl['buildup_cluster']==select_clu4]['Puntos esperados'].mean() - media))
 
-pose = players_df[players_df['Posición']==option].PosE.values[0]
-pose = pose.replace('/','-')
-clu = pd.read_csv(ruta_datos+'/Modeled/{}_clustered.csv'.format(pose),decimal=',',sep=';')
+
 
 players_df = players_df.sort_values(by='Índice InStat', ascending=False)
 players_clus = pd.merge(players_df,clu,how='left',on='Nombre')   
@@ -471,30 +528,30 @@ col13.write("""#### Clusters de {} Explicados
             """.format(pose))
             
 dict_explicacion = {'Centre-Back':"""
-                                    - **C1**: Mayor tendencia a realizar entradas y a salir fuera de zona -mayor índice de comisión de faltas-, menor propensión a medirse por alto.
-                                    - **C2**: Dominio de juego aéreo, más disputas defensivas, mayor capacidad de imponerse individualmente, menor participación con balón.
-                                    - **C3**: Menor propensión a duelos y a entradas, menos faltas, mayor participación con balón.
-                                  """,
+                                    - **C1**: Dominio de juego aéreo, más disputas defensivas, mayor capacidad de imponerse individualmente, menor participación con balón.
+                                    - **C2**: Menor propensión a duelos y a entradas, menos faltas, mayor participación con balón.
+                                    - **C3**: Mayor tendencia a realizar entradas y a salir fuera de zona -mayor índice de comisión de faltas-, menor propensión a medirse por alto.
+                                    """,
            'Midfielder':"""
-                           - **C1**: Perfil más ofensivo, menos acciones defensivas, mayor participación en creación de oportunidades, caída a banda y recepciones cercanas al área. 
-                           - **C2**: Pivote, alto volumen de tareas defensivas, poca participación en tercio final, alta tasa de disputas y recepciones en la base de la jugada.
+                           - **C1**: Pivote, alto volumen de tareas defensivas, poca participación en tercio final, alta tasa de disputas y recepciones en la base de la jugada.
+                           - **C2**: Perfil más ofensivo, menos acciones defensivas, mayor participación en creación de oportunidades, caída a banda y recepciones cercanas al área.  
                            - **C3**: Perfil mixto y de amplio recorrido, con y sin balón. Organizadores itinerantes en equipos que aparecen para construir en distintas alturas y centrocampistas con alta capacidad de llegada a área para rematar.
                            """,
            'Att. Midfield-Winger':"""
-                           - **C1**: Extremo a pie natural, encarador y regateador. Alta tasa de centros en línea de fondo. Se incluyen carrileros que juegan muy alto.
-                           - **C2**: Jugadores autosuficientes, siempre por el centro o en banda a pierna cambiada. Alta incidencia en area (valores altos de último pase y oportunidades propias disfrutadas).
+                           - **C1**: Jugadores autosuficientes, siempre por el centro o en banda a pierna cambiada. Alta incidencia en area (valores altos de último pase y oportunidades propias disfrutadas).
+                           - **C2**: Extremo a pie natural, encarador y regateador. Alta tasa de centros en línea de fondo. Se incluyen carrileros que juegan muy alto.
                            - **C3**: Extremos inversos o mediapuntas con alto valor generado a través del pase y mucha participación en construcción. Algunos, acostumbrados a jugar en la posición de 10 o como interiores en 4-3-3.
                            """,
            'Full-Back':"""           
-                           - **C1**: Organizador desde la banda, menor intensidad defensiva pero en altura no elevada -no gana línea de fondo en ataque-. Mucha participación en salida y elaboración.
-                           - **C2**: Lateral a pie cambiado, incorporación al ataque hacia zonas interiores.
-                           - **C3**: Profundidad y centros, alta participación directa en la generación de ocasiones y menor participación en la construcción.
+                           - **C1**: Lateral a pie cambiado, incorporación al ataque hacia zonas interiores.
+                           - **C2**: Profundidad y centros, alta participación directa en la generación de ocasiones y menor participación en la construcción.
+                           - **C3**: Organizador desde la banda, menor intensidad defensiva pero en altura no elevada -no gana línea de fondo en ataque-. Mucha participación en salida y elaboración.
                            - **C4**: Perfil conservador. Menor tasa de centros, mayor volumen de actividad defensiva, poca llegada a zonas de último pase.
                            """,
            'Forward':"""
-                           - **C1**: Perfil de área, regateador en espacios cortos, menor movimiento sin balón, menor participación en posesión.
-                           - **C2**: Mayor influencia en la generación de oportunidades, propias y para sus compañeros. Nueve puro, móvil y autosuficiente.
-                           - **C3**: Más disputas aéreas y dominio del juego por alto, estático pero con participación en el juego -recibiendo de espaldas, ganando duelos que propician segunda jugada-.  
+                           - **C1**: Mayor influencia en la generación de oportunidades, propias y para sus compañeros. Nueve puro, móvil y autosuficiente.                
+                           - **C2**: Más disputas aéreas y dominio del juego por alto, estático pero con participación en el juego -recibiendo de espaldas, ganando duelos que propician segunda jugada-.
+                           - **C3**: Perfil de área, regateador en espacios cortos, menor movimiento sin balón, menor participación en posesión, rematador pero no dominador por alto. 
                            - **C4**: Más esfuerzo defensivo y participación en la elaboración, perfil segundo delantero. Cae a banda, regatea y genera para los demás. 
                            """}
             

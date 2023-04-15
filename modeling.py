@@ -72,9 +72,10 @@ def expanding_dfs():
     ## Porcentaje de partidos jugados respecto al máximo de la competición
     ## De Sustitución
     
-    gr_partidos = df_jug.groupby(by='league-id-instat',as_index=False)['Partidos jugados'].agg(['mean','max']).reset_index()
     df_jug = pd.merge(df_jug,df_equipos[['teamid','league-id-instat','league-instat']],
                                 how='left',on='teamid')
+    gr_partidos = df_jug.groupby(by='league-id-instat',as_index=False)['Partidos jugados'].agg(['mean','max']).reset_index()
+    
     df_jug = pd.merge(df_jug,gr_partidos[['league-id-instat','max']],how='left',on='league-id-instat')
     df_jug['PJ_maxleague'] = df_jug['Partidos jugados'] / df_jug['max']
     
@@ -161,8 +162,14 @@ def expanding_dfs():
         df_jug_clean['Posición'] = df_jug_clean['Posición'].str.replace(i, replace_dict[i], regex=True)
         
     dup = df_jug_clean[df_jug_clean.Nombre.duplicated(keep=False)]
-    df_jug_clean['Nombre'] = np.where(df_jug_clean.index.isin(list(dup.index)),df_jug_clean.Players,df_jug_clean.Nombre)
-    
+    if dup.shape[0]>0:
+        dup.to_excel(ruta_base+'/Datos/Modeled/Duplicados_fin.xlsx',index=False)
+        print('Revisar Nombres Duplicados')
+    #df_jug_clean['Nombre'] = np.where(df_jug_clean.index.isin(list(dup.index)),df_jug_clean.Players,df_jug_clean.Nombre)
+    df_jug_clean = df_jug_clean[~df_jug_clean.index.isin(list(dup.index))]
+    dup_ok = pd.read_excel(ruta_base+'/Datos/Modeled/Duplicados_fin_ok.xlsx')
+    if dup_ok.shape[0]>0:
+        df_jug_clean = pd.concat([df_jug_clean,dup_ok])
     df_jug_clean.to_csv(ruta_base+'/Datos/Modeled/jugadores.csv',sep=';',decimal=',',
                         index=False)
     df_equipos.to_csv(ruta_base+'/Datos/Modeled/equipos.csv',sep=';',decimal=',',
