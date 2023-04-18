@@ -528,31 +528,32 @@ col13.write("""#### Clusters de {} Explicados
             """.format(pose))
             
 dict_explicacion = {'Centre-Back':"""
-                                    - **C1**: Dominio de juego aéreo, más disputas defensivas, mayor capacidad de imponerse individualmente, menor participación con balón.
+                                    - **C1**: Mayor tendencia a realizar entradas -respecto al volumen total de acciones defensivas- y a salir fuera de zona -mayor índice de comisión de faltas-, menor propensión a medirse por alto.
                                     - **C2**: Menor propensión a duelos y a entradas, menos faltas, mayor participación con balón.
-                                    - **C3**: Mayor tendencia a realizar entradas y a salir fuera de zona -mayor índice de comisión de faltas-, menor propensión a medirse por alto.
+                                    - **C3**: Dominio de juego aéreo, más disputas defensivas, mayor capacidad de imponerse individualmente, menor participación con balón.
+                                   
                                     """,
            'Midfielder':"""
-                           - **C1**: Pivote, alto volumen de tareas defensivas, poca participación en tercio final, alta tasa de disputas y recepciones en la base de la jugada.
-                           - **C2**: Perfil más ofensivo, menos acciones defensivas, mayor participación en creación de oportunidades, caída a banda y recepciones cercanas al área.  
+                           - **C1**: Perfil más ofensivo, menos acciones defensivas, mayor participación en creación de oportunidades, caída a banda y recepciones cercanas al área. 
+                           - **C2**: Pivote, alto volumen de tareas defensivas, poca participación en tercio final, alta tasa de disputas y recepciones en la base de la jugada.
                            - **C3**: Perfil mixto y de amplio recorrido, con y sin balón. Organizadores itinerantes en equipos que aparecen para construir en distintas alturas y centrocampistas con alta capacidad de llegada a área para rematar.
                            """,
            'Att. Midfield-Winger':"""
-                           - **C1**: Jugadores autosuficientes, siempre por el centro o en banda a pierna cambiada. Alta incidencia en area (valores altos de último pase y oportunidades propias disfrutadas).
-                           - **C2**: Extremo a pie natural, encarador y regateador. Alta tasa de centros en línea de fondo. Se incluyen carrileros que juegan muy alto.
+                           - **C1**: Extremo a pie natural, encarador y regateador. Alta tasa de centros en línea de fondo. Se incluyen carrileros que juegan muy alto.
+                           - **C2**: Jugadores autosuficientes, siempre por el centro o en banda a pierna cambiada. Alta incidencia en area (valores altos de último pase y oportunidades propias disfrutadas).
                            - **C3**: Extremos inversos o mediapuntas con alto valor generado a través del pase y mucha participación en construcción. Algunos, acostumbrados a jugar en la posición de 10 o como interiores en 4-3-3.
                            """,
-           'Full-Back':"""           
-                           - **C1**: Lateral a pie cambiado, incorporación al ataque hacia zonas interiores.
-                           - **C2**: Profundidad y centros, alta participación directa en la generación de ocasiones y menor participación en la construcción.
-                           - **C3**: Organizador desde la banda, menor intensidad defensiva pero en altura no elevada -no gana línea de fondo en ataque-. Mucha participación en salida y elaboración.
+           'Full-Back':"""  
+                           - **C1**: Organizador desde la banda, menor intensidad defensiva pero en altura no elevada -no gana línea de fondo en ataque-. Mucha participación en salida y elaboración.
+                           - **C2**: Lateral a pie cambiado, incorporación al ataque hacia zonas interiores.
+                           - **C3**: Profundidad y centros, alta participación directa en la generación de ocasiones y menor participación en la construcción.
                            - **C4**: Perfil conservador. Menor tasa de centros, mayor volumen de actividad defensiva, poca llegada a zonas de último pase.
                            """,
-           'Forward':"""
-                           - **C1**: Mayor influencia en la generación de oportunidades, propias y para sus compañeros. Nueve puro, móvil y autosuficiente.                
-                           - **C2**: Más disputas aéreas y dominio del juego por alto, estático pero con participación en el juego -recibiendo de espaldas, ganando duelos que propician segunda jugada-.
-                           - **C3**: Perfil de área, regateador en espacios cortos, menor movimiento sin balón, menor participación en posesión, rematador pero no dominador por alto. 
-                           - **C4**: Más esfuerzo defensivo y participación en la elaboración, perfil segundo delantero. Cae a banda, regatea y genera para los demás. 
+           'Forward':"""     
+                           - **C1**: Perfil de área, regateador en espacios cortos, menor movimiento sin balón, menor participación en posesión, rematador pero no dominador por alto.
+                           - **C2**: Mayor influencia en la generación de oportunidades, propias y para sus compañeros. Nueve puro, móvil y autosuficiente. 
+                           - **C3**: Más disputas aéreas y dominio del juego por alto, estático pero con participación en el juego -recibiendo de espaldas, ganando duelos que propician segunda jugada-.
+                           - **C4**: Más esfuerzo defensivo y participación en la elaboración, perfil segundo delantero o punta muy móvil. Cae a banda, bien para participar del juego o para trazar desmarques hacia el área, regatea y genera para los demás. 
                            """}
             
 col13.write("""
