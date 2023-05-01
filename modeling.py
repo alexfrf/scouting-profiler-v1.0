@@ -199,5 +199,5 @@ def expanding_dfs():
     df_equipos.to_csv(ruta_base+'/Datos/Modeled/equipos.csv',sep=';',decimal=',',
                       index=False)
     
-expanding_dfs()
+#expanding_dfs()
 
