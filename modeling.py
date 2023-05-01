@@ -15,6 +15,7 @@ import modeling_functions as mf
 from pandas.api.types import is_numeric_dtype
 import warnings
 from sklearn.preprocessing import OneHotEncoder
+from scipy.stats import percentileofscore
 
 
 warnings.filterwarnings('ignore')
@@ -58,10 +59,27 @@ def outlier_iqr(df, whis=1.5,columna_evaluar='score', columna_resultado='outlier
     
 
 
-
+def calculate_performance(position,data_player):
+    pos = position
+    pos2 = pos.replace('/','')
+    var = pd.read_csv('Datos/Modeled/{}_Performance.csv'.format(pos2),sep=';',decimal=',')
+    categories = list(var[pos])
+    #categories = pos_dict[pos]
+    pcts = data_player[data_player.PosE==pos]
+    pcts = pcts[categories]
+    
+    for i in categories:
+        pcts[i] = pcts[i].apply(lambda x: percentileofscore(pcts[i],x, kind='strict'))
+        pcts[i] = pcts[i].apply(lambda x:round(x,2))
+    pcts['Performance'] = round(pcts.mean(axis=1),2)
+    pcts = pd.merge(pcts,data_player[['ID']],how='left',left_index=True,right_index=True)
+    
+    return pcts[['ID','Performance']]
 
 # Empezamos filtrando el dataset de jugadores, eliminando todos aquellos que 
 ## no alcancen un mínimo de tiempo disputado.
+
+
 
 def expanding_dfs():
     df_jug = pd.read_excel(ruta_datos+'/datos_jugadores_instat.xlsx')
@@ -170,9 +188,16 @@ def expanding_dfs():
     dup_ok = pd.read_excel(ruta_base+'/Datos/Modeled/Duplicados_fin_ok.xlsx')
     if dup_ok.shape[0]>0:
         df_jug_clean = pd.concat([df_jug_clean,dup_ok])
+        
+    pcts_df = pd.DataFrame()    
+    for i in list(df_jug_clean.PosE.unique()):
+        pcts = calculate_performance(i,df_jug_clean)
+        pcts_df = pd.concat([pcts_df,pcts])
+    df_jug_clean = pd.merge(df_jug_clean,pcts_df,how='left',on='ID')   
     df_jug_clean.to_csv(ruta_base+'/Datos/Modeled/jugadores.csv',sep=';',decimal=',',
                         index=False)
     df_equipos.to_csv(ruta_base+'/Datos/Modeled/equipos.csv',sep=';',decimal=',',
                       index=False)
     
-#expanding_dfs()
+expanding_dfs()
+

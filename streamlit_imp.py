@@ -19,6 +19,7 @@ from clustering_functions import isna_check
 from clustering_functions import cbs,mid,attm,flb,fwd,pos_dict
 from Players_plotting import sradar,radar_comp,plot_percentiles
 import math
+from scipy.stats import percentileofscore
 
 scaler = MinMaxScaler()
 
@@ -100,7 +101,7 @@ selected_age = st.sidebar.slider('Edad', int(players_df.Edad.min()),int(players_
 select_pierna = st.sidebar.multiselect(
         "Pierna Buena",
         list(players_df.Pierna.unique()[:3]),list(players_df.Pierna.unique()[:3]))
-selected_instat = st.sidebar.slider('Índice InStat', int(players_df['Índice InStat'].min()),int(players_df['Índice InStat'].max()),int(players_df['Índice InStat'].min()))
+selected_instat = st.sidebar.slider('Performance Index', 0,100,20)
 
 st.write("""
          ***
@@ -112,7 +113,7 @@ st.markdown("""
 
 col2, col3 = st.columns([1,1])  
 
-@st.cache(allow_output_mutation=True)
+@st.cache_resource
 def get_features(position):
     pose = players_df[players_df['Posición']==position].PosE.values[0]
     pose = pose.replace('/','-')
@@ -121,7 +122,7 @@ def get_features(position):
     
     return features
 
-@st.cache(allow_output_mutation=True)
+@st.cache_resource
 def player_similarities(p, data):
     np.random.seed(4)
     pos = data[data['Nombre']==p].PosE.values[0]
@@ -162,8 +163,10 @@ def player_similarities(p, data):
     #simil = simil[simil.Nombre.str.title()!=player_name.title()]
     if name2[0] == 'L':
         simil = simil[simil['Posición']==name2]
-        
-    simil = simil.sort_values(by='Similarity_Score',ascending=True)
+    
+    simil['Similarity_Score'] = simil['Similarity_Score'].apply(lambda x: 100-percentileofscore(simil['Similarity_Score'],x, kind='strict'))
+    simil['Similarity_Score'] = simil['Similarity_Score'].apply(lambda x:round(x,2))
+    simil = simil.sort_values(by='Similarity_Score',ascending=False)
     simil = pd.merge(simil,data[['ID','Nombre']],how='left',on='ID')
     simil = simil[simil.Nombre!=p]
     simil = simil.set_index('Nombre')
@@ -171,10 +174,10 @@ def player_similarities(p, data):
 
 
 
-    return simil
+    return simil    
 
 
-@st.cache(allow_output_mutation=True)
+@st.cache_resource
 def team_mapping(team,position, data_team, data_player, cats):
     pos = data_player[data_player['Posición']==position].PosE.values[0]
     pos2 = pos.replace('/','-')
@@ -230,7 +233,7 @@ def team_mapping(team,position, data_team, data_player, cats):
     #y.drop('cluster',axis=1,inplace=True)
     reduced = reduced.head(data_pos.shape[0])
     data_pos = pd.merge(data_pos,players[['cluster','Nombre']],how='left',on='Nombre')
-    reduced = pd.merge(reduced,data_pos[['Nombre','ID','Posición','teamid','Índice InStat','Values','Edad','Pierna','Equipo','Nacionalidad','cluster']],how='left',left_index=True,right_index=True)
+    reduced = pd.merge(reduced,data_pos[['Nombre','ID','Posición','teamid','Performance','Values','Edad','Pierna','Equipo','Nacionalidad','cluster']],how='left',left_index=True,right_index=True)
     #reduced['idx'] = reduced['idx'].fillna('{}-{}'.format(team,position))
     #reduced['Player'] = reduced['Player'].fillna('{}-{}'.format(team,position))
     if position[0]=='E':
@@ -240,14 +243,14 @@ def team_mapping(team,position, data_team, data_player, cats):
     pl = list(reduced.Nombre)
     idx = list(reduced.ID)
     sq = list(reduced.teamid)
-    pw = list(reduced['Índice InStat'])
+    pw = list(reduced['Performance'])
     vl=list(reduced.Values)
     ag=list(reduced.Edad)
     ft=list(reduced.Pierna)
     cl = list(reduced.cluster)
     eq = list(reduced.Equipo)
     nc = list(reduced.Nacionalidad)
-    reduced.drop(['Nombre','ID','Posición','teamid','Índice InStat','Values','Edad','Pierna','Equipo','Nacionalidad','cluster'],inplace=True,axis=1)
+    reduced.drop(['Nombre','ID','Posición','teamid','Performance','Values','Edad','Pierna','Equipo','Nacionalidad','cluster'],inplace=True,axis=1)
     euc = []
     for i in reduced.values:
         euc.append(euclidean_distances(np.array(y),[i])[0][0])
@@ -256,15 +259,19 @@ def team_mapping(team,position, data_team, data_player, cats):
     simil = simil.sort_values(by='Team_Similarity_Index',ascending=True)
 
     simil = simil.reset_index()
-    simil.columns = ['Nombre','ID','teamid','Edad','Pierna','Values','Índice InStat','Equipo','Nacionalidad','cluster','Team_Similarity_Index']
+    simil.columns = ['Nombre','ID','teamid','Edad','Pierna','Values','Performance','Equipo','Nacionalidad','cluster','Team_Similarity_Index']
     
     simil['Team_Similarity_Index'] = ((simil.Team_Similarity_Index - simil.Team_Similarity_Index.mean()) / simil.Team_Similarity_Index.std())
     #simil = simil[simil['Team_Similarity_Index']!=0]
     simil['Team_Similarity_Index'] = simil['Team_Similarity_Index'] + math.ceil(abs(simil.Team_Similarity_Index.min()))
     simil['Team_Similarity_Index'] = round(simil['Team_Similarity_Index'],3)
+    maxs = simil['Team_Similarity_Index'].values[0]
+    #simil['Team_Similarity_Index'] = simil['Team_Similarity_Index'].apply(lambda x: 100-maxs-percentileofscore(simil['Team_Similarity_Index'],x, kind='strict'))
+    #simil['Team_Similarity_Index'] = simil['Team_Similarity_Index'].apply(lambda x:round(x,2))
+    
     simil['Values'] = round(simil.Values,0).astype(int)
     simil['Edad'] = simil.Edad.astype(int)
-    simil['Índice InStat'] = simil['Índice InStat'].astype(int)
+    #simil['Índice InStat'] = simil['Índice InStat'].astype(int)
     simil['Nacionalidad'] = simil.Nacionalidad.apply(lambda x: x.split(',')[0].strip())
     
     s = pd.DataFrame(simil['Team_Similarity_Index'].describe()).T
@@ -290,9 +297,9 @@ for i in select_league:
 select_team_l = st.sidebar.multiselect('Equipo',teams,teams)
 
 df = df[(df.Equipo.isin(select_team_l))]
-df = df[(df.Edad<=selected_age) & (df.Values<=selected_value) & (df['Índice InStat']>=selected_instat) & (df.Pierna.isin(select_pierna))]
+df = df[(df.Edad<=selected_age) & (df.Values<=selected_value) & (df['Performance']>=selected_instat) & (df.Pierna.isin(select_pierna))]
 
-cols = ['Nombre','Equipo','Nacionalidad','Edad','Values','Team_Similarity_Index','Índice InStat','cluster']
+cols = ['Nombre','Equipo','Nacionalidad','Edad','Values','Team_Similarity_Index','Performance','cluster']
 
 plf = players_df[(players_df['Posición']==option)]
 #kdf1 = plf[plf.ID==df.head(1).ID.values[0]]
@@ -301,10 +308,8 @@ plf = players_df[(players_df['Posición']==option)]
 #kdf = pd.merge(kdf,df[['ID','Team_Similarity_Index']],how='left',on='ID')
 plf = pd.merge(plf,clu[['cluster','Nombre']],how='left',on='Nombre')
 #kdf = kdf.sort_values(by='Team_Similarity_Index',ascending=True)
-
 df = df[cols]
-df.rename({'Índice InStat':'IDX',
-           'Values':'Valor',
+df.rename({'Values':'Valor',
            'Team_Similarity_Index':'Similarity',
            'cluster':'Cluster_Jugador'},
           inplace=True,axis=1)
@@ -401,7 +406,7 @@ col10.pyplot(radar_comp(select_pl1,select_pl2))
 
 ps = player_similarities(select_pl, players_df)
 #ps = ps.set_index('Nombre')
-col11.dataframe(plf[plf.index.isin([select_pl1,select_pl2])][['Índice InStat','Cluster_Jugador']])
+col11.dataframe(plf[plf.index.isin([select_pl1,select_pl2])][['Performance','Cluster_Jugador']])
 
 col11.markdown('**Jugadores similares a {}**'.format(select_pl))
 
@@ -518,11 +523,11 @@ col12.metric("Media de Puntos Esperados para el Cluster Seleccionado",
 
 
 
-players_df = players_df.sort_values(by='Índice InStat', ascending=False)
+players_df = players_df.sort_values(by='Performance', ascending=False)
 players_clus = pd.merge(players_df,clu,how='left',on='Nombre')   
 players_clus = players_clus[players_clus.cluster.isna()!=True] 
 players_clus = players_clus.set_index('Nombre')
-players_clus.rename({'Índice InStat':'IDX',
+players_clus.rename({'Performance':'IDX',
                      'Values':'Valor'},axis=1,inplace=True)
 col13.write("""#### Clusters de {} Explicados
             """.format(pose))
