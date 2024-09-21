@@ -4,14 +4,13 @@
 
 [Portfolio](https://alexfrf.github.io/) | [GitHub Repo](https://github.com/alexfrf/scouting-profiler)
 
-- **Disclaimer 1: Both data and the app itself are written in Spanish**
-- **Disclaimer 2: This model, including the app build-up, is entirely written in Python. You can check the code line by line directly on the repo.**
+- **Disclaimer: This model, including the app build-up, is entirely written in Python. You can check the code line by line directly on the repo.**
 
 
 The purpose of this text is to describe a project for planning, developing, conceptualizing, and subsequently deploying a web application that visualizes a model for segmenting the characteristics of players in the world's most important football competitions according to advanced metrics. By segmenting the game model of teams, the application aims to associate the footballers who best fit into their system for each position on the field. The goal is to add the variant of the team's style of play, both their own and others, by measuring and quantifying it to find those players who are closest, based on advanced metrics, to the numbers of the team being analyzed. These footballers will potentially best suit the needs for which the team goes to the market, as they will require a shorter adaptation process and will know similar game mechanisms since they come from teams that show tactical similarities.
 
 
-**App built and shared via Streamlit | [LINK](https://alexfrf-mlscoutingprofiler.streamlit.app/)**
+**App built and shared via Streamlit | [LINK](https://scouting-profiler-en.streamlit.app/)**
 
 ![png](/Documentacion/streamlit.png)
 
@@ -23,8 +22,8 @@ The purpose of this text is to describe a project for planning, developing, conc
 In the following lines, we will explain the technical procedures that were carried out, from the extraction of the necessary data to the deployment of the application in the Streamlit cloud. We will also detail the scripts and functions used in each step. The structure of this explanation is as follows:
 
 - **SOURCE DATA: Content and Treatment (Extraction, Import and Transformation)**
-     - Instant Data
-     - Transfermark data
+     - WYSCOUT Data
+     - Transfermarkt data
      - Cleaning and treatment of tables + auxiliary functions
      
           
